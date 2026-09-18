@@ -1,0 +1,16 @@
+aiogram>=3.15,<4
+fastapi>=0.115
+uvicorn[standard]>=0.32
+sqlalchemy[asyncio]>=2.0.36
+asyncpg>=0.30
+aiosqlite>=0.20
+alembic>=1.14
+pydantic-settings>=2.6
+pytest>=8.3
+pytest-asyncio>=0.24
+ruff>=0.8
+mypy>=1.13
+jinja2>=3.1
+python-multipart>=0.0.9
+gigachat>=0.1
+numpy>=1.26
