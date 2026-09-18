@@ -1,0 +1,485 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        2522,
+        6518
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [
+        7295
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        55677
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        6976
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка с принтом",
+      "color": "серый",
+      "search_query": "футболка принт серого цвета",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "принт"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "куртка синяя спортивная",
+      "color": "синий",
+      "search_query": "спортивная куртка синего цвета",
+      "type": "куртка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки леопардовые",
+      "color": "коричневый",
+      "search_query": "брюки леопардовые",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "леопард"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли голубые",
+      "color": "голубой",
+      "search_query": "туфли голубого цвета",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумочка красная",
+      "color": "красный",
+      "search_query": "сумочка красного цвета",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 2522,
+        "title": "Футболка прямая хлопковая с принтом",
+        "store": "befree",
+        "color": "серый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120020/BF2631120020_33_1.jpg"
+      },
+      {
+        "id": 3634,
+        "title": "Футболка свободная с мультяшным принтом",
+        "store": "befree",
+        "color": "серый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120036pl/BF2631120036pl_35_1.jpg"
+      },
+      {
+        "id": 3657,
+        "title": "Футболка оверсайз хлопковая с принтом",
+        "store": "befree",
+        "color": "серый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120029pl/BF2631120029pl_35_1.jpg"
+      },
+      {
+        "id": 4643,
+        "title": "Футболка оверсайз хлопковая с принтом",
+        "store": "befree",
+        "color": "серый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120029/BF2631120029_35_1.jpg"
+      },
+      {
+        "id": 4937,
+        "title": "Футболка свободная с мультяшным принтом",
+        "store": "befree",
+        "color": "серый",
+        "price": 1799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120036/BF2631120036_35_1.jpg"
+      },
+      {
+        "id": 5315,
+        "title": "Футболка свободная с лампасами и принтом",
+        "store": "befree",
+        "color": "серый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632120015/BF2632120015_35_1.jpg"
+      },
+      {
+        "id": 6055,
+        "title": "Футболка облегающая вареная с принтом",
+        "store": "befree",
+        "color": "серый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642120007/BF2642120007_35_1.jpg"
+      },
+      {
+        "id": 6518,
+        "title": "Футболка приталенная с принтом",
+        "store": "befree",
+        "color": "серый",
+        "price": 1299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642120004MEL/BF2642120004MEL_38_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 102,
+        "title": "Куртка oversize силуэта с капюшоном",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 19999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/101/FWF11048_101_20.jpg"
+      },
+      {
+        "id": 291,
+        "title": "Куртка с водоотталкивающей пропиткой и искусственным утеплителем",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 9999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/101/BAS-100218_101_20.jpg"
+      },
+      {
+        "id": 7295,
+        "title": "Ветровка оверсайз спортивная с лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 4599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631701004/BF2631701004_40_1.jpg"
+      },
+      {
+        "id": 58629,
+        "title": "Куртка из экокожи Trussardi junior",
+        "store": "tsum",
+        "color": "синий",
+        "price": 14850,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/e5b97dc91ec1e28eda270210297ce58a/height/808/i/c1/43/f1/e1/fa14ac14-24a1-4873-ac37-9df448c5c942.jpg"
+      },
+      {
+        "id": 92529,
+        "title": "Женская куртка Extreme Pile Printed Full-Zip Jacket",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 10999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7e6/dz7g3w48h4f8zl74hi6fi5xd6xllbu66.jpg"
+      },
+      {
+        "id": 105981,
+        "title": "Женская куртка Nylon Jacket",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 11799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/de7/meaqfxso9jvslfcseeowpx9fqnhvv54d.jpg"
+      },
+      {
+        "id": 133079,
+        "title": "Женская куртка Saikuru Jacket",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 18299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/fb1/07z51aazuxc0ab8h59a4jznkf70cu6ti.jpg"
+      },
+      {
+        "id": 135601,
+        "title": "Куртка для беговых лыж женская Ziener Nahla, Синий",
+        "store": "sportmaster",
+        "color": "синий",
+        "price": 14999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/3a2/134522900299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2213,
+        "title": "Брюки багги с ремнем",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108006/BF2631108006_27_1.jpg"
+      },
+      {
+        "id": 2434,
+        "title": "Брюки-баллоны со средней посадкой на резинке утепленные",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641108006/BF2641108006_27_1.jpg"
+      },
+      {
+        "id": 3339,
+        "title": "Брюки-баллоны из футера на резинке",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108009pl/BF2631108009pl_20_1.jpg"
+      },
+      {
+        "id": 3707,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034/BF2631308034_20_1.jpg"
+      },
+      {
+        "id": 3710,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034PL/BF2631308034PL_20_1.jpg"
+      },
+      {
+        "id": 3735,
+        "title": "Брюки клеш велюровые с низкой посадкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308006/BF2641308006_22_100.jpg"
+      },
+      {
+        "id": 4540,
+        "title": "Брюки-баллоны со средней посадкой на резинке утепленные",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641108006pl/BF2641108006pl_27_100.jpg"
+      },
+      {
+        "id": 4626,
+        "title": "Брюки-джоггеры из футера на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108007/BF2631108007_27_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55677,
+        "title": "Текстильные туфли Anitta Gedebe",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 31950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/f869df7c0434b6a7ed24d5387f61f41e/height/808/i/79/ec/61/29/cfbf98e0-ba18-4019-8986-2240a9002587.jpg"
+      },
+      {
+        "id": 55679,
+        "title": "Текстильные туфли Stella Gedebe",
+        "store": "tsum",
+        "color": "синий",
+        "price": 39950,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/64619790afef015ab0a431ba999d8324/height/808/i/ab/6e/74/45/94c61871-2cd6-41d8-a1d9-1108da664e17.jpg"
+      },
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      },
+      {
+        "id": 10336,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 11999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870025_50.jpg"
+      },
+      {
+        "id": 10583,
+        "title": "Туфли-лодочки из атласа",
+        "store": "loverepublic",
+        "color": null,
+        "price": 5999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/54427/thumb/300_9999/544270035_90.jpg"
+      },
+      {
+        "id": 54961,
+        "title": "Кожаные туфли Strut Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 19950,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/f6fd8d2f6946edb6279ab9960290c3fc/height/808/i/d1/04/a8/c4/12e31ed1-f374-42dd-95ee-835985047531.jpg"
+      },
+      {
+        "id": 55013,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14850,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/71898f8f7ce5612f7a4874f40114c40b/height/808/i/78/f2/91/3b/519dc7c8-a7b5-427c-b844-47c6cd42cca6.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4507,
+        "title": "Сумка из искусственной кожи с заклепками и замком",
+        "store": "befree",
+        "color": "красный",
+        "price": 3599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457053/BF2635457053_70_11.jpg"
+      },
+      {
+        "id": 6653,
+        "title": "Сумка женская",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645457013/BF2645457013_70_1.jpg"
+      },
+      {
+        "id": 6976,
+        "title": "Сумка через плечо каркасная из искусственной кожи с карабином",
+        "store": "befree",
+        "color": "красный",
+        "price": 2299,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457077/BF2635457077_70_12.jpg"
+      },
+      {
+        "id": 93922,
+        "title": "Сумка на пояс PUMA FERRARI Waist Bag",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 4499,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/908/2srkkiautuhpowx19xipizhlulk3rige.jpg"
+      },
+      {
+        "id": 132660,
+        "title": "Поясная сумка ACTIVE SLING BELT",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 4599,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/ad7/ye7jum770ut36zurvhzpcxt1peoy5iyt.jpg"
+      },
+      {
+        "id": 138577,
+        "title": "Сумка на пояс Tatonka Funny M, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 2099,
+        "score": 0.8182,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/21d/156354740299.jpg"
+      },
+      {
+        "id": 138810,
+        "title": "Сумка-шоппер женская PUMA, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 4999,
+        "score": 0.8182,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2c3/195310370299.jpg"
+      },
+      {
+        "id": 139681,
+        "title": "Сумка женская adidas, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 5299,
+        "score": 0.8182,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/02c/195311010299.jpg"
+      }
+    ]
+  ]
+}

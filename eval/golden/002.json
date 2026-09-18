@@ -1,0 +1,490 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка в стиле casual.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [
+        4462,
+        7917
+      ],
+      "acceptable": [
+        1908,
+        5620
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        168,
+        7484,
+        6355
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        1967,
+        710
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка в полоску",
+      "color": "розовый",
+      "search_query": "рубашка полосатая розовая",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "синий",
+      "search_query": "брюки широкие синие",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка плетеная",
+      "color": "бежевый",
+      "search_query": "сумка плетеная бежевая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки круглые",
+      "color": "золотой",
+      "search_query": "очки круглые золотые",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1908,
+        "title": "Рубашка прямая из жатого хлопка в полоску",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418087/BF2631418087_95_1.jpg"
+      },
+      {
+        "id": 155926,
+        "title": "Пижамная рубашка в полоску, Розовый",
+        "store": "ostin",
+        "color": "розовый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/8ea/500_600_aed5/172044850299.jpg"
+      },
+      {
+        "id": 4462,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042/BF2631418042_95_1.jpg"
+      },
+      {
+        "id": 7917,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042pl/BF2631418042pl_95_1.jpg"
+      },
+      {
+        "id": 5620,
+        "title": "Рубашка домашняя в полоску двухцветная",
+        "store": "befree",
+        "color": "красный",
+        "price": 1999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631818012/BF2631818012_75_1.jpg"
+      },
+      {
+        "id": 55054,
+        "title": "Хлопковая рубашка Forte Dei Marmi Couture",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 13150,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/1e66608f4e58583a4636d506b73a7d4d/height/808/i/4b/63/be/1a/905f83dd-dc87-4299-bbe9-e6578d60e248.jpg"
+      },
+      {
+        "id": 56420,
+        "title": "Рубашка из вискозы и шелка BOSS Orange",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 11900,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/7d74ad10730abe5841c6bfdd933e10d5/height/808/i/dd/7c/13/66/28fd50cb-e7dd-46ae-a90c-cd7f522dd011.jpg"
+      },
+      {
+        "id": 56447,
+        "title": "Атласная рубашка Filles A Papa",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 13150,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/d37512d4cb078857e68821659e401cfd/height/808/i/f8/ff/76/3c/f8ff763c-9fbc-37c2-9989-5f3bf1df174f.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4635,
+        "title": "Брюки широкие утепленные с вышивкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108006/BF2632108006_47_1.jpg"
+      },
+      {
+        "id": 6355,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_47_1.jpg"
+      },
+      {
+        "id": 7484,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_47_1.jpg"
+      },
+      {
+        "id": 8175,
+        "title": "Брюки широкие с высокой посадкой и имитацией второго слоя",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108003/BF2632108003_47_1.jpg"
+      },
+      {
+        "id": 168,
+        "title": "Трикотажные брюки с шерстью",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 6499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/101/FAF11126_101_20.jpg"
+      },
+      {
+        "id": 5888,
+        "title": "Брюки широкие на завязках",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308040/BF2621308040_41_1.jpg"
+      },
+      {
+        "id": 6219,
+        "title": "Брюки широкие хлопковые на завязках с вышивкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1599,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308008/BF2621308008_98_1.jpg"
+      },
+      {
+        "id": 6332,
+        "title": "Брюки широкие домашние на завязках из вискозы",
+        "store": "befree",
+        "color": "фиолетовый",
+        "price": 2599,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808008/BF2631808008_83_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 87339,
+        "title": "Женские кроссовки Shox R4",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/829/1kdn0ph71sdpvb4dxllxk7u8xuhwwj12.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87512,
+        "title": "Женские кроссовки PWR Hybrid Training",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/996/82zgkob37ioopsj6cyqsxoj0gt0bazbg.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87701,
+        "title": "Женские кроссовки Air Zoom Pegasus 41",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/0e1/xe3i1v8p3s9i603bjsn1bblc9vmx99nx.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87736,
+        "title": "Женские кроссовки PUMA CA Flyz",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/715/aon4e1ewoyestvns3llqbx40untua3mq.jpg"
+      },
+      {
+        "id": 87964,
+        "title": "Женские кроссовки Cali Dream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/546/0q64eb1fu7q9tpvyba3jjczd6jouecyl.jpg"
+      }
+    ],
+    [
+      {
+        "id": 710,
+        "title": "Плетеная сумка из рафии",
+        "store": "finnflare",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/630/FSG11200_630_30.jpg"
+      },
+      {
+        "id": 1967,
+        "title": "Сумка-багет через плечо замшевая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457027/BF2635457027_62_1.jpeg"
+      },
+      {
+        "id": 2204,
+        "title": "Сумка-хобо из деревянных бусин",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2625457048/BF2625457048_62_1.jpg"
+      },
+      {
+        "id": 6839,
+        "title": "Сумка-кисет с бахромой",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457082/BF2635457082_62_11.jpg"
+      },
+      {
+        "id": 6969,
+        "title": "Сумка-мешок из искусственной замши",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457067/BF2635457067_62_13.jpg"
+      },
+      {
+        "id": 91745,
+        "title": "Сумка через плечо Hot Shot Crossbody Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/957/1000_1000_0/bz4rndmxci2fv7lrxflz4g0fls8hxknh.jpg"
+      },
+      {
+        "id": 93912,
+        "title": "Сумка через плечо PUMA HER Half Moon Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4a6/ekolveyxg20x5sthw5l6zmu6p7wku9cb.jpg"
+      },
+      {
+        "id": 103784,
+        "title": "Сумка Essentials Tote Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/e34/1000_1000_0/a6c5n09gqww7qvy9vsts0rq3wy77b4bt.jpg"
+      }
+    ],
+    [
+      {
+        "id": 158306,
+        "title": "Солнцезащитные очки, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.8333,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/8e4/500_600_b65b/186590890299.jpg"
+      },
+      {
+        "id": 158308,
+        "title": "Солнцезащитные очки, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 1399,
+        "score": 0.8333,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/456/500_600_2386/186279190299.jpg"
+      },
+      {
+        "id": 158382,
+        "title": "Солнцезащитные очки, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 1399,
+        "score": 0.8333,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/2c7/500_600_8c37/186279700299.jpg"
+      },
+      {
+        "id": 155889,
+        "title": "Пояс-цепь с декоративными подвесками, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/81e/500_600_b149/173711150299.jpg"
+      },
+      {
+        "id": 157521,
+        "title": "Серьги-пусеты, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cda/500_600_7031/186269640299.jpg"
+      },
+      {
+        "id": 158062,
+        "title": "Серьги с искусственным камнем, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/024/500_600_dbf8/176216140299.jpg"
+      },
+      {
+        "id": 158349,
+        "title": "Серьги-пусеты с жемчугом и кораллами, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/421/500_600_451f/186370800299.jpg"
+      },
+      {
+        "id": 158352,
+        "title": "Серьги, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/c8a/500_600_cebc/186590600299.jpg"
+      }
+    ]
+  ]
+}

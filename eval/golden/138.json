@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городской шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ без бретелей",
+      "color": "черный",
+      "search_query": "топ черный без бретелей",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "бежевый",
+      "search_query": "брюки широкие бежевые",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": "мини",
+      "sleeve": null,
+      "fit": "низкая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли лодочки",
+      "color": "коричневый",
+      "search_query": "туфли лодочки коричневые",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "серебристый",
+      "search_query": "сумка серебристая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 2428,
+        "title": "Бюстгальтер-топ без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830005/BF2644830005_50_1.jpg"
+      },
+      {
+        "id": 4520,
+        "title": "Бюстгальтер-топ бесшовный в рубчик без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 1799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830001/BF2644830001_50_100.jpg"
+      },
+      {
+        "id": 6087,
+        "title": "Бюстгальтер-топ без косточек на широких бретелях",
+        "store": "befree",
+        "color": "черный",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830076/BF2634830076_50_1.jpg"
+      },
+      {
+        "id": 7044,
+        "title": "Бюстгальтер-топ ажурный с кружевом без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830028/BF2634830028_55_1.jpg"
+      },
+      {
+        "id": 8388,
+        "title": "Бюстгальтер-топ в рубчик без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 1299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830065/BF2634830065_50_1.jpg"
+      },
+      {
+        "id": 1655,
+        "title": "Топ-халтер облегающий с бусинами",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121025/BF2621121025_50_1.jpg"
+      },
+      {
+        "id": 1704,
+        "title": "Майка-топ хлопковая в рубчик с вышитым кантом",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121026/BF2621121026_50_1.jpg"
+      },
+      {
+        "id": 1721,
+        "title": "Топ-халтер облегающий на завязках",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121006/BF2631121006_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2630,
+        "title": "Брюки широкие из тенсела на завязках с кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308025/BF2621308025_62_1.jpg"
+      },
+      {
+        "id": 4956,
+        "title": "Брюки широкие костюмные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308001/BF2641308001_64_100.jpg"
+      },
+      {
+        "id": 5970,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_61_1.jpg"
+      },
+      {
+        "id": 6357,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_61_1.jpg"
+      },
+      {
+        "id": 2449,
+        "title": "Брюки-баллоны трикотажные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641108004/BF2641108004_36_100.jpg"
+      },
+      {
+        "id": 3211,
+        "title": "Брюки-джоггеры вязаные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631508001/BF2631508001_36_1.jpg"
+      },
+      {
+        "id": 3851,
+        "title": "Брюки-прямые со средней посадкой на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308059/BF2631308059_65_1.jpg"
+      },
+      {
+        "id": 4646,
+        "title": "Брюки спортивные с лампасами на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708006/BF2631708006_62_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4927,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_20_11.jpg"
+      },
+      {
+        "id": 159681,
+        "title": "Сатиновые туфли-лодочки, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cd6/500_600_f7b2/172369780299.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_20_11.jpg"
+      },
+      {
+        "id": 1807,
+        "title": "Туфли на танкетке лаковые из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682008/BF2636682008_20_2.jpg"
+      },
+      {
+        "id": 3077,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_20_1.jpg"
+      },
+      {
+        "id": 6663,
+        "title": "Туфли с перемычкой между пальцами из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688019/BF2626688019_20_11.jpg"
+      },
+      {
+        "id": 8191,
+        "title": "Туфли-мюли с открытым носом и декором из бусин",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683008/BF2626683008_20_3.jpg"
+      },
+      {
+        "id": 55680,
+        "title": "Туфли Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 44750,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/b628faed6cf37d59bcc27158286ae38c/height/808/i/ff/56/3a/0d/f8a19cba-a71e-4ca3-a1bd-059d285376d1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 6979,
+        "title": "Сумка через плечо из искусственной замши с декором",
+        "store": "befree",
+        "color": "серый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457078/BF2635457078_32_1.jpg"
+      },
+      {
+        "id": 82371,
+        "title": "Сумка-тоут через плечо спортивная",
+        "store": "befree",
+        "color": "серый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457052/BF2635457052_32_1.jpg"
+      },
+      {
+        "id": 88512,
+        "title": "Сумка через плечо LOWDOWN Messenger",
+        "store": "street-beat",
+        "color": "серый",
+        "price": 4799,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/27b/1000_1000_0/meur2h499pfdprdhbb24ij0zunpxp0qz.jpg"
+      },
+      {
+        "id": 90898,
+        "title": "Сумка через плечо Shoulder Bag",
+        "store": "street-beat",
+        "color": "серый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e99/xz1f759ttjhfyliwx989v996hef41bif.jpg"
+      },
+      {
+        "id": 91768,
+        "title": "Сумка через плечо Glen Canyon Sling",
+        "store": "street-beat",
+        "color": "серый",
+        "price": 7599,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/673/1000_1000_0/c7dgmkdizi1nyfx2su3f4h9f3501tbr3.jpg"
+      },
+      {
+        "id": 93923,
+        "title": "Сумка через плечо PUMA Buzz Messenger",
+        "store": "street-beat",
+        "color": "серый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/5f3/ov9z0k6ulud72fws289hjisegf7anh3c.jpg"
+      },
+      {
+        "id": 100690,
+        "title": "Сумка через плечо Jester Crossbody",
+        "store": "street-beat",
+        "color": "серый",
+        "price": 3299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/825/mqlc5bh6vxtofmg0slf42qkwt9kl1a8g.jpg"
+      },
+      {
+        "id": 117306,
+        "title": "Сумка через плечо Caley Sacoche Bag",
+        "store": "street-beat",
+        "color": "серый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/68f/1000_1000_0/rgl8tfltveoazwctuedntwq897mz5w97.jpg"
+      }
+    ]
+  ]
+}

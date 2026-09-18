@@ -1,0 +1,481 @@
+{
+  "gender": "men",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        4942,
+        5453
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка классическая голубая",
+      "color": "голубой",
+      "search_query": "рубашка классическая голубая",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "шорты чинос белые",
+      "color": "белый",
+      "search_query": "шорты чинос белые",
+      "type": "шорты",
+      "silhouette": "приталенный",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "бейсболка черная",
+      "color": "черный",
+      "search_query": "бейсболка черная",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо черная",
+      "color": "черный",
+      "search_query": "сумка через плечо черная",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 55019,
+        "title": "Хлопковая рубашка Trussardi junior",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 4640,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/ee958fbced4e2cc66f06f349ac010f88/height/808/i/d8/4e/83/fb/4ff9f8b9-e856-4372-962b-a1f67d2f6b23.jpg"
+      },
+      {
+        "id": 61236,
+        "title": "Хлопковая рубашка Members of the rage",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 17100,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/df1a172a5d14a8dd2875cc179b5fdf42/height/808/i/a6/f9/09/ca/a6f909ca-2396-36de-be8a-eab02ba7df5f.jpg"
+      },
+      {
+        "id": 62029,
+        "title": "Хлопковая рубашка Aspesi",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 15400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b5ff50a1b10d48e5d8c4f80c18ea8595/height/808/i/05/56/1f/78/eec89b5b-f9a9-4d1c-9db3-70c85c156591.jpg"
+      },
+      {
+        "id": 62241,
+        "title": "Хлопковая рубашка Sonrisa",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 6995,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3f3cc420eace80bd58ada2a3b7b9d96b/height/808/i/a4/67/9e/90/50f343d8-6929-49bd-87c1-145fcc63ce5b.jpg"
+      },
+      {
+        "id": 86186,
+        "title": "Хлопковая рубашка Harmont & Blaine",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 9480,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/dd4d1794617667d9f2d381102a53bfe7/height/808/i/bb/a9/af/ad/35f930da-74d2-4ecc-9c96-544d629158a0.jpg"
+      },
+      {
+        "id": 94983,
+        "title": "Мужская рубашка Gallatin Shirt Long Sleeve",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 9199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/803/rg37z0w9rnf3xkfeumzzzdn3knletk06.jpg"
+      },
+      {
+        "id": 2138,
+        "title": "Рубашка в полоску с принтом-имитацией галстука",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633117022/BF2633117022_41_1.jpg"
+      },
+      {
+        "id": 4864,
+        "title": "Рубашка в полоску с галстуком",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633117021/BF2633117021_41_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 56337,
+        "title": "Хлопковые шорты Roberto Cavalli",
+        "store": "tsum",
+        "color": "белый",
+        "price": 6185,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/7d3cf53f7eac2efd568273d9a6bcf4b8/height/808/i/6a/be/18/1f/6abe181f-4dd9-3ec0-83e6-1cd4c20ed023.jpg"
+      },
+      {
+        "id": 56872,
+        "title": "Хлопковые шорты Moschino",
+        "store": "tsum",
+        "color": "белый",
+        "price": 3750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/84628c09255d368c89bc08188fa0b8d1/height/808/i/c8/51/2b/46/a1f73a01-2c91-432f-8759-736509c6c4a8.jpg"
+      },
+      {
+        "id": 57143,
+        "title": "Хлопковые шорты Moschino",
+        "store": "tsum",
+        "color": "белый",
+        "price": 5595,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/fa3ab16ec56f0e67ef8d1942c9196a85/height/808/i/7e/5f/1d/be/1fc936ce-0966-4798-aa92-ffa572fef201.jpg"
+      },
+      {
+        "id": 57725,
+        "title": "Хлопковые шорты Moschino",
+        "store": "tsum",
+        "color": "белый",
+        "price": 7195,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/952c1f07c0b018f5574a5f77c225d19f/height/808/i/0a/ad/1d/e5/8e9f11e7-fc56-4a83-858b-ef6683639765.jpg"
+      },
+      {
+        "id": 58219,
+        "title": "Хлопковые шорты Moschino",
+        "store": "tsum",
+        "color": "белый",
+        "price": 4110,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/14a64cca427ca62aa0a0d9baa4932b1f/height/808/i/b5/e2/f2/af/32b3bf69-7ecc-4736-9e9f-08a58af71d6d.jpg"
+      },
+      {
+        "id": 60637,
+        "title": "Хлопковые шорты PT Torino",
+        "store": "tsum",
+        "color": "белый",
+        "price": 10750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/876c30143ccaf688a70fca0a526f4a07/height/808/i/65/42/83/12/dc077a9b-14cb-4fa8-aa8d-c4b07410ab90.jpg"
+      },
+      {
+        "id": 62086,
+        "title": "Хлопковые шорты Pharmacy Industry",
+        "store": "tsum",
+        "color": "белый",
+        "price": 6780,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c10067372d494907b4ff1a062b53e063/height/808/i/2c/85/70/6f/a76f646e-64c7-4165-bc48-dc73dac757f4.jpg"
+      },
+      {
+        "id": 62127,
+        "title": "Хлопковые шорты Pharmacy Industry",
+        "store": "tsum",
+        "color": "белый",
+        "price": 5850,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/bf64640bc7cb444717c5b93038bc162c/height/808/i/4b/f0/58/1a/c2938ee8-02b0-401f-b93b-8b425411533e.jpg"
+      }
+    ],
+    [
+      {
+        "id": 68878,
+        "title": "Кроссовки из натуральной кожи",
+        "store": "kanzler",
+        "color": "белый",
+        "price": 9990,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/984/z1ixraxw6nir8h8u1xm55dh91fzh0eyq.jpg"
+      },
+      {
+        "id": 87217,
+        "title": "Мужские кроссовки Rivalry Low",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 8499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a44/m3x5pv04v0po0h4ytqvo90omhb11szs2.JPG"
+      },
+      {
+        "id": 87227,
+        "title": "Мужские кроссовки PUMA Slipstream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a22/7x0720yqp5fjwxqhsyabroi1i6ybb2v2.jpg"
+      },
+      {
+        "id": 87319,
+        "title": "Мужские кроссовки Universum",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/703/3opw55uchl0t6yazri0o71u8iyo9lyzd.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87854,
+        "title": "Мужские кроссовки PUMA MagMax NITRO",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a72/e2wfp1j7dduevon8jimjq56hsruuya4s.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4381,
+        "title": "Шапка-бини вязаная",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2643240017/BF2643240017_50_1.jpg"
+      },
+      {
+        "id": 4686,
+        "title": "Ремень из искусственной кожи с крупной пряжкой",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246013/BF2633246013_50_1.jpg"
+      },
+      {
+        "id": 4910,
+        "title": "Ремень брючный широкий",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246010/BF2633246010_50_1.jpg"
+      },
+      {
+        "id": 5187,
+        "title": "Ремень текстильный с пряжкой-зажимом",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246003/BF2633246003_50_1.jpg"
+      },
+      {
+        "id": 5561,
+        "title": "Ремень плетеный с карабинами",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246005/BF2633246005_50_11.jpg"
+      },
+      {
+        "id": 6214,
+        "title": "Панама хлопковая",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2623240008/BF2623240008_50_11.jpg"
+      },
+      {
+        "id": 6318,
+        "title": "Ремень широкий из искусственной кожи",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246004/BF2633246004_50_12.jpg"
+      },
+      {
+        "id": 6535,
+        "title": "Шарф-палантин клетчатый с бахромой",
+        "store": "befree",
+        "color": "черный",
+        "price": 899,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2643241001/BF2643241001_55_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4942,
+        "title": "Сумка через плечо с кожаной фактурой",
+        "store": "befree",
+        "color": "черный",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633257007/BF2633257007_50_11.jpg"
+      },
+      {
+        "id": 5453,
+        "title": "Сумка через плечо из искусственной кожи",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633257004/BF2633257004_50_11.jpg"
+      },
+      {
+        "id": 5688,
+        "title": "Сумка спортивная через плечо с карманами",
+        "store": "befree",
+        "color": "черный",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633257015/BF2633257015_50_11.jpg"
+      },
+      {
+        "id": 85604,
+        "title": "Сумка через плечо большая",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633257006/BF2633257006_50_11.jpg"
+      },
+      {
+        "id": 87487,
+        "title": "Сумка через плечо Clyffe Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9c6/1000_1000_0/isb8aibvkgrjkknhgz1zkjxbm2mpqbtp.jpg"
+      },
+      {
+        "id": 87488,
+        "title": "Сумка через плечо Glen Canyon Pocket Cross Body",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/8a4/1000_1000_0/16gn8p01n28uufs09fwaow929yjxt13d.jpg"
+      },
+      {
+        "id": 87567,
+        "title": "Сумка через плечо Bail Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 3499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/2dd/p3d01jtovbkvtxbxtr7imfpwc41yxhm4.jpg"
+      },
+      {
+        "id": 87868,
+        "title": "Сумка через плечо Never Stop Utility Sling Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9cb/1000_1000_0/r4g20yagotuqpo2kahnnqtzvs0ey2hqj.jpg"
+      }
+    ]
+  ]
+}

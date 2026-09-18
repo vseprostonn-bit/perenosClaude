@@ -1,0 +1,295 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Лёгкий летний casual",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        56072,
+        7255
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        1935
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка oversize",
+      "color": "зелёный",
+      "search_query": "рубашка oversize зелёный",
+      "type": "рубашка",
+      "silhouette": "oversize",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "шорты oversize",
+      "color": "зелёный",
+      "search_query": "шорты oversize зелёный",
+      "type": "шорты",
+      "silhouette": "oversize",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "коричневый",
+      "search_query": "сумка через плечо коричневый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 55405,
+        "title": "Рубашка из вискозы Paade Mode",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 4640,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/889859b3173ffaa869c8448a87f94f3d/height/808/i/3b/e6/99/d8/954018e6-ed83-4376-9068-712b177eeee3.jpg"
+      },
+      {
+        "id": 56080,
+        "title": "Рубашка из вискозы Paade Mode",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 3810,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/225700440155a83ba793a3c84c4d5e00/height/808/i/16/69/f2/23/58dceb95-da41-4e9a-8642-e259a0de3dc5.jpg"
+      },
+      {
+        "id": 56722,
+        "title": "Хлопковая рубашка Denimist",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 15350,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c6731594197035ea8841da1f12398fdd/height/808/i/bd/f4/2b/e5/5ebe9b83-935f-46c0-a640-dc5c4a0cd241.jpg"
+      },
+      {
+        "id": 58167,
+        "title": "Рубашка Plan C",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 9630,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/dae66ce7c9221e8fa1f6ffeb3636738f/height/808/i/f4/8f/f9/98/f48ff998-fe64-37d2-a777-24c64a75b3e5.jpg"
+      },
+      {
+        "id": 58195,
+        "title": "Рубашка из лиоцелла BOSS Orange",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 9760,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/301852d02d8cb2ed758de30887a10a76/height/808/i/5b/9a/a8/9a/30b35186-c8e2-41bf-b0da-c20e3c6fe719.jpg"
+      },
+      {
+        "id": 55923,
+        "title": "Рубашка из вискозы и льна Max Mara Studio",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 47700,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/82a58dfb45c2ff569c8fed57187ef12a/height/808/i/da/63/06/8c/6534f895-ce51-461d-a02e-2c67a5251359.jpg"
+      },
+      {
+        "id": 56166,
+        "title": "Рубашка из вискозы Alexandre Vauthier",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 30800,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/cf559e3045a8773f9c37ca8afe0641bc/height/808/i/76/65/41/ba/766541ba-45e5-3345-a5da-bbad97d917e2.jpg"
+      },
+      {
+        "id": 56832,
+        "title": "Рубашка из вискозы и льна AERON",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 18000,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/aecb9c5dce99fbe1e50e76cbed494819/height/808/i/26/ac/27/70/db41108f-45d2-42b1-b228-afe7d6bb4059.jpg"
+      }
+    ],
+    [
+      {
+        "id": 7255,
+        "title": "Шорты домашние атласные с кружевом",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631811010/BF2631811010_10_11.jpg"
+      },
+      {
+        "id": 55408,
+        "title": "Хлопковые шорты Paade Mode",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 4370,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/bd235646469e30ee2cb626c5070bc5bb/height/808/i/4c/eb/e1/0e/cba8d511-7078-4f23-b036-e390a7e4e21f.jpg"
+      },
+      {
+        "id": 56072,
+        "title": "Хлопковые шорты Paade Mode",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 4205,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/e384e3cecfa324df768cf9cbdffa1cd5/height/808/i/13/46/91/95/f3d83b7a-2668-4117-a291-d8e70f95da35.jpg"
+      },
+      {
+        "id": 56137,
+        "title": "Хлопковые шорты Trussardi junior",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 3995,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b13f027c17470c341d8aca4adbb246db/height/808/i/3f/1b/61/54/3f1b6154-76b9-3baa-9aca-4ee8605ac2dd.jpg"
+      },
+      {
+        "id": 56158,
+        "title": "Хлопковые шорты Les Coyotes de Paris",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 1855,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9c9071650f4f7ab4a2891f84e8d2a89d/height/808/i/ce/68/81/2e/ce68812e-8493-3827-838f-946c07195d77.jpg"
+      },
+      {
+        "id": 56418,
+        "title": "Хлопковые шорты Trussardi junior",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 1995,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/06e47fa2ba3be360e6794da0a712be2a/height/808/i/56/73/76/04/56737604-3865-3ba1-bab0-f5ac5ba65341.jpg"
+      },
+      {
+        "id": 57141,
+        "title": "Хлопковые шорты Moschino",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 6995,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/2eb4d80fb63aaa3ac13b37a7ebcdefca/height/808/i/71/86/23/b1/56537857-b7d7-4633-8540-59665c692faf.jpg"
+      },
+      {
+        "id": 57510,
+        "title": "Хлопковые шорты Forte Dei Marmi Couture",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 4775,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c89a4a8b4b54aa88950ce593ca6a7877/height/808/i/c3/f4/27/8c/c3f4278c-6d6b-3ebf-928f-4aaf983da5fa.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1935,
+        "title": "Сумка-тоут на плечо с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457038/BF2635457038_20_11.jpg"
+      },
+      {
+        "id": 7317,
+        "title": "Сумка-багет на плечо с завязками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457036/BF2635457036_20_12.jpg"
+      },
+      {
+        "id": 91356,
+        "title": "Сумка через плечо Consigned Flinn Crossbody Bag",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9af/1000_1000_0/99rrxf1etxnuhuchbrg7jdyrel8qj2xu.jpg"
+      },
+      {
+        "id": 129421,
+        "title": "Сумка через плечо PUMA FWD Cross Body",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 4499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/615/35icjhm31wn0uzyhhmuxhd8kvqx3yxmx.jpg"
+      },
+      {
+        "id": 138771,
+        "title": "Сумка женская Sensana, Коричневый",
+        "store": "sportmaster",
+        "color": "коричневый",
+        "price": 4499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/c00/195499350299.jpg"
+      },
+      {
+        "id": 138814,
+        "title": "Сумка-шоппер PUMA, Коричневый",
+        "store": "sportmaster",
+        "color": "коричневый",
+        "price": 4499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/d37/195310770299.jpg"
+      },
+      {
+        "id": 140702,
+        "title": "Сумка женская Demix, Коричневый",
+        "store": "sportmaster",
+        "color": "коричневый",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/f28/141263500299.jpg"
+      },
+      {
+        "id": 147582,
+        "title": "Сумка через плечо женская Sensana, Коричневый",
+        "store": "sportmaster",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/097/195384260299.jpg"
+      }
+    ]
+  ]
+}

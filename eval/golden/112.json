@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городской шик",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган oversize",
+      "color": "красный",
+      "search_query": "кардиган oversize красный",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "удлинённый",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "клетка"
+    },
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "водолазка",
+      "color": "красный",
+      "search_query": "водолазка красная",
+      "type": "водолазка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки прямые",
+      "color": "синий",
+      "search_query": "брюки прямые синие",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": "высокая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли",
+      "color": "красный",
+      "search_query": "туфли красные",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "красный",
+      "search_query": "сумка через плечо красная",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 158817,
+        "title": "Кардиган с баской и золотыми пуговицами, Красный",
+        "store": "ostin",
+        "color": "красный",
+        "price": 1999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cbf/500_600_aa84/178586340299.jpg"
+      },
+      {
+        "id": 3329,
+        "title": "Кардиган вязаный с кейпом",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527051/BF2631527051_70_1.jpg"
+      },
+      {
+        "id": 3715,
+        "title": "Кардиган вязаный на молнии с воротником-стойкой",
+        "store": "befree",
+        "color": "красный",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527026/BF2641527026_70_1.jpg"
+      },
+      {
+        "id": 3731,
+        "title": "Кардиган вязаный с шерстью",
+        "store": "befree",
+        "color": "красный",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527013/BF2641527013_70_1.jpg"
+      },
+      {
+        "id": 7889,
+        "title": "Кардиган вязаный с шерстью и кейпом",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527045/BF2631527045_70_1.jpg"
+      },
+      {
+        "id": 54917,
+        "title": "Кардиган из шерсти и вискозы M05CH1NO Jeans",
+        "store": "tsum",
+        "color": "красный",
+        "price": 11600,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/8dc383ad1abc435507ff106005f4dfd0/height/808/i/97/92/59/0c/1d2018a8-b55a-409c-b31b-ecef6f2d46ed.jpg"
+      },
+      {
+        "id": 1947,
+        "title": "Кардиган вязаный на молнии с шерстью и имитацией второго слоя",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2999,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527048/BF2631527048_91_1.jpg"
+      },
+      {
+        "id": 2215,
+        "title": "Кардиган оверсайз вязаный на петельках с вышивкой",
+        "store": "befree",
+        "color": "розовый",
+        "price": 5599,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527055/BF2631527055_95_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1922,
+        "title": "Водолазка вязаная с шерстью альпака",
+        "store": "befree",
+        "color": "красный",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526020/BF2631526020_70_1.jpg"
+      },
+      {
+        "id": 59248,
+        "title": "Шерстяная водолазка Barbara Bui",
+        "store": "tsum",
+        "color": "красный",
+        "price": 29550,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/52a41a540af09d710dd9823f613695df/height/808/i/ba/8b/72/57/6fc77725-82a7-434f-a4c5-a00319c25a4d.jpg"
+      },
+      {
+        "id": 86242,
+        "title": "Шерстяная водолазка Barbara Bui",
+        "store": "tsum",
+        "color": "красный",
+        "price": 22650,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/a935f5eb9a533677d34af4eda954d92a/height/808/i/e1/21/be/5c/72f52ade-5f42-4f4f-9338-f779a5d83d9b.jpg"
+      },
+      {
+        "id": 4611,
+        "title": "Водолазка вязаная вискозная с воротником-стойкой",
+        "store": "befree",
+        "color": "оранжевый",
+        "price": 1599,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/MONIKA14COL/MONIKA14COL_23_1.jpg"
+      },
+      {
+        "id": 55078,
+        "title": "Шерстяная водолазка Emilio Pucci",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 6510,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/1e3d0a4a3e67a3100ce2ec2186b8c68f/height/808/i/9d/ae/29/d3/9dae29d3-6dcc-3ad8-85a6-b01d3a805827.jpg"
+      },
+      {
+        "id": 57412,
+        "title": "Водолазка VETEMENTS",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 27000,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/a03af55711087e123f210e931e4a8b7d/height/808/i/71/c8/77/f5/71c877f5-59a2-3a08-a38d-a64c7e7c619a.jpg"
+      },
+      {
+        "id": 57464,
+        "title": "Водолазка VTMNTS",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 25200,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/2aa0ba32bd4ba62a9bf108c1e188ad8a/height/808/i/c3/f9/74/85/c3f97485-384a-38c0-942f-3f2a913645cd.jpg"
+      },
+      {
+        "id": 4769,
+        "title": "Топ-бандо вязаный",
+        "store": "befree",
+        "color": "красный",
+        "price": 1299,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631521003/BF2631521003_70_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 168,
+        "title": "Трикотажные брюки с шерстью",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 6499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/101/FAF11126_101_20.jpg"
+      },
+      {
+        "id": 4635,
+        "title": "Брюки широкие утепленные с вышивкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108006/BF2632108006_47_1.jpg"
+      },
+      {
+        "id": 6355,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_47_1.jpg"
+      },
+      {
+        "id": 7484,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_47_1.jpg"
+      },
+      {
+        "id": 8175,
+        "title": "Брюки широкие с высокой посадкой и имитацией второго слоя",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108003/BF2632108003_47_1.jpg"
+      },
+      {
+        "id": 5667,
+        "title": "Брюки домашние хлопковые с принтом",
+        "store": "befree",
+        "color": "синий",
+        "price": 2299,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808013/BF2631808013_44_1.jpg"
+      },
+      {
+        "id": 54971,
+        "title": "Брюки из хлопка и льна Haider Ackermann",
+        "store": "tsum",
+        "color": "синий",
+        "price": 17250,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/20a75fa1787e19fbca3c8f5acfe2f705/height/808/i/e0/d6/96/0b/7d12519e-79f4-4ad0-8d45-9f21bce10d16.jpg"
+      },
+      {
+        "id": 55010,
+        "title": "Брюки Rosetta Getty",
+        "store": "tsum",
+        "color": "синий",
+        "price": 11800,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/a981730169bdc82855da026244d713ef/height/808/i/70/24/ae/fd/beb2b535-fc7f-47b9-b5df-4b0d58853848.jpg"
+      }
+    ],
+    [
+      {
+        "id": 5617,
+        "title": "Туфли-слингбэки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682023/BF2636682023_70_13.jpg"
+      },
+      {
+        "id": 55710,
+        "title": "Туфли из кожи крокодила Celia Ralph Lauren",
+        "store": "tsum",
+        "color": "красный",
+        "price": 469500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/6cc4f8877d67aa8b7a82288836f61ef6/height/808/i/44/f2/24/fa/44f224fa-5dec-3b63-8c5f-b75d091ec01d.jpg"
+      },
+      {
+        "id": 55669,
+        "title": "Кожаные туфли Disk 95 Paul Andrew",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 38900,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/86c2ece75da7f9f3f6d96a423235ea01/height/808/i/dc/ec/f5/33/dcecf533-cf17-3bd5-882f-f265bbeb494e.jpg"
+      },
+      {
+        "id": 55672,
+        "title": "Текстильные туфли Cube Paul Andrew",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 37450,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/5cb5a6a0f66f1c480e643e4677bffcb5/height/808/i/25/d7/52/ba/25d752ba-dec9-3b66-a055-500ebad31435.jpg"
+      },
+      {
+        "id": 55676,
+        "title": "Текстильные туфли Dominique 105 Gedebe",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 25550,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/23951145fedf17e7772a1c68f8dad832/height/808/i/5f/d8/0b/ae/74ae55f6-5b8e-4788-b3a6-ad51d4d9954e.jpg"
+      },
+      {
+        "id": 5442,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "розовый",
+        "price": 1999,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_91_2.jpg"
+      },
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      }
+    ],
+    [
+      {
+        "id": 6976,
+        "title": "Сумка через плечо каркасная из искусственной кожи с карабином",
+        "store": "befree",
+        "color": "красный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457077/BF2635457077_70_12.jpg"
+      },
+      {
+        "id": 146581,
+        "title": "Сумка через плечо Under Armour Essential, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 3399,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/e89/185430160299.jpg"
+      },
+      {
+        "id": 156669,
+        "title": "Сумка на плечо, Красный",
+        "store": "ostin",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/ba0/500_600_c67e/178585140299.jpg"
+      },
+      {
+        "id": 4507,
+        "title": "Сумка из искусственной кожи с заклепками и замком",
+        "store": "befree",
+        "color": "красный",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457053/BF2635457053_70_11.jpg"
+      },
+      {
+        "id": 6653,
+        "title": "Сумка женская",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645457013/BF2645457013_70_1.jpg"
+      },
+      {
+        "id": 93922,
+        "title": "Сумка на пояс PUMA FERRARI Waist Bag",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 4499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/908/2srkkiautuhpowx19xipizhlulk3rige.jpg"
+      },
+      {
+        "id": 132660,
+        "title": "Поясная сумка ACTIVE SLING BELT",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 4599,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/ad7/ye7jum770ut36zurvhzpcxt1peoy5iyt.jpg"
+      },
+      {
+        "id": 138577,
+        "title": "Сумка на пояс Tatonka Funny M, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 2099,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/21d/156354740299.jpg"
+      }
+    ]
+  ]
+}

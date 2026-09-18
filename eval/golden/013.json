@@ -1,0 +1,671 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Летний casual look.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        7069
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        56054,
+        9253
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "absent"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        710
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "duplicate"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "duplicate"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ с открытой спиной",
+      "color": "красный",
+      "search_query": "топ открытый спина красный",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган полосатый",
+      "color": "синий",
+      "search_query": "кардиган полосатый синий",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "удлинённый",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоса"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "шорты джинсовые",
+      "color": "голубой",
+      "search_query": "шорты джинсовые голубые",
+      "type": "шорты",
+      "silhouette": "прямой",
+      "length": "мини",
+      "sleeve": null,
+      "fit": "низкая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "золотой",
+      "search_query": "босоножки золотые",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка плетеная",
+      "color": "бежевый",
+      "search_query": "сумка плетеная бежевая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки солнцезащитные",
+      "color": "черный",
+      "search_query": "очки солнцезащитные черные",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "шляпа федора",
+      "color": "бежевый",
+      "search_query": "шляпа федора бежевая",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1689,
+        "title": "Лиф-топ купальный со шнуровкой",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624730020/BF2624730020_70_1.jpg"
+      },
+      {
+        "id": 4897,
+        "title": "Топ облегающий на широких бретелях в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121039/BF2631121039_70_1.jpg"
+      },
+      {
+        "id": 5066,
+        "title": "Бюстгальтер-топ ажурный хлопковый с оборками",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830002/BF2634830002_75_11.jpg"
+      },
+      {
+        "id": 6413,
+        "title": "Майка-топ укороченная в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121023/BF2621121023_70_1.jpg"
+      },
+      {
+        "id": 7069,
+        "title": "Бюстгальтер-топ ажурный хлопковый с оборками",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830002/BF2634830002_70_11.jpg"
+      },
+      {
+        "id": 7529,
+        "title": "Майка-топ трикотажная облегающая",
+        "store": "befree",
+        "color": "красный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121003/BF2622121003_77_1.jpg"
+      },
+      {
+        "id": 7851,
+        "title": "Топ домашний приталенный ажурный на тонких бретелях",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631821002/BF2631821002_75_11.jpg"
+      },
+      {
+        "id": 8045,
+        "title": "Бюстгальтер-топ в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830095/BF2634830095_70_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2318,
+        "title": "Кардиган вязаный с рисунком и меховым воротником",
+        "store": "befree",
+        "color": "синий",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527052/BF2631527052_45_1.jpg"
+      },
+      {
+        "id": 57767,
+        "title": "Хлопковый кардиган Tak.Ori",
+        "store": "tsum",
+        "color": "синий",
+        "price": 11950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/401aae5127f52fd42a0d72b8a17af8e6/height/808/i/11/a4/67/e4/779e586f-2db8-400f-b3e0-8ff719353a2e.jpg"
+      },
+      {
+        "id": 1895,
+        "title": "Кардиган вязаный на пуговицах с шерстью",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527018/BF2631527018_45_1.jpg"
+      },
+      {
+        "id": 1911,
+        "title": "Кардиган вязаный с декором из пуговиц",
+        "store": "befree",
+        "color": "синий",
+        "price": 2599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527032/BF2631527032_47_1.jpg"
+      },
+      {
+        "id": 4345,
+        "title": "Кардиган вязаный с косой молнией",
+        "store": "befree",
+        "color": "синий",
+        "price": 3299,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642527006/BF2642527006_40_1.jpg"
+      },
+      {
+        "id": 5653,
+        "title": "Кардиган вязаный с кейпом",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527051/BF2631527051_47_1.jpg"
+      },
+      {
+        "id": 7887,
+        "title": "Кардиган вязаный на завязках с меховой отделкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 2599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527035/BF2631527035_47_1.jpg"
+      },
+      {
+        "id": 563,
+        "title": "Кардиган прямого кроя из шерсти и акрила",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 8999,
+        "score": 0.7636,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAG/186/FAG11168_186_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 7256,
+        "title": "Шорты домашние атласные с кружевом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631811010/BF2631811010_49_12.jpg"
+      },
+      {
+        "id": 7808,
+        "title": "Шорты домашние атласные на завязках",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631811021/BF2631811021_49_11.jpg"
+      },
+      {
+        "id": 9227,
+        "title": "Шорты INCANTO PD1206",
+        "store": "incantoeu",
+        "color": "голубой",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/c31/9wxqx3h1qsby6obwo43yt4yfu4gd6610.jpg"
+      },
+      {
+        "id": 9253,
+        "title": "Шелковые шорты INCANTO PD267",
+        "store": "incantoeu",
+        "color": "голубой",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/6d1/nqajjb3pk1tpb0d2us3t6e953qjqiafn.jpg"
+      },
+      {
+        "id": 9387,
+        "title": "Шорты INCANTO PD1188",
+        "store": "incantoeu",
+        "color": "голубой",
+        "price": 3699,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/aa7/lm9acozuj81qvv3uql8tphs6ee4tqquw.jpg"
+      },
+      {
+        "id": 56054,
+        "title": "Хлопковые шорты Unlabel",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 2340,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9219df388dfe436bf3bed7e37e7e281c/height/808/i/d2/14/56/3f/d214563f-0806-3189-ae66-ff43ffc8af51.jpg"
+      },
+      {
+        "id": 7339,
+        "title": "Шорты домашние хлопковые на резинке",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1299,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631811016/BF2631811016_42_1.jpg"
+      },
+      {
+        "id": 56466,
+        "title": "Хлопковые шорты Pence",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 10350,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/141ecce5491950df8e584f622acd30f6/height/808/i/f6/07/4f/da/78774c62-8b19-43b7-814f-2c8854d9bb19.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55663,
+        "title": "Кожаные босоножки Alexandre Birman",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 16900,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/039fe9d40bc157bbbb00cb2d4a38b2e4/height/808/i/05/17/61/d2/051761d2-1b2a-3a8d-bf4f-d716a09df4d6.jpg"
+      },
+      {
+        "id": 86959,
+        "title": "Текстильные босоножки Moschino",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 35000,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/ad868eb7bef0da1f08d14db566c5d7a6/height/808/i/0a/55/eb/54/0a55eb54-2890-3f29-85b4-bf4ddcaef4ee.jpg"
+      },
+      {
+        "id": 86960,
+        "title": "Текстильные босоножки Moschino",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 37750,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/eb0b824f72d64e083a1bbf23149f9c9c/height/808/i/97/17/73/dc/3a910d40-2aeb-4ab3-829b-ff7aaec2644f.jpg"
+      },
+      {
+        "id": 55687,
+        "title": "Кожаные босоножки SW Signature 35 Stuart Weitzman",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 29950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/42892fc7fff0705388224c32ec9122a8/height/808/i/45/4d/7f/8d/b7ce299a-ec93-4f73-85e8-edbd6a0dc517.jpg"
+      },
+      {
+        "id": 1530,
+        "title": "Босоножки с ремешками на квадратном каблуке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688017/BF2626688017_68_2.jpg"
+      },
+      {
+        "id": 55451,
+        "title": "Кожаные босоножки Lily 100 Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 49500,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/699e825c888111cbc9a55a0a7981f4df/height/808/i/60/f4/64/04/46cecffb-a5f3-4446-992a-a72c335eb40c.jpg"
+      },
+      {
+        "id": 57094,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12350,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3a55d23f85225ee7b46d24e3b0502874/height/808/i/ed/bf/32/65/2c740ed0-2266-4c5d-93eb-b6976d3d6e2f.jpg"
+      },
+      {
+        "id": 57137,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11500,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/efacc2704416cb044508768565318f91/height/808/i/3b/71/b0/bf/d351f14d-2497-402c-9dff-76789890dabb.jpg"
+      }
+    ],
+    [
+      {
+        "id": 710,
+        "title": "Плетеная сумка из рафии",
+        "store": "finnflare",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/630/FSG11200_630_30.jpg"
+      },
+      {
+        "id": 1967,
+        "title": "Сумка-багет через плечо замшевая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457027/BF2635457027_62_1.jpeg"
+      },
+      {
+        "id": 2204,
+        "title": "Сумка-хобо из деревянных бусин",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2625457048/BF2625457048_62_1.jpg"
+      },
+      {
+        "id": 6839,
+        "title": "Сумка-кисет с бахромой",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457082/BF2635457082_62_11.jpg"
+      },
+      {
+        "id": 6969,
+        "title": "Сумка-мешок из искусственной замши",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457067/BF2635457067_62_13.jpg"
+      },
+      {
+        "id": 91745,
+        "title": "Сумка через плечо Hot Shot Crossbody Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/957/1000_1000_0/bz4rndmxci2fv7lrxflz4g0fls8hxknh.jpg"
+      },
+      {
+        "id": 93912,
+        "title": "Сумка через плечо PUMA HER Half Moon Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4a6/ekolveyxg20x5sthw5l6zmu6p7wku9cb.jpg"
+      },
+      {
+        "id": 103784,
+        "title": "Сумка Essentials Tote Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/e34/1000_1000_0/a6c5n09gqww7qvy9vsts0rq3wy77b4bt.jpg"
+      }
+    ],
+    [
+      {
+        "id": 82373,
+        "title": "Очки солнцезащитные в широкой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9167,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2525360040/BF2525360040_50_1.jpg"
+      },
+      {
+        "id": 7504,
+        "title": "Очки имиджевые в круглой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635360006/BF2635360006_50_1.jpg"
+      },
+      {
+        "id": 56,
+        "title": "Шапка женская",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11155_200_20.jpg"
+      },
+      {
+        "id": 66,
+        "title": "Снуд",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF91406_200_20.jpg"
+      },
+      {
+        "id": 70,
+        "title": "Шапка из хлопка",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 2499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF111146_200_20.jpg"
+      },
+      {
+        "id": 76,
+        "title": "Варежки из ангоры и шерсти",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11150_200_20.jpg"
+      },
+      {
+        "id": 129,
+        "title": "Лонгслив-термобелье с хлопком",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/200/FAE110197_200_20.jpg"
+      },
+      {
+        "id": 159,
+        "title": "Трикотажные перчатки",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF11307_200_30.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1734,
+        "title": "Топ-халтер шифоновый с шарфиком",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418007/BF2631418007_65_1.jpg"
+      },
+      {
+        "id": 2155,
+        "title": "Ремень брючный широкий из натуральной замши",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346045/BF2635346045_62_1.jpg"
+      },
+      {
+        "id": 2302,
+        "title": "Ремень брючный узкий из натуральной замши",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346043/BF2635346043_62_11.jpg"
+      },
+      {
+        "id": 5734,
+        "title": "Платок-бандана из шерсти с рисунком",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635341017/BF2635341017_65_1.jpg"
+      },
+      {
+        "id": 5827,
+        "title": "Шарф-палантин клетчатый с бахромой",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1299,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635341019/BF2635341019_65_1.jpg"
+      },
+      {
+        "id": 6468,
+        "title": "Шапка-бини вязаная теплая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645340004/BF2645340004_62_1.jpg"
+      },
+      {
+        "id": 6481,
+        "title": "Шапка-бини вязаная с шерстью",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645340003/BF2645340003_62_11.jpg"
+      },
+      {
+        "id": 6547,
+        "title": "Шарф-палантин клетчатый",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645341022/BF2645341022_65_1.jpg"
+      }
+    ]
+  ]
+}

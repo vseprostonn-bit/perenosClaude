@@ -1,0 +1,287 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка в полоску",
+      "color": "красный",
+      "search_query": "футболка полосатая красная",
+      "type": "футболка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки чинос",
+      "color": "бежевый",
+      "search_query": "брюки чинос бежевые",
+      "type": "брюки",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": null,
+      "fit": "высокая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "балетки",
+      "color": "коричневый",
+      "search_query": "балетки коричневые",
+      "type": "балетки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1902,
+        "title": "Футболка вязаная на пуговицах с воротником-стойкой",
+        "store": "befree",
+        "color": "красный",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527029/BF2631527029_70_1.jpg"
+      },
+      {
+        "id": 1920,
+        "title": "Футболка-поло прямая вязаная на пуговицах",
+        "store": "befree",
+        "color": "красный",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526014/BF2631526014_70_1.jpg"
+      },
+      {
+        "id": 3507,
+        "title": "Футболка прямая хлопковая с подплечниками",
+        "store": "befree",
+        "color": "красный",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120066/BF2631120066_70_1.jpg"
+      },
+      {
+        "id": 8381,
+        "title": "Футболка вязаная с воротником-стойкой на молнии",
+        "store": "befree",
+        "color": "красный",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526007/BF2631526007_70_1.jpg"
+      },
+      {
+        "id": 1937,
+        "title": "Футболка-поло вязаная на пуговицах в полоску",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2599,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526033/BF2631526033_95_1.jpg"
+      },
+      {
+        "id": 4054,
+        "title": "Футболка-топ с вышивкой",
+        "store": "befree",
+        "color": "красный",
+        "price": 399,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2532120023/BF2532120023_75_2.jpg"
+      },
+      {
+        "id": 6875,
+        "title": "Футболка хлопковая с открытыми срезами",
+        "store": "befree",
+        "color": "красный",
+        "price": 599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621120022/BF2621120022_21_1.jpg"
+      },
+      {
+        "id": 57310,
+        "title": "Хлопковая футболка VETEMENTS",
+        "store": "tsum",
+        "color": "красный",
+        "price": 28550,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/2e324985ed42e2b1d0b13b701d029dd9/height/808/i/4c/4d/f8/24/6982d95e-71bb-4965-ac2e-0b31e36eb2e2.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2449,
+        "title": "Брюки-баллоны трикотажные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641108004/BF2641108004_36_100.jpg"
+      },
+      {
+        "id": 2630,
+        "title": "Брюки широкие из тенсела на завязках с кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308025/BF2621308025_62_1.jpg"
+      },
+      {
+        "id": 3211,
+        "title": "Брюки-джоггеры вязаные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631508001/BF2631508001_36_1.jpg"
+      },
+      {
+        "id": 3851,
+        "title": "Брюки-прямые со средней посадкой на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308059/BF2631308059_65_1.jpg"
+      },
+      {
+        "id": 4614,
+        "title": "Брюки широкие укороченные из хлопка с высокой посадкой",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308033/BF2631308033_68_1.jpg"
+      },
+      {
+        "id": 4646,
+        "title": "Брюки спортивные с лампасами на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708006/BF2631708006_62_1.jpg"
+      },
+      {
+        "id": 4956,
+        "title": "Брюки широкие костюмные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308001/BF2641308001_64_100.jpg"
+      },
+      {
+        "id": 5970,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_61_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 94656,
+        "title": "Женские балетки PUMA Speedcat Ballet Dress-Up",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 13499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/5c6/ytpwl2e13mp4g938i03zshdzvx3kwtpe.jpg"
+      },
+      {
+        "id": 98735,
+        "title": "Женские балетки PUMA Speedcat Ballet Nova",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 11499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/dc5/3wsj7oicnh21ok8clocvve6jqmc641ty.jpg"
+      },
+      {
+        "id": 99130,
+        "title": "Женские балетки PUMA Speedcat Ballet SD",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 11499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/ed9/sf7aaliz49s2gp9cr4an6zk5wqd4sc5g.jpg"
+      },
+      {
+        "id": 107675,
+        "title": "Женские балетки PUMA Tacklette",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/bc5/m4ni8i7jn6x2sbg47riofuyic8nms729.jpg"
+      },
+      {
+        "id": 107738,
+        "title": "Женские балетки PUMA Catch Soleil Ballerina SD",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 8499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4e0/a6413qiwhrj6bftytjevvnapi6dq3vfo.jpg"
+      },
+      {
+        "id": 108203,
+        "title": "Женские балетки PUMA Tacklette Cat",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 7799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b79/mnphulv7wlk7izjepkl1dmjuedanb6ss.jpg"
+      },
+      {
+        "id": 5961,
+        "title": "Балетки из искусственной замши с квадратным носом и пряжками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626682012/BF2626682012_20_11.jpg"
+      },
+      {
+        "id": 4449,
+        "title": "Балетки из искусственной кожи с ремешком на лодыжке",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626682018/BF2626682018_20_1.jpg"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Спортивный шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ с открытой спиной",
+      "color": "черный",
+      "search_query": "топ черный открытый спина",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "леггинсы",
+      "color": "черный",
+      "search_query": "леггинсы черные",
+      "type": "легинсы",
+      "silhouette": "прямой",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган",
+      "color": "белый",
+      "search_query": "кардиган белый",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "удлиненный",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки",
+      "color": "черный",
+      "search_query": "кроссовки черные",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 6780,
+        "title": "Топ с открытой спиной и драпировкой",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418009/BF2631418009_50_1.jpg"
+      },
+      {
+        "id": 1655,
+        "title": "Топ-халтер облегающий с бусинами",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121025/BF2621121025_50_1.jpg"
+      },
+      {
+        "id": 1704,
+        "title": "Майка-топ хлопковая в рубчик с вышитым кантом",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121026/BF2621121026_50_1.jpg"
+      },
+      {
+        "id": 1721,
+        "title": "Топ-халтер облегающий на завязках",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121006/BF2631121006_50_1.jpg"
+      },
+      {
+        "id": 2287,
+        "title": "Майка-топ облегающая вискозная со сборками",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121018/BF2621121018_50_1.jpg"
+      },
+      {
+        "id": 2387,
+        "title": "Майка-топ облегающая на тонких бретелях",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121034/BF2621121034_50_1.jpg"
+      },
+      {
+        "id": 2428,
+        "title": "Бюстгальтер-топ без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830005/BF2644830005_50_1.jpg"
+      },
+      {
+        "id": 3166,
+        "title": "Топ на пуговицах и тонких бретелях с бархатным узором",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418034/BF2631418034_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4966,
+        "title": "Леггинсы из искусственной кожи со штрипками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308012/BF2641308012_50_100.jpg"
+      },
+      {
+        "id": 5307,
+        "title": "Леггинсы спортивные с лампасами",
+        "store": "befree",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708011/BF2631708011_50_1.jpg"
+      },
+      {
+        "id": 93485,
+        "title": "Женские леггинсы Rib Leggings",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/127/kemg71xmtgeooi3ipbrsau7luvl9dw4a.jpg"
+      },
+      {
+        "id": 95262,
+        "title": "Женские леггинсы Norveg -60",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/3aa/77xvimftr9tu7pq65yqg7pqeuvolum7g.jpg"
+      },
+      {
+        "id": 95312,
+        "title": "Женские леггинсы Norveg Soft",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/1da/0wxzx8ws0rh3zgioa7ta34f3ffopdn5g.jpg"
+      },
+      {
+        "id": 99348,
+        "title": "Женские леггинсы Sport Tights",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/ce6/bi1b60ixm59s5al9boyr4w2kkwgu7ab5.jpg"
+      },
+      {
+        "id": 111684,
+        "title": "Женские леггинсы The North Face Dune Sky 7/8",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 4599,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/cb3/oxujfjr3ywm26mz3nvs4j9yc1r9zvr6m.jpg"
+      },
+      {
+        "id": 115520,
+        "title": "Подростковые леггинсы Sportswear Classic High-Waisted Leggings",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/745/sdn3vgezy1btt6bsns8peohen6ssaegm.jpg"
+      }
+    ],
+    [
+      {
+        "id": 56179,
+        "title": "Кардиган из вискозы и хлопка Escada Sport",
+        "store": "tsum",
+        "color": "белый",
+        "price": 23150,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/e25b90a266c2395afee20e36f4dce190/height/808/i/4b/11/71/fa/a0857b2a-ab45-4b67-951e-e39a56eb7f5a.jpg"
+      },
+      {
+        "id": 8465,
+        "title": "Кардиган оверсайз вязаный на пуговицах с зебровым рисунком",
+        "store": "befree",
+        "color": "белый",
+        "price": 4599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527026/BF2631527026_5_1.jpg"
+      },
+      {
+        "id": 54893,
+        "title": "Хлопковый кардиган ADCTED",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 17100,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/027d736d40709acd0e9ae024db0f2304/height/808/i/56/5f/dd/b8/9f8528c1-8cec-460e-ae47-8a4827155648.jpg"
+      },
+      {
+        "id": 55201,
+        "title": "Хлопковый кардиган ADCTED",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 15800,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/5336c669668aa6ebd9edd07cf5bbe173/height/808/i/34/e3/4c/5b/e7958601-96f2-4f88-84a2-d3ddfc5f3157.jpg"
+      },
+      {
+        "id": 56828,
+        "title": "Кардиган из вискозы AERON",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 19700,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/1fc6a81ac2675d92b5c2bb61756a39a6/height/808/i/15/0a/35/16/437e87f3-1d86-4d18-aa20-b35451a9afc6.jpg"
+      },
+      {
+        "id": 59387,
+        "title": "Кардиган из шерсти вискозы Weekend Max Mara",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 19950,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/c8b000fdcf224b0fab0c56c7fc33cae6/height/808/i/10/3a/27/f1/383c4f67-dc93-4e1a-82d9-d721b4c98a2a.jpg"
+      },
+      {
+        "id": 86316,
+        "title": "Хлопковый кардиган ADCTED",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 17100,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/286fa6b9d221a24b72309377391cc3e1/height/808/i/a1/0c/56/de/7446b341-8e4e-41fe-8787-d99e72486816.jpg"
+      },
+      {
+        "id": 1052,
+        "title": "Свободный кардиган из хлопка",
+        "store": "finnflare",
+        "color": "кремовый",
+        "price": 4999,
+        "score": 0.7545,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/723/FBG11126_723_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4698,
+        "title": "Кроссовки-сникерсы из натуральной замши со звездочками",
+        "store": "befree",
+        "color": "черный",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626680003/BF2626680003_50_11.jpg"
+      },
+      {
+        "id": 55022,
+        "title": "Кожаные кроссовки Adam Premiata will be",
+        "store": "tsum",
+        "color": "черный",
+        "price": 11800,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/edc75ef7d0bdf3c9044930b90f791f12/height/808/i/2f/c5/49/44/d1a6dc67-3103-406f-82ae-4cdab3b61266.jpg"
+      },
+      {
+        "id": 56021,
+        "title": "Кроссовки 740v2 Black Grey Silver New Balance",
+        "store": "tsum",
+        "color": "черный",
+        "price": 24000,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0b0877b1cbefe7d4fc7a49d59ffc813a/height/808/i/3b/d0/36/5c/67683149-6235-4747-b0ce-da773081958e.jpg"
+      },
+      {
+        "id": 57147,
+        "title": "Кроссовки из текстиля Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 13100,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d735eb1c12eedd6be7ba8a23fa3f09b7/height/808/i/95/c5/59/a0/95c559a0-1cb1-3d8c-a14a-2b0d0fb0d5cc.jpg"
+      },
+      {
+        "id": 57593,
+        "title": "Текстильные кроссовки Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14050,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/94147b4f96dfb430fe769b9e10464818/height/808/i/d2/7f/36/35/d27f3635-3251-3054-a9b9-e690013ba75a.jpg"
+      },
+      {
+        "id": 57599,
+        "title": "Текстильные кроссовки Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 15500,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/82100cd86457cc802bae7efbee5446cf/height/808/i/a6/6c/0d/50/a66c0d50-ab34-36f7-8b10-573f4a6aa823.jpg"
+      },
+      {
+        "id": 57625,
+        "title": "Кроссовки Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 15500,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b547386a7e57b920fd266d24c4186d24/height/808/i/77/bf/2b/bc/68d812b2-4ccd-43a1-8dc3-ae5c49bfb0f0.jpg"
+      },
+      {
+        "id": 57630,
+        "title": "Кроссовки Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 15500,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/13d4044192828d45540537ff8e66ea47/height/808/i/e5/8d/19/4d/6bbb67bc-02a2-4846-8faf-14f3b338f476.jpg"
+      }
+    ]
+  ]
+}

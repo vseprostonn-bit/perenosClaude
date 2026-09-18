@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Obraz Mini App — Разбор лука</title>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --text:#1A1A1E; --hint:#9A8F8F; --accent:#FF4D6A; --accent2:#FF8FA3;
+  --border:#F2E6E2; --card:#fff;
+  --shadow:0 4px 6px rgba(255,77,106,0.06),0 10px 24px rgba(255,143,163,0.10);
+  --spring:cubic-bezier(0.16,1,0.3,1);
+}
+body{font-family:'Inter',sans-serif;background:linear-gradient(180deg,#FFF8F6,#FFEDE8);
+  background-attachment:fixed;color:var(--text);max-width:390px;margin:0 auto;
+  min-height:100vh;padding-bottom:24px;overflow-x:hidden;}
+h1,h2,h3{font-family:'Manrope',sans-serif;}
+.head{display:flex;align-items:center;gap:12px;padding:16px 18px 10px;}
+.back{width:34px;height:34px;border-radius:50%;background:var(--card);box-shadow:var(--shadow);
+  display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;}
+.head .t{font-family:'Manrope';font-weight:700;font-size:17px;}
+.head .t span{color:var(--hint);font-weight:500;font-size:13px;display:block;}
+/* верх: загруженный лук + «вайб» */
+.look-hero{margin:6px 18px 4px;border-radius:22px;overflow:hidden;position:relative;box-shadow:var(--shadow);}
+.look-hero img{width:100%;height:300px;object-fit:cover;display:block;}
+.look-hero .vibe{position:absolute;left:0;right:0;bottom:0;padding:34px 16px 14px;color:#fff;
+  background:linear-gradient(transparent,rgba(0,0,0,.7));}
+.look-hero .vibe b{font-family:'Manrope';font-size:18px;font-weight:700;display:block;}
+.look-hero .vibe span{font-size:13px;opacity:.9;}
+.look-hero .tag{position:absolute;top:14px;left:14px;background:rgba(255,255,255,.9);
+  border-radius:20px;padding:5px 12px;font-size:12px;font-weight:600;}
+.hint{padding:12px 20px 6px;color:var(--hint);font-size:13px;}
+/* карточки вещей */
+.items{padding:4px 18px;display:flex;flex-direction:column;gap:14px;}
+.item{background:var(--card);border-radius:20px;overflow:hidden;box-shadow:var(--shadow);
+  display:flex;gap:0;}
+.item img{width:120px;height:150px;object-fit:cover;flex-shrink:0;background:#eee;}
+.item .info{flex:1;padding:14px 14px 12px;display:flex;flex-direction:column;}
+.item .slot{color:var(--accent);font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;}
+.item .name{font-size:14px;font-weight:600;margin:3px 0 6px;line-height:1.3;}
+.item .price{font-family:'Manrope';font-weight:700;font-size:17px;}
+.item .store{color:var(--hint);font-size:12px;margin-bottom:auto;}
+.item .btns{display:flex;gap:8px;margin-top:10px;}
+.buy{flex:1;background:linear-gradient(135deg,var(--accent),var(--accent2));color:#fff;border:none;
+  border-radius:12px;padding:10px;font-weight:600;font-size:13px;font-family:'Manrope';cursor:pointer;
+  transition:transform .15s var(--spring);}
+.buy:active{transform:scale(0.97);}
+.more{width:42px;border:1.5px solid var(--border);background:var(--card);border-radius:12px;
+  font-size:16px;cursor:pointer;}
+.match{display:inline-flex;align-items:center;gap:4px;background:rgba(255,77,106,.08);
+  color:var(--accent);border-radius:10px;padding:3px 8px;font-size:11px;font-weight:600;
+  width:fit-content;margin-bottom:6px;}
+/* итог + действия */
+.total{margin:16px 18px 8px;background:#1A1A1E;color:#fff;border-radius:20px;padding:16px 18px;
+  display:flex;align-items:center;justify-content:space-between;}
+.total .s{font-size:13px;opacity:.8;}
+.total .p{font-family:'Manrope';font-weight:800;font-size:22px;}
+.again{margin:6px 18px;padding:15px;background:var(--card);border:1.5px solid var(--border);
+  border-radius:14px;font-family:'Manrope';font-weight:700;font-size:15px;width:calc(100% - 36px);
+  cursor:pointer;}
+</style>
+</head>
+<body>
+  <div class="head">
+    <div class="back">‹</div>
+    <div class="t">Разобрала твой лук<span>4 вещи · нашла в наличии</span></div>
+  </div>
+
+  <div class="look-hero">
+    <span class="tag">твоё фото</span>
+    <img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?w=500&q=80" alt="">
+    <div class="vibe"><b>Городской шик</b><span>Спокойные тона, чистые линии, база на каждый день</span></div>
+  </div>
+
+  <div class="hint">Собрала из реальных вещей - листай и жми «Купить». Не то? «≈» покажет похожие.</div>
+
+  <div class="items">
+    <div class="item">
+      <img src="https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=240&q=80" alt="">
+      <div class="info">
+        <span class="slot">Верх</span>
+        <span class="match">≈ 94% похоже</span>
+        <div class="name">Рубашка оверсайз из фактурной ткани</div>
+        <div class="price">999 ₽</div>
+        <div class="store">Befree</div>
+        <div class="btns"><button class="buy">Купить</button><button class="more">≈</button></div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=240&q=80" alt="">
+      <div class="info">
+        <span class="slot">Низ</span>
+        <span class="match">≈ 91% похоже</span>
+        <div class="name">Брюки широкие из тенсела, бежевые</div>
+        <div class="price">2 299 ₽</div>
+        <div class="store">SELA</div>
+        <div class="btns"><button class="buy">Купить</button><button class="more">≈</button></div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=240&q=80" alt="">
+      <div class="info">
+        <span class="slot">Обувь</span>
+        <span class="match">≈ 88% похоже</span>
+        <div class="name">Кроссовки кожаные белые</div>
+        <div class="price">6 490 ₽</div>
+        <div class="store">ЦУМ</div>
+        <div class="btns"><button class="buy">Купить</button><button class="more">≈</button></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="total">
+    <div><div class="s">Весь образ</div></div>
+    <div class="p">9 788 ₽</div>
+  </div>
+  <button class="again">📸 Разобрать ещё лук</button>
+</body>
+</html>

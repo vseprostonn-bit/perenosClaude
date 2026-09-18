@@ -1,0 +1,195 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Летний городской шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ с открытыми плечами",
+      "color": "розовый",
+      "search_query": "топ открытый плечи розовый",
+      "type": "топ",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка-миди",
+      "color": "оранжевый",
+      "search_query": "юбка миди оранжевый",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 8675,
+        "title": "Топ сетчатый с открытыми плечами и сборками",
+        "store": "befree",
+        "color": "розовый",
+        "price": 599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418013/BF2631418013_91_1.jpg"
+      },
+      {
+        "id": 8678,
+        "title": "Топ сетчатый с открытыми плечами и сборками",
+        "store": "befree",
+        "color": "розовый",
+        "price": 599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418013pl/BF2631418013pl_91_1.jpg"
+      },
+      {
+        "id": 1556,
+        "title": "Бюстгальтер-топ кружевной",
+        "store": "befree",
+        "color": "розовый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624830025/BF2624830025_90_1.jpg"
+      },
+      {
+        "id": 1696,
+        "title": "Топ облегающий с принтом",
+        "store": "befree",
+        "color": "розовый",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121013/BF2631121013_95_11.jpg"
+      },
+      {
+        "id": 1881,
+        "title": "Топ бархатный с кружевом",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418069/BF2631418069_93_1.jpg"
+      },
+      {
+        "id": 2331,
+        "title": "Майка-топ пляжная с завязками",
+        "store": "befree",
+        "color": "розовый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624721003/BF2624721003_90_1.jpg"
+      },
+      {
+        "id": 2559,
+        "title": "Лиф-топ купальный ажурный на завязках",
+        "store": "befree",
+        "color": "розовый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624730023/BF2624730023_90_1.jpg"
+      },
+      {
+        "id": 4480,
+        "title": "Бюстгальтер-топ ажурный с кружевом",
+        "store": "befree",
+        "color": "розовый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830033/BF2634830033_90_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 158557,
+        "title": "Трикотажная юбка из модала, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/efc/500_600_5503/188256620299.jpg"
+      },
+      {
+        "id": 156702,
+        "title": "Юбка А-силуэта из модала, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/c50/500_600_e38c/180354310299.jpg"
+      },
+      {
+        "id": 158473,
+        "title": "Юбка из шифона для девочек, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 1999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/aec/500_600_e184/185740530299.jpg"
+      },
+      {
+        "id": 159035,
+        "title": "Сатиновая юбка А-силуэта, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/011/500_600_b5e1/165771760299.jpg"
+      },
+      {
+        "id": 55444,
+        "title": "Юбка из вискозы Rick Owens Lilies",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 19250,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c8b6266928354db4d592b2e34bc1ff9a/height/808/i/bd/d5/df/18/dc059ce0-06aa-4284-a34e-c620ae89b9d5.jpg"
+      },
+      {
+        "id": 55926,
+        "title": "Хлопковая юбка CALVIN KLEIN 205W39NYC",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 19850,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/88b8944e59faba8ccb4ed443e866e5ff/height/808/i/6e/69/eb/6e/6f9cd9be-08b9-458e-8515-17a36fac3163.jpg"
+      },
+      {
+        "id": 56011,
+        "title": "Хлопковая юбка Colville",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 25450,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/8f49180ea5028421744633016dbfe58d/height/808/i/c2/65/e0/02/24dda594-4ac1-425c-a8f9-6be5fb4c9c5d.jpg"
+      },
+      {
+        "id": 55516,
+        "title": "Хлопковая юбка Rag and Bone",
+        "store": "tsum",
+        "color": "красный",
+        "price": 6570,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/cb38c38092831f2819885ba8b7fb4c0d/height/808/i/67/d4/de/a6/a194ccbe-5835-4c6b-911f-f3a1f1aa9698.jpg"
+      }
+    ]
+  ]
+}

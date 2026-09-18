@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Летний отдых",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка пляжная",
+      "color": "белый",
+      "search_query": "рубашка пляжная белый",
+      "type": "рубашка",
+      "silhouette": "оверсайз",
+      "length": "укороченный",
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "шорты белые",
+      "color": "белый",
+      "search_query": "шорты белые",
+      "type": "шорты",
+      "silhouette": "прямой",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки солнцезащитные",
+      "color": "коричневый",
+      "search_query": "очки солнцезащитные коричневые",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка плетеная",
+      "color": "бежевый",
+      "search_query": "сумка плетеная бежевый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "бежевый",
+      "search_query": "босоножки бежевые",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 157570,
+        "title": "Длинная рубашка из лиоцелла, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/ce1/500_600_846a/187002080299.jpg"
+      },
+      {
+        "id": 155858,
+        "title": "Хлопковая рубашка с галстуком, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/209/500_600_b767/163668170299.jpg"
+      },
+      {
+        "id": 1643,
+        "title": "Рубашка оверсайз из жатого хлопка",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418005/BF2631418005_1_1.jpg"
+      },
+      {
+        "id": 3218,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_1_1.jpg"
+      },
+      {
+        "id": 3220,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_4_1.jpg"
+      },
+      {
+        "id": 3254,
+        "title": "Рубашка хлопковая с баской",
+        "store": "befree",
+        "color": "белый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418061/BF2631418061_1_1.jpg"
+      },
+      {
+        "id": 4827,
+        "title": "Рубашка хлопковая со сборками на завязках по бокам",
+        "store": "befree",
+        "color": "белый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632418017/BF2632418017_1_1.jpg"
+      },
+      {
+        "id": 6579,
+        "title": "Рубашка на крючках",
+        "store": "befree",
+        "color": "белый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641418003/BF2641418003_1_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 9319,
+        "title": "Шорты INCANTO ID578",
+        "store": "incantoeu",
+        "color": "белый",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/4f9/slob9n2aon83w9bknaonkpia0bxlo15x.jpg"
+      },
+      {
+        "id": 54039,
+        "title": "Белые шорты-баллон для девочек",
+        "store": "sela",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://www.sela.ru/wa-data/public/shop/products/83/32/213283/images/937342/937342.970.jpg"
+      },
+      {
+        "id": 56036,
+        "title": "Хлопковые шорты Joshua Sanders",
+        "store": "tsum",
+        "color": "белый",
+        "price": 10550,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/a558d9cdcb463b721a8b7fcd4f4b30b0/height/808/i/00/bd/f9/7e/476dbb68-8eaf-4931-842c-4afab9819149.jpg"
+      },
+      {
+        "id": 56060,
+        "title": "Хлопковые шорты Ramael",
+        "store": "tsum",
+        "color": "белый",
+        "price": 9950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/2640baf0c6ecdec1386d870b3b493579/height/808/i/0c/ce/59/b4/e1f6d6f7-a168-4289-b207-f7063c71fc0a.jpg"
+      },
+      {
+        "id": 56337,
+        "title": "Хлопковые шорты Roberto Cavalli",
+        "store": "tsum",
+        "color": "белый",
+        "price": 6185,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/7d3cf53f7eac2efd568273d9a6bcf4b8/height/808/i/6a/be/18/1f/6abe181f-4dd9-3ec0-83e6-1cd4c20ed023.jpg"
+      },
+      {
+        "id": 56585,
+        "title": "Шорты Heroine Sport",
+        "store": "tsum",
+        "color": "белый",
+        "price": 7360,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/55fb7e86464068f4750a7304f422e63f/height/808/i/e1/77/ff/a3/e177ffa3-44f2-3d26-bc70-3eae658f30b6.jpg"
+      },
+      {
+        "id": 56872,
+        "title": "Хлопковые шорты Moschino",
+        "store": "tsum",
+        "color": "белый",
+        "price": 3750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/84628c09255d368c89bc08188fa0b8d1/height/808/i/c8/51/2b/46/a1f73a01-2c91-432f-8759-736509c6c4a8.jpg"
+      },
+      {
+        "id": 57143,
+        "title": "Хлопковые шорты Moschino",
+        "store": "tsum",
+        "color": "белый",
+        "price": 5595,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/fa3ab16ec56f0e67ef8d1942c9196a85/height/808/i/7e/5f/1d/be/1fc936ce-0966-4798-aa92-ffa572fef201.jpg"
+      }
+    ],
+    [
+      {
+        "id": 135735,
+        "title": "Солнцезащитные очки Kappa, Коричневый",
+        "store": "sportmaster",
+        "color": "коричневый",
+        "price": 1749,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/79b/114053450299.jpg"
+      },
+      {
+        "id": 140326,
+        "title": "Солнцезащитные очки женские Kappa, Коричневый",
+        "store": "sportmaster",
+        "color": "коричневый",
+        "price": 1539,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/699/146812410299.jpg"
+      },
+      {
+        "id": 7507,
+        "title": "Очки имиджевые в овальной оправе с принтом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 799,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635360005/BF2635360005_20_1.jpg"
+      },
+      {
+        "id": 1582,
+        "title": "Купальник слитный с вырезом на спине",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624732002/BF2624732002_22_11.jpg"
+      },
+      {
+        "id": 1977,
+        "title": "Ремень брючный классический",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346042/BF2635346042_20_1.jpg"
+      },
+      {
+        "id": 2074,
+        "title": "Ремень брючный широкий из натуральной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346045/BF2635346045_20_11.jpg"
+      },
+      {
+        "id": 2294,
+        "title": "Ремень брючный широкий из натуральной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346045/BF2635346045_67_11.jpg"
+      },
+      {
+        "id": 2297,
+        "title": "Ремень брючный кожаный с ворсистой фактурой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346008/BF2635346008_20_11.jpg"
+      }
+    ],
+    [
+      {
+        "id": 710,
+        "title": "Плетеная сумка из рафии",
+        "store": "finnflare",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/630/FSG11200_630_30.jpg"
+      },
+      {
+        "id": 136166,
+        "title": "Сумка Kappa, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2f8/141177690299.jpg"
+      },
+      {
+        "id": 139499,
+        "title": "Сумка PUMA, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/78f/194301880299.jpg"
+      },
+      {
+        "id": 139612,
+        "title": "Сумка adidas, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5399,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/23c/190704020299.jpg"
+      },
+      {
+        "id": 139845,
+        "title": "Сумка adidas Leo Bowling Bag, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/29a/195097850299.jpg"
+      },
+      {
+        "id": 140142,
+        "title": "Сумка Demix, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/792/111673430299.jpg"
+      },
+      {
+        "id": 141002,
+        "title": "Сумка для коврика Sensana, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1699,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2c2/162786200299.jpg"
+      },
+      {
+        "id": 146216,
+        "title": "Сумка Reebok Arlo, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/21c/194954490299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55687,
+        "title": "Кожаные босоножки SW Signature 35 Stuart Weitzman",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 29950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/42892fc7fff0705388224c32ec9122a8/height/808/i/45/4d/7f/8d/b7ce299a-ec93-4f73-85e8-edbd6a0dc517.jpg"
+      },
+      {
+        "id": 1530,
+        "title": "Босоножки с ремешками на квадратном каблуке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688017/BF2626688017_68_2.jpg"
+      },
+      {
+        "id": 55451,
+        "title": "Кожаные босоножки Lily 100 Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 49500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/699e825c888111cbc9a55a0a7981f4df/height/808/i/60/f4/64/04/46cecffb-a5f3-4446-992a-a72c335eb40c.jpg"
+      },
+      {
+        "id": 57094,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12350,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/3a55d23f85225ee7b46d24e3b0502874/height/808/i/ed/bf/32/65/2c740ed0-2266-4c5d-93eb-b6976d3d6e2f.jpg"
+      },
+      {
+        "id": 57137,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/efacc2704416cb044508768565318f91/height/808/i/3b/71/b0/bf/d351f14d-2497-402c-9dff-76789890dabb.jpg"
+      },
+      {
+        "id": 133429,
+        "title": "Женские сандалии Nike Calm Mule",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 8399,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7b3/jox0o31u86ik461yizlv17i4w4s345rw.JPG"
+      },
+      {
+        "id": 133437,
+        "title": "Женские сандалии Explore Camp Sandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10499,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c09/3h4wzx1u4asod1m66pu31cbmof9uuo0x.JPG"
+      },
+      {
+        "id": 133441,
+        "title": "Женские сандалии Explore Camp Shandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 11999,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/22a/po5xwha6xu9kwjr4t72azt0zvypc36dd.JPG"
+      }
+    ]
+  ]
+}

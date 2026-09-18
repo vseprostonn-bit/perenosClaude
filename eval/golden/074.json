@@ -1,0 +1,292 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Минималистичный городской шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        1629
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ асимметричный",
+      "color": "белый",
+      "search_query": "топ асимметричный белый",
+      "type": "топ",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка прямая",
+      "color": "черный",
+      "search_query": "юбка прямая черный",
+      "type": "юбка",
+      "silhouette": "прямой",
+      "length": "макси",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "принт"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "черный",
+      "search_query": "босоножки черные",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1335,
+        "title": "Топ из хлопка с открытым плечом и фигурным узлом",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSE/201/FSE110162_201_20.jpg"
+      },
+      {
+        "id": 1629,
+        "title": "Топ с открытой спиной и драпировкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418009/BF2631418009_1_1.jpg"
+      },
+      {
+        "id": 4621,
+        "title": "Топ спортивный в рубчик",
+        "store": "befree",
+        "color": "белый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631721001/BF2631721001_1_1.jpg"
+      },
+      {
+        "id": 4693,
+        "title": "Бюстгальтер-топ бесшовный в рубчик без косточек",
+        "store": "befree",
+        "color": "белый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830001/BF2644830001_1_100.jpg"
+      },
+      {
+        "id": 5917,
+        "title": "Бюстгальтер-топ бесшовный в рубчик",
+        "store": "befree",
+        "color": "белый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830015/BF2634830015_1_1.jpg"
+      },
+      {
+        "id": 6799,
+        "title": "Бюстгальтер-топ на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830017/BF2634830017_1_1.jpg"
+      },
+      {
+        "id": 7000,
+        "title": "Майка-топ домашняя в рубчик",
+        "store": "befree",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631821023/BF2631821023_1_1.jpg"
+      },
+      {
+        "id": 7784,
+        "title": "Майка-топ укороченная в рубчик",
+        "store": "befree",
+        "color": "белый",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121023/BF2621121023_1_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 5274,
+        "title": "Юбка прямая макси с вырезом",
+        "store": "befree",
+        "color": "черный",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312011/BF2631312011_50_11.jpg"
+      },
+      {
+        "id": 5631,
+        "title": "Юбка прямая макси с вырезом",
+        "store": "befree",
+        "color": "черный",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312011PL/BF2631312011PL_50_1.jpg"
+      },
+      {
+        "id": 31,
+        "title": "Юбка женская",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11164_200_20.jpg"
+      },
+      {
+        "id": 1282,
+        "title": "Утепленная юбка на молнии прямого силуэта",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 7999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWE/200/FWE11058_200_20.jpg"
+      },
+      {
+        "id": 1456,
+        "title": "Юбка с шерстью и кашемиром",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWD/200/FWD11145_200_20.jpg"
+      },
+      {
+        "id": 4959,
+        "title": "Юбка-годе макси трикотажная",
+        "store": "befree",
+        "color": "черный",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641312009/BF2641312009_50_1.jpg"
+      },
+      {
+        "id": 7801,
+        "title": "Юбка домашняя короткая атласная с кружевом",
+        "store": "befree",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631812030/BF2631812030_50_11.jpg"
+      },
+      {
+        "id": 8217,
+        "title": "Юбка-годе макси сетчатая с узором",
+        "store": "befree",
+        "color": "черный",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312044/BF2631312044_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55438,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 24950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/862d2a182bd06cb7e067ea76fdac604c/height/808/i/69/54/79/8f/6954798f-90b0-38bf-b671-1005d715f2b5.jpg"
+      },
+      {
+        "id": 55447,
+        "title": "Босоножки Cecile 105 Gedebe",
+        "store": "tsum",
+        "color": "черный",
+        "price": 25200,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/79a6a9d7db044f56610b9aeb78d979a2/height/808/i/1e/02/bb/3e/1e02bb3e-db0b-39a1-a403-f5780f9b6400.jpg"
+      },
+      {
+        "id": 55584,
+        "title": "Текстильные босоножки Cube Toe-Ring 95 Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/20466697afad8b5683f80f5a037d0d67/height/808/i/b0/ef/35/7b/b0ef357b-7773-3fd0-8bd0-0b9cf1b1d77f.jpg"
+      },
+      {
+        "id": 87060,
+        "title": "Текстильные босоножки Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 23650,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/a472214b22656d702ef6e4c18c6f29fd/height/808/i/d7/c5/e0/a0/d7c5e0a0-7435-34f6-9608-b21db068d6d6.jpg"
+      },
+      {
+        "id": 54957,
+        "title": "Кожаные босоножки Nudistcurve 75 Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 36250,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/15d0a295b5a822b3f6eae0063f4ad931/height/808/i/ce/90/0d/6f/8f43d47e-f659-4e01-8c92-dd1ba5ea5e99.jpg"
+      },
+      {
+        "id": 55112,
+        "title": "Кожаные босоножки Nearlynude SW Bow Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 33550,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/47476d1ac7cf06d8b9352ba88abd0b24/height/808/i/55/ef/be/87/ab85c1da-d3d7-4127-ae0a-4463e3f26b16.jpg"
+      },
+      {
+        "id": 55415,
+        "title": "Замшевые босоножки Peep Sling Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 34500,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/ad5611c073a0e0ec1f006894e499b86e/height/808/i/6c/0e/34/09/6c0e3409-3233-30b5-8e10-e63e6d172f8b.jpg"
+      },
+      {
+        "id": 55437,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 35950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/38d8440896dd95efc4b01e9715288129/height/808/i/78/2b/04/88/782b0488-87bc-306a-b433-9a076946e878.jpg"
+      }
+    ]
+  ]
+}

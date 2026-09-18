@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "куртка джинс",
+      "color": "синий",
+      "search_query": "куртка джинс синяя",
+      "type": "куртка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка",
+      "color": "коричневый",
+      "search_query": "футболка коричневая",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "бежевый",
+      "search_query": "брюки широкие бежевые",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": "низкая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "ботильоны",
+      "color": "коричневый",
+      "search_query": "ботильоны коричневые",
+      "type": "ботинки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 102,
+        "title": "Куртка oversize силуэта с капюшоном",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 19999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/101/FWF11048_101_20.jpg"
+      },
+      {
+        "id": 291,
+        "title": "Куртка с водоотталкивающей пропиткой и искусственным утеплителем",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 9999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/101/BAS-100218_101_20.jpg"
+      },
+      {
+        "id": 58629,
+        "title": "Куртка из экокожи Trussardi junior",
+        "store": "tsum",
+        "color": "синий",
+        "price": 14850,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/e5b97dc91ec1e28eda270210297ce58a/height/808/i/c1/43/f1/e1/fa14ac14-24a1-4873-ac37-9df448c5c942.jpg"
+      },
+      {
+        "id": 92529,
+        "title": "Женская куртка Extreme Pile Printed Full-Zip Jacket",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 10999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7e6/dz7g3w48h4f8zl74hi6fi5xd6xllbu66.jpg"
+      },
+      {
+        "id": 105981,
+        "title": "Женская куртка Nylon Jacket",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 11799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/de7/meaqfxso9jvslfcseeowpx9fqnhvv54d.jpg"
+      },
+      {
+        "id": 133079,
+        "title": "Женская куртка Saikuru Jacket",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 18299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/fb1/07z51aazuxc0ab8h59a4jznkf70cu6ti.jpg"
+      },
+      {
+        "id": 135601,
+        "title": "Куртка для беговых лыж женская Ziener Nahla, Синий",
+        "store": "sportmaster",
+        "color": "синий",
+        "price": 14999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/3a2/134522900299.jpg"
+      },
+      {
+        "id": 136483,
+        "title": "Куртка утепленная для девочек оверсайз Kappa, Синий",
+        "store": "sportmaster",
+        "color": "синий",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/e75/157094540299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1900,
+        "title": "Футболка вязаная на пуговицах с воротником-стойкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527029/BF2631527029_27_1.jpg"
+      },
+      {
+        "id": 1913,
+        "title": "Футболка-поло прямая вязаная на пуговицах",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526014/BF2631526014_22_1.jpg"
+      },
+      {
+        "id": 3229,
+        "title": "Футболка-поло прямая на пуговицах с имитацией второго слоя",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120045/BF2631120045_27_1.jpg"
+      },
+      {
+        "id": 5513,
+        "title": "Футболка-поло облегающая с вырезом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120016/BF2631120016_20_1.jpg"
+      },
+      {
+        "id": 5873,
+        "title": "Футболка-поло облегающая хлопковая на пуговицах",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1199,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622120021/BF2622120021_27_1.jpg"
+      },
+      {
+        "id": 6500,
+        "title": "Футболка облегающая в рубчик с асимметричным низом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641120013/BF2641120013_20_100.jpg"
+      },
+      {
+        "id": 6679,
+        "title": "Футболка приталенная с открытым плечом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121018pl/BF2631121018pl_20_1.jpg"
+      },
+      {
+        "id": 6988,
+        "title": "Футболка-поло облегающая с рубчик на пуговицах",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120022/BF2631120022_20_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2630,
+        "title": "Брюки широкие из тенсела на завязках с кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308025/BF2621308025_62_1.jpg"
+      },
+      {
+        "id": 4614,
+        "title": "Брюки широкие укороченные из хлопка с высокой посадкой",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308033/BF2631308033_68_1.jpg"
+      },
+      {
+        "id": 4956,
+        "title": "Брюки широкие костюмные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308001/BF2641308001_64_100.jpg"
+      },
+      {
+        "id": 5970,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_61_1.jpg"
+      },
+      {
+        "id": 6357,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_61_1.jpg"
+      },
+      {
+        "id": 2449,
+        "title": "Брюки-баллоны трикотажные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641108004/BF2641108004_36_100.jpg"
+      },
+      {
+        "id": 3211,
+        "title": "Брюки-джоггеры вязаные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631508001/BF2631508001_36_1.jpg"
+      },
+      {
+        "id": 3851,
+        "title": "Брюки-прямые со средней посадкой на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308059/BF2631308059_65_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2483,
+        "title": "Ботильоны на каблуке из натуральной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636687005/BF2636687005_20_1.jpg"
+      },
+      {
+        "id": 4526,
+        "title": "Ботильоны замшевые на каблуке",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2646687002/BF2646687002_20_1.jpg"
+      },
+      {
+        "id": 5302,
+        "title": "Ботильоны из натуральной замши со складками и декором",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 7299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636684002/BF2636684002_20_12.jpg"
+      },
+      {
+        "id": 6078,
+        "title": "Ботильоны на каблуке из натуральной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636687005/BF2636687005_63_1.jpg"
+      },
+      {
+        "id": 85718,
+        "title": "Ботильоны на фигурном каблуке с широким голенищем",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2646687027/BF2646687027_26_1.jpg"
+      },
+      {
+        "id": 85737,
+        "title": "Ботильоны на фигурном каблуке с широким голенищем",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2646687027/BF2646687027_27_1.jpg"
+      },
+      {
+        "id": 5707,
+        "title": "Ботильоны на каблуке из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 4299,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636687008/BF2636687008_20_1.jpg"
+      },
+      {
+        "id": 55048,
+        "title": "Замшевые ботильоны Stuart 100 Stuart Weitzman",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 42400,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/6a21b3bcc1f61ebc64a28d1eab27114d/height/808/i/9a/25/34/8a/9fad8ce8-89fb-40bb-9f31-745df22585f1.jpg"
+      }
+    ]
+  ]
+}

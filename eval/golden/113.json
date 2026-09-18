@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка в полоску",
+      "color": "бежевый",
+      "search_query": "футболка полоска бежевый",
+      "type": "футболка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "короткий",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "джинсовая юбка",
+      "color": "голубой",
+      "search_query": "юбка джинс голубая",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "черная сумка через плечо",
+      "color": "черный",
+      "search_query": "сумка черная через плечо",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки солнцезащитные",
+      "color": "золотой",
+      "search_query": "очки солнцезащитные золотые",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 58370,
+        "title": "Льняная футболка BOSS Orange",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 5880,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/7b9617eb83bad55956d7a200a33e8eef/height/808/i/70/73/38/75/150bb111-52f7-41bd-980e-7d067b905918.jpg"
+      },
+      {
+        "id": 7966,
+        "title": "Футболка-поло вязаная в полоску",
+        "store": "befree",
+        "color": "молочный",
+        "price": 799,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/KnitPolo4/KnitPolo4_60_1.jpg"
+      },
+      {
+        "id": 1703,
+        "title": "Футболка хлопковая рваная с принтом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120003/BF2631120003_59_1.jpg"
+      },
+      {
+        "id": 3940,
+        "title": "Футболка-поло из вязаного трикотажа",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 99,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2531120011YD/BF2531120011YD_65_1.jpg"
+      },
+      {
+        "id": 56505,
+        "title": "Хлопковая футболка Roberto Cavalli",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 37150,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/e406b0ef663be07e1b84d109c2132f7e/height/808/i/21/42/ee/dc/93cafa4e-0c51-45df-aa75-5faf46da2257.jpg"
+      },
+      {
+        "id": 57539,
+        "title": "Хлопковая футболка VETEMENTS",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 46650,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/1228f4c59837f896ae4a6ebb183bfcae/height/808/i/ef/6b/18/cd/192c989e-1a66-4033-a642-44f18c257a38.jpg"
+      },
+      {
+        "id": 57600,
+        "title": "Хлопковая футболка VETEMENTS",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 19700,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/8ed680f06c6d8f8986596d3f55bf9edb/height/808/i/30/a3/40/82/8d8d1a9c-2d48-4b76-898b-ff9fe4216802.jpg"
+      },
+      {
+        "id": 57698,
+        "title": "Хлопковая футболка VETEMENTS",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 34900,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/5150c97d7674d8e52ea3feeac74ad07d/height/808/i/10/84/d2/54/1084d254-28f3-32d0-9aed-949b078a1d5b.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55421,
+        "title": "Хлопковая юбка Lug Von Siga",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 8195,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/4437585bd88dc9f04742a1c51b9ee329/height/808/i/72/4d/b8/6f/724db86f-0750-3af1-996f-58111e6d2863.jpg"
+      },
+      {
+        "id": 55236,
+        "title": "Хлопковая юбка ADCTED",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 25200,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/9803950a3377e6aa9bcc942a46423b22/height/808/i/ab/05/58/7e/03ca1f3c-9e2f-423d-baa9-5f0bd61ae40c.jpg"
+      },
+      {
+        "id": 55508,
+        "title": "Твидовая юбка BOSS Orange",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 13950,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/9de60ef27975c02438be62ecea07bedf/height/808/i/87/ab/b5/6a/99e2781a-ad53-4549-8a33-eaa31207f46e.jpg"
+      },
+      {
+        "id": 4625,
+        "title": "Юбка-шорты мини пышная с лампасами и лентами",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631712001/BF2631712001_40_1.jpg"
+      },
+      {
+        "id": 5440,
+        "title": "Юбка-шорты мини многоярусная с вышивкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 799,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621312002/BF2621312002_44_1.jpg"
+      },
+      {
+        "id": 55614,
+        "title": "Хлопковая юбка Michael Lo Sordo",
+        "store": "tsum",
+        "color": "синий",
+        "price": 8400,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/d8259d27372c9a03d345d47c119a2d7c/height/808/i/73/5a/7d/bd/6e035a8f-29e5-4a5b-87c9-b1e16b4b0e24.jpg"
+      },
+      {
+        "id": 55474,
+        "title": "Шерстяная юбка We11done",
+        "store": "tsum",
+        "color": "синий",
+        "price": 52450,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f157afe972089041da6fcfe428f8f6b1/height/808/i/36/2c/88/dc/9fae2225-0af3-4d6e-a59a-2e62f618e671.jpg"
+      },
+      {
+        "id": 56470,
+        "title": "Шелковая юбка Kika Vargas",
+        "store": "tsum",
+        "color": "синий",
+        "price": 13950,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/51eb40efda48e272bd46198ef5b78d60/height/808/i/f9/ab/f2/53/89f78d86-bfca-4112-b595-9e769701cb16.jpg"
+      }
+    ],
+    [
+      {
+        "id": 87339,
+        "title": "Женские кроссовки Shox R4",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/829/1kdn0ph71sdpvb4dxllxk7u8xuhwwj12.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87512,
+        "title": "Женские кроссовки PWR Hybrid Training",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/996/82zgkob37ioopsj6cyqsxoj0gt0bazbg.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87701,
+        "title": "Женские кроссовки Air Zoom Pegasus 41",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/0e1/xe3i1v8p3s9i603bjsn1bblc9vmx99nx.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87736,
+        "title": "Женские кроссовки PUMA CA Flyz",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/715/aon4e1ewoyestvns3llqbx40untua3mq.jpg"
+      },
+      {
+        "id": 87964,
+        "title": "Женские кроссовки Cali Dream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/546/0q64eb1fu7q9tpvyba3jjczd6jouecyl.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4489,
+        "title": "Сумка на плечо с заклепками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457075/BF2635457075_50_11.jpg"
+      },
+      {
+        "id": 5976,
+        "title": "Сумка-багет на плечо со значками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457050/BF2635457050_50_11.jpg"
+      },
+      {
+        "id": 6841,
+        "title": "Сумка-тоут через плечо спортивная",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457052/BF2635457052_50_1.jpg"
+      },
+      {
+        "id": 87487,
+        "title": "Сумка через плечо Clyffe Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9c6/1000_1000_0/isb8aibvkgrjkknhgz1zkjxbm2mpqbtp.jpg"
+      },
+      {
+        "id": 87488,
+        "title": "Сумка через плечо Glen Canyon Pocket Cross Body",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/8a4/1000_1000_0/16gn8p01n28uufs09fwaow929yjxt13d.jpg"
+      },
+      {
+        "id": 87567,
+        "title": "Сумка через плечо Bail Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 3499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/2dd/p3d01jtovbkvtxbxtr7imfpwc41yxhm4.jpg"
+      },
+      {
+        "id": 87868,
+        "title": "Сумка через плечо Never Stop Utility Sling Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9cb/1000_1000_0/r4g20yagotuqpo2kahnnqtzvs0ey2hqj.jpg"
+      },
+      {
+        "id": 87990,
+        "title": "Сумка через плечо PUMA FUTURE.ARCHIVE Crossbody",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/ec4/v2hub7vo3gpbrj5z71ozppxbt6zsnpfw.jpg"
+      }
+    ],
+    [
+      {
+        "id": 158306,
+        "title": "Солнцезащитные очки, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/8e4/500_600_b65b/186590890299.jpg"
+      },
+      {
+        "id": 158308,
+        "title": "Солнцезащитные очки, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 1399,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/456/500_600_2386/186279190299.jpg"
+      },
+      {
+        "id": 158382,
+        "title": "Солнцезащитные очки, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 1399,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/2c7/500_600_8c37/186279700299.jpg"
+      },
+      {
+        "id": 155889,
+        "title": "Пояс-цепь с декоративными подвесками, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/81e/500_600_b149/173711150299.jpg"
+      },
+      {
+        "id": 157521,
+        "title": "Серьги-пусеты, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cda/500_600_7031/186269640299.jpg"
+      },
+      {
+        "id": 158062,
+        "title": "Серьги с искусственным камнем, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/024/500_600_dbf8/176216140299.jpg"
+      },
+      {
+        "id": 158349,
+        "title": "Серьги-пусеты с жемчугом и кораллами, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/421/500_600_451f/186370800299.jpg"
+      },
+      {
+        "id": 158352,
+        "title": "Серьги, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/c8a/500_600_cebc/186590600299.jpg"
+      }
+    ]
+  ]
+}

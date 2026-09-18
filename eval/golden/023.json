@@ -1,0 +1,386 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Летний городской шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        159415
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка классическая белая",
+      "color": "белый",
+      "search_query": "рубашка классика белый",
+      "type": "рубашка",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди светлая",
+      "color": "молочный",
+      "search_query": "юбка миди молочный",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки бежевые",
+      "color": "бежевый",
+      "search_query": "босоножки бежевый",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "солнечные очки белые",
+      "color": "белый",
+      "search_query": "очки солнцезащитные белый",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1813,
+        "title": "Рубашка классическая приталенная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Cambridge13/Cambridge13_1_1.jpg"
+      },
+      {
+        "id": 54542,
+        "title": "Удлиненная белая рубашка увеличенного объема для девочек",
+        "store": "sela",
+        "color": "белый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://www.sela.ru/wa-data/public/shop/products/96/70/217096/images/952480/952480.970.jpg"
+      },
+      {
+        "id": 157570,
+        "title": "Длинная рубашка из лиоцелла, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/ce1/500_600_846a/187002080299.jpg"
+      },
+      {
+        "id": 159415,
+        "title": "Льняная рубашка с длинным рукавом, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/6c9/500_600_870a/186021050299.jpg"
+      },
+      {
+        "id": 155858,
+        "title": "Хлопковая рубашка с галстуком, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/209/500_600_b767/163668170299.jpg"
+      },
+      {
+        "id": 159100,
+        "title": "Приталенная рубашка из хлопка, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/756/500_600_1975/162250500299.jpg"
+      },
+      {
+        "id": 3218,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_1_1.jpg"
+      },
+      {
+        "id": 3220,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_4_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55369,
+        "title": "Хлопковая юбка Ports 1961",
+        "store": "tsum",
+        "color": "кремовый",
+        "price": 10400,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/a7872a454baa171815783d7932c8801b/height/808/i/28/22/e7/01/b9e5c004-cc8b-4744-ab20-c73876205090.jpg"
+      },
+      {
+        "id": 55410,
+        "title": "Хлопковая юбка Plan C",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14050,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/bf7b7c86006f1df4681ec782bcdc3653/height/808/i/65/52/71/5e/38eb568a-ed00-47c2-82da-a81d2b8334ff.jpg"
+      },
+      {
+        "id": 55416,
+        "title": "Юбка-шорты Plan C",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 13250,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/0ebf5be7b899c31ecb894b7fcdfa3f01/height/808/i/ef/59/fd/2f/ef59fd2f-a0a5-3982-8b22-aec67067f21c.jpg"
+      },
+      {
+        "id": 55452,
+        "title": "Хлопковая юбка Weill",
+        "store": "tsum",
+        "color": "кремовый",
+        "price": 15100,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/7153846cfd546a2833e14db2afb19831/height/808/i/66/da/cc/df/bb7e32d3-1e3b-40a7-a4d3-c6f3ab77d6b0.jpg"
+      },
+      {
+        "id": 55475,
+        "title": "Хлопковая юбка LVIR",
+        "store": "tsum",
+        "color": "белый",
+        "price": 15200,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/96d6fb32f144bb9d57760fd4ec3f4d25/height/808/i/3b/68/48/56/3d8180d6-47e7-4b37-812a-fc851b09d927.jpg"
+      },
+      {
+        "id": 55515,
+        "title": "Шерстяная юбка Rag and Bone",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 9695,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/ecf198f520945097ab5ff52f78d8d889/height/808/i/b7/fa/1b/6e/a337b392-56c2-4da5-bb6e-358851451437.jpg"
+      },
+      {
+        "id": 55530,
+        "title": "Плиссированная юбка Hood by Air",
+        "store": "tsum",
+        "color": "белый",
+        "price": 6810,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/f2d0b710c0bb63fa7122a7c880afb765/height/808/i/6f/36/31/e6/0dbaaae1-e1ea-46a4-924e-ecaf1171deb3.jpg"
+      },
+      {
+        "id": 55532,
+        "title": "Юбка-шорты Bogner Fire+Ice",
+        "store": "tsum",
+        "color": "кремовый",
+        "price": 15050,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/17f1ba247c403ac7bd649aef603a9e46/height/808/i/96/ae/99/b2/66423d5b-4faa-4450-9ad4-835cf26e6594.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55687,
+        "title": "Кожаные босоножки SW Signature 35 Stuart Weitzman",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 29950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/42892fc7fff0705388224c32ec9122a8/height/808/i/45/4d/7f/8d/b7ce299a-ec93-4f73-85e8-edbd6a0dc517.jpg"
+      },
+      {
+        "id": 1530,
+        "title": "Босоножки с ремешками на квадратном каблуке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688017/BF2626688017_68_2.jpg"
+      },
+      {
+        "id": 55451,
+        "title": "Кожаные босоножки Lily 100 Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 49500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/699e825c888111cbc9a55a0a7981f4df/height/808/i/60/f4/64/04/46cecffb-a5f3-4446-992a-a72c335eb40c.jpg"
+      },
+      {
+        "id": 57094,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12350,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/3a55d23f85225ee7b46d24e3b0502874/height/808/i/ed/bf/32/65/2c740ed0-2266-4c5d-93eb-b6976d3d6e2f.jpg"
+      },
+      {
+        "id": 57137,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/efacc2704416cb044508768565318f91/height/808/i/3b/71/b0/bf/d351f14d-2497-402c-9dff-76789890dabb.jpg"
+      },
+      {
+        "id": 133429,
+        "title": "Женские сандалии Nike Calm Mule",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 8399,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7b3/jox0o31u86ik461yizlv17i4w4s345rw.JPG"
+      },
+      {
+        "id": 133437,
+        "title": "Женские сандалии Explore Camp Sandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10499,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c09/3h4wzx1u4asod1m66pu31cbmof9uuo0x.JPG"
+      },
+      {
+        "id": 133441,
+        "title": "Женские сандалии Explore Camp Shandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 11999,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/22a/po5xwha6xu9kwjr4t72azt0zvypc36dd.JPG"
+      }
+    ],
+    [
+      {
+        "id": 86650,
+        "title": "Очки солнцезащитные овальные",
+        "store": "befree",
+        "color": "белый",
+        "price": 399,
+        "score": 0.9167,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2625360015/BF2625360015_1_11.jpg"
+      },
+      {
+        "id": 83,
+        "title": "Шапка из шерсти и мохера",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/201/FAE111119_201_20.jpg"
+      },
+      {
+        "id": 468,
+        "title": "Вязаная шапка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 699,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/201/FAE111104_201_20.jpg"
+      },
+      {
+        "id": 476,
+        "title": "Капор с шерстью",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 690,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAD/201MC/FAD111112_201MC_20.jpg"
+      },
+      {
+        "id": 1280,
+        "title": "Вязаная балаклава с добавлением шерсти",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 699,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWC/201/FWC11163_201_20.jpg"
+      },
+      {
+        "id": 4586,
+        "title": "Топ-бандо облегающий с шарфиком",
+        "store": "befree",
+        "color": "белый",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121007/BF2631121007_1_1.jpg"
+      },
+      {
+        "id": 5101,
+        "title": "Футболка-поло хлопковая с поясом-цепочкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120054/BF2631120054_1_1.jpg"
+      },
+      {
+        "id": 5468,
+        "title": "Набор носков коротких базовых (3 пары)",
+        "store": "befree",
+        "color": "белый",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/ANNESET23/ANNESET23_1.jpg"
+      }
+    ]
+  ]
+}

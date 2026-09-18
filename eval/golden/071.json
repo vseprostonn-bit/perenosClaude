@@ -1,0 +1,297 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "dress",
+      "exact": [],
+      "acceptable": [
+        159512,
+        142303
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        10583
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        159218
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "dress",
+      "category": "dress",
+      "name": "платье с цветочным рисунком",
+      "color": "белый",
+      "search_query": "платье цветочный рисунок белый",
+      "type": "платье",
+      "silhouette": "приталенный",
+      "length": "мини",
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "цветочный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "зелёные туфли",
+      "color": "зелёный",
+      "search_query": "туфли зелёные",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "светлая сумка через плечо",
+      "color": "бежевый",
+      "search_query": "сумка светлая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 135947,
+        "title": "Платье женское Diadora, Белый",
+        "store": "sportmaster",
+        "color": "белый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/ea9/109879240299.jpg"
+      },
+      {
+        "id": 140388,
+        "title": "Платье женское Lotto Squadra, Белый",
+        "store": "sportmaster",
+        "color": "белый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/18e/113602460299.jpg"
+      },
+      {
+        "id": 142303,
+        "title": "Платье женское Protest, Белый",
+        "store": "sportmaster",
+        "color": "белый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/db8/185551080299.jpg"
+      },
+      {
+        "id": 142354,
+        "title": "Платье женское Demix x AYTΛO, Белый",
+        "store": "sportmaster",
+        "color": "белый",
+        "price": 4499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/49a/185429530299.jpg"
+      },
+      {
+        "id": 159512,
+        "title": "Сатиновое платье с кружевом, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 4599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/e3f/500_600_834a/186059440299.jpg"
+      },
+      {
+        "id": 160003,
+        "title": "Хлопковое платье, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/ef8/500_600_d69a/186059450299.jpg"
+      },
+      {
+        "id": 160014,
+        "title": "Платье из смесового тенселя на тонких бретелях, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/068/500_600_7cb0/185711880299.jpg"
+      },
+      {
+        "id": 159315,
+        "title": "Платье на тонких бретелях, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/2dd/500_600_33f8/153904220299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      },
+      {
+        "id": 10336,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 11999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870025_50.jpg"
+      },
+      {
+        "id": 10583,
+        "title": "Туфли-лодочки из атласа",
+        "store": "loverepublic",
+        "color": null,
+        "price": 5999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/54427/thumb/300_9999/544270035_90.jpg"
+      },
+      {
+        "id": 54961,
+        "title": "Кожаные туфли Strut Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 19950,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/f6fd8d2f6946edb6279ab9960290c3fc/height/808/i/d1/04/a8/c4/12e31ed1-f374-42dd-95ee-835985047531.jpg"
+      },
+      {
+        "id": 55013,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14850,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/71898f8f7ce5612f7a4874f40114c40b/height/808/i/78/f2/91/3b/519dc7c8-a7b5-427c-b844-47c6cd42cca6.jpg"
+      },
+      {
+        "id": 58559,
+        "title": "Домашние туфли из кожи Babbi",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 6395,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/478182453a1cd86f6218032eee3f1620/height/808/i/5a/a1/fe/79/5aa1fe79-78a0-3b0c-9589-773e293ef924.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.5909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_20_11.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1967,
+        "title": "Сумка-багет через плечо замшевая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457027/BF2635457027_62_1.jpeg"
+      },
+      {
+        "id": 91745,
+        "title": "Сумка через плечо Hot Shot Crossbody Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/957/1000_1000_0/bz4rndmxci2fv7lrxflz4g0fls8hxknh.jpg"
+      },
+      {
+        "id": 93912,
+        "title": "Сумка через плечо PUMA HER Half Moon Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3199,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4a6/ekolveyxg20x5sthw5l6zmu6p7wku9cb.jpg"
+      },
+      {
+        "id": 111927,
+        "title": "Сумка через плечо Terra Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3699,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/838/8bpimo151vm5p5apnntfv415mfqlsa6q.jpg"
+      },
+      {
+        "id": 114418,
+        "title": "Сумка через плечо Mini Canvas Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 2399,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e6b/idg4rai5j9bui8rujtzesuelu43ove43.jpg"
+      },
+      {
+        "id": 133170,
+        "title": "Сумка через плечо Alva Medium",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/9ff/3fur64te2cmyk4isxt8y82pbkzvgfsa6.jpg"
+      },
+      {
+        "id": 148175,
+        "title": "Сумка через плечо Reebok Arlo, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1699,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/a0a/195097800299.jpg"
+      },
+      {
+        "id": 159218,
+        "title": "Сумка через плечо, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/1eb/500_600_ce2e/185536570299.jpg"
+      }
+    ]
+  ]
+}

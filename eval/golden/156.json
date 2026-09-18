@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Летний городской шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка белая классическая",
+      "color": "белый",
+      "search_query": "рубашка классика белый",
+      "type": "рубашка",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки белые широкие",
+      "color": "белый",
+      "search_query": "брюки широкие белый",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумочка голубая плетеная",
+      "color": "голубой",
+      "search_query": "сумка плетеная голубой",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "колье золотое сердечко",
+      "color": "золотой",
+      "search_query": "колье сердце золотое",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1813,
+        "title": "Рубашка классическая приталенная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Cambridge13/Cambridge13_1_1.jpg"
+      },
+      {
+        "id": 54542,
+        "title": "Удлиненная белая рубашка увеличенного объема для девочек",
+        "store": "sela",
+        "color": "белый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://www.sela.ru/wa-data/public/shop/products/96/70/217096/images/952480/952480.970.jpg"
+      },
+      {
+        "id": 157570,
+        "title": "Длинная рубашка из лиоцелла, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/ce1/500_600_846a/187002080299.jpg"
+      },
+      {
+        "id": 159415,
+        "title": "Льняная рубашка с длинным рукавом, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/6c9/500_600_870a/186021050299.jpg"
+      },
+      {
+        "id": 155858,
+        "title": "Хлопковая рубашка с галстуком, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/209/500_600_b767/163668170299.jpg"
+      },
+      {
+        "id": 159100,
+        "title": "Приталенная рубашка из хлопка, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/756/500_600_1975/162250500299.jpg"
+      },
+      {
+        "id": 3218,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_1_1.jpg"
+      },
+      {
+        "id": 3220,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_4_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2637,
+        "title": "Брюки широкие из гобелена со средней посадкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 4799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308011/BF2641308011_99_1.jpg"
+      },
+      {
+        "id": 2361,
+        "title": "Брюки широкие хлопковые с вышивкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308035/BF2621308035_1_1.jpg"
+      },
+      {
+        "id": 4936,
+        "title": "Брюки широкие из жатого хлопка",
+        "store": "befree",
+        "color": "белый",
+        "price": 1299,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308003/BF2631308003_1_1.jpg"
+      },
+      {
+        "id": 6221,
+        "title": "Брюки широкие хлопковые на завязках с вышивкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308008/BF2621308008_1_1.jpg"
+      },
+      {
+        "id": 1767,
+        "title": "Брюки прямые на завязках с лампасами",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308003/BF2632308003_1_1.jpg"
+      },
+      {
+        "id": 7802,
+        "title": "Брюки домашние атласные на резинке",
+        "store": "befree",
+        "color": "белый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808021/BF2631808021_4_1.jpg"
+      },
+      {
+        "id": 54887,
+        "title": "Брюки Aquilano Rimondi",
+        "store": "tsum",
+        "color": "белый",
+        "price": 8495,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/113fe44eb59ea483f73963f929ca1121/height/808/i/78/8e/c6/75/24186c32-77e8-41ec-a7c1-789a0ccf6746.jpg"
+      },
+      {
+        "id": 55538,
+        "title": "Брюки из вискозы Paade Mode",
+        "store": "tsum",
+        "color": "белый",
+        "price": 4795,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/4801e3c588b6103c985e9e81366a6cdd/height/808/i/73/ab/c4/8d/79d45b60-1a7b-49e2-a84c-bb798d01d542.jpg"
+      }
+    ],
+    [
+      {
+        "id": 159740,
+        "title": "Сумка из сетки для девочек, Голубой",
+        "store": "ostin",
+        "color": "голубой",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/5bc/500_600_17ed/180437460299.jpg"
+      },
+      {
+        "id": 7929,
+        "title": "Сумка через плечо каркасная из искусственной кожи с карабином",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457077/BF2635457077_41_1.jpg"
+      },
+      {
+        "id": 8767,
+        "title": "Сумка-боулинг с короткой ручкой из искусственной кожи",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457009/BF2635457009_43_11.jpg"
+      },
+      {
+        "id": 58004,
+        "title": "Сумка Jade Colori Nannacay",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 6230,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/796239e617bd1b3299fb80b601764be5/height/808/i/fe/7f/24/ba/fe7f24ba-83fa-3b13-b2ba-961425d86d71.jpg"
+      },
+      {
+        "id": 88543,
+        "title": "Поясная сумка Terra Lumbar",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 4599,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/2dd/1000_1000_0/p7ey2owcmmstayt2okpzsfgc8cn7fb99.jpg"
+      },
+      {
+        "id": 89640,
+        "title": "Поясная сумка Never Stop Lumbar",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 3499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/d73/1000_1000_0/423rl0pots8d88lq8x0d1ammh6yonfxy.jpg"
+      },
+      {
+        "id": 111284,
+        "title": "Поясная сумка Abanu Multi",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 5899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/506/1ll0jjb9to8dwh0m1nevfi5aszbloaz9.jpg"
+      },
+      {
+        "id": 140475,
+        "title": "Сумка для скейтборда Termit, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 399,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/4eb/115675340299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 155889,
+        "title": "Пояс-цепь с декоративными подвесками, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/81e/500_600_b149/173711150299.jpg"
+      },
+      {
+        "id": 157521,
+        "title": "Серьги-пусеты, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cda/500_600_7031/186269640299.jpg"
+      },
+      {
+        "id": 158062,
+        "title": "Серьги с искусственным камнем, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/024/500_600_dbf8/176216140299.jpg"
+      },
+      {
+        "id": 158306,
+        "title": "Солнцезащитные очки, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/8e4/500_600_b65b/186590890299.jpg"
+      },
+      {
+        "id": 158308,
+        "title": "Солнцезащитные очки, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 1399,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/456/500_600_2386/186279190299.jpg"
+      },
+      {
+        "id": 158349,
+        "title": "Серьги-пусеты с жемчугом и кораллами, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/421/500_600_451f/186370800299.jpg"
+      },
+      {
+        "id": 158352,
+        "title": "Серьги, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/c8a/500_600_cebc/186590600299.jpg"
+      },
+      {
+        "id": 158382,
+        "title": "Солнцезащитные очки, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 1399,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/2c7/500_600_8c37/186279700299.jpg"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        55013
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "джинсовый бомбер",
+      "color": "голубой",
+      "search_query": "бомбер джинсовый голубой",
+      "type": "куртка",
+      "silhouette": "оверсайз",
+      "length": "укороченный",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка-миди",
+      "color": "черный",
+      "search_query": "юбка миди черная",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли",
+      "color": "черный",
+      "search_query": "туфли черные",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 138008,
+        "title": "Куртка софтшелл женская Columbia AmazeStretch Jacket, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/b6f/179203580299.jpg"
+      },
+      {
+        "id": 139156,
+        "title": "Куртка горнолыжная женская Glissade, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/de1/189947890299.jpg"
+      },
+      {
+        "id": 140072,
+        "title": "Куртка сноубордическая мембранная женская Termit, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 8999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/0a3/194144050299.jpg"
+      },
+      {
+        "id": 142528,
+        "title": "Легкая куртка для девочек оверсайз Northland, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 4499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2d5/195397090299.jpg"
+      },
+      {
+        "id": 143051,
+        "title": "Куртка сноубордическая мембранная женская Termit, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/6c8/194088190299.jpg"
+      },
+      {
+        "id": 9037,
+        "title": "Куртка-бомбер с капюшоном утепленная",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2611601002/BF2611601002_41_1.jpg"
+      },
+      {
+        "id": 139444,
+        "title": "Куртка горнолыжная женская Ziener, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 20799,
+        "score": 0.8636,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/36d/136137220299.jpg"
+      },
+      {
+        "id": 143214,
+        "title": "Куртка утепленная женская Mountain Hardwear Stretch Ozonic, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 31999,
+        "score": 0.8636,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/353/130419900299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 31,
+        "title": "Юбка женская",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11164_200_20.jpg"
+      },
+      {
+        "id": 1239,
+        "title": "Плисированная юбка-мини на резинке",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSF/200/FSF110178R_200_20.jpg"
+      },
+      {
+        "id": 1456,
+        "title": "Юбка с шерстью и кашемиром",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWD/200/FWD11145_200_20.jpg"
+      },
+      {
+        "id": 1892,
+        "title": "Юбка-шорты мини в складку с ремешком",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632312009/BF2632312009_50_1.jpg"
+      },
+      {
+        "id": 1942,
+        "title": "Юбка-шорты мини костюмная",
+        "store": "befree",
+        "color": "черный",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312013/BF2631312013_50_1.jpg"
+      },
+      {
+        "id": 3880,
+        "title": "Юбка-мини с кожаной фактурой и кружевом",
+        "store": "befree",
+        "color": "черный",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641312008/BF2641312008_50_1.jpg"
+      },
+      {
+        "id": 4825,
+        "title": "Юбка-шорты мини костюмная в складку",
+        "store": "befree",
+        "color": "черный",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312028/BF2631312028_50_1.jpg"
+      },
+      {
+        "id": 5364,
+        "title": "Юбка прямая мини с длинной бахромой",
+        "store": "befree",
+        "color": "черный",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641312004/BF2641312004_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 54961,
+        "title": "Кожаные туфли Strut Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 19950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f6fd8d2f6946edb6279ab9960290c3fc/height/808/i/d1/04/a8/c4/12e31ed1-f374-42dd-95ee-835985047531.jpg"
+      },
+      {
+        "id": 55013,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14850,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/71898f8f7ce5612f7a4874f40114c40b/height/808/i/78/f2/91/3b/519dc7c8-a7b5-427c-b844-47c6cd42cca6.jpg"
+      },
+      {
+        "id": 55682,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 26350,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/51f2d2ef27aa9873c8b5dbfc5045a743/height/808/i/14/24/f9/b6/e705df01-99ae-4ef7-8128-31e93dac9f13.jpg"
+      },
+      {
+        "id": 8202,
+        "title": "Туфли-лодочки на фигурном каблуке из искусственной замши",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636683034/BF2636683034_50_1.jpg"
+      },
+      {
+        "id": 54832,
+        "title": "Замшевые туфли Stuart Crystal Fleur 85 Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 48980,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/db9c5207aef5a16716f7bcaac8c8e238/height/808/i/95/f6/01/70/fd20ccc8-0dc7-4861-8123-75af1522eccb.jpg"
+      },
+      {
+        "id": 54983,
+        "title": "Замшевые туфли Wrap Up Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 31950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/d4c114a0fe0a15afff375115a1445dd0/height/808/i/7a/02/b1/17/1ba9756d-0d4b-4f66-8a05-e4cb376fd08b.jpg"
+      },
+      {
+        "id": 55671,
+        "title": "Кожаные туфли Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 34850,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c9cb53593107536f58802ecccc537bbd/height/808/i/77/23/19/12/c52b0304-d214-4884-bafd-b8c2b1731b93.jpg"
+      },
+      {
+        "id": 55686,
+        "title": "Кожаные туфли Vida 75 Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 29950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/e3d43ac4e1dcb2f99c8abc6b0be7e2fc/height/808/i/0a/d2/d8/86/d358bc68-1491-4ba1-a7df-bcad6045795b.jpg"
+      }
+    ]
+  ]
+}

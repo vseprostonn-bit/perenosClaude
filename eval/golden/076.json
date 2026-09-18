@@ -1,0 +1,293 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [
+        36
+      ],
+      "acceptable": [],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка белая",
+      "color": "белый",
+      "search_query": "футболка белая",
+      "type": "футболка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки бежевые широкие",
+      "color": "бежевый",
+      "search_query": "брюки широкие бежевые",
+      "type": "брюки",
+      "silhouette": "приталенный",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 23,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17016_201_20.jpg"
+      },
+      {
+        "id": 36,
+        "title": "Футболка прямого кроя из джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100197_201_20.jpg"
+      },
+      {
+        "id": 104,
+        "title": "Футболка прямого кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11031_201_20.jpg"
+      },
+      {
+        "id": 314,
+        "title": "Спортивная футболка из технологичного трикотажа",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CBG/201/CBG17006_201_20.jpg"
+      },
+      {
+        "id": 437,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17006_201_20.jpg"
+      },
+      {
+        "id": 438,
+        "title": "Футболка из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/201/FAF110144_201_20.jpg"
+      },
+      {
+        "id": 612,
+        "title": "Футболка с круглым вырезом",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBC/201/FBC11085_201_20.jpg"
+      },
+      {
+        "id": 1317,
+        "title": "Футболка полуприлегающего кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/201/FSG110116-1P_201_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2630,
+        "title": "Брюки широкие из тенсела на завязках с кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308025/BF2621308025_62_1.jpg"
+      },
+      {
+        "id": 4956,
+        "title": "Брюки широкие костюмные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308001/BF2641308001_64_100.jpg"
+      },
+      {
+        "id": 5970,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_61_1.jpg"
+      },
+      {
+        "id": 6357,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_61_1.jpg"
+      },
+      {
+        "id": 2449,
+        "title": "Брюки-баллоны трикотажные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641108004/BF2641108004_36_100.jpg"
+      },
+      {
+        "id": 3211,
+        "title": "Брюки-джоггеры вязаные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631508001/BF2631508001_36_1.jpg"
+      },
+      {
+        "id": 3851,
+        "title": "Брюки-прямые со средней посадкой на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308059/BF2631308059_65_1.jpg"
+      },
+      {
+        "id": 4646,
+        "title": "Брюки спортивные с лампасами на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708006/BF2631708006_62_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 87339,
+        "title": "Женские кроссовки Shox R4",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/829/1kdn0ph71sdpvb4dxllxk7u8xuhwwj12.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87512,
+        "title": "Женские кроссовки PWR Hybrid Training",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/996/82zgkob37ioopsj6cyqsxoj0gt0bazbg.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87701,
+        "title": "Женские кроссовки Air Zoom Pegasus 41",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/0e1/xe3i1v8p3s9i603bjsn1bblc9vmx99nx.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87736,
+        "title": "Женские кроссовки PUMA CA Flyz",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/715/aon4e1ewoyestvns3llqbx40untua3mq.jpg"
+      },
+      {
+        "id": 87964,
+        "title": "Женские кроссовки Cali Dream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/546/0q64eb1fu7q9tpvyba3jjczd6jouecyl.jpg"
+      }
+    ]
+  ]
+}

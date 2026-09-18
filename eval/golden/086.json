@@ -1,0 +1,388 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Повседневный городской стиль.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        86583
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        86579
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка с рисунком",
+      "color": "жёлтый",
+      "search_query": "футболка рисунок жёлтый",
+      "type": "футболка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "короткий",
+      "fit": null,
+      "pattern": "принт"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "шорты в клетку",
+      "color": "красный",
+      "search_query": "шорты клетка красный",
+      "type": "шорты",
+      "silhouette": null,
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "клетка"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки",
+      "color": "красный",
+      "search_query": "кроссовки красные",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки",
+      "color": "оранжевый",
+      "search_query": "очки оранжевые",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 56472,
+        "title": "Футболка Leonard Paris",
+        "store": "tsum",
+        "color": "желтый",
+        "price": 4945,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c95dcd871b16347591e85411af1e2262/height/808/i/4a/3e/e1/79/4a3ee179-432f-3d42-b896-990d463e0e5e.jpg"
+      },
+      {
+        "id": 86583,
+        "title": "Футболка прямая с принтом",
+        "store": "befree",
+        "color": "желтый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641120015/BF2641120015_9_100.jpg"
+      },
+      {
+        "id": 95898,
+        "title": "Женская футболка PUMA DOWNTOWN Relaxed Graphic Tee",
+        "store": "street-beat",
+        "color": "желтый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/67a/0m6x36nsoz1jg2s078yq5pq0fb6gt0am.jpg"
+      },
+      {
+        "id": 101807,
+        "title": "Подростковая футболка Oversized Graphic Tee",
+        "store": "street-beat",
+        "color": "желтый",
+        "price": 1699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/791/bykhlpf36vhjwhwfenpnt3c7pyqoncvr.jpg"
+      },
+      {
+        "id": 123843,
+        "title": "Женская футболка S-Box",
+        "store": "street-beat",
+        "color": "желтый",
+        "price": 2199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c09/wtlq9s727qxpm0ybx33ipwzbxjj71g54.jpg"
+      },
+      {
+        "id": 128926,
+        "title": "Футболка × Keith Haring",
+        "store": "street-beat",
+        "color": "желтый",
+        "price": 2899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/762/oi2zv24aosazq5prwxrfdxloq62soyxg.jpg"
+      },
+      {
+        "id": 142807,
+        "title": "Футболка женская оверсайз Kappa, Желтый",
+        "store": "sportmaster",
+        "color": "желтый",
+        "price": 1249,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/0e8/193276490299.jpg"
+      },
+      {
+        "id": 146551,
+        "title": "Футболка женская Mountain Hardwear Sunblocker Short Sleeve, Желтый",
+        "store": "sportmaster",
+        "color": "желтый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/e65/181036680299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 86991,
+        "title": "Хлопковые шорты Forte Dei Marmi Couture",
+        "store": "tsum",
+        "color": "красный",
+        "price": 6370,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/ba9a9e3bd792b5f62c7bbe57763cb5a2/height/808/i/d3/22/19/6d/d322196d-5f81-34d0-b707-05b7a83c95c0.jpg"
+      },
+      {
+        "id": 98970,
+        "title": "Женские шорты PUMA PREMIUM ESS A-Line Shorts",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 4799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/360/7lk1ben8674qd76586zybbn6tvplf0am.jpg"
+      },
+      {
+        "id": 123602,
+        "title": "Шорты PUMA FUTURE.ARCHIVE Shorts",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 6499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7d0/w5x4aos2q91ov3pk5ticpbd1cv6pi2h1.jpg"
+      },
+      {
+        "id": 7343,
+        "title": "Шорты домашние хлопковые на резинке",
+        "store": "befree",
+        "color": "красный",
+        "price": 1599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631811016/BF2631811016_75_1.jpg"
+      },
+      {
+        "id": 82388,
+        "title": "Шорты спортивные облегающие с лампасами",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621711004/BF2621711004_70_1.jpg"
+      },
+      {
+        "id": 86579,
+        "title": "Шорты женские",
+        "store": "befree",
+        "color": "красный",
+        "price": 1799,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641811012/BF2641811012_75_100.jpg"
+      },
+      {
+        "id": 7894,
+        "title": "Шорты-бермуды домашние с принтом",
+        "store": "befree",
+        "color": "красный",
+        "price": 2299,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631811014/BF2631811014_74_1.jpg"
+      },
+      {
+        "id": 9135,
+        "title": "Комплект майка и шорты INCANTO MD1202",
+        "store": "incantoeu",
+        "color": "розовый",
+        "price": 4699,
+        "score": 0.8,
+        "photo_url": "https://incanto.eu/upload/iblock/172/7nqfflbcoojlglsfsk5iliydnx7o0gc4.jpg"
+      }
+    ],
+    [
+      {
+        "id": 87679,
+        "title": "Кроссовки XT-Whisper",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 22199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/f2a/1000_1000_0/88b43uy7hthuiay9npjza3ue3wl3tl15.jpg"
+      },
+      {
+        "id": 88513,
+        "title": "Кроссовки Speedcat OG",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 12999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/8c2/7kc0fyqcjwdfvinui0e3ctd0ykx88rm1.jpg"
+      },
+      {
+        "id": 89397,
+        "title": "Кроссовки Suede Classic XXI",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 5499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c9a/rmwyr3sfeberynlgu13b5rv2k6cm5j8y.JPG"
+      },
+      {
+        "id": 89991,
+        "title": "Женские кроссовки PWR Nitro Squared",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/250/9judqf81u42m1bstdi2k161qwamupwc9.jpg"
+      },
+      {
+        "id": 90576,
+        "title": "Кроссовки CA Pro Lux III",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c35/3xvwgelbzf0txlh6wdoo019tbeuskhtg.jpg"
+      },
+      {
+        "id": 94302,
+        "title": "Кроссовки Mostro OG Prime",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 16999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/f60/1000_1000_0/sattxojvavkn2zqt9kmf9pc8vt14pfej.jpg"
+      },
+      {
+        "id": 95694,
+        "title": "Кеды PUMA Suede Forever",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 11499,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/1a3/3zx3rfbofabf70ey2kq3q5hz7g4yw766.jpg"
+      },
+      {
+        "id": 56920,
+        "title": "Кожаные кроссовки Adam Premiata will be",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 11200,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/1df137f5aa79d715d57e43058d1a147e/height/808/i/7e/eb/f8/ed/942687b7-c83e-42e8-a677-aed8bba3aeae.jpg"
+      }
+    ],
+    [
+      {
+        "id": 146726,
+        "title": "Солнцезащитные очки Termit, Оранжевый",
+        "store": "sportmaster",
+        "color": "оранжевый",
+        "price": 1079,
+        "score": 0.8333,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/c10/146833490299.jpg"
+      },
+      {
+        "id": 148214,
+        "title": "Очки для плавания Joss Impulse Mirror, Оранжевый",
+        "store": "sportmaster",
+        "color": "оранжевый",
+        "price": 1299,
+        "score": 0.8333,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2ff/189310980299.jpg"
+      },
+      {
+        "id": 158307,
+        "title": "Солнцезащитные очки, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 799,
+        "score": 0.8333,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/2b3/500_600_598e/186590820299.jpg"
+      },
+      {
+        "id": 159206,
+        "title": "Солнцезащитные очки, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 999,
+        "score": 0.8333,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/651/500_600_6905/186279230299.jpg"
+      },
+      {
+        "id": 159553,
+        "title": "Солнцезащитные очки, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 999,
+        "score": 0.8333,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/968/500_600_5911/186279660299.jpg"
+      },
+      {
+        "id": 159790,
+        "title": "Солнцезащитные очки, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 999,
+        "score": 0.8333,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/197/500_600_1306/186590840299.jpg"
+      },
+      {
+        "id": 159979,
+        "title": "Солнцезащитные очки, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 999,
+        "score": 0.8333,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/add/500_600_f899/186590850299.jpg"
+      },
+      {
+        "id": 141798,
+        "title": "Очки для плавания Mad Wave X-Blade Mirror, Оранжевый",
+        "store": "sportmaster",
+        "color": "оранжевый",
+        "price": 3799,
+        "score": 0.75,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/543/177433570299.jpg"
+      }
+    ]
+  ]
+}

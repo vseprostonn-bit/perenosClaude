@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка зеленая",
+      "color": "зелёный",
+      "search_query": "футболка зеленый",
+      "type": "футболка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "куртка оливковая",
+      "color": "оливковый",
+      "search_query": "куртка оливковый",
+      "type": "куртка",
+      "silhouette": "оверсайз",
+      "length": "укороченный",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки белые широкие",
+      "color": "белый",
+      "search_query": "брюки широкие белый",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": null,
+      "sleeve": null,
+      "fit": "низкая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки черные",
+      "color": "черный",
+      "search_query": "очки черный",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 439,
+        "title": "Футболка из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "зеленый",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/500/FAF110144_500_20.jpg"
+      },
+      {
+        "id": 1912,
+        "title": "Футболка-поло прямая вязаная на пуговицах",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526014/BF2631526014_13_1.jpg"
+      },
+      {
+        "id": 59060,
+        "title": "Хлопковая футболка K-Way",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 3300,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/1a45f3afcf177795569c0ba190177636/height/808/i/0f/9d/e0/1c/85dd80f7-e137-4f14-a056-f443047ff196.jpg"
+      },
+      {
+        "id": 59234,
+        "title": "Хлопковая футболка K-Way",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 4310,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/fe255c0be9247f933ccd8746e0bfe7ab/height/808/i/ae/de/f1/bb/5bd01b82-5fad-4bb0-972d-9b6f6bd926fa.jpg"
+      },
+      {
+        "id": 59263,
+        "title": "Хлопковая футболка K-Way",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 3665,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/170cfa712d5c224d11638f18a8513e1d/height/808/i/ca/3c/8c/86/7c99ef7f-14ab-430a-8537-106905e0629a.jpg"
+      },
+      {
+        "id": 92745,
+        "title": "Подростковая футболка Sportswear Tee",
+        "store": "street-beat",
+        "color": "зеленый",
+        "price": 2699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/f2d/1000_1000_0/0jfjcotk0joaz253egx8mhoaip0tyq7b.jpg"
+      },
+      {
+        "id": 96644,
+        "title": "Женская футболка PUMA TAD ESSENTIAL RELAXED TEE",
+        "store": "street-beat",
+        "color": "зеленый",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/734/vcwtk6h8x5h24u6dz1wqoy9ppjmwmvp6.jpg"
+      },
+      {
+        "id": 97956,
+        "title": "Женская футболка PUMA RUN CLOUDSPUN SS TEE W",
+        "store": "street-beat",
+        "color": "зеленый",
+        "price": 2699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/023/6fsks49o6qn63wlk9v5vlc1ue1iyqdnt.jpg"
+      }
+    ],
+    [
+      {
+        "id": 890,
+        "title": "Утепленная куртка со съемным капюшоном",
+        "store": "finnflare",
+        "color": null,
+        "price": 7990,
+        "score": 0.875,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAC/705/FAC11097_705_20.jpg"
+      },
+      {
+        "id": 1857,
+        "title": "Куртка-косуха из искусственной кожи со шнуровкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.875,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621601008/BF2621601008_22_1.jpg"
+      },
+      {
+        "id": 1891,
+        "title": "Куртка-бомбер из искусственной замши утепленная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 5999,
+        "score": 0.875,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601006/BF2631601006_22_1.jpg"
+      },
+      {
+        "id": 1932,
+        "title": "Куртка-бомбер из искусственной замши утепленная",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 4999,
+        "score": 0.875,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601006/BF2631601006_13_1.jpg"
+      },
+      {
+        "id": 2036,
+        "title": "Куртка-бомбер с кожаной фактурой утепленная без капюшона",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3999,
+        "score": 0.875,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2611601008/BF2611601008_22_1.jpg"
+      },
+      {
+        "id": 2610,
+        "title": "Куртка-косуха свободная с ремнем",
+        "store": "befree",
+        "color": "черный",
+        "price": 3799,
+        "score": 0.875,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2611601034/BF2611601034_50_1.jpg"
+      },
+      {
+        "id": 2937,
+        "title": "Куртка-бомбер без капюшона из фактурной ткани",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.875,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621601043/BF2621601043_22_1.jpg"
+      },
+      {
+        "id": 3257,
+        "title": "Куртка-бомбер из искусственной кожи с воротником-стойкой и ремешком",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4999,
+        "score": 0.875,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601042/BF2631601042_68_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2637,
+        "title": "Брюки широкие из гобелена со средней посадкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 4799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308011/BF2641308011_99_1.jpg"
+      },
+      {
+        "id": 2361,
+        "title": "Брюки широкие хлопковые с вышивкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308035/BF2621308035_1_1.jpg"
+      },
+      {
+        "id": 4936,
+        "title": "Брюки широкие из жатого хлопка",
+        "store": "befree",
+        "color": "белый",
+        "price": 1299,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308003/BF2631308003_1_1.jpg"
+      },
+      {
+        "id": 6221,
+        "title": "Брюки широкие хлопковые на завязках с вышивкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308008/BF2621308008_1_1.jpg"
+      },
+      {
+        "id": 1767,
+        "title": "Брюки прямые на завязках с лампасами",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308003/BF2632308003_1_1.jpg"
+      },
+      {
+        "id": 7802,
+        "title": "Брюки домашние атласные на резинке",
+        "store": "befree",
+        "color": "белый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808021/BF2631808021_4_1.jpg"
+      },
+      {
+        "id": 54887,
+        "title": "Брюки Aquilano Rimondi",
+        "store": "tsum",
+        "color": "белый",
+        "price": 8495,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/113fe44eb59ea483f73963f929ca1121/height/808/i/78/8e/c6/75/24186c32-77e8-41ec-a7c1-789a0ccf6746.jpg"
+      },
+      {
+        "id": 55538,
+        "title": "Брюки из вискозы Paade Mode",
+        "store": "tsum",
+        "color": "белый",
+        "price": 4795,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/4801e3c588b6103c985e9e81366a6cdd/height/808/i/73/ab/c4/8d/79d45b60-1a7b-49e2-a84c-bb798d01d542.jpg"
+      }
+    ],
+    [
+      {
+        "id": 7504,
+        "title": "Очки имиджевые в круглой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635360006/BF2635360006_50_1.jpg"
+      },
+      {
+        "id": 82373,
+        "title": "Очки солнцезащитные в широкой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2525360040/BF2525360040_50_1.jpg"
+      },
+      {
+        "id": 56,
+        "title": "Шапка женская",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11155_200_20.jpg"
+      },
+      {
+        "id": 66,
+        "title": "Снуд",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF91406_200_20.jpg"
+      },
+      {
+        "id": 70,
+        "title": "Шапка из хлопка",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 2499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF111146_200_20.jpg"
+      },
+      {
+        "id": 76,
+        "title": "Варежки из ангоры и шерсти",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11150_200_20.jpg"
+      },
+      {
+        "id": 129,
+        "title": "Лонгслив-термобелье с хлопком",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/200/FAE110197_200_20.jpg"
+      },
+      {
+        "id": 159,
+        "title": "Трикотажные перчатки",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF11307_200_30.jpg"
+      }
+    ]
+  ]
+}

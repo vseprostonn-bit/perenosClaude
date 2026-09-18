@@ -1,0 +1,487 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Лето, деним, casual.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        5424,
+        6270,
+        5484
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        7844,
+        6874
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        710
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [
+        86650
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ без бретелей",
+      "color": "синий",
+      "search_query": "топ без бретелей синий",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "джинсы широкие",
+      "color": "синий",
+      "search_query": "джинсы широкие синий",
+      "type": "джинсы",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "коричневый",
+      "search_query": "босоножки коричневый",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка плетеная",
+      "color": "бежевый",
+      "search_query": "сумка плетеная бежевый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "плетеный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки солнцезащитные",
+      "color": "белый",
+      "search_query": "очки солнцезащитные белый",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 8255,
+        "title": "Топ облегающий на тонких бретелях",
+        "store": "befree",
+        "color": "синий",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121023/BF2631121023_47_1.jpg"
+      },
+      {
+        "id": 1183,
+        "title": "Майка приталенного силуэта",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 999,
+        "score": 0.8182,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/180/BAS-100184_180_20.jpg"
+      },
+      {
+        "id": 56232,
+        "title": "Льняной топ Lisa Marie Fernandez",
+        "store": "tsum",
+        "color": "синий",
+        "price": 18250,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/ee52bb8cde22607aadc6fcb4cc329614/height/808/i/1c/a0/60/8d/1ca0608d-85c4-3cd9-b567-4c2aca378cf1.jpg"
+      },
+      {
+        "id": 56365,
+        "title": "Шелковый топ Kika Vargas",
+        "store": "tsum",
+        "color": "синий",
+        "price": 34750,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/ee2430670ba4eb15fd2262f24bb8262f/height/808/i/bd/49/e6/2d/a6198e3b-b568-4ab3-b776-719ae4eefda5.jpg"
+      },
+      {
+        "id": 56989,
+        "title": "Бра-топ Bond-eye Australia",
+        "store": "tsum",
+        "color": "синий",
+        "price": 7975,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/8d7365138d1547b691dd0e0090bd6e5e/height/808/i/6d/a0/f2/03/7d4463a6-fb2f-4e7b-8d70-0dfe46e65959.jpg"
+      },
+      {
+        "id": 57201,
+        "title": "Шелковый топ Brock Collection",
+        "store": "tsum",
+        "color": "синий",
+        "price": 26300,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/4ee3735e1f88a3d0eb2733726985ad68/height/808/i/e7/74/92/f3/e77492f3-28f2-3638-b3e0-d1f6946aba5d.jpg"
+      },
+      {
+        "id": 57453,
+        "title": "Топ Philosophy di Lorenzo Serafini",
+        "store": "tsum",
+        "color": "синий",
+        "price": 6515,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/b4c34518a1b9488092dc5d1138ac4530/height/808/i/c1/7e/06/7c/c17e067c-e0f2-3069-ad6e-1bb38ef286f6.jpg"
+      },
+      {
+        "id": 58235,
+        "title": "Бра-топ Bond-eye Australia",
+        "store": "tsum",
+        "color": "синий",
+        "price": 7870,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/898822c8c6a70666026a6568fbe9999d/height/808/i/cf/4c/6f/72/3cc7e53a-da6b-47a5-9fc2-eebcd36b62ad.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3150,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Wide19col106H/Wide19col106H_106_1.jpg"
+      },
+      {
+        "id": 3376,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 1499,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Wide13col110/Wide13col110_110_1.jpg"
+      },
+      {
+        "id": 3751,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Wide20col106H/Wide20col106H_106_1.jpg"
+      },
+      {
+        "id": 4860,
+        "title": "Джинсы широкие со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631209049/BF2631209049_106_1.jpg"
+      },
+      {
+        "id": 5394,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Wide14col110/Wide14col110_110_1.jpg"
+      },
+      {
+        "id": 5424,
+        "title": "Джинсы широкие со средней посадкой в китайском стиле",
+        "store": "befree",
+        "color": "синий",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209082/BF2621209082_106_1.jpg"
+      },
+      {
+        "id": 5484,
+        "title": "Джинсы широкие со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631209080/BF2631209080_106_1.jpg"
+      },
+      {
+        "id": 6270,
+        "title": "Джинсы широкие из лиоцелла со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631209032/BF2631209032_106_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55398,
+        "title": "Кожаные босоножки String Paul Andrew",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 31650,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c6740f124e14161cbfe1459fffdfecb1/height/808/i/08/cd/21/ee/88d93c0f-0c83-47fd-b54a-c9561cebd9cd.jpg"
+      },
+      {
+        "id": 55433,
+        "title": "Кожаные босоножки String Paul Andrew",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 31650,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/0224ca75597f6ec2e74f3c2467754d92/height/808/i/3d/21/55/78/9e754e60-ba0e-4a7e-baac-2e84d288ec90.jpg"
+      },
+      {
+        "id": 4427,
+        "title": "Босоножки с помпоном из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688016/BF2626688016_20_1.jpg"
+      },
+      {
+        "id": 6874,
+        "title": "Босоножки на каблуке с квадратным мысом и бантиком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688007/BF2626688007_20_11.jpg"
+      },
+      {
+        "id": 7844,
+        "title": "Босоножки из искусственной кожи на платформе с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688018/BF2626688018_20_11.jpg"
+      },
+      {
+        "id": 3816,
+        "title": "Сандалии-гладиаторы высокие с замшевой фактурой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.7727,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688012/BF2626688012_63_11.jpg"
+      },
+      {
+        "id": 55357,
+        "title": "Сандалии Alberta Ferretti",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 27850,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/c16a435eb87796c7a3c18098657fb5a5/height/808/i/7e/47/33/a8/7e4733a8-61fb-3ed2-9cfb-c3e0d3e5350c.jpg"
+      },
+      {
+        "id": 55694,
+        "title": "Кожаные сандалии Jopee Isabel Marant",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 35600,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/8bbd87fdd1bd81a48354f5edbe9fb806/height/808/i/72/df/03/d9/3af1705b-a651-44a9-9490-b05e3fc3a48b.jpg"
+      }
+    ],
+    [
+      {
+        "id": 710,
+        "title": "Плетеная сумка из рафии",
+        "store": "finnflare",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/630/FSG11200_630_30.jpg"
+      },
+      {
+        "id": 136166,
+        "title": "Сумка Kappa, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2f8/141177690299.jpg"
+      },
+      {
+        "id": 139499,
+        "title": "Сумка PUMA, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/78f/194301880299.jpg"
+      },
+      {
+        "id": 139612,
+        "title": "Сумка adidas, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5399,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/23c/190704020299.jpg"
+      },
+      {
+        "id": 139845,
+        "title": "Сумка adidas Leo Bowling Bag, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/29a/195097850299.jpg"
+      },
+      {
+        "id": 140142,
+        "title": "Сумка Demix, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/792/111673430299.jpg"
+      },
+      {
+        "id": 141002,
+        "title": "Сумка для коврика Sensana, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1699,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2c2/162786200299.jpg"
+      },
+      {
+        "id": 146216,
+        "title": "Сумка Reebok Arlo, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/21c/194954490299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 86650,
+        "title": "Очки солнцезащитные овальные",
+        "store": "befree",
+        "color": "белый",
+        "price": 399,
+        "score": 0.9167,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2625360015/BF2625360015_1_11.jpg"
+      },
+      {
+        "id": 83,
+        "title": "Шапка из шерсти и мохера",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/201/FAE111119_201_20.jpg"
+      },
+      {
+        "id": 468,
+        "title": "Вязаная шапка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 699,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/201/FAE111104_201_20.jpg"
+      },
+      {
+        "id": 476,
+        "title": "Капор с шерстью",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 690,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAD/201MC/FAD111112_201MC_20.jpg"
+      },
+      {
+        "id": 1280,
+        "title": "Вязаная балаклава с добавлением шерсти",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 699,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWC/201/FWC11163_201_20.jpg"
+      },
+      {
+        "id": 4586,
+        "title": "Топ-бандо облегающий с шарфиком",
+        "store": "befree",
+        "color": "белый",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121007/BF2631121007_1_1.jpg"
+      },
+      {
+        "id": 5101,
+        "title": "Футболка-поло хлопковая с поясом-цепочкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120054/BF2631120054_1_1.jpg"
+      },
+      {
+        "id": 5468,
+        "title": "Набор носков коротких базовых (3 пары)",
+        "store": "befree",
+        "color": "белый",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/ANNESET23/ANNESET23_1.jpg"
+      }
+    ]
+  ]
+}

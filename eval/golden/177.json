@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Стильный городской аутфит.",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "Плащ оверсайз",
+      "color": "серый",
+      "search_query": "плащ оверсайз серый",
+      "type": "плащ",
+      "silhouette": "оверсайз",
+      "length": "удлинённый",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "Юбка-карандаш",
+      "color": "черный",
+      "search_query": "юбка карандаш черный",
+      "type": "юбка",
+      "silhouette": "приталенный",
+      "length": "мини",
+      "sleeve": null,
+      "fit": "высокая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "Ботильоны",
+      "color": "черный",
+      "search_query": "ботильоны черные",
+      "type": "ботильоны",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "Сумка через плечо",
+      "color": "черный",
+      "search_query": "сумка черная",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 155984,
+        "title": "Однобортный длинный плащ, Серый",
+        "store": "ostin",
+        "color": "серый",
+        "price": 2999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cfe/500_600_3cc9/147715720299.jpg"
+      },
+      {
+        "id": 141085,
+        "title": "Пальто утепленное для девочек оверсайз Outventure, Серый",
+        "store": "sportmaster",
+        "color": "серый",
+        "price": 6999,
+        "score": 0.6909,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/12c/177357360299.jpg"
+      },
+      {
+        "id": 3726,
+        "title": "Куртка оверсайз вельветовая с меховым воротником утепленная",
+        "store": "befree",
+        "color": "серый",
+        "price": 5599,
+        "score": 0.6,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601004/BF2641601004_32_1.jpg"
+      },
+      {
+        "id": 6341,
+        "title": "Кардиган оверсайз длинный вязаный",
+        "store": "befree",
+        "color": "серый",
+        "price": 4999,
+        "score": 0.6,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527039/BF2631527039_33_1.jpg"
+      },
+      {
+        "id": 6555,
+        "title": "Кардиган оверсайз вязаный с капюшоном",
+        "store": "befree",
+        "color": "серый",
+        "price": 4599,
+        "score": 0.6,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527030/BF2641527030_38_1.jpg"
+      },
+      {
+        "id": 6562,
+        "title": "Бомбер оверсайз с капюшоном утепленный",
+        "store": "befree",
+        "color": "серый",
+        "price": 6999,
+        "score": 0.6,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601047/BF2641601047_32_1.jpg"
+      },
+      {
+        "id": 7906,
+        "title": "Куртка оверсайз с капюшоном утепленная",
+        "store": "befree",
+        "color": "серый",
+        "price": 4599,
+        "score": 0.6,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601060/BF2631601060_32_1.jpg"
+      },
+      {
+        "id": 8246,
+        "title": "Куртка-бомбер оверсайз утепленная с капюшоном",
+        "store": "befree",
+        "color": "серый",
+        "price": 4999,
+        "score": 0.6,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601010/BF2631601010_37_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 31,
+        "title": "Юбка женская",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11164_200_20.jpg"
+      },
+      {
+        "id": 1239,
+        "title": "Плисированная юбка-мини на резинке",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSF/200/FSF110178R_200_20.jpg"
+      },
+      {
+        "id": 1456,
+        "title": "Юбка с шерстью и кашемиром",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWD/200/FWD11145_200_20.jpg"
+      },
+      {
+        "id": 1892,
+        "title": "Юбка-шорты мини в складку с ремешком",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632312009/BF2632312009_50_1.jpg"
+      },
+      {
+        "id": 1942,
+        "title": "Юбка-шорты мини костюмная",
+        "store": "befree",
+        "color": "черный",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312013/BF2631312013_50_1.jpg"
+      },
+      {
+        "id": 3864,
+        "title": "Юбка-шорты мини облегающая костюмная",
+        "store": "befree",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312032/BF2631312032_50_1.jpg"
+      },
+      {
+        "id": 3880,
+        "title": "Юбка-мини с кожаной фактурой и кружевом",
+        "store": "befree",
+        "color": "черный",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641312008/BF2641312008_50_1.jpg"
+      },
+      {
+        "id": 4825,
+        "title": "Юбка-шорты мини костюмная в складку",
+        "store": "befree",
+        "color": "черный",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312028/BF2631312028_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2426,
+        "title": "Ботильоны на каблуке с острым носом и шнуровкой",
+        "store": "befree",
+        "color": "черный",
+        "price": 6299,
+        "score": 0.4545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2646687005/BF2646687005_50_1.jpg"
+      },
+      {
+        "id": 4976,
+        "title": "Ботильоны замшевые на каблуке",
+        "store": "befree",
+        "color": "черный",
+        "price": 6999,
+        "score": 0.4545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2646687002/BF2646687002_50_1.jpg"
+      },
+      {
+        "id": 4985,
+        "title": "Ботильоны на каблуке с квадратным носом",
+        "store": "befree",
+        "color": "черный",
+        "price": 5999,
+        "score": 0.4545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2646687026/BF2646687026_50_1.jpg"
+      },
+      {
+        "id": 5303,
+        "title": "Ботильоны из натуральной замши со складками и декором",
+        "store": "befree",
+        "color": "черный",
+        "price": 7299,
+        "score": 0.4545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636684002/BF2636684002_50_11.jpg"
+      },
+      {
+        "id": 55116,
+        "title": "Ботильоны Slaine 80 Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22050,
+        "score": 0.4545,
+        "photo_url": "https://st-cdn.tsum.com/sig/e1b47ab504518604d057ebd3e4ac2a53/height/808/i/66/e8/11/3c/8beca07b-96c7-433e-9865-196d7a7937bd.jpg"
+      },
+      {
+        "id": 85717,
+        "title": "Ботильоны на фигурном каблуке с широким голенищем",
+        "store": "befree",
+        "color": "черный",
+        "price": 6599,
+        "score": 0.4545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2646687027/BF2646687027_50_1.jpg"
+      },
+      {
+        "id": 86598,
+        "title": "Ботильоны на широком каблуке",
+        "store": "befree",
+        "color": "черный",
+        "price": 6599,
+        "score": 0.4545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2646687034/BF2646687034_50_1.jpg"
+      },
+      {
+        "id": 3305,
+        "title": "Ботильоны на каблуке из искусственной кожи с ремешками",
+        "store": "befree",
+        "color": "черный",
+        "price": 4999,
+        "score": 0.4091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636687003/BF2636687003_50_14.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4489,
+        "title": "Сумка на плечо с заклепками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457075/BF2635457075_50_11.jpg"
+      },
+      {
+        "id": 5976,
+        "title": "Сумка-багет на плечо со значками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457050/BF2635457050_50_11.jpg"
+      },
+      {
+        "id": 6841,
+        "title": "Сумка-тоут через плечо спортивная",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457052/BF2635457052_50_1.jpg"
+      },
+      {
+        "id": 87487,
+        "title": "Сумка через плечо Clyffe Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9c6/1000_1000_0/isb8aibvkgrjkknhgz1zkjxbm2mpqbtp.jpg"
+      },
+      {
+        "id": 87488,
+        "title": "Сумка через плечо Glen Canyon Pocket Cross Body",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/8a4/1000_1000_0/16gn8p01n28uufs09fwaow929yjxt13d.jpg"
+      },
+      {
+        "id": 87567,
+        "title": "Сумка через плечо Bail Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 3499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/2dd/p3d01jtovbkvtxbxtr7imfpwc41yxhm4.jpg"
+      },
+      {
+        "id": 87868,
+        "title": "Сумка через плечо Never Stop Utility Sling Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9cb/1000_1000_0/r4g20yagotuqpo2kahnnqtzvs0ey2hqj.jpg"
+      },
+      {
+        "id": 87990,
+        "title": "Сумка через плечо PUMA FUTURE.ARCHIVE Crossbody",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/ec4/v2hub7vo3gpbrj5z71ozppxbt6zsnpfw.jpg"
+      }
+    ]
+  ]
+}

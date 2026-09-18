@@ -1,0 +1,388 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Повседневный городской стиль.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        8169
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        2459
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка полосатая",
+      "color": "синий",
+      "search_query": "футболка полоса синяя",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган оверсайз",
+      "color": "коричневый",
+      "search_query": "кардиган оверсайз коричневый",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "джинсы синие",
+      "color": "синий",
+      "search_query": "джинсы синие",
+      "type": "джинсы",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1914,
+        "title": "Футболка-поло прямая вязаная на пуговицах",
+        "store": "befree",
+        "color": "синий",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526014/BF2631526014_47_1.jpg"
+      },
+      {
+        "id": 6596,
+        "title": "Футболка вязаная на пуговицах с воротником-стойкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527077/BF2641527077_47_1.jpg"
+      },
+      {
+        "id": 8169,
+        "title": "Футболка-поло прямая хлопковая на пуговицах",
+        "store": "befree",
+        "color": "синий",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120047/BF2631120047_47_1.jpg"
+      },
+      {
+        "id": 55076,
+        "title": "Укороченная футболка из хлопка Aspesi",
+        "store": "tsum",
+        "color": "синий",
+        "price": 3105,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/a30ba978bd9585275da0dcc700d2c999/height/808/i/7c/e5/92/e9/7ce592e9-9cc9-3aca-aecc-7c626d9236ce.jpg"
+      },
+      {
+        "id": 57703,
+        "title": "Хлопковая футболка BOSS Orange",
+        "store": "tsum",
+        "color": "синий",
+        "price": 3825,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/e3659a0933e781bf121406bdbeec9b4f/height/808/i/98/84/a2/c9/da743b3a-21b4-4f9b-81be-4f08ef797afe.jpg"
+      },
+      {
+        "id": 58091,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "синий",
+        "price": 7665,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9140c32d2d678996af2c2a23f49b143e/height/808/i/ae/fe/1a/72/6ba7b847-6088-473f-8f77-0c18925e7fb8.jpg"
+      },
+      {
+        "id": 58452,
+        "title": "Хлопковая футболка K-Way",
+        "store": "tsum",
+        "color": "синий",
+        "price": 2570,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/431516baa9bb33b6521d3fed37fd5809/height/808/i/f1/d8/56/36/1be0eef6-957c-4555-8ee0-477029e73799.jpg"
+      },
+      {
+        "id": 58481,
+        "title": "Хлопковая футболка K-Way",
+        "store": "tsum",
+        "color": "синий",
+        "price": 2570,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/767ffe736e007105e477c336af83e3b8/height/808/i/04/8f/71/b8/56e225b5-321d-4166-a8ca-f0537b494173.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1969,
+        "title": "Кардиган оверсайз вязаный на пуговицах",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527038/BF2631527038_27_1.jpg"
+      },
+      {
+        "id": 2312,
+        "title": "Кардиган оверсайз на молнии вязаный с вышивкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 5599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527054/BF2631527054_26_1.jpg"
+      },
+      {
+        "id": 6539,
+        "title": "Кардиган оверсайз вязаный с капюшоном",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 4599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527030/BF2641527030_22_100.jpg"
+      },
+      {
+        "id": 158884,
+        "title": "Удлинённый кардиган из лиоцелла и шёлка, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/76e/500_600_bc0f/180809490299.jpg"
+      },
+      {
+        "id": 2419,
+        "title": "Кардиган вязаный на молнии с капюшоном и помпонами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642527001/BF2642527001_22_100.jpg"
+      },
+      {
+        "id": 4912,
+        "title": "Кардиган вязаный пушистый с тигровым рисунком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527031/BF2631527031_26_1.jpg"
+      },
+      {
+        "id": 5262,
+        "title": "Кардиган вязаный на завязках с меховой отделкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527035/BF2631527035_27_1.jpg"
+      },
+      {
+        "id": 5760,
+        "title": "Кардиган вязаный на молнии с воротником-стойкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527026/BF2641527026_27_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1726,
+        "title": "Джинсы клеш со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622209013/BF2622209013_110_1.jpg"
+      },
+      {
+        "id": 2418,
+        "title": "Джинсы багги со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209080/BF2621209080_106_1.jpg"
+      },
+      {
+        "id": 2427,
+        "title": "Джинсы багги с низкой посадкой и баской",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632209012/BF2632209012_105_1.jpg"
+      },
+      {
+        "id": 2435,
+        "title": "Джинсы клеш со штанинами на пуговицах",
+        "store": "befree",
+        "color": "синий",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209043/BF2641209043_105_100.jpg"
+      },
+      {
+        "id": 2459,
+        "title": "Джинсы зауженные со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209042col106/BF2641209042col106_106_1.jpg"
+      },
+      {
+        "id": 2462,
+        "title": "Джинсы клеш со средней посадкой и узором",
+        "store": "befree",
+        "color": "синий",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209028/BF2641209028_110_1.jpg"
+      },
+      {
+        "id": 2537,
+        "title": "Джинсы прямые с низкой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209045col106/BF2641209045col106_106_1.jpg"
+      },
+      {
+        "id": 2555,
+        "title": "Джинсы багги с низкой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642209004/BF2642209004_106_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 87339,
+        "title": "Женские кроссовки Shox R4",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/829/1kdn0ph71sdpvb4dxllxk7u8xuhwwj12.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87512,
+        "title": "Женские кроссовки PWR Hybrid Training",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/996/82zgkob37ioopsj6cyqsxoj0gt0bazbg.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87701,
+        "title": "Женские кроссовки Air Zoom Pegasus 41",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/0e1/xe3i1v8p3s9i603bjsn1bblc9vmx99nx.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87736,
+        "title": "Женские кроссовки PUMA CA Flyz",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/715/aon4e1ewoyestvns3llqbx40untua3mq.jpg"
+      },
+      {
+        "id": 87964,
+        "title": "Женские кроссовки Cali Dream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/546/0q64eb1fu7q9tpvyba3jjczd6jouecyl.jpg"
+      }
+    ]
+  ]
+}

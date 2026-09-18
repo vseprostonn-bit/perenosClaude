@@ -1,0 +1,200 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская элегантность",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [
+        3284
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "Кардиган оверсайз",
+      "color": "серый",
+      "search_query": "кардиган оверсайз серый",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "удлинённый",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "Балетки леопардовые",
+      "color": "бежевый",
+      "search_query": "балетки леопардовые бежевые",
+      "type": "балетки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "леопард"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1970,
+        "title": "Кардиган оверсайз вязаный на пуговицах",
+        "store": "befree",
+        "color": "серый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527038/BF2631527038_33_1.jpg"
+      },
+      {
+        "id": 6341,
+        "title": "Кардиган оверсайз длинный вязаный",
+        "store": "befree",
+        "color": "серый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527039/BF2631527039_33_1.jpg"
+      },
+      {
+        "id": 6555,
+        "title": "Кардиган оверсайз вязаный с капюшоном",
+        "store": "befree",
+        "color": "серый",
+        "price": 4599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527030/BF2641527030_38_1.jpg"
+      },
+      {
+        "id": 1910,
+        "title": "Кардиган вязаный с декором из пуговиц",
+        "store": "befree",
+        "color": "серый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527032/BF2631527032_33_1.jpg"
+      },
+      {
+        "id": 1946,
+        "title": "Кардиган вязаный на молнии с шерстью и имитацией второго слоя",
+        "store": "befree",
+        "color": "серый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527048/BF2631527048_38_1.jpg"
+      },
+      {
+        "id": 2421,
+        "title": "Кардиган вязаный на молнии с капюшоном и помпонами",
+        "store": "befree",
+        "color": "серый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642527001/BF2642527001_33_1.jpg"
+      },
+      {
+        "id": 2578,
+        "title": "Кардиган вязаный на молнии с воротником-стойкой",
+        "store": "befree",
+        "color": "серый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527026/BF2641527026_33_1.jpg"
+      },
+      {
+        "id": 3284,
+        "title": "Кардиган вязаный с шерстью и кейпом",
+        "store": "befree",
+        "color": "серый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527045/BF2631527045_38_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 100559,
+        "title": "Женские балетки PUMA Speedcat Ballet Nova",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 11499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e44/h80re3wh9drcvf3qjpgurah7godwstem.jpg"
+      },
+      {
+        "id": 107665,
+        "title": "Женские балетки PUMA Tacklette L",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 7799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/29e/gb3n3zjygytj1o4075hafaobnybpke8r.jpg"
+      },
+      {
+        "id": 107742,
+        "title": "Женские балетки PUMA Catch Soleil Ballerina",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/dd5/zlh0jgxtq24olnw8pobif1p9zsf9xop7.jpg"
+      },
+      {
+        "id": 107765,
+        "title": "Женские балетки PUMA Catch Soleil Ballerina SD",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 8499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a19/1m3imdmq8r9gomytbt33tr9g2bdqngow.jpg"
+      },
+      {
+        "id": 107840,
+        "title": "Женские балетки PUMA Catch Soleil Ballerina",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/191/2hukzh3nnctmr2gl6bp6pljv2umuisro.jpg"
+      },
+      {
+        "id": 112556,
+        "title": "Женские балетки Bella",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 5899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/f8d/sj6cnmgugtoas9trkvazij6xyze5brms.jpg"
+      },
+      {
+        "id": 115128,
+        "title": "Женские балетки Speedcat Ballet",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/cb1/mcrtkdeq0kavwvsqnaher35f08e3pwlr.jpg"
+      },
+      {
+        "id": 115855,
+        "title": "Женские балетки H-Street Ballet",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4ac/9ekyf78xnlklzkwdyhcnun7uopb4ftc2.jpg"
+      }
+    ]
+  ]
+}

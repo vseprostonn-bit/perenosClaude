@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Стильный городской наряд для прогулки.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка с геометрическим узором",
+      "color": "красный",
+      "search_query": "рубашка геометрический узор красный",
+      "type": "рубашка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "принт"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки с геометрическим узором",
+      "color": "красный",
+      "search_query": "брюки геометрический узор красный",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "принт"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "балетки",
+      "color": "бежевый",
+      "search_query": "балетки бежевые",
+      "type": "балетки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "солнцезащитные очки",
+      "color": "черный",
+      "search_query": "очки солнцезащитные черные",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 5620,
+        "title": "Рубашка домашняя в полоску двухцветная",
+        "store": "befree",
+        "color": "красный",
+        "price": 1999,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631818012/BF2631818012_75_1.jpg"
+      },
+      {
+        "id": 6324,
+        "title": "Рубашка прямая хлопковая в клетку",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418048/BF2631418048_75_1.jpg"
+      },
+      {
+        "id": 8421,
+        "title": "Рубашка-корсет в клетку",
+        "store": "befree",
+        "color": "красный",
+        "price": 2599,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632418020/BF2632418020_75_1.jpg"
+      },
+      {
+        "id": 55981,
+        "title": "Хлопковая рубашка VETEMENTS",
+        "store": "tsum",
+        "color": "красный",
+        "price": 79600,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/678b8223d11f00d9899f563f0a4f28e0/height/808/i/7e/50/3e/3e/4596d5da-b79e-4237-874e-2f749610122c.jpg"
+      },
+      {
+        "id": 57142,
+        "title": "Рубашка из шерсти и кашемира Destin",
+        "store": "tsum",
+        "color": "красный",
+        "price": 29600,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/fee04526a1458664ebfdfec59dd18e38/height/808/i/74/41/a1/35/b4c9e9c1-e55b-4833-ae32-9d0e509c1e2b.jpg"
+      },
+      {
+        "id": 4462,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042/BF2631418042_95_1.jpg"
+      },
+      {
+        "id": 6326,
+        "title": "Рубашка домашняя хлопковая с принтом",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 2599,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631818011/BF2631818011_79_1.jpg"
+      },
+      {
+        "id": 7917,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042pl/BF2631418042pl_95_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 5668,
+        "title": "Брюки домашние хлопковые с принтом",
+        "store": "befree",
+        "color": "красный",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808013/BF2631808013_75_1.jpg"
+      },
+      {
+        "id": 7341,
+        "title": "Брюки домашние хлопковые на завязках с принтом",
+        "store": "befree",
+        "color": "красный",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808016/BF2631808016_75_1.jpg"
+      },
+      {
+        "id": 96462,
+        "title": "Женские брюки PUMA T7 ALWAYS ON Straight Pants",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 5799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/567/k7ud6r3iikqqhv769eo4jalzu8r0iqik.jpg"
+      },
+      {
+        "id": 97877,
+        "title": "Женские брюки PUMA T7 ALWAYS ON Straight Pants",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/0b9/2wfhk1nhw1w84ujxqq0wgpjmd3vo26vd.jpeg"
+      },
+      {
+        "id": 107181,
+        "title": "Женские брюки Brooklyn Fleece Pant",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 8399,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/f37/3185agsary5syhgjtjutamsj9c3trcnq.jpg"
+      },
+      {
+        "id": 110725,
+        "title": "Женские брюки Elastic Cuff Pants",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 3199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/120/osh6f0ok15bt4fslevqn3osunvuu05q2.jpg"
+      },
+      {
+        "id": 55756,
+        "title": "Брюки из вискозы Haider Ackermann",
+        "store": "tsum",
+        "color": "красный",
+        "price": 9950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/1c8e9e86cd3dd6492ee79d876a819e43/height/808/i/af/76/9e/fc/5487cea6-3b77-4568-ab71-8af67cb2c27f.jpg"
+      },
+      {
+        "id": 94337,
+        "title": "Подростковые брюки Essentials AOP Pant",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 1499,
+        "score": 0.8636,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/cb0/wddef41ryl7v2a1kqv6xt07uplf25eze.jpg"
+      }
+    ],
+    [
+      {
+        "id": 100559,
+        "title": "Женские балетки PUMA Speedcat Ballet Nova",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 11499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e44/h80re3wh9drcvf3qjpgurah7godwstem.jpg"
+      },
+      {
+        "id": 107665,
+        "title": "Женские балетки PUMA Tacklette L",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 7799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/29e/gb3n3zjygytj1o4075hafaobnybpke8r.jpg"
+      },
+      {
+        "id": 107742,
+        "title": "Женские балетки PUMA Catch Soleil Ballerina",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/dd5/zlh0jgxtq24olnw8pobif1p9zsf9xop7.jpg"
+      },
+      {
+        "id": 107765,
+        "title": "Женские балетки PUMA Catch Soleil Ballerina SD",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 8499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a19/1m3imdmq8r9gomytbt33tr9g2bdqngow.jpg"
+      },
+      {
+        "id": 107840,
+        "title": "Женские балетки PUMA Catch Soleil Ballerina",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/191/2hukzh3nnctmr2gl6bp6pljv2umuisro.jpg"
+      },
+      {
+        "id": 112556,
+        "title": "Женские балетки Bella",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 5899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/f8d/sj6cnmgugtoas9trkvazij6xyze5brms.jpg"
+      },
+      {
+        "id": 115128,
+        "title": "Женские балетки Speedcat Ballet",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/cb1/mcrtkdeq0kavwvsqnaher35f08e3pwlr.jpg"
+      },
+      {
+        "id": 115855,
+        "title": "Женские балетки H-Street Ballet",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4ac/9ekyf78xnlklzkwdyhcnun7uopb4ftc2.jpg"
+      }
+    ],
+    [
+      {
+        "id": 82373,
+        "title": "Очки солнцезащитные в широкой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9167,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2525360040/BF2525360040_50_1.jpg"
+      },
+      {
+        "id": 7504,
+        "title": "Очки имиджевые в круглой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635360006/BF2635360006_50_1.jpg"
+      },
+      {
+        "id": 56,
+        "title": "Шапка женская",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11155_200_20.jpg"
+      },
+      {
+        "id": 66,
+        "title": "Снуд",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF91406_200_20.jpg"
+      },
+      {
+        "id": 70,
+        "title": "Шапка из хлопка",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 2499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF111146_200_20.jpg"
+      },
+      {
+        "id": 76,
+        "title": "Варежки из ангоры и шерсти",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11150_200_20.jpg"
+      },
+      {
+        "id": 129,
+        "title": "Лонгслив-термобелье с хлопком",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/200/FAE110197_200_20.jpg"
+      },
+      {
+        "id": 159,
+        "title": "Трикотажные перчатки",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF11307_200_30.jpg"
+      }
+    ]
+  ]
+}

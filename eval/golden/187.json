@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "свитер вязаный",
+      "color": "бежевый",
+      "search_query": "свитер вязаный бежевый",
+      "type": "свитер",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "джинсы широкие",
+      "color": "голубой",
+      "search_query": "джинсы широкие голубые",
+      "type": "джинсы",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": "низкая посадка",
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли лодочки",
+      "color": "желтый",
+      "search_query": "туфли лодочки желтые",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "бирюзовый",
+      "search_query": "сумка через плечо бирюзовая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки солнцезащитные",
+      "color": "черный",
+      "search_query": "очки солнцезащитные черные",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 4538,
+        "title": "Джемпер вязаный с шерстью и имитацией второго слоя",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641526012/BF2641526012_61_100.jpg"
+      },
+      {
+        "id": 6064,
+        "title": "Джемпер вязаный на пуговицах с баской и кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526046/BF2631526046_61_100.jpg"
+      },
+      {
+        "id": 8027,
+        "title": "Джемпер вязаный с глубоким вырезом и перекрутом по низу",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526028/BF2631526028_61_1.jpg"
+      },
+      {
+        "id": 2472,
+        "title": "Свитер вязаный с горлом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526026/BF2631526026_22_1.jpg"
+      },
+      {
+        "id": 6450,
+        "title": "Свитер вязаный с шерстью",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641526003/BF2641526003_22_1.jpg"
+      },
+      {
+        "id": 5001,
+        "title": "Джемпер оверсайз вязаный с оленем",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641526076/BF2641526076_65_100.jpg"
+      },
+      {
+        "id": 3440,
+        "title": "Худи на молнии оверсайз вельветовая с капюшоном",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631123011/BF2631123011_61_1.jpg"
+      },
+      {
+        "id": 4651,
+        "title": "Худи на молнии оверсайз вельветовая с капюшоном",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631123011pl/BF2631123011pl_61_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1614,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/WideSS18/WideSS18_100_1.jpg"
+      },
+      {
+        "id": 2988,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Wide17/Wide17_102_1.jpg"
+      },
+      {
+        "id": 3744,
+        "title": "Джинсы широкие со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 4599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209011/BF2641209011_103_100.jpg"
+      },
+      {
+        "id": 5206,
+        "title": "Джинсы широкие из лиоцелла со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631209032pl/BF2631209032pl_102_1.jpg"
+      },
+      {
+        "id": 5403,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Wide18H/Wide18H_103_1.jpg"
+      },
+      {
+        "id": 5461,
+        "title": "Джинсы широкие со средней посадкой и цепочкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631209005/BF2631209005_100_1.jpg"
+      },
+      {
+        "id": 6752,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Wide18H/Wide18H_102_1.jpg"
+      },
+      {
+        "id": 6789,
+        "title": "Джинсы широкие со средней посадкой и лиоцеллом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209035/BF2621209035_101_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4663,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "желтый",
+        "price": 3799,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_9_11.jpg"
+      },
+      {
+        "id": 7967,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "желтый",
+        "price": 2599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_9_7.jpg"
+      },
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      },
+      {
+        "id": 10336,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 11999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870025_50.jpg"
+      },
+      {
+        "id": 10583,
+        "title": "Туфли-лодочки из атласа",
+        "store": "loverepublic",
+        "color": null,
+        "price": 5999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/54427/thumb/300_9999/544270035_90.jpg"
+      },
+      {
+        "id": 4927,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.6818,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_20_11.jpg"
+      },
+      {
+        "id": 8202,
+        "title": "Туфли-лодочки на фигурном каблуке из искусственной замши",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.6818,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636683034/BF2636683034_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 99578,
+        "title": "Сумка PUMA 1976 Grip Bag Keychain",
+        "store": "street-beat",
+        "color": "бирюзовый",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e6a/zycv008x21dfvrnja4denn410zzlvqjc.jpg"
+      },
+      {
+        "id": 7929,
+        "title": "Сумка через плечо каркасная из искусственной кожи с карабином",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457077/BF2635457077_41_1.jpg"
+      },
+      {
+        "id": 8767,
+        "title": "Сумка-боулинг с короткой ручкой из искусственной кожи",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457009/BF2635457009_43_11.jpg"
+      },
+      {
+        "id": 58004,
+        "title": "Сумка Jade Colori Nannacay",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 6230,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/796239e617bd1b3299fb80b601764be5/height/808/i/fe/7f/24/ba/fe7f24ba-83fa-3b13-b2ba-961425d86d71.jpg"
+      },
+      {
+        "id": 88543,
+        "title": "Поясная сумка Terra Lumbar",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 4599,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/2dd/1000_1000_0/p7ey2owcmmstayt2okpzsfgc8cn7fb99.jpg"
+      },
+      {
+        "id": 89640,
+        "title": "Поясная сумка Never Stop Lumbar",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 3499,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/d73/1000_1000_0/423rl0pots8d88lq8x0d1ammh6yonfxy.jpg"
+      },
+      {
+        "id": 111284,
+        "title": "Поясная сумка Abanu Multi",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 5899,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/506/1ll0jjb9to8dwh0m1nevfi5aszbloaz9.jpg"
+      },
+      {
+        "id": 8737,
+        "title": "Сумка-мешок из искусственной кожи на завязках",
+        "store": "befree",
+        "color": "голубой",
+        "price": 999,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457066/BF2635457066_43_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 82373,
+        "title": "Очки солнцезащитные в широкой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9167,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2525360040/BF2525360040_50_1.jpg"
+      },
+      {
+        "id": 7504,
+        "title": "Очки имиджевые в круглой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635360006/BF2635360006_50_1.jpg"
+      },
+      {
+        "id": 56,
+        "title": "Шапка женская",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11155_200_20.jpg"
+      },
+      {
+        "id": 66,
+        "title": "Снуд",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF91406_200_20.jpg"
+      },
+      {
+        "id": 70,
+        "title": "Шапка из хлопка",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 2499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF111146_200_20.jpg"
+      },
+      {
+        "id": 76,
+        "title": "Варежки из ангоры и шерсти",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11150_200_20.jpg"
+      },
+      {
+        "id": 129,
+        "title": "Лонгслив-термобелье с хлопком",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/200/FAE110197_200_20.jpg"
+      },
+      {
+        "id": 159,
+        "title": "Трикотажные перчатки",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF11307_200_30.jpg"
+      }
+    ]
+  ]
+}

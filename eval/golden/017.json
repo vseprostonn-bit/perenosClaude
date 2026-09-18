@@ -1,0 +1,388 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Лёгкий летний городской шик.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        5010
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        5888
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ на бретелях",
+      "color": "белый",
+      "search_query": "топ на бретелях белый",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие в полоску",
+      "color": "синий",
+      "search_query": "брюки широкие в полоску синие",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": "макси",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "бежевый",
+      "search_query": "босоножки бежевые",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "бандана",
+      "color": "молочный",
+      "search_query": "бандана белая",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "цветочный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 3239,
+        "title": "Топ приталенный на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 899,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121028/BF2631121028_1_100.jpg"
+      },
+      {
+        "id": 6799,
+        "title": "Бюстгальтер-топ на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830017/BF2634830017_1_1.jpg"
+      },
+      {
+        "id": 8863,
+        "title": "Майка-топ ажурная укороченная на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 1299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622418015/BF2622418015_1_1.jpg"
+      },
+      {
+        "id": 1552,
+        "title": "Майка-топ облегающая на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 499,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121015/BF2631121015_1_1.jpg"
+      },
+      {
+        "id": 5010,
+        "title": "Майка-топ укороченная на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 399,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121010/BF2622121010_1_1.jpg"
+      },
+      {
+        "id": 7587,
+        "title": "Майка-топ на тонких бретелях укороченная",
+        "store": "befree",
+        "color": "белый",
+        "price": 499,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121029/BF2621121029_1_1.jpg"
+      },
+      {
+        "id": 7590,
+        "title": "Майка-топ облегающая на широких бретелях с принтом",
+        "store": "befree",
+        "color": "белый",
+        "price": 699,
+        "score": 0.9513,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121013/BF2622121013_4_1.jpg"
+      },
+      {
+        "id": 5201,
+        "title": "Топ с принтом на широких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9318,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632121010/BF2632121010_4_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4635,
+        "title": "Брюки широкие утепленные с вышивкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108006/BF2632108006_47_1.jpg"
+      },
+      {
+        "id": 6355,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_47_1.jpg"
+      },
+      {
+        "id": 7484,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_47_1.jpg"
+      },
+      {
+        "id": 8175,
+        "title": "Брюки широкие с высокой посадкой и имитацией второго слоя",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108003/BF2632108003_47_1.jpg"
+      },
+      {
+        "id": 168,
+        "title": "Трикотажные брюки с шерстью",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 6499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/101/FAF11126_101_20.jpg"
+      },
+      {
+        "id": 5888,
+        "title": "Брюки широкие на завязках",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308040/BF2621308040_41_1.jpg"
+      },
+      {
+        "id": 6219,
+        "title": "Брюки широкие хлопковые на завязках с вышивкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1599,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308008/BF2621308008_98_1.jpg"
+      },
+      {
+        "id": 6332,
+        "title": "Брюки широкие домашние на завязках из вискозы",
+        "store": "befree",
+        "color": "фиолетовый",
+        "price": 2599,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808008/BF2631808008_83_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55687,
+        "title": "Кожаные босоножки SW Signature 35 Stuart Weitzman",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 29950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/42892fc7fff0705388224c32ec9122a8/height/808/i/45/4d/7f/8d/b7ce299a-ec93-4f73-85e8-edbd6a0dc517.jpg"
+      },
+      {
+        "id": 1530,
+        "title": "Босоножки с ремешками на квадратном каблуке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688017/BF2626688017_68_2.jpg"
+      },
+      {
+        "id": 55451,
+        "title": "Кожаные босоножки Lily 100 Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 49500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/699e825c888111cbc9a55a0a7981f4df/height/808/i/60/f4/64/04/46cecffb-a5f3-4446-992a-a72c335eb40c.jpg"
+      },
+      {
+        "id": 57094,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12350,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/3a55d23f85225ee7b46d24e3b0502874/height/808/i/ed/bf/32/65/2c740ed0-2266-4c5d-93eb-b6976d3d6e2f.jpg"
+      },
+      {
+        "id": 57137,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/efacc2704416cb044508768565318f91/height/808/i/3b/71/b0/bf/d351f14d-2497-402c-9dff-76789890dabb.jpg"
+      },
+      {
+        "id": 133429,
+        "title": "Женские сандалии Nike Calm Mule",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 8399,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7b3/jox0o31u86ik461yizlv17i4w4s345rw.JPG"
+      },
+      {
+        "id": 133437,
+        "title": "Женские сандалии Explore Camp Sandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10499,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c09/3h4wzx1u4asod1m66pu31cbmof9uuo0x.JPG"
+      },
+      {
+        "id": 133441,
+        "title": "Женские сандалии Explore Camp Shandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 11999,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/22a/po5xwha6xu9kwjr4t72azt0zvypc36dd.JPG"
+      }
+    ],
+    [
+      {
+        "id": 4385,
+        "title": "Шарф тонкий вязаный в рубчик",
+        "store": "befree",
+        "color": "молочный",
+        "price": 1199,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2545341017/BF2545341017_60_11.jpg"
+      },
+      {
+        "id": 4386,
+        "title": "Шапка-бини с меховой фактурой",
+        "store": "befree",
+        "color": "молочный",
+        "price": 899,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2545340008/BF2545340008_60_11.jpg"
+      },
+      {
+        "id": 4404,
+        "title": "Шапка с ушками и бантиками",
+        "store": "befree",
+        "color": "молочный",
+        "price": 699,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2545340045/BF2545340045_60_1.jpg"
+      },
+      {
+        "id": 4416,
+        "title": "Шапка-бини вязаная утепленная",
+        "store": "befree",
+        "color": "молочный",
+        "price": 1499,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2545340014/BF2545340014_60_1.jpg"
+      },
+      {
+        "id": 4432,
+        "title": "Шапка-бини пушистая с ворсом",
+        "store": "befree",
+        "color": "молочный",
+        "price": 699,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2545340003/BF2545340003_60_1.jpg"
+      },
+      {
+        "id": 5563,
+        "title": "Пояс декоративный из жемчужных бусин",
+        "store": "befree",
+        "color": "молочный",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346044/BF2635346044_60_1.jpg"
+      },
+      {
+        "id": 5687,
+        "title": "Шарф-палантин с длинной бахромой",
+        "store": "befree",
+        "color": "молочный",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635341010/BF2635341010_60_1.jpg"
+      },
+      {
+        "id": 6038,
+        "title": "Ремень-шнурок плетеный с карабином",
+        "store": "befree",
+        "color": "молочный",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2625346002/BF2625346002_60_11.jpg"
+      }
+    ]
+  ]
+}

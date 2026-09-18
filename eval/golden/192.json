@@ -1,0 +1,287 @@
+{
+  "gender": "men",
+  "note": "",
+  "vibe": "Повседневный городской стиль",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка с вышивкой",
+      "color": "коричневый",
+      "search_query": "рубашка мужская коричневая вышивка",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "цветочный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки чинос",
+      "color": "розовый",
+      "search_query": "брюки мужские чинос розовые",
+      "type": "брюки",
+      "silhouette": "прямые",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли дерби",
+      "color": "бежевый",
+      "search_query": "туфли мужские дерби бежевые",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 6627,
+        "title": "Рубашка верхняя с меховой фактурой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633117027/BF2633117027_20_100.jpg"
+      },
+      {
+        "id": 60859,
+        "title": "Хлопковая рубашка Sonrisa",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 5270,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c15c409f00d2f60ba7acf2b8344501d5/height/808/i/98/e1/11/77/b759f1b4-7d2c-4d1e-90cd-5c0607055147.jpg"
+      },
+      {
+        "id": 61276,
+        "title": "Льняная рубашка Sonrisa",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 19950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/071a970e2750d2d8f5763024bc73b90b/height/808/i/68/f6/9b/1c/deed9617-81e4-483e-b662-bdf351dce021.jpg"
+      },
+      {
+        "id": 64757,
+        "title": "Рубашка домашняя",
+        "store": "kanzler",
+        "color": "коричневый",
+        "price": 5990,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/c76/ajmoxfzoyfd29n8o04paispeq5px9vmi.jpg"
+      },
+      {
+        "id": 61165,
+        "title": "Хлопковая рубашка A-COLD-WALL",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 19250,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/eda96279dc063954b214f4acd7e6d34d/height/808/i/25/ea/3c/7e/40462a3b-82b4-4200-82c9-1ab8b85050ee.jpg"
+      },
+      {
+        "id": 61721,
+        "title": "Рубашка из хлопка и льна Sonrisa",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 15950,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/3d0ca7e94318f5254d1f39a3be477b6b/height/808/i/b3/00/0e/cb/cada936c-09bd-4916-8f7c-b2f6e3da2b7a.jpg"
+      },
+      {
+        "id": 62338,
+        "title": "Хлопковая рубашка Aspesi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 15700,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/b2c28645361aa5417fdc3024fe15d9af/height/808/i/f5/91/33/8d/70c4e375-4cfd-4897-980d-c16d01487846.jpg"
+      },
+      {
+        "id": 63528,
+        "title": "Льняная рубашка Aspesi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 17850,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/666cfde80d23815aa37f086e5abd47ca/height/808/i/34/bb/d7/f1/73d93eb0-561f-44d2-9d83-eb4eda777088.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55059,
+        "title": "Хлопковые брюки Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 4795,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/655c527cd4400c8be6f1b090cfcf6e05/height/808/i/70/10/9a/7a/8b43b414-24a8-41af-bd56-bb69fa392e21.jpg"
+      },
+      {
+        "id": 58159,
+        "title": "Хлопковые брюки Roberto Cavalli",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 6370,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/e1d822e43745bb0abcbc8df35a16ecd7/height/808/i/6b/c7/86/d9/33afff54-be7a-408c-a620-278f542765fc.jpg"
+      },
+      {
+        "id": 100373,
+        "title": "Брюки PUMA AOP Pants",
+        "store": "street-beat",
+        "color": "розовый",
+        "price": 7999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c58/mb6i8m1jt60hpqp1cqrxfj5ibeq4qoap.jpg"
+      },
+      {
+        "id": 87065,
+        "title": "Утепленные брюки Gosoaky",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 4155,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/968e39d7d1dd30204f1d7fa55d79af4b/height/808/i/1f/a1/37/3c/9c238a3f-8581-465d-a466-0d63f23f92e4.jpg"
+      },
+      {
+        "id": 60673,
+        "title": "Хлопковые брюки VTMNTS",
+        "store": "tsum",
+        "color": "красный",
+        "price": 19300,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/6902413abed1f552099254fbbba0cdd4/height/808/i/44/34/2e/18/6e395a09-787c-4997-a162-9d278969a4f8.jpg"
+      },
+      {
+        "id": 61530,
+        "title": "Брюки Marco Pescarolo",
+        "store": "tsum",
+        "color": "красный",
+        "price": 22750,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/d518e001e02df39d8e5e27b5fbffbe1b/height/808/i/71/19/e5/33/f2eba6e1-7013-40cf-8a15-506e43509fbb.jpg"
+      },
+      {
+        "id": 87770,
+        "title": "Мужские брюки Solo Swoosh Cuffed Fleece Pants",
+        "store": "street-beat",
+        "color": "пудровый",
+        "price": 14599,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/fdc/1000_1000_0/0sosu0q5hwmluvnbwtbow383urwc7aoi.jpg"
+      },
+      {
+        "id": 91881,
+        "title": "Мужские брюки PUMA T7 Track Pants PT",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 4799,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b08/mjaey61q6yjs9kgf14xhmxsutu0wamus.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55013,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14850,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/71898f8f7ce5612f7a4874f40114c40b/height/808/i/78/f2/91/3b/519dc7c8-a7b5-427c-b844-47c6cd42cca6.jpg"
+      },
+      {
+        "id": 58559,
+        "title": "Домашние туфли из кожи Babbi",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 6395,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/478182453a1cd86f6218032eee3f1620/height/808/i/5a/a1/fe/79/5aa1fe79-78a0-3b0c-9589-773e293ef924.jpg"
+      },
+      {
+        "id": 60691,
+        "title": "Кожаные домашние туфли Aldo Brue",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22500,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/f149953381ad089e34d3d535e812a1e6/height/808/i/a1/26/2b/83/3f5fd197-80de-425a-8de8-8aa462ceeb57.jpg"
+      },
+      {
+        "id": 5683,
+        "title": "Кеды из натуральной замши с контрастными вставками",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 5599,
+        "score": 0.3636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633680003/BF2633680003_62_11.jpg"
+      },
+      {
+        "id": 7137,
+        "title": "Кроссовки низкие из натуральной замши",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 5999,
+        "score": 0.3636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633681001/BF2633681001_62_12.jpg"
+      },
+      {
+        "id": 57094,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12350,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/3a55d23f85225ee7b46d24e3b0502874/height/808/i/ed/bf/32/65/2c740ed0-2266-4c5d-93eb-b6976d3d6e2f.jpg"
+      },
+      {
+        "id": 57137,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11500,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/efacc2704416cb044508768565318f91/height/808/i/3b/71/b0/bf/d351f14d-2497-402c-9dff-76789890dabb.jpg"
+      },
+      {
+        "id": 78860,
+        "title": "Сандалии из натуральной кожи",
+        "store": "kanzler",
+        "color": "бежевый",
+        "price": 5990,
+        "score": 0.3636,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/e60/v7inl7zb7cob1rt4o8zxi4frghyffwjs.JPG"
+      }
+    ]
+  ]
+}

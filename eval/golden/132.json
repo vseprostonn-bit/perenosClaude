@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "сетчатый топ",
+      "color": "черный",
+      "search_query": "топ сетчатый черный",
+      "type": "топ",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган свободный",
+      "color": "темно-синий",
+      "search_query": "кардиган свободный темно-синий",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "удлинённый",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди",
+      "color": "белый",
+      "search_query": "юбка миди белый",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "розовый",
+      "search_query": "босоножки розовый",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "молочный",
+      "search_query": "сумка через плечо молочный",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 5216,
+        "title": "Бюстгальтер-топ сетчатый в горошек",
+        "store": "befree",
+        "color": "черный",
+        "price": 1299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830060/BF2634830060_50_1.jpg"
+      },
+      {
+        "id": 6251,
+        "title": "Бюстгальтер-топ сетчатый с кружевом в горошек",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624830042/BF2624830042_50_1.jpg"
+      },
+      {
+        "id": 1704,
+        "title": "Майка-топ хлопковая в рубчик с вышитым кантом",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121026/BF2621121026_50_1.jpg"
+      },
+      {
+        "id": 1787,
+        "title": "Топ облегающий хлопковый с принтом",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632121004/BF2632121004_55_1.jpg"
+      },
+      {
+        "id": 2287,
+        "title": "Майка-топ облегающая вискозная со сборками",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121018/BF2621121018_50_1.jpg"
+      },
+      {
+        "id": 2387,
+        "title": "Майка-топ облегающая на тонких бретелях",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121034/BF2621121034_50_1.jpg"
+      },
+      {
+        "id": 2428,
+        "title": "Бюстгальтер-топ без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830005/BF2644830005_50_1.jpg"
+      },
+      {
+        "id": 3166,
+        "title": "Топ на пуговицах и тонких бретелях с бархатным узором",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418034/BF2631418034_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2318,
+        "title": "Кардиган вязаный с рисунком и меховым воротником",
+        "store": "befree",
+        "color": "синий",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527052/BF2631527052_45_1.jpg"
+      },
+      {
+        "id": 57767,
+        "title": "Хлопковый кардиган Tak.Ori",
+        "store": "tsum",
+        "color": "синий",
+        "price": 11950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/401aae5127f52fd42a0d72b8a17af8e6/height/808/i/11/a4/67/e4/779e586f-2db8-400f-b3e0-8ff719353a2e.jpg"
+      },
+      {
+        "id": 1895,
+        "title": "Кардиган вязаный на пуговицах с шерстью",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527018/BF2631527018_45_1.jpg"
+      },
+      {
+        "id": 1911,
+        "title": "Кардиган вязаный с декором из пуговиц",
+        "store": "befree",
+        "color": "синий",
+        "price": 2599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527032/BF2631527032_47_1.jpg"
+      },
+      {
+        "id": 4345,
+        "title": "Кардиган вязаный с косой молнией",
+        "store": "befree",
+        "color": "синий",
+        "price": 3299,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642527006/BF2642527006_40_1.jpg"
+      },
+      {
+        "id": 5653,
+        "title": "Кардиган вязаный с кейпом",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527051/BF2631527051_47_1.jpg"
+      },
+      {
+        "id": 7887,
+        "title": "Кардиган вязаный на завязках с меховой отделкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 2599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527035/BF2631527035_47_1.jpg"
+      },
+      {
+        "id": 563,
+        "title": "Кардиган прямого кроя из шерсти и акрила",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 8999,
+        "score": 0.7636,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAG/186/FAG11168_186_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55475,
+        "title": "Хлопковая юбка LVIR",
+        "store": "tsum",
+        "color": "белый",
+        "price": 15200,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/96d6fb32f144bb9d57760fd4ec3f4d25/height/808/i/3b/68/48/56/3d8180d6-47e7-4b37-812a-fc851b09d927.jpg"
+      },
+      {
+        "id": 55530,
+        "title": "Плиссированная юбка Hood by Air",
+        "store": "tsum",
+        "color": "белый",
+        "price": 6810,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f2d0b710c0bb63fa7122a7c880afb765/height/808/i/6f/36/31/e6/0dbaaae1-e1ea-46a4-924e-ecaf1171deb3.jpg"
+      },
+      {
+        "id": 55835,
+        "title": "Юбка из вискозы Ports 1961",
+        "store": "tsum",
+        "color": "белый",
+        "price": 13000,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0a19d19cb59fdfc7edff6ba70a3df6a8/height/808/i/90/ef/eb/b3/90efebb3-c24d-307a-b244-f5258fd65a78.jpg"
+      },
+      {
+        "id": 56023,
+        "title": "Юбка JW Anderson",
+        "store": "tsum",
+        "color": "белый",
+        "price": 15400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b1b4f68bd15a9ecf1adfa0cb284a05fe/height/808/i/c4/a0/96/d2/57ffdee2-f20d-4035-b913-7ecbd27988fb.jpg"
+      },
+      {
+        "id": 56427,
+        "title": "Хлопковая юбка Paade Mode",
+        "store": "tsum",
+        "color": "белый",
+        "price": 4735,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/da5437ec720117729d743efdc285588d/height/808/i/e0/e6/ed/22/74ff6f5a-db33-4df5-992a-fe43a73c5802.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Юбка-шорты из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.8636,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17005_201_20.jpg"
+      },
+      {
+        "id": 4969,
+        "title": "Юбка-шорты мини из гобелена",
+        "store": "befree",
+        "color": "белый",
+        "price": 2599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641312034/BF2641312034_99_1.jpg"
+      },
+      {
+        "id": 5588,
+        "title": "Юбка домашняя атласная на резинке",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631812021/BF2631812021_4_11.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55517,
+        "title": "Кожаные босоножки Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 21550,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b1a979dff9da7aa7615480e854f6e275/height/808/i/b8/a6/31/b1/b8a631b1-d0eb-30c1-a506-ee5869a4acac.jpg"
+      },
+      {
+        "id": 55666,
+        "title": "Кожаные босоножки Alexandre Birman",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 16900,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/be749f50cc7bfe409b7bca54f116d79a/height/808/i/2a/32/97/42/2a329742-55ef-343e-8789-bcab4b9588dc.jpg"
+      },
+      {
+        "id": 55435,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 24950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/66cb3b1f9b0af0aec1171064c95214c8/height/808/i/19/c8/68/9c/19c8689c-45bf-32ae-9880-78246b88bbc0.jpg"
+      },
+      {
+        "id": 4578,
+        "title": "Босоножки атласные с бантиками и сердцами",
+        "store": "befree",
+        "color": "розовый",
+        "price": 1599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636683006/BF2636683006_92_1.jpg"
+      },
+      {
+        "id": 6139,
+        "title": "Босоножки на каблуке с квадратным мысом и бантиком",
+        "store": "befree",
+        "color": "розовый",
+        "price": 1599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688007/BF2626688007_90_3.jpg"
+      },
+      {
+        "id": 54853,
+        "title": "Кожаные сандалии Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 15500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/a7a0d61a113311e2ff81f1663e41b2b2/height/808/i/26/1f/09/77/ef3f471f-4a6e-4494-ab60-a887477375db.jpg"
+      },
+      {
+        "id": 55551,
+        "title": "Кожаные босоножки Soiree Crystal Stuart Weitzman",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 41950,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/3dc445dad56e62578300572dca887858/height/808/i/aa/30/7b/da/c0f933e0-b04f-4af9-af03-bb2f0fe1f4d6.jpg"
+      },
+      {
+        "id": 55417,
+        "title": "Кожаные босоножки String Paul Andrew",
+        "store": "tsum",
+        "color": "красный",
+        "price": 39600,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/c77d5ff249974e2f6bdd14c3f83316b2/height/808/i/8a/8d/4b/b5/098ac762-5fce-4060-9c18-4fe20082e6c5.jpg"
+      }
+    ],
+    [
+      {
+        "id": 8094,
+        "title": "Сумка-тоут с заклепками",
+        "store": "befree",
+        "color": "молочный",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457030/BF2635457030_60_11.jpg"
+      },
+      {
+        "id": 1967,
+        "title": "Сумка-багет через плечо замшевая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457027/BF2635457027_62_1.jpeg"
+      },
+      {
+        "id": 91745,
+        "title": "Сумка через плечо Hot Shot Crossbody Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.8909,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/957/1000_1000_0/bz4rndmxci2fv7lrxflz4g0fls8hxknh.jpg"
+      },
+      {
+        "id": 93912,
+        "title": "Сумка через плечо PUMA HER Half Moon Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3199,
+        "score": 0.8909,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4a6/ekolveyxg20x5sthw5l6zmu6p7wku9cb.jpg"
+      },
+      {
+        "id": 111927,
+        "title": "Сумка через плечо Terra Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3699,
+        "score": 0.8909,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/838/8bpimo151vm5p5apnntfv415mfqlsa6q.jpg"
+      },
+      {
+        "id": 114418,
+        "title": "Сумка через плечо Mini Canvas Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 2399,
+        "score": 0.8909,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e6b/idg4rai5j9bui8rujtzesuelu43ove43.jpg"
+      },
+      {
+        "id": 133170,
+        "title": "Сумка через плечо Alva Medium",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4999,
+        "score": 0.8909,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/9ff/3fur64te2cmyk4isxt8y82pbkzvgfsa6.jpg"
+      },
+      {
+        "id": 148175,
+        "title": "Сумка через плечо Reebok Arlo, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1699,
+        "score": 0.8909,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/a0a/195097800299.jpg"
+      }
+    ]
+  ]
+}

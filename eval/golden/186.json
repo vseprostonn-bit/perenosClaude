@@ -1,0 +1,287 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская элегантность",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка белая",
+      "color": "белый",
+      "search_query": "футболка белый",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "короткий",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "жилет черный",
+      "color": "черный",
+      "search_query": "жилет черный",
+      "type": "жилет",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка плетеная золотистая",
+      "color": "золотистый",
+      "search_query": "сумка плетеная золотистый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 17,
+        "title": "Футболка унисекс из хлопка оверсайз силуэта",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-900107_201_20.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17016_201_20.jpg"
+      },
+      {
+        "id": 36,
+        "title": "Футболка прямого кроя из джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100197_201_20.jpg"
+      },
+      {
+        "id": 38,
+        "title": "Футболка свободного кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100192_201_20.jpg"
+      },
+      {
+        "id": 49,
+        "title": "Футболка свободного кроя из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11037_201_20.jpg"
+      },
+      {
+        "id": 104,
+        "title": "Футболка прямого кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11031_201_20.jpg"
+      },
+      {
+        "id": 214,
+        "title": "Футболка приталенного силуэта из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17009_201_20.jpg"
+      },
+      {
+        "id": 314,
+        "title": "Спортивная футболка из технологичного трикотажа",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CBG/201/CBG17006_201_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 159426,
+        "title": "Двубортный жилет, Черный",
+        "store": "ostin",
+        "color": "черный",
+        "price": 4599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/ca3/500_600_b20e/189652000299.jpg"
+      },
+      {
+        "id": 157359,
+        "title": "Трикотажный жилет в рубчик с воротником, Черный",
+        "store": "ostin",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/8e2/500_600_8d86/184057180299.jpg"
+      },
+      {
+        "id": 157604,
+        "title": "Однобортный жилет из поливискозы, Черный",
+        "store": "ostin",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/2da/500_600_168f/187856340299.jpg"
+      },
+      {
+        "id": 158188,
+        "title": "Двубортный жилет, Черный",
+        "store": "ostin",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/561/500_600_a939/178582470299.jpg"
+      },
+      {
+        "id": 158201,
+        "title": "Утеплённый жилет с капюшоном, Черный",
+        "store": "ostin",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/d18/500_600_2942/181110930299.jpg"
+      },
+      {
+        "id": 257,
+        "title": "Жилет с искусственным утеплителем и водоотталкивающей пропиткой",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 11999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAG/200/FAG11007_200_20.jpg"
+      },
+      {
+        "id": 337,
+        "title": "Пуховый жилет с водоотталкивающей пропиткой",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 9999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAG/200/FAG11008_200_20.jpg"
+      },
+      {
+        "id": 4933,
+        "title": "Жилет стеганый утепленный с капюшоном",
+        "store": "befree",
+        "color": "черный",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631604002/BF2631604002_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 710,
+        "title": "Плетеная сумка из рафии",
+        "store": "finnflare",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 0.8909,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/630/FSG11200_630_30.jpg"
+      },
+      {
+        "id": 56506,
+        "title": "Сумка Ricky 18 из кожи аллигатора Ralph Lauren",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 559500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/e963a81e7ae98472e1c5853d2f8402aa/height/808/i/c8/66/f4/43/c866f443-3180-32f1-81f7-117944d99b0a.jpg"
+      },
+      {
+        "id": 1967,
+        "title": "Сумка-багет через плечо замшевая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457027/BF2635457027_62_1.jpeg"
+      },
+      {
+        "id": 2204,
+        "title": "Сумка-хобо из деревянных бусин",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2625457048/BF2625457048_62_1.jpg"
+      },
+      {
+        "id": 6839,
+        "title": "Сумка-кисет с бахромой",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457082/BF2635457082_62_11.jpg"
+      },
+      {
+        "id": 6969,
+        "title": "Сумка-мешок из искусственной замши",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457067/BF2635457067_62_13.jpg"
+      },
+      {
+        "id": 91745,
+        "title": "Сумка через плечо Hot Shot Crossbody Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/957/1000_1000_0/bz4rndmxci2fv7lrxflz4g0fls8hxknh.jpg"
+      },
+      {
+        "id": 93912,
+        "title": "Сумка через плечо PUMA HER Half Moon Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3199,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4a6/ekolveyxg20x5sthw5l6zmu6p7wku9cb.jpg"
+      }
+    ]
+  ]
+}

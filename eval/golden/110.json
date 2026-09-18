@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ на бретелях",
+      "color": "горчичный",
+      "search_query": "топ бретели горчичный",
+      "type": "топ",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки чинос",
+      "color": "черный",
+      "search_query": "брюки чинос черный",
+      "type": "брюки",
+      "silhouette": "приталенный",
+      "length": "укороченный",
+      "sleeve": null,
+      "fit": "высокая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "черный",
+      "search_query": "босоножки черный",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "черный",
+      "search_query": "сумка через плечо черный",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки солнцезащитные",
+      "color": "черный",
+      "search_query": "очки солнцезащитные черный",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1551,
+        "title": "Майка-топ облегающая на широких бретелях",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 699,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121035/BF2621121035_71_1.jpg"
+      },
+      {
+        "id": 1552,
+        "title": "Майка-топ облегающая на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 499,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121015/BF2631121015_1_1.jpg"
+      },
+      {
+        "id": 1780,
+        "title": "Бюстгальтер-топ на тонких бретелях",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830017/BF2634830017_62_1.jpg"
+      },
+      {
+        "id": 2015,
+        "title": "Майка-топ облегающая на тонких бретелях с кружевом",
+        "store": "befree",
+        "color": "желтый",
+        "price": 499,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121007/BF2621121007_9_1.jpg"
+      },
+      {
+        "id": 2387,
+        "title": "Майка-топ облегающая на тонких бретелях",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121034/BF2621121034_50_1.jpg"
+      },
+      {
+        "id": 3041,
+        "title": "Майка-топ на тонких бретелях укороченная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 499,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121029/BF2621121029_27_1.jpg"
+      },
+      {
+        "id": 5012,
+        "title": "Майка-топ облегающая на широких бретелях",
+        "store": "befree",
+        "color": "черный",
+        "price": 699,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121035/BF2621121035_50_1.jpg"
+      },
+      {
+        "id": 5467,
+        "title": "Бюстгальтер-топ на тонких бретелях",
+        "store": "befree",
+        "color": "черный",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830017/BF2634830017_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 60,
+        "title": "Трикотажные брюки loose fit",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11068_200_20.jpg"
+      },
+      {
+        "id": 232,
+        "title": "Брюки-джоггеры из трикотажа интерлок",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/200/FBG110112_200_20.jpg"
+      },
+      {
+        "id": 522,
+        "title": "Легкие брюки-алладины из джерси",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/200/FSG110160_200_20.jpg"
+      },
+      {
+        "id": 1397,
+        "title": "Брюки широкого кроя на резинке",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSF/200/FSF110165_200_20.jpg"
+      },
+      {
+        "id": 1724,
+        "title": "Брюки-баллоны со средней посадкой на завязках",
+        "store": "befree",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308002/BF2632308002_50_1.jpg"
+      },
+      {
+        "id": 1823,
+        "title": "Брюки костюмные с высокой посадкой",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BlackPants5/BlackPants5_50_1.jpg"
+      },
+      {
+        "id": 1859,
+        "title": "Брюки-аладдины атласные на резинке",
+        "store": "befree",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108004/BF2632108004_50_1.jpg"
+      },
+      {
+        "id": 1938,
+        "title": "Брюки клеш вязаные со средней посадкой на завязках",
+        "store": "befree",
+        "color": "черный",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631508004/BF2631508004_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55438,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 24950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/862d2a182bd06cb7e067ea76fdac604c/height/808/i/69/54/79/8f/6954798f-90b0-38bf-b671-1005d715f2b5.jpg"
+      },
+      {
+        "id": 55447,
+        "title": "Босоножки Cecile 105 Gedebe",
+        "store": "tsum",
+        "color": "черный",
+        "price": 25200,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/79a6a9d7db044f56610b9aeb78d979a2/height/808/i/1e/02/bb/3e/1e02bb3e-db0b-39a1-a403-f5780f9b6400.jpg"
+      },
+      {
+        "id": 55584,
+        "title": "Текстильные босоножки Cube Toe-Ring 95 Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/20466697afad8b5683f80f5a037d0d67/height/808/i/b0/ef/35/7b/b0ef357b-7773-3fd0-8bd0-0b9cf1b1d77f.jpg"
+      },
+      {
+        "id": 87060,
+        "title": "Текстильные босоножки Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 23650,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/a472214b22656d702ef6e4c18c6f29fd/height/808/i/d7/c5/e0/a0/d7c5e0a0-7435-34f6-9608-b21db068d6d6.jpg"
+      },
+      {
+        "id": 54957,
+        "title": "Кожаные босоножки Nudistcurve 75 Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 36250,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/15d0a295b5a822b3f6eae0063f4ad931/height/808/i/ce/90/0d/6f/8f43d47e-f659-4e01-8c92-dd1ba5ea5e99.jpg"
+      },
+      {
+        "id": 55112,
+        "title": "Кожаные босоножки Nearlynude SW Bow Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 33550,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/47476d1ac7cf06d8b9352ba88abd0b24/height/808/i/55/ef/be/87/ab85c1da-d3d7-4127-ae0a-4463e3f26b16.jpg"
+      },
+      {
+        "id": 55415,
+        "title": "Замшевые босоножки Peep Sling Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 34500,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/ad5611c073a0e0ec1f006894e499b86e/height/808/i/6c/0e/34/09/6c0e3409-3233-30b5-8e10-e63e6d172f8b.jpg"
+      },
+      {
+        "id": 55437,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 35950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/38d8440896dd95efc4b01e9715288129/height/808/i/78/2b/04/88/782b0488-87bc-306a-b433-9a076946e878.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4489,
+        "title": "Сумка на плечо с заклепками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457075/BF2635457075_50_11.jpg"
+      },
+      {
+        "id": 5976,
+        "title": "Сумка-багет на плечо со значками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457050/BF2635457050_50_11.jpg"
+      },
+      {
+        "id": 6841,
+        "title": "Сумка-тоут через плечо спортивная",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457052/BF2635457052_50_1.jpg"
+      },
+      {
+        "id": 87487,
+        "title": "Сумка через плечо Clyffe Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9c6/1000_1000_0/isb8aibvkgrjkknhgz1zkjxbm2mpqbtp.jpg"
+      },
+      {
+        "id": 87488,
+        "title": "Сумка через плечо Glen Canyon Pocket Cross Body",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/8a4/1000_1000_0/16gn8p01n28uufs09fwaow929yjxt13d.jpg"
+      },
+      {
+        "id": 87567,
+        "title": "Сумка через плечо Bail Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 3499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/2dd/p3d01jtovbkvtxbxtr7imfpwc41yxhm4.jpg"
+      },
+      {
+        "id": 87868,
+        "title": "Сумка через плечо Never Stop Utility Sling Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9cb/1000_1000_0/r4g20yagotuqpo2kahnnqtzvs0ey2hqj.jpg"
+      },
+      {
+        "id": 87990,
+        "title": "Сумка через плечо PUMA FUTURE.ARCHIVE Crossbody",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/ec4/v2hub7vo3gpbrj5z71ozppxbt6zsnpfw.jpg"
+      }
+    ],
+    [
+      {
+        "id": 82373,
+        "title": "Очки солнцезащитные в широкой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9167,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2525360040/BF2525360040_50_1.jpg"
+      },
+      {
+        "id": 7504,
+        "title": "Очки имиджевые в круглой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635360006/BF2635360006_50_1.jpg"
+      },
+      {
+        "id": 56,
+        "title": "Шапка женская",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11155_200_20.jpg"
+      },
+      {
+        "id": 66,
+        "title": "Снуд",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF91406_200_20.jpg"
+      },
+      {
+        "id": 70,
+        "title": "Шапка из хлопка",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 2499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF111146_200_20.jpg"
+      },
+      {
+        "id": 76,
+        "title": "Варежки из ангоры и шерсти",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11150_200_20.jpg"
+      },
+      {
+        "id": 129,
+        "title": "Лонгслив-термобелье с хлопком",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/200/FAE110197_200_20.jpg"
+      },
+      {
+        "id": 159,
+        "title": "Трикотажные перчатки",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF11307_200_30.jpg"
+      }
+    ]
+  ]
+}

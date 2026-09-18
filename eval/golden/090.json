@@ -1,0 +1,201 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Повседневный городской стиль",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        5620
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        1726
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка в полоску",
+      "color": "розовый",
+      "search_query": "рубашка полосатая розовая",
+      "type": "рубашка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "джинсы синие",
+      "color": "синий",
+      "search_query": "джинсы синие",
+      "type": "джинсы",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": "высокая посадка",
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1908,
+        "title": "Рубашка прямая из жатого хлопка в полоску",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418087/BF2631418087_95_1.jpg"
+      },
+      {
+        "id": 155926,
+        "title": "Пижамная рубашка в полоску, Розовый",
+        "store": "ostin",
+        "color": "розовый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/8ea/500_600_aed5/172044850299.jpg"
+      },
+      {
+        "id": 4462,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042/BF2631418042_95_1.jpg"
+      },
+      {
+        "id": 7917,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042pl/BF2631418042pl_95_1.jpg"
+      },
+      {
+        "id": 5620,
+        "title": "Рубашка домашняя в полоску двухцветная",
+        "store": "befree",
+        "color": "красный",
+        "price": 1999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631818012/BF2631818012_75_1.jpg"
+      },
+      {
+        "id": 55054,
+        "title": "Хлопковая рубашка Forte Dei Marmi Couture",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 13150,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/1e66608f4e58583a4636d506b73a7d4d/height/808/i/4b/63/be/1a/905f83dd-dc87-4299-bbe9-e6578d60e248.jpg"
+      },
+      {
+        "id": 56420,
+        "title": "Рубашка из вискозы и шелка BOSS Orange",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 11900,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/7d74ad10730abe5841c6bfdd933e10d5/height/808/i/dd/7c/13/66/28fd50cb-e7dd-46ae-a90c-cd7f522dd011.jpg"
+      },
+      {
+        "id": 56447,
+        "title": "Атласная рубашка Filles A Papa",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 13150,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/d37512d4cb078857e68821659e401cfd/height/808/i/f8/ff/76/3c/f8ff763c-9fbc-37c2-9989-5f3bf1df174f.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1726,
+        "title": "Джинсы клеш со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622209013/BF2622209013_110_1.jpg"
+      },
+      {
+        "id": 2418,
+        "title": "Джинсы багги со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209080/BF2621209080_106_1.jpg"
+      },
+      {
+        "id": 2427,
+        "title": "Джинсы багги с низкой посадкой и баской",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632209012/BF2632209012_105_1.jpg"
+      },
+      {
+        "id": 2435,
+        "title": "Джинсы клеш со штанинами на пуговицах",
+        "store": "befree",
+        "color": "синий",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209043/BF2641209043_105_100.jpg"
+      },
+      {
+        "id": 2459,
+        "title": "Джинсы зауженные со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209042col106/BF2641209042col106_106_1.jpg"
+      },
+      {
+        "id": 2462,
+        "title": "Джинсы клеш со средней посадкой и узором",
+        "store": "befree",
+        "color": "синий",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209028/BF2641209028_110_1.jpg"
+      },
+      {
+        "id": 2537,
+        "title": "Джинсы прямые с низкой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209045col106/BF2641209045col106_106_1.jpg"
+      },
+      {
+        "id": 2555,
+        "title": "Джинсы багги с низкой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642209004/BF2642209004_106_1.jpg"
+      }
+    ]
+  ]
+}

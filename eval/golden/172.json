@@ -1,0 +1,287 @@
+{
+  "gender": "men",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка льняная голубая",
+      "color": "голубой",
+      "search_query": "рубашка льняная голубая",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки белые классические",
+      "color": "белый",
+      "search_query": "брюки классические белые",
+      "type": "брюки",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли коричневые замшевые",
+      "color": "коричневый",
+      "search_query": "туфли замшевые коричневые",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 55019,
+        "title": "Хлопковая рубашка Trussardi junior",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 4640,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/ee958fbced4e2cc66f06f349ac010f88/height/808/i/d8/4e/83/fb/4ff9f8b9-e856-4372-962b-a1f67d2f6b23.jpg"
+      },
+      {
+        "id": 61236,
+        "title": "Хлопковая рубашка Members of the rage",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 17100,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/df1a172a5d14a8dd2875cc179b5fdf42/height/808/i/a6/f9/09/ca/a6f909ca-2396-36de-be8a-eab02ba7df5f.jpg"
+      },
+      {
+        "id": 62029,
+        "title": "Хлопковая рубашка Aspesi",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 15400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b5ff50a1b10d48e5d8c4f80c18ea8595/height/808/i/05/56/1f/78/eec89b5b-f9a9-4d1c-9db3-70c85c156591.jpg"
+      },
+      {
+        "id": 62241,
+        "title": "Хлопковая рубашка Sonrisa",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 6995,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3f3cc420eace80bd58ada2a3b7b9d96b/height/808/i/a4/67/9e/90/50f343d8-6929-49bd-87c1-145fcc63ce5b.jpg"
+      },
+      {
+        "id": 86186,
+        "title": "Хлопковая рубашка Harmont & Blaine",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 9480,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/dd4d1794617667d9f2d381102a53bfe7/height/808/i/bb/a9/af/ad/35f930da-74d2-4ecc-9c96-544d629158a0.jpg"
+      },
+      {
+        "id": 94983,
+        "title": "Мужская рубашка Gallatin Shirt Long Sleeve",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 9199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/803/rg37z0w9rnf3xkfeumzzzdn3knletk06.jpg"
+      },
+      {
+        "id": 61090,
+        "title": "Хлопковая рубашка VTMNTS",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 31400,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/2df8354196729f57ea0e5b6f59a3636e/height/808/i/38/01/97/a6/380197a6-7a4a-3678-be86-f744212bbae4.jpg"
+      },
+      {
+        "id": 61375,
+        "title": "Хлопковая рубашка Neil Barrett",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 29150,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/3494687edde8b23fa252b738f9adec01/height/808/i/b0/e5/03/80/1df3de12-2e02-41f2-927e-b186a69bde40.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55538,
+        "title": "Брюки из вискозы Paade Mode",
+        "store": "tsum",
+        "color": "белый",
+        "price": 4795,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/4801e3c588b6103c985e9e81366a6cdd/height/808/i/73/ab/c4/8d/79d45b60-1a7b-49e2-a84c-bb798d01d542.jpg"
+      },
+      {
+        "id": 62560,
+        "title": "Хлопковые брюки BOSS Green",
+        "store": "tsum",
+        "color": "белый",
+        "price": 13800,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f36345280e4e4d8e2907f614444e94f8/height/808/i/39/ab/f3/b4/bec87eac-820b-43d2-8808-ee744b3fc790.jpg"
+      },
+      {
+        "id": 62709,
+        "title": "Хлопковые брюки Moschino",
+        "store": "tsum",
+        "color": "белый",
+        "price": 14800,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/8854279c0f95d0333c687223caba9bfc/height/808/i/6a/ec/ea/6c/35bded95-c012-4aed-92a3-b5e73e2e4d59.jpg"
+      },
+      {
+        "id": 64657,
+        "title": "Брюки из хлопка",
+        "store": "kanzler",
+        "color": "белый",
+        "price": 7990,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/ca4/znb5wvmys2wko5bme02ymbiywbwcg4ha.jpg"
+      },
+      {
+        "id": 6712,
+        "title": "Брюки-аладдины на завязках",
+        "store": "befree",
+        "color": "белый",
+        "price": 2599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633108042/BF2633108042_1_1.jpg"
+      },
+      {
+        "id": 61556,
+        "title": "Брюки Richard J. Brown",
+        "store": "tsum",
+        "color": "белый",
+        "price": 34650,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/83a3d6f2f8611ea60228d137ebd0405a/height/808/i/b0/29/24/c9/af9e3994-fb45-4b8d-b414-70c2d7c68220.jpg"
+      },
+      {
+        "id": 5056,
+        "title": "Брюки прямые на завязках из фактурной ткани",
+        "store": "befree",
+        "color": "белый",
+        "price": 999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633108006/BF2633108006_1_1.jpg"
+      },
+      {
+        "id": 63480,
+        "title": "Льняные брюки Moschino",
+        "store": "tsum",
+        "color": "белый",
+        "price": 65500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/9cb6a7b9815806f28f78931ff36d1549/height/808/i/ff/38/ea/60/7535d947-0e0e-44ce-8e3b-a9b260e1cc64.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55013,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14850,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/71898f8f7ce5612f7a4874f40114c40b/height/808/i/78/f2/91/3b/519dc7c8-a7b5-427c-b844-47c6cd42cca6.jpg"
+      },
+      {
+        "id": 58559,
+        "title": "Домашние туфли из кожи Babbi",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 6395,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/478182453a1cd86f6218032eee3f1620/height/808/i/5a/a1/fe/79/5aa1fe79-78a0-3b0c-9589-773e293ef924.jpg"
+      },
+      {
+        "id": 60691,
+        "title": "Кожаные домашние туфли Aldo Brue",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22500,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/f149953381ad089e34d3d535e812a1e6/height/808/i/a1/26/2b/83/3f5fd197-80de-425a-8de8-8aa462ceeb57.jpg"
+      },
+      {
+        "id": 57978,
+        "title": "Замшевые слипоны Montelpare Tradition",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 11500,
+        "score": 0.4545,
+        "photo_url": "https://st-cdn.tsum.com/sig/0a1f3fcc89b351e943add9fce5e18d74/height/808/i/60/40/28/44/60402844-533b-3dd6-82a6-0a210a4e0faf.jpg"
+      },
+      {
+        "id": 58794,
+        "title": "Замшевые слипоны Montelpare Tradition",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 15500,
+        "score": 0.4545,
+        "photo_url": "https://st-cdn.tsum.com/sig/a04b720190641d51e6ced2d00f92aa03/height/808/i/31/4a/df/c3/314adfc3-f380-32b6-9fb7-587c28a91082.jpg"
+      },
+      {
+        "id": 58801,
+        "title": "Замшевые слипоны Montelpare Tradition",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 11500,
+        "score": 0.4545,
+        "photo_url": "https://st-cdn.tsum.com/sig/6bbf26032dd6f232521b98771572cc7e/height/808/i/2c/f6/6f/26/2cf66f26-f9d7-3146-ae50-08f5429e24ae.jpg"
+      },
+      {
+        "id": 58802,
+        "title": "Замшевые слипоны Montelpare Tradition",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 11750,
+        "score": 0.4545,
+        "photo_url": "https://st-cdn.tsum.com/sig/0cd9f1a1d4b03b8d6d8d0fdbbca66b96/height/808/i/5d/ea/53/ba/5dea53ba-c320-3277-8035-dc53da6cdc39.jpg"
+      },
+      {
+        "id": 58803,
+        "title": "Замшевые слипоны Montelpare Tradition",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 14650,
+        "score": 0.4545,
+        "photo_url": "https://st-cdn.tsum.com/sig/f95dbad40518606f89be72cfc4ed4bd0/height/808/i/eb/23/75/23/edc37ad9-f6d5-4f51-98a0-844bc8de672e.jpg"
+      }
+    ]
+  ]
+}

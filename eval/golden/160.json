@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Элегантный городской шик.",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган свободный вязаный",
+      "color": "фиолетовый",
+      "search_query": "кардиган свободный фиолетовый",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "удлинённый",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ облегающий",
+      "color": "сиреневый",
+      "search_query": "топ облегающий сиреневый",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "фиолетовый",
+      "search_query": "брюки широкие фиолетовый",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": "макси",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли на каблуке",
+      "color": "бирюзовый",
+      "search_query": "туфли на каблуке бирюзовый",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 5614,
+        "title": "Кардиган вязаный с бантом и шерстью альпака",
+        "store": "befree",
+        "color": "фиолетовый",
+        "price": 2999,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527046/BF2631527046_80_1.jpg"
+      },
+      {
+        "id": 6582,
+        "title": "Кардиган вязаный с азиатскими застежками",
+        "store": "befree",
+        "color": "фиолетовый",
+        "price": 3999,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527014/BF2641527014_82_1.jpg"
+      },
+      {
+        "id": 7268,
+        "title": "Кардиган вязаный с шерстью и кейпом",
+        "store": "befree",
+        "color": "фиолетовый",
+        "price": 2999,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527045/BF2631527045_82_1.jpg"
+      },
+      {
+        "id": 2318,
+        "title": "Кардиган вязаный с рисунком и меховым воротником",
+        "store": "befree",
+        "color": "синий",
+        "price": 4999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527052/BF2631527052_45_1.jpg"
+      },
+      {
+        "id": 1895,
+        "title": "Кардиган вязаный на пуговицах с шерстью",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527018/BF2631527018_45_1.jpg"
+      },
+      {
+        "id": 1911,
+        "title": "Кардиган вязаный с декором из пуговиц",
+        "store": "befree",
+        "color": "синий",
+        "price": 2599,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527032/BF2631527032_47_1.jpg"
+      },
+      {
+        "id": 4345,
+        "title": "Кардиган вязаный с косой молнией",
+        "store": "befree",
+        "color": "синий",
+        "price": 3299,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642527006/BF2642527006_40_1.jpg"
+      },
+      {
+        "id": 5653,
+        "title": "Кардиган вязаный с кейпом",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527051/BF2631527051_47_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4613,
+        "title": "Топ облегающий на тонких бретелях",
+        "store": "befree",
+        "color": "розовый",
+        "price": 799,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121023/BF2631121023_90_1.jpg"
+      },
+      {
+        "id": 5117,
+        "title": "Топ вязаный облегающий в рубчик",
+        "store": "befree",
+        "color": "фиолетовый",
+        "price": 999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631521001/BF2631521001_82_1.jpg"
+      },
+      {
+        "id": 6220,
+        "title": "Топ-халтер облегающий в рубчик",
+        "store": "befree",
+        "color": "розовый",
+        "price": 599,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121033/BF2621121033_90_1.jpg"
+      },
+      {
+        "id": 7233,
+        "title": "Топ облегающий на тонких бретелях",
+        "store": "befree",
+        "color": "фиолетовый",
+        "price": 599,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121027/BF2631121027_80_1.jpg"
+      },
+      {
+        "id": 4420,
+        "title": "Бюстгальтер-топ сетчатый с кружевом в горошек",
+        "store": "befree",
+        "color": "сиреневый",
+        "price": 999,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624830040/BF2624830040_87_1.jpg"
+      },
+      {
+        "id": 1556,
+        "title": "Бюстгальтер-топ кружевной",
+        "store": "befree",
+        "color": "розовый",
+        "price": 999,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624830025/BF2624830025_90_1.jpg"
+      },
+      {
+        "id": 1881,
+        "title": "Топ бархатный с кружевом",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2299,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418069/BF2631418069_93_1.jpg"
+      },
+      {
+        "id": 2331,
+        "title": "Майка-топ пляжная с завязками",
+        "store": "befree",
+        "color": "розовый",
+        "price": 799,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624721003/BF2624721003_90_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 6332,
+        "title": "Брюки широкие домашние на завязках из вискозы",
+        "store": "befree",
+        "color": "фиолетовый",
+        "price": 2599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808008/BF2631808008_83_1.jpg"
+      },
+      {
+        "id": 2412,
+        "title": "Брюки широкие из жатой вискозы",
+        "store": "befree",
+        "color": "фиолетовый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308004/BF2631308004_80_1.jpg"
+      },
+      {
+        "id": 7253,
+        "title": "Брюки клеш домашние с кружевом",
+        "store": "befree",
+        "color": "фиолетовый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808005/BF2631808005_83_2.jpg"
+      },
+      {
+        "id": 56304,
+        "title": "Брюки изо льна и хлопка Pietro Brunelli",
+        "store": "tsum",
+        "color": "фиолетовый",
+        "price": 5115,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/db06df32bdb5396476c0dfe411acd61e/height/808/i/9f/fa/ba/f2/9ffabaf2-6a57-3d8e-b4b8-0c02e46d2ddc.jpg"
+      },
+      {
+        "id": 58181,
+        "title": "Хлопковые брюки John Elliott",
+        "store": "tsum",
+        "color": "фиолетовый",
+        "price": 7740,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d3974b44e7bebe6738e5eae11ae2db7d/height/808/i/35/01/2c/72/35012c72-dc11-3081-a411-37776556bf23.jpg"
+      },
+      {
+        "id": 4635,
+        "title": "Брюки широкие утепленные с вышивкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108006/BF2632108006_47_1.jpg"
+      },
+      {
+        "id": 6355,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_47_1.jpg"
+      },
+      {
+        "id": 7484,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_47_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55677,
+        "title": "Текстильные туфли Anitta Gedebe",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 31950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/f869df7c0434b6a7ed24d5387f61f41e/height/808/i/79/ec/61/29/cfbf98e0-ba18-4019-8986-2240a9002587.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.6818,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_20_11.jpg"
+      },
+      {
+        "id": 4663,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "желтый",
+        "price": 3799,
+        "score": 0.6818,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_9_11.jpg"
+      },
+      {
+        "id": 4927,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.6818,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_20_11.jpg"
+      },
+      {
+        "id": 5945,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "черный",
+        "price": 2599,
+        "score": 0.6818,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_50_13.jpg"
+      },
+      {
+        "id": 8202,
+        "title": "Туфли-лодочки на фигурном каблуке из искусственной замши",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.6818,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636683034/BF2636683034_50_1.jpg"
+      },
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      }
+    ]
+  ]
+}

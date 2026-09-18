@@ -1,0 +1,479 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Лёгкий летний городской шик.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        4936,
+        1767
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "absent"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ на бретелях",
+      "color": "белый",
+      "search_query": "топ на бретелях белый",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "белый",
+      "search_query": "брюки широкие белые",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": "макси",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "бирюзовый",
+      "search_query": "босоножки бирюзовые",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "бежевый",
+      "search_query": "сумка через плечо бежевая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "бандана",
+      "color": "голубой",
+      "search_query": "бандана голубая",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 3239,
+        "title": "Топ приталенный на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 899,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121028/BF2631121028_1_100.jpg"
+      },
+      {
+        "id": 6799,
+        "title": "Бюстгальтер-топ на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830017/BF2634830017_1_1.jpg"
+      },
+      {
+        "id": 8863,
+        "title": "Майка-топ ажурная укороченная на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 1299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622418015/BF2622418015_1_1.jpg"
+      },
+      {
+        "id": 1552,
+        "title": "Майка-топ облегающая на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 499,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121015/BF2631121015_1_1.jpg"
+      },
+      {
+        "id": 5010,
+        "title": "Майка-топ укороченная на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 399,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121010/BF2622121010_1_1.jpg"
+      },
+      {
+        "id": 7587,
+        "title": "Майка-топ на тонких бретелях укороченная",
+        "store": "befree",
+        "color": "белый",
+        "price": 499,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121029/BF2621121029_1_1.jpg"
+      },
+      {
+        "id": 7590,
+        "title": "Майка-топ облегающая на широких бретелях с принтом",
+        "store": "befree",
+        "color": "белый",
+        "price": 699,
+        "score": 0.9513,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121013/BF2622121013_4_1.jpg"
+      },
+      {
+        "id": 5201,
+        "title": "Топ с принтом на широких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9318,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632121010/BF2632121010_4_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2637,
+        "title": "Брюки широкие из гобелена со средней посадкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 4799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308011/BF2641308011_99_1.jpg"
+      },
+      {
+        "id": 2361,
+        "title": "Брюки широкие хлопковые с вышивкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308035/BF2621308035_1_1.jpg"
+      },
+      {
+        "id": 4936,
+        "title": "Брюки широкие из жатого хлопка",
+        "store": "befree",
+        "color": "белый",
+        "price": 1299,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308003/BF2631308003_1_1.jpg"
+      },
+      {
+        "id": 6221,
+        "title": "Брюки широкие хлопковые на завязках с вышивкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308008/BF2621308008_1_1.jpg"
+      },
+      {
+        "id": 1767,
+        "title": "Брюки прямые на завязках с лампасами",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308003/BF2632308003_1_1.jpg"
+      },
+      {
+        "id": 7802,
+        "title": "Брюки домашние атласные на резинке",
+        "store": "befree",
+        "color": "белый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808021/BF2631808021_4_1.jpg"
+      },
+      {
+        "id": 54887,
+        "title": "Брюки Aquilano Rimondi",
+        "store": "tsum",
+        "color": "белый",
+        "price": 8495,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/113fe44eb59ea483f73963f929ca1121/height/808/i/78/8e/c6/75/24186c32-77e8-41ec-a7c1-789a0ccf6746.jpg"
+      },
+      {
+        "id": 55538,
+        "title": "Брюки из вискозы Paade Mode",
+        "store": "tsum",
+        "color": "белый",
+        "price": 4795,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/4801e3c588b6103c985e9e81366a6cdd/height/808/i/73/ab/c4/8d/79d45b60-1a7b-49e2-a84c-bb798d01d542.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55349,
+        "title": "Кожаные босоножки Moschino",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 15950,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/39f904def4a15292413eda5fea489f5a/height/808/i/6d/ca/c0/27/6dcac027-f16a-3e4f-b930-63f5433c52c1.jpg"
+      },
+      {
+        "id": 55418,
+        "title": "Кожаные босоножки Alexandre Birman",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 16900,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/f4281197662ed5dcde887edf53828f9a/height/808/i/4c/6b/01/e9/4c6b01e9-540a-3f5b-901b-613d6a3be83e.jpg"
+      },
+      {
+        "id": 55436,
+        "title": "Текстильные босоножки Cube Toe-Ring 95 Paul Andrew",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 22750,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/903e39d57eb9f3764c5c159bf8cf8a40/height/808/i/8b/21/5f/df/8b215fdf-d65d-3ef4-b4b4-5a91ba8b7d16.jpg"
+      },
+      {
+        "id": 55440,
+        "title": "Кожаные босоножки Peep Sling Paul Andrew",
+        "store": "tsum",
+        "color": "синий",
+        "price": 22150,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/68a8345ff8488420f5c6b8c4f254a136/height/808/i/59/0c/15/b7/590c15b7-d53a-3112-9f20-16db9653256a.jpg"
+      },
+      {
+        "id": 55517,
+        "title": "Кожаные босоножки Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 21550,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/b1a979dff9da7aa7615480e854f6e275/height/808/i/b8/a6/31/b1/b8a631b1-d0eb-30c1-a506-ee5869a4acac.jpg"
+      },
+      {
+        "id": 55546,
+        "title": "Замшевые босоножки Alexandre Birman",
+        "store": "tsum",
+        "color": "кремовый",
+        "price": 19950,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/45a630767271c124b3e8a7ca02cb6333/height/808/i/60/f7/72/f0/60f772f0-dcab-34a3-8dd6-e200afc7284b.jpg"
+      },
+      {
+        "id": 55584,
+        "title": "Текстильные босоножки Cube Toe-Ring 95 Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22750,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/20466697afad8b5683f80f5a037d0d67/height/808/i/b0/ef/35/7b/b0ef357b-7773-3fd0-8bd0-0b9cf1b1d77f.jpg"
+      },
+      {
+        "id": 55619,
+        "title": "Кожаные босоножки Cube Toe-Ring 95 Paul Andrew",
+        "store": "tsum",
+        "color": "серый",
+        "price": 16300,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/8fac5824e9a43e08b32cc9f8c1f9ab6d/height/808/i/1b/b0/8d/d2/1bb08dd2-9363-39f5-b943-aacd08e750e9.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1967,
+        "title": "Сумка-багет через плечо замшевая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457027/BF2635457027_62_1.jpeg"
+      },
+      {
+        "id": 91745,
+        "title": "Сумка через плечо Hot Shot Crossbody Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/957/1000_1000_0/bz4rndmxci2fv7lrxflz4g0fls8hxknh.jpg"
+      },
+      {
+        "id": 93912,
+        "title": "Сумка через плечо PUMA HER Half Moon Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3199,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4a6/ekolveyxg20x5sthw5l6zmu6p7wku9cb.jpg"
+      },
+      {
+        "id": 111927,
+        "title": "Сумка через плечо Terra Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3699,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/838/8bpimo151vm5p5apnntfv415mfqlsa6q.jpg"
+      },
+      {
+        "id": 114418,
+        "title": "Сумка через плечо Mini Canvas Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 2399,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e6b/idg4rai5j9bui8rujtzesuelu43ove43.jpg"
+      },
+      {
+        "id": 133170,
+        "title": "Сумка через плечо Alva Medium",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/9ff/3fur64te2cmyk4isxt8y82pbkzvgfsa6.jpg"
+      },
+      {
+        "id": 148175,
+        "title": "Сумка через плечо Reebok Arlo, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1699,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/a0a/195097800299.jpg"
+      },
+      {
+        "id": 159218,
+        "title": "Сумка через плечо, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/1eb/500_600_ce2e/185536570299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2295,
+        "title": "Ремень брючный широкий из натуральной замши",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346045/BF2635346045_41_1.jpg"
+      },
+      {
+        "id": 5871,
+        "title": "Джортсы со средней посадкой и тонким поясом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621211038/BF2621211038_101_1.jpg"
+      },
+      {
+        "id": 6787,
+        "title": "Джортсы с низкой посадкой и поясом-платком",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621211032/BF2621211032_100_1.jpg"
+      },
+      {
+        "id": 9279,
+        "title": "Шелковый пояс для чулок INCANTO Seta",
+        "store": "incantoeu",
+        "color": "голубой",
+        "price": 4699,
+        "score": 0.6667,
+        "photo_url": "https://incanto.eu/upload/iblock/ca2/500er8sbnnzub02zkfb9u1ewmw2oqux4.jpg"
+      },
+      {
+        "id": 58092,
+        "title": "Панама Pesciolino Rosso",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 4150,
+        "score": 0.6667,
+        "photo_url": "https://st-cdn.tsum.com/sig/42788e296afa41b3365f935903b4a082/height/808/i/89/3e/21/39/8a0e1a3d-7bec-489d-be99-eea6520f6491.jpg"
+      },
+      {
+        "id": 58343,
+        "title": "Панама Pesciolino Rosso",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 4150,
+        "score": 0.6667,
+        "photo_url": "https://st-cdn.tsum.com/sig/f5e7a3fbb41409b3869e8c51e27af8af/height/808/i/0e/9f/d7/3f/74a73610-1494-4ef7-aa62-f97390c83908.jpg"
+      },
+      {
+        "id": 58346,
+        "title": "Панама Pesciolino Rosso",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 4150,
+        "score": 0.6667,
+        "photo_url": "https://st-cdn.tsum.com/sig/a95356a64936f8e0f72310d3f1c85aeb/height/808/i/69/eb/60/04/265c2e4d-72d4-446f-a6fd-a56407e5017c.jpg"
+      },
+      {
+        "id": 58347,
+        "title": "Панама Pesciolino Rosso",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 4150,
+        "score": 0.6667,
+        "photo_url": "https://st-cdn.tsum.com/sig/bba91da734f28e869e1d8357c38bfe96/height/808/i/7d/68/5b/15/e72e917f-62da-488e-9d56-1a2e7b1e5f25.jpg"
+      }
+    ]
+  ]
+}

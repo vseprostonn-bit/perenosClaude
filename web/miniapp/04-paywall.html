@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Obraz — Пейвол</title>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --text:#1A1A1E;--hint:#9A8F8F;
+  --accent:#FF4D6A;--accent2:#FF8FA3;
+  --peach:#FFD5C2;--peach2:#FFE4D6;
+  --border:#F2E6E2;--card:rgba(255,255,255,0.72);
+  --shadow:0 4px 6px rgba(255,77,106,0.06),0 10px 24px rgba(255,143,163,0.08);
+  --shadow-lg:0 8px 16px rgba(255,77,106,0.1),0 20px 48px rgba(255,143,163,0.14);
+  --spring:cubic-bezier(0.16,1,0.3,1);
+}
+body{
+  font-family:'Inter',sans-serif;
+  background:linear-gradient(180deg,#FFF8F6 0%,#FFEDE8 100%);
+  background-attachment:fixed;
+  color:var(--text);max-width:390px;margin:0 auto;
+  padding:32px 16px 32px;
+  overflow-x:hidden;
+}
+.lock{
+  width:64px;height:64px;border-radius:50%;margin:0 auto 16px;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+  display:flex;align-items:center;justify-content:center;
+  box-shadow:0 8px 24px rgba(255,77,106,0.3);
+}
+.lock svg{width:28px;height:28px;}
+h1{font-family:'Manrope',sans-serif;font-size:22px;font-weight:700;text-align:center;margin-bottom:8px;}
+.sub{color:var(--hint);font-size:13px;text-align:center;margin-bottom:24px;line-height:1.5;}
+.plans{display:flex;flex-direction:column;gap:12px;margin-bottom:20px;}
+.plan{
+  padding:18px;border:1.5px solid var(--border);border-radius:16px;
+  background:var(--card);backdrop-filter:blur(16px);
+  position:relative;cursor:pointer;box-shadow:var(--shadow);
+  transition:transform .2s var(--spring),box-shadow .2s var(--spring),border-color .2s,background .2s;
+}
+.plan:active{transform:scale(0.99);}
+.plan.selected{border-color:var(--accent);background:linear-gradient(135deg,rgba(255,77,106,0.05),rgba(255,143,163,0.08));box-shadow:var(--shadow-lg);}
+.plan.popular{border-color:var(--accent);}
+.badge{
+  position:absolute;top:-10px;right:14px;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+  color:#fff;font-size:11px;font-weight:700;padding:4px 10px;border-radius:20px;
+  box-shadow:0 3px 10px rgba(255,77,106,0.25);
+}
+.plan-top{display:flex;justify-content:space-between;align-items:center;}
+.plan-name{font-weight:600;font-size:15px;}
+.plan-price{font-weight:700;font-size:18px;}
+.plan-price s{color:var(--hint);font-weight:400;font-size:13px;margin-right:6px;}
+.plan-meta{font-size:11px;color:var(--hint);margin-top:6px;line-height:1.4;}
+.save-badge{color:var(--accent);font-weight:600;}
+.cta{
+  width:100%;padding:16px;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+  color:#fff;border:none;border-radius:14px;
+  font-size:17px;font-weight:700;font-family:'Manrope',sans-serif;
+  margin-top:4px;cursor:pointer;
+  box-shadow:0 6px 20px rgba(255,77,106,0.3);
+  transition:transform .15s var(--spring),box-shadow .15s var(--spring);
+}
+.cta:active{transform:scale(0.98);}
+.trust{font-size:11px;color:var(--hint);text-align:center;margin-top:12px;line-height:1.5;}
+.faq{margin-top:24px;}
+.faq h3{font-size:14px;font-weight:700;margin-bottom:10px;}
+.faq-item{
+  padding:14px;border:1px solid var(--border);border-radius:14px;
+  background:var(--card);backdrop-filter:blur(12px);
+  margin-bottom:8px;box-shadow:var(--shadow);
+}
+.faq-item strong{font-size:13px;}
+.faq-item p{font-size:12px;color:var(--hint);margin-top:6px;line-height:1.5;}
+.legal{font-size:10px;color:var(--hint);text-align:center;margin-top:20px;line-height:1.5;}
+
+/* Screen entrance animation */
+@keyframes slideUp{from{opacity:0;transform:translateY(24px);}to{opacity:1;transform:translateY(0);}}
+body>*{animation:slideUp .3s var(--spring) both;}
+body>*:nth-child(2){animation-delay:.05s;}
+body>*:nth-child(3){animation-delay:.08s;}
+body>*:nth-child(4){animation-delay:.12s;}
+body>*:nth-child(5){animation-delay:.16s;}
+body>*:nth-child(6){animation-delay:.2s;}
+body>*:nth-child(7){animation-delay:.24s;}
+body>*:nth-child(8){animation-delay:.28s;}
+body>*:nth-child(9){animation-delay:.32s;}
+body>*:nth-child(10){animation-delay:.36s;}
+</style>
+</head>
+<body>
+  <div class="lock">
+    <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round">
+      <rect x="5" y="11" width="14" height="10" rx="2"/>
+      <path d="M8 11V7a4 4 0 018 0v4"/>
+    </svg>
+  </div>
+  <h1>Открой все образы</h1>
+  <div class="sub">Ты посмотрела 3 из 50 — дальше подписка.<br>Любой образ → где купить дешевле на 4 маркетплейсах.</div>
+  <div class="plans">
+    <div class="plan" onclick="pick(this,'199')">
+      <div class="plan-top"><span class="plan-name">Старт</span><span class="plan-price"><s>990₽</s>199₽<span style="font-weight:400;font-size:13px;">/мес</span></span></div>
+      <div class="plan-meta">50 образов · безлимит сохранений · <span class="save-badge">−80%</span></div>
+    </div>
+    <div class="plan popular selected" onclick="pick(this,'299')">
+      <span class="badge">Популярный · −70%</span>
+      <div class="plan-top"><span class="plan-name">Стиль</span><span class="plan-price"><s>990₽</s>299₽<span style="font-weight:400;font-size:13px;">/мес</span></span></div>
+      <div class="plan-meta">Всё из Старт + капсулы недели + тренд-подборки</div>
+    </div>
+    <div class="plan" onclick="pick(this,'499')">
+      <div class="plan-top"><span class="plan-name">Премиум</span><span class="plan-price"><s>990₽</s>499₽<span style="font-weight:400;font-size:13px;">/мес</span></span></div>
+      <div class="plan-meta">Всё из Стиль + ранний доступ к UGC-конструктору</div>
+    </div>
+  </div>
+  <button class="cta" id="payBtn">Оформить — 299₽/мес</button>
+  <div class="trust">МИР / СБП · чек Робочеки · отмена в 1 клик · erid в чеке</div>
+  <div class="faq">
+    <h3>FAQ</h3>
+    <div class="faq-item"><strong>Дорого?</strong><p>Один образ в ТЦ — 8-12к. У нас от 1 200₽ за весь лук, где дешевле — показывает кнопка.</p></div>
+    <div class="faq-item"><strong>Не мой размер?</strong><p>Квиз 3 вопроса (размер/стиль/бюджет) — фильтруем ленту под тебя.</p></div>
+    <div class="faq-item"><strong>Не мой стиль?</strong><p>50 образов на старте: учёба/офис/свидание/капсула. Сохраняй — подстроим рекомендации.</p></div>
+    <div class="faq-item"><strong>Как отписаться?</strong><p>В 1 клик в боте / в кабинете. Деньги за неиспользованные дни — возврат по обращению.</p></div>
+  </div>
+  <div class="legal">ИП Yorren · оферта · политика ПД (152-ФЗ) · данные только на нашем сервере</div>
+  <script>
+    function pick(el, price){
+      document.querySelectorAll('.plan').forEach(p=>p.classList.remove('selected'));
+      el.classList.add('selected');
+      document.getElementById('payBtn').textContent='Оформить — '+price+'₽/мес';
+    }
+  </script>
+</body>
+</html>

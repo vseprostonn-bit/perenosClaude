@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская элегантность",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка в полоску",
+      "color": "красный",
+      "search_query": "рубашка полосатая красная",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "белые брюки",
+      "color": "белый",
+      "search_query": "брюки белые прямые",
+      "type": "брюки",
+      "silhouette": "прямые",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "коричневые туфли",
+      "color": "коричневый",
+      "search_query": "туфли коричневые классические",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "бежевый",
+      "search_query": "сумка через плечо бежевая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 5620,
+        "title": "Рубашка домашняя в полоску двухцветная",
+        "store": "befree",
+        "color": "красный",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631818012/BF2631818012_75_1.jpg"
+      },
+      {
+        "id": 1908,
+        "title": "Рубашка прямая из жатого хлопка в полоску",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418087/BF2631418087_95_1.jpg"
+      },
+      {
+        "id": 155926,
+        "title": "Пижамная рубашка в полоску, Розовый",
+        "store": "ostin",
+        "color": "розовый",
+        "price": 1599,
+        "score": 0.8909,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/8ea/500_600_aed5/172044850299.jpg"
+      },
+      {
+        "id": 6324,
+        "title": "Рубашка прямая хлопковая в клетку",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418048/BF2631418048_75_1.jpg"
+      },
+      {
+        "id": 8421,
+        "title": "Рубашка-корсет в клетку",
+        "store": "befree",
+        "color": "красный",
+        "price": 2599,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632418020/BF2632418020_75_1.jpg"
+      },
+      {
+        "id": 55981,
+        "title": "Хлопковая рубашка VETEMENTS",
+        "store": "tsum",
+        "color": "красный",
+        "price": 79600,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/678b8223d11f00d9899f563f0a4f28e0/height/808/i/7e/50/3e/3e/4596d5da-b79e-4237-874e-2f749610122c.jpg"
+      },
+      {
+        "id": 57142,
+        "title": "Рубашка из шерсти и кашемира Destin",
+        "store": "tsum",
+        "color": "красный",
+        "price": 29600,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/fee04526a1458664ebfdfec59dd18e38/height/808/i/74/41/a1/35/b4c9e9c1-e55b-4833-ae32-9d0e509c1e2b.jpg"
+      },
+      {
+        "id": 4462,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042/BF2631418042_95_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1767,
+        "title": "Брюки прямые на завязках с лампасами",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308003/BF2632308003_1_1.jpg"
+      },
+      {
+        "id": 2637,
+        "title": "Брюки широкие из гобелена со средней посадкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 4799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308011/BF2641308011_99_1.jpg"
+      },
+      {
+        "id": 7802,
+        "title": "Брюки домашние атласные на резинке",
+        "store": "befree",
+        "color": "белый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808021/BF2631808021_4_1.jpg"
+      },
+      {
+        "id": 54887,
+        "title": "Брюки Aquilano Rimondi",
+        "store": "tsum",
+        "color": "белый",
+        "price": 8495,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/113fe44eb59ea483f73963f929ca1121/height/808/i/78/8e/c6/75/24186c32-77e8-41ec-a7c1-789a0ccf6746.jpg"
+      },
+      {
+        "id": 55538,
+        "title": "Брюки из вискозы Paade Mode",
+        "store": "tsum",
+        "color": "белый",
+        "price": 4795,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/4801e3c588b6103c985e9e81366a6cdd/height/808/i/73/ab/c4/8d/79d45b60-1a7b-49e2-a84c-bb798d01d542.jpg"
+      },
+      {
+        "id": 55558,
+        "title": "Шерстяные брюки Racil",
+        "store": "tsum",
+        "color": "белый",
+        "price": 6995,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b0d559865cef675c5548566096bb2a53/height/808/i/d3/00/7a/e2/a3f013ec-e646-436a-a5e8-f070e9ea9dfa.jpg"
+      },
+      {
+        "id": 55738,
+        "title": "Хлопковые брюки Zadig and Voltaire",
+        "store": "tsum",
+        "color": "белый",
+        "price": 5425,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/61f84babf48f8859e58990d95eeb4822/height/808/i/80/50/9f/28/80509f28-91a8-34d1-a113-6e2c84915432.jpg"
+      },
+      {
+        "id": 56545,
+        "title": "Хлопковые брюки-карго Joshua Sanders",
+        "store": "tsum",
+        "color": "белый",
+        "price": 9240,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0555c6a02d7902543e2f4fa87a979330/height/808/i/dc/ee/a5/49/454d7315-ae22-4877-a9a5-a8a8fa45ab0e.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4927,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_20_11.jpg"
+      },
+      {
+        "id": 159681,
+        "title": "Сатиновые туфли-лодочки, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cd6/500_600_f7b2/172369780299.jpg"
+      },
+      {
+        "id": 1807,
+        "title": "Туфли на танкетке лаковые из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682008/BF2636682008_20_2.jpg"
+      },
+      {
+        "id": 3077,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_20_1.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_20_11.jpg"
+      },
+      {
+        "id": 6663,
+        "title": "Туфли с перемычкой между пальцами из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688019/BF2626688019_20_11.jpg"
+      },
+      {
+        "id": 8191,
+        "title": "Туфли-мюли с открытым носом и декором из бусин",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683008/BF2626683008_20_3.jpg"
+      },
+      {
+        "id": 55680,
+        "title": "Туфли Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 44750,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/b628faed6cf37d59bcc27158286ae38c/height/808/i/ff/56/3a/0d/f8a19cba-a71e-4ca3-a1bd-059d285376d1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1967,
+        "title": "Сумка-багет через плечо замшевая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457027/BF2635457027_62_1.jpeg"
+      },
+      {
+        "id": 91745,
+        "title": "Сумка через плечо Hot Shot Crossbody Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/957/1000_1000_0/bz4rndmxci2fv7lrxflz4g0fls8hxknh.jpg"
+      },
+      {
+        "id": 93912,
+        "title": "Сумка через плечо PUMA HER Half Moon Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3199,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4a6/ekolveyxg20x5sthw5l6zmu6p7wku9cb.jpg"
+      },
+      {
+        "id": 111927,
+        "title": "Сумка через плечо Terra Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3699,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/838/8bpimo151vm5p5apnntfv415mfqlsa6q.jpg"
+      },
+      {
+        "id": 114418,
+        "title": "Сумка через плечо Mini Canvas Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 2399,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e6b/idg4rai5j9bui8rujtzesuelu43ove43.jpg"
+      },
+      {
+        "id": 133170,
+        "title": "Сумка через плечо Alva Medium",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/9ff/3fur64te2cmyk4isxt8y82pbkzvgfsa6.jpg"
+      },
+      {
+        "id": 148175,
+        "title": "Сумка через плечо Reebok Arlo, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1699,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/a0a/195097800299.jpg"
+      },
+      {
+        "id": 159218,
+        "title": "Сумка через плечо, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/1eb/500_600_ce2e/185536570299.jpg"
+      }
+    ]
+  ]
+}

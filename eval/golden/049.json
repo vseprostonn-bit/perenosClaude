@@ -1,0 +1,293 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Осень в Париже",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        4911
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка oversize",
+      "color": "бежевый",
+      "search_query": "рубашка oversize бежевый",
+      "type": "рубашка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди клетчатая",
+      "color": "коричневый",
+      "search_query": "юбка миди клетчатый коричневый",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "клетка"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "ботильоны высокие",
+      "color": "коричневый",
+      "search_query": "ботильоны высокие коричневый",
+      "type": "ботинки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 157596,
+        "title": "Длинная рубашка из жатой ткани, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 4599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/08a/500_600_b936/186020940299.jpg"
+      },
+      {
+        "id": 155952,
+        "title": "Свободная рубашка изо льна с хлопком, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/27e/500_600_61dc/150908250299.jpg"
+      },
+      {
+        "id": 155925,
+        "title": "Пижамная рубашка в полоску, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.9318,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/806/500_600_ab4f/172044830299.jpg"
+      },
+      {
+        "id": 7916,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042pl/BF2631418042pl_65_1.jpg"
+      },
+      {
+        "id": 92439,
+        "title": "Женская рубашка Corduroy Jacket",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/149/1000_1000_0/ko4fhj0t8ld7fbsxfqboq21glfsmnd0c.jpg"
+      },
+      {
+        "id": 121494,
+        "title": "Женская рубашка A-Boyd",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 8199,
+        "score": 0.8636,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/414/bg8iwx2jtfze17hx5zd8nuuu80nvi2tf.jpg"
+      },
+      {
+        "id": 3342,
+        "title": "Рубашка оверсайз с принтом и необработанными краями",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.8604,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418067pl/BF2631418067pl_59_1.jpg"
+      },
+      {
+        "id": 3365,
+        "title": "Рубашка оверсайз с принтом и необработанными краями",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.8604,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418067/BF2631418067_59_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 8368,
+        "title": "Юбка-шорты мини в складку с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632312009/BF2632312009_20_1.jpg"
+      },
+      {
+        "id": 4911,
+        "title": "Юбка-трапеция мини в складку и клетку на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632312010/BF2632312010_26_1.jpg"
+      },
+      {
+        "id": 5616,
+        "title": "Юбка прямая мини пушистая",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312039/BF2631312039_20_1.jpg"
+      },
+      {
+        "id": 8366,
+        "title": "Юбка-шорты мини из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312033/BF2631312033_20_1.jpg"
+      },
+      {
+        "id": 8883,
+        "title": "Юбка-шорты мини из хлопкового муслина с воланами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622312011/BF2622312011_20_1.jpg"
+      },
+      {
+        "id": 55466,
+        "title": "Юбка Dondup",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 18600,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/9f1a38dd1a784ee492e4d631f1deb998/height/808/i/fd/00/5e/42/4f85bd20-1e66-4e7f-ad57-890dcdc8e713.jpg"
+      },
+      {
+        "id": 56873,
+        "title": "Хлопковая юбка AERON",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 23300,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/d5734342eb1979a0ddd72249bc8e67d2/height/808/i/c9/0a/3c/06/a34be094-7560-451b-9c79-821ed11adb18.jpg"
+      },
+      {
+        "id": 57379,
+        "title": "Юбка LVIR",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 19700,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/1318c9ef6f0b59a198303b08352b889b/height/808/i/81/93/db/d5/22a53745-6883-428a-b93c-0781cb07181e.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2483,
+        "title": "Ботильоны на каблуке из натуральной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636687005/BF2636687005_20_1.jpg"
+      },
+      {
+        "id": 4526,
+        "title": "Ботильоны замшевые на каблуке",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2646687002/BF2646687002_20_1.jpg"
+      },
+      {
+        "id": 5302,
+        "title": "Ботильоны из натуральной замши со складками и декором",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 7299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636684002/BF2636684002_20_12.jpg"
+      },
+      {
+        "id": 6078,
+        "title": "Ботильоны на каблуке из натуральной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636687005/BF2636687005_63_1.jpg"
+      },
+      {
+        "id": 85718,
+        "title": "Ботильоны на фигурном каблуке с широким голенищем",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2646687027/BF2646687027_26_1.jpg"
+      },
+      {
+        "id": 85737,
+        "title": "Ботильоны на фигурном каблуке с широким голенищем",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2646687027/BF2646687027_27_1.jpg"
+      },
+      {
+        "id": 5707,
+        "title": "Ботильоны на каблуке из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 4299,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636687008/BF2636687008_20_1.jpg"
+      },
+      {
+        "id": 55048,
+        "title": "Замшевые ботильоны Stuart 100 Stuart Weitzman",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 42400,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/6a21b3bcc1f61ebc64a28d1eab27114d/height/808/i/9a/25/34/8a/9fad8ce8-89fb-40bb-9f31-745df22585f1.jpg"
+      }
+    ]
+  ]
+}

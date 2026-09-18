@@ -1,0 +1,481 @@
+{
+  "gender": "men",
+  "note": "",
+  "vibe": "Спортивный городской стиль",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        7206
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "duplicate"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "duplicate"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка свободная",
+      "color": "серый",
+      "search_query": "футболка свободный серого цвета",
+      "type": "футболка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "шорты спортивные",
+      "color": "черный",
+      "search_query": "спортивные шорты черные",
+      "type": "шорты",
+      "silhouette": "прямой",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки солнцезащитные",
+      "color": "черный",
+      "search_query": "солнцезащитные очки черные",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "наушники беспроводные",
+      "color": "белый",
+      "search_query": "беспроводные наушники белые",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 7206,
+        "title": "Футболка свободная кроше",
+        "store": "befree",
+        "color": "серый",
+        "price": 1799,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633128002/BF2633128002_30_1.jpg"
+      },
+      {
+        "id": 57620,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "серый",
+        "price": 5225,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/bb394308d34a3d63934e9d3f7367f5be/height/808/i/f2/a0/3e/11/f1d2c370-1d93-40fb-8d71-af05402f14a2.jpg"
+      },
+      {
+        "id": 57621,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "серый",
+        "price": 5545,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b04114ad538626d5be751c7d0fba7311/height/808/i/f2/aa/d0/28/e7f30fb9-357b-4b01-b0fd-94a84e55010c.jpg"
+      },
+      {
+        "id": 58332,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "серый",
+        "price": 5850,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/addbdb268e4d3417d89af2f35b16d8c8/height/808/i/96/49/50/01/e96a70c0-6850-45bc-b6f6-e02836a76cb6.jpg"
+      },
+      {
+        "id": 60811,
+        "title": "Хлопковая футболка RRL",
+        "store": "tsum",
+        "color": "серый",
+        "price": 4195,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f8edac5d6e94c2cf4704b7c9fdf21a27/height/808/i/7a/2f/12/a4/7a2f12a4-7328-343e-8cd9-d20d58628825.jpg"
+      },
+      {
+        "id": 60949,
+        "title": "Хлопковая футболка Dondup",
+        "store": "tsum",
+        "color": "серый",
+        "price": 8250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/99167c3da67058357687cef3efe1fe13/height/808/i/1d/03/bd/1d/1d03bd1d-8523-3bce-9101-943af0b42e84.jpg"
+      },
+      {
+        "id": 60972,
+        "title": "Хлопковая футболка Tee Library",
+        "store": "tsum",
+        "color": "серый",
+        "price": 5995,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/4230d629067e652fb66ff4464e1f86ee/height/808/i/a1/b8/11/b3/a99d5d05-19b4-45d1-a35f-ba9f1a7ff0db.jpg"
+      },
+      {
+        "id": 60973,
+        "title": "Хлопковая футболка Tee Library",
+        "store": "tsum",
+        "color": "серый",
+        "price": 6370,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/337d1f8e50edc55d60e413e289530fad/height/808/i/a4/53/af/8e/713ee3f2-e650-4390-a779-54561a43d253.jpg"
+      }
+    ],
+    [
+      {
+        "id": 60570,
+        "title": "Шорты INCANTO BU748",
+        "store": "incantoeu",
+        "color": "черный",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/6e0/80umrbw81f5fk3nc96gm25tphajb5oxs.jpg"
+      },
+      {
+        "id": 60680,
+        "title": "Шорты из вискозы и шелка Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 11050,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d89256673f48840e2556a147b99b677a/height/808/i/99/96/e6/bc/9996e6bc-93b9-3e4a-88b6-d7dbde5a97e5.jpg"
+      },
+      {
+        "id": 60830,
+        "title": "Шорты Bogner Fire+Ice",
+        "store": "tsum",
+        "color": "черный",
+        "price": 11300,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/6da5196c562a0168a0e04916c729e2f9/height/808/i/d6/3b/0d/af/1e343418-1c0a-4b59-ab3b-e0c3d7a38127.jpg"
+      },
+      {
+        "id": 60979,
+        "title": "Шорты Tee Library",
+        "store": "tsum",
+        "color": "черный",
+        "price": 7400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3030ed890fe0ae452a7427bb56a8e5d4/height/808/i/ce/0e/33/91/d55619c7-0d56-4179-bc5d-4968a751c90d.jpg"
+      },
+      {
+        "id": 60982,
+        "title": "Плавки-шорты Trussardi",
+        "store": "tsum",
+        "color": "черный",
+        "price": 4670,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/359155d4ffb7ad0cbbdbec706e415486/height/808/i/fc/19/56/75/fc195675-32f2-3a89-8a62-18586497dad8.jpg"
+      },
+      {
+        "id": 60998,
+        "title": "Шорты BOSS Green",
+        "store": "tsum",
+        "color": "черный",
+        "price": 13650,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/4e362b6462e4321308f66a5628e7e52a/height/808/i/6c/5e/67/35/bc066eab-2213-4d48-8934-72b43d788c73.jpg"
+      },
+      {
+        "id": 61205,
+        "title": "Шорты из экокожи GmbH",
+        "store": "tsum",
+        "color": "черный",
+        "price": 16000,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3be2a8aeebea241ca38a3037fa4c32b3/height/808/i/b8/fc/0c/7a/b8fc0c7a-e43a-3565-93d8-795f2c4077cf.jpg"
+      },
+      {
+        "id": 61207,
+        "title": "Шорты Tee Library",
+        "store": "tsum",
+        "color": "черный",
+        "price": 7400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/2126d51da57197478563a89a812883c2/height/808/i/3c/41/47/17/e7d6830e-5514-4f3a-be47-71c849408197.jpg"
+      }
+    ],
+    [
+      {
+        "id": 68878,
+        "title": "Кроссовки из натуральной кожи",
+        "store": "kanzler",
+        "color": "белый",
+        "price": 9990,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/984/z1ixraxw6nir8h8u1xm55dh91fzh0eyq.jpg"
+      },
+      {
+        "id": 87217,
+        "title": "Мужские кроссовки Rivalry Low",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 8499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a44/m3x5pv04v0po0h4ytqvo90omhb11szs2.JPG"
+      },
+      {
+        "id": 87227,
+        "title": "Мужские кроссовки PUMA Slipstream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a22/7x0720yqp5fjwxqhsyabroi1i6ybb2v2.jpg"
+      },
+      {
+        "id": 87319,
+        "title": "Мужские кроссовки Universum",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/703/3opw55uchl0t6yazri0o71u8iyo9lyzd.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87854,
+        "title": "Мужские кроссовки PUMA MagMax NITRO",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a72/e2wfp1j7dduevon8jimjq56hsruuya4s.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3757,
+        "title": "Набор носков коротких базовых (2 пары)",
+        "store": "befree",
+        "color": "черный",
+        "price": 399,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/ShortSocksSet17/ShortSocksSet17_50_1.jpg"
+      },
+      {
+        "id": 4381,
+        "title": "Шапка-бини вязаная",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2643240017/BF2643240017_50_1.jpg"
+      },
+      {
+        "id": 4686,
+        "title": "Ремень из искусственной кожи с крупной пряжкой",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246013/BF2633246013_50_1.jpg"
+      },
+      {
+        "id": 4766,
+        "title": "Носки высокие базовые в рубчик",
+        "store": "befree",
+        "color": "черный",
+        "price": 249,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633234001/BF2633234001_50_1.jpg"
+      },
+      {
+        "id": 4910,
+        "title": "Ремень брючный широкий",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246010/BF2633246010_50_1.jpg"
+      },
+      {
+        "id": 5187,
+        "title": "Ремень текстильный с пряжкой-зажимом",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246003/BF2633246003_50_1.jpg"
+      },
+      {
+        "id": 5561,
+        "title": "Ремень плетеный с карабинами",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246005/BF2633246005_50_11.jpg"
+      },
+      {
+        "id": 6214,
+        "title": "Панама хлопковая",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2623240008/BF2623240008_50_11.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3756,
+        "title": "Набор носков коротких базовых (2 пары)",
+        "store": "befree",
+        "color": "белый",
+        "price": 399,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/ShortSocksSet17/ShortSocksSet17_1_1.jpg"
+      },
+      {
+        "id": 4763,
+        "title": "Носки высокие базовые в рубчик",
+        "store": "befree",
+        "color": "белый",
+        "price": 249,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633234001/BF2633234001_1_1.jpg"
+      },
+      {
+        "id": 5186,
+        "title": "Носки высокие в рубчик с принтом",
+        "store": "befree",
+        "color": "белый",
+        "price": 299,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633234002/BF2633234002_5_1.jpg"
+      },
+      {
+        "id": 5469,
+        "title": "Набор носков коротких базовых (2 пары)",
+        "store": "befree",
+        "color": "белый",
+        "price": 399,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/ShortSocksSet16/ShortSocksSet16_1.jpg"
+      },
+      {
+        "id": 6105,
+        "title": "Носки высокие в рубчик",
+        "store": "befree",
+        "color": "белый",
+        "price": 299,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633234005/BF2633234005_1_1.jpg"
+      },
+      {
+        "id": 6858,
+        "title": "Набор носков коротких базовых (5 пар)",
+        "store": "befree",
+        "color": "белый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/ShortSocksPack4/ShortSocksPack4_1.jpg"
+      },
+      {
+        "id": 6864,
+        "title": "Набор носков высоких (2 пары)",
+        "store": "befree",
+        "color": "белый",
+        "price": 499,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/LongSocksSet14/LongSocksSet14_1.jpg"
+      },
+      {
+        "id": 6865,
+        "title": "Набор носков коротких (2 пары)",
+        "store": "befree",
+        "color": "белый",
+        "price": 399,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/ShortSocksSet14/ShortSocksSet14_1.jpg"
+      }
+    ]
+  ]
+}

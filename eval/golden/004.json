@@ -1,0 +1,389 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городской шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        3046
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        2630
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        55687
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ без рукавов",
+      "color": "коричневый",
+      "search_query": "топ без рукавов коричневый",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "бежевый",
+      "search_query": "брюки широкие бежевые",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": "макси",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "золотой",
+      "search_query": "босоножки золотые",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки солнцезащитные",
+      "color": "черный",
+      "search_query": "очки солнцезащитные черные",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 5755,
+        "title": "Бюстгальтер-топ без косточек",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830005/BF2644830005_22_1.jpg"
+      },
+      {
+        "id": 1632,
+        "title": "Майка-топ в рубчик на пуговицах",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121008/BF2622121008_20_1.jpg"
+      },
+      {
+        "id": 1916,
+        "title": "Топ приталенный на тонких бретелях",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 899,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121028/BF2631121028_27_1.jpg"
+      },
+      {
+        "id": 3046,
+        "title": "Топ-халтер облегающий на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121011/BF2622121011_66_1.jpg"
+      },
+      {
+        "id": 4392,
+        "title": "Майка-топ в рубчик с вискозой на пуговицах",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121022/BF2621121022_20_1.jpg"
+      },
+      {
+        "id": 4807,
+        "title": "Бюстгальтер-топ на тонких бретелях с сеточкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830020/BF2634830020_22_1.jpg"
+      },
+      {
+        "id": 4831,
+        "title": "Топ облегающий на тонких бретелях",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121023/BF2631121023_22_1.jpg"
+      },
+      {
+        "id": 5078,
+        "title": "Топ вязаный облегающий в рубчик",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631521001/BF2631521001_22_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2630,
+        "title": "Брюки широкие из тенсела на завязках с кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308025/BF2621308025_62_1.jpg"
+      },
+      {
+        "id": 4956,
+        "title": "Брюки широкие костюмные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308001/BF2641308001_64_100.jpg"
+      },
+      {
+        "id": 5970,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_61_1.jpg"
+      },
+      {
+        "id": 6357,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_61_1.jpg"
+      },
+      {
+        "id": 2449,
+        "title": "Брюки-баллоны трикотажные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641108004/BF2641108004_36_100.jpg"
+      },
+      {
+        "id": 3211,
+        "title": "Брюки-джоггеры вязаные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631508001/BF2631508001_36_1.jpg"
+      },
+      {
+        "id": 3851,
+        "title": "Брюки-прямые со средней посадкой на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308059/BF2631308059_65_1.jpg"
+      },
+      {
+        "id": 4646,
+        "title": "Брюки спортивные с лампасами на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708006/BF2631708006_62_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55663,
+        "title": "Кожаные босоножки Alexandre Birman",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 16900,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/039fe9d40bc157bbbb00cb2d4a38b2e4/height/808/i/05/17/61/d2/051761d2-1b2a-3a8d-bf4f-d716a09df4d6.jpg"
+      },
+      {
+        "id": 86959,
+        "title": "Текстильные босоножки Moschino",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 35000,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/ad868eb7bef0da1f08d14db566c5d7a6/height/808/i/0a/55/eb/54/0a55eb54-2890-3f29-85b4-bf4ddcaef4ee.jpg"
+      },
+      {
+        "id": 86960,
+        "title": "Текстильные босоножки Moschino",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 37750,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/eb0b824f72d64e083a1bbf23149f9c9c/height/808/i/97/17/73/dc/3a910d40-2aeb-4ab3-829b-ff7aaec2644f.jpg"
+      },
+      {
+        "id": 55687,
+        "title": "Кожаные босоножки SW Signature 35 Stuart Weitzman",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 29950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/42892fc7fff0705388224c32ec9122a8/height/808/i/45/4d/7f/8d/b7ce299a-ec93-4f73-85e8-edbd6a0dc517.jpg"
+      },
+      {
+        "id": 1530,
+        "title": "Босоножки с ремешками на квадратном каблуке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688017/BF2626688017_68_2.jpg"
+      },
+      {
+        "id": 55451,
+        "title": "Кожаные босоножки Lily 100 Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 49500,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/699e825c888111cbc9a55a0a7981f4df/height/808/i/60/f4/64/04/46cecffb-a5f3-4446-992a-a72c335eb40c.jpg"
+      },
+      {
+        "id": 57094,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12350,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3a55d23f85225ee7b46d24e3b0502874/height/808/i/ed/bf/32/65/2c740ed0-2266-4c5d-93eb-b6976d3d6e2f.jpg"
+      },
+      {
+        "id": 57137,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11500,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/efacc2704416cb044508768565318f91/height/808/i/3b/71/b0/bf/d351f14d-2497-402c-9dff-76789890dabb.jpg"
+      }
+    ],
+    [
+      {
+        "id": 82373,
+        "title": "Очки солнцезащитные в широкой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9167,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2525360040/BF2525360040_50_1.jpg"
+      },
+      {
+        "id": 7504,
+        "title": "Очки имиджевые в круглой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635360006/BF2635360006_50_1.jpg"
+      },
+      {
+        "id": 56,
+        "title": "Шапка женская",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11155_200_20.jpg"
+      },
+      {
+        "id": 66,
+        "title": "Снуд",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF91406_200_20.jpg"
+      },
+      {
+        "id": 70,
+        "title": "Шапка из хлопка",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 2499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF111146_200_20.jpg"
+      },
+      {
+        "id": 76,
+        "title": "Варежки из ангоры и шерсти",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11150_200_20.jpg"
+      },
+      {
+        "id": 129,
+        "title": "Лонгслив-термобелье с хлопком",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/200/FAE110197_200_20.jpg"
+      },
+      {
+        "id": 159,
+        "title": "Трикотажные перчатки",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF11307_200_30.jpg"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка белая",
+      "color": "белый",
+      "search_query": "футболка белый",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган зеленый",
+      "color": "зеленый",
+      "search_query": "кардиган зеленый",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "удлинённый",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка зеленая миди",
+      "color": "зеленый",
+      "search_query": "юбка миди зеленый",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли бежевые",
+      "color": "бежевый",
+      "search_query": "туфли бежевый",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка леопардовая",
+      "color": "коричневый",
+      "search_query": "сумка леопард",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "леопард"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 17,
+        "title": "Футболка унисекс из хлопка оверсайз силуэта",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-900107_201_20.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17016_201_20.jpg"
+      },
+      {
+        "id": 36,
+        "title": "Футболка прямого кроя из джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100197_201_20.jpg"
+      },
+      {
+        "id": 38,
+        "title": "Футболка свободного кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100192_201_20.jpg"
+      },
+      {
+        "id": 49,
+        "title": "Футболка свободного кроя из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11037_201_20.jpg"
+      },
+      {
+        "id": 104,
+        "title": "Футболка прямого кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11031_201_20.jpg"
+      },
+      {
+        "id": 214,
+        "title": "Футболка приталенного силуэта из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17009_201_20.jpg"
+      },
+      {
+        "id": 314,
+        "title": "Спортивная футболка из технологичного трикотажа",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CBG/201/CBG17006_201_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 156022,
+        "title": "Кардиган из мягкой пряжи, Зеленый",
+        "store": "ostin",
+        "color": "зеленый",
+        "price": 1999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/995/500_600_ea03/173939080299.jpg"
+      },
+      {
+        "id": 4344,
+        "title": "Кардиган вязаный с косой молнией",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642527006/BF2642527006_13_1.jpg"
+      },
+      {
+        "id": 6463,
+        "title": "Кардиган вязаный на молнии с воротником-стойкой",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527026/BF2641527026_13_1.jpg"
+      },
+      {
+        "id": 85729,
+        "title": "Кардиган пушистый с капюшоном",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642527003/BF2642527003_13_100.jpg"
+      },
+      {
+        "id": 86317,
+        "title": "Хлопковый кардиган ADCTED",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 13700,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/5a833d4abb64c9e36817c79922f2426a/height/808/i/ac/bc/af/f1/1f009824-09de-4245-a080-6f7d467bb555.jpg"
+      },
+      {
+        "id": 5613,
+        "title": "Кардиган вязаный с бантом и шерстью альпака",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527046/BF2631527046_12_11.jpg"
+      },
+      {
+        "id": 6808,
+        "title": "Кардиган вязаный на пуговицах с пушистым воротником",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 2599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527036/BF2631527036_15_1.jpg"
+      },
+      {
+        "id": 7237,
+        "title": "Кардиган вязаный на пуговицах",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 2799,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527016/BF2631527016_12_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 141579,
+        "title": "Юбка женская Diadora, Зеленый",
+        "store": "sportmaster",
+        "color": "зеленый",
+        "price": 4409,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/a34/177233480299.jpg"
+      },
+      {
+        "id": 141581,
+        "title": "Юбка-шорты женская Diadora, Зеленый",
+        "store": "sportmaster",
+        "color": "зеленый",
+        "price": 3009,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/c95/177233700299.jpg"
+      },
+      {
+        "id": 144339,
+        "title": "Юбка утепленная женская Nordski Hybrid Pro 2.0, Зеленый",
+        "store": "sportmaster",
+        "color": "зеленый",
+        "price": 6299,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/8bd/173926860299.jpg"
+      },
+      {
+        "id": 145170,
+        "title": "Юбка женская Columbia Chill Creek Long Woven Skirt, Зеленый",
+        "store": "sportmaster",
+        "color": "зеленый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/f85/191332290299.jpg"
+      },
+      {
+        "id": 156061,
+        "title": "Юбка мини из твида, Зеленый",
+        "store": "ostin",
+        "color": "зеленый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/f87/500_600_dca2/173939000299.jpg"
+      },
+      {
+        "id": 142337,
+        "title": "Юбка женская Outventure, Зеленый",
+        "store": "sportmaster",
+        "color": "зеленый",
+        "price": 1299,
+        "score": 0.9545,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/421/179481020299.jpg"
+      },
+      {
+        "id": 156616,
+        "title": "Вязаная юбка А-силуэта, Зеленый",
+        "store": "ostin",
+        "color": "зеленый",
+        "price": 1999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/17d/500_600_9125/180107110299.jpg"
+      },
+      {
+        "id": 56170,
+        "title": "Шерстяная юбка Emilio Pucci",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 4195,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/47c15c3fd32f5d9aaec7cb08fda1453a/height/808/i/d5/c2/d2/1a/d5c2d21a-22d4-30a7-be27-d9174c678a45.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55680,
+        "title": "Туфли Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 44750,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/b628faed6cf37d59bcc27158286ae38c/height/808/i/ff/56/3a/0d/f8a19cba-a71e-4ca3-a1bd-059d285376d1.jpg"
+      },
+      {
+        "id": 4927,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_20_11.jpg"
+      },
+      {
+        "id": 5445,
+        "title": "Туфли-балетки кроше с завязками",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3299,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626682019/BF2626682019_60_1.jpg"
+      },
+      {
+        "id": 159681,
+        "title": "Сатиновые туфли-лодочки, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.7545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cd6/500_600_f7b2/172369780299.jpg"
+      },
+      {
+        "id": 1807,
+        "title": "Туфли на танкетке лаковые из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682008/BF2636682008_20_2.jpg"
+      },
+      {
+        "id": 3077,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_20_1.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_20_11.jpg"
+      },
+      {
+        "id": 6663,
+        "title": "Туфли с перемычкой между пальцами из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688019/BF2626688019_20_11.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1935,
+        "title": "Сумка-тоут на плечо с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457038/BF2635457038_20_11.jpg"
+      },
+      {
+        "id": 1976,
+        "title": "Сумка-хобо замшевая",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457084/BF2635457084_66_1.jpg"
+      },
+      {
+        "id": 2070,
+        "title": "Сумка-хобо замшевая",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457084/BF2635457084_63_12.jpg"
+      },
+      {
+        "id": 3498,
+        "title": "Сумка из искусственной кожи с заклепками и замком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457053/BF2635457053_20_11.jpg"
+      },
+      {
+        "id": 4834,
+        "title": "Сумка на короткой ручке из искусственной кожи с заклепками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457079/BF2635457079_20_1.jpg"
+      },
+      {
+        "id": 6842,
+        "title": "Сумка-кисет с бахромой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457082/BF2635457082_20_12.jpg"
+      },
+      {
+        "id": 7130,
+        "title": "Сумка-мешок из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457067/BF2635457067_20_1.jpg"
+      },
+      {
+        "id": 7317,
+        "title": "Сумка-багет на плечо с завязками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457036/BF2635457036_20_12.jpg"
+      }
+    ]
+  ]
+}

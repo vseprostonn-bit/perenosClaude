@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Летний отдых",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ бикини",
+      "color": "красный",
+      "search_query": "топ бикини красный",
+      "type": "топ",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "шорты пляжные",
+      "color": "оранжевый",
+      "search_query": "шорты пляжные оранжевые",
+      "type": "шорты",
+      "silhouette": null,
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "рубашка белая",
+      "color": "белый",
+      "search_query": "рубашка женская белая",
+      "type": "рубашка",
+      "silhouette": "оверсайз",
+      "length": "укороченный",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "бежевый",
+      "search_query": "босоножки женские бежевые",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка плетеная",
+      "color": "бежевый",
+      "search_query": "сумка женская плетеная бежевая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1689,
+        "title": "Лиф-топ купальный со шнуровкой",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624730020/BF2624730020_70_1.jpg"
+      },
+      {
+        "id": 4897,
+        "title": "Топ облегающий на широких бретелях в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121039/BF2631121039_70_1.jpg"
+      },
+      {
+        "id": 5066,
+        "title": "Бюстгальтер-топ ажурный хлопковый с оборками",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830002/BF2634830002_75_11.jpg"
+      },
+      {
+        "id": 6413,
+        "title": "Майка-топ укороченная в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121023/BF2621121023_70_1.jpg"
+      },
+      {
+        "id": 7069,
+        "title": "Бюстгальтер-топ ажурный хлопковый с оборками",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830002/BF2634830002_70_11.jpg"
+      },
+      {
+        "id": 7445,
+        "title": "Топ облегающий с принтом и вырезом",
+        "store": "befree",
+        "color": "красный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632121002/BF2632121002_75_1.jpg"
+      },
+      {
+        "id": 7529,
+        "title": "Майка-топ трикотажная облегающая",
+        "store": "befree",
+        "color": "красный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121003/BF2622121003_77_1.jpg"
+      },
+      {
+        "id": 7851,
+        "title": "Топ домашний приталенный ажурный на тонких бретелях",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631821002/BF2631821002_75_11.jpg"
+      }
+    ],
+    [
+      {
+        "id": 56117,
+        "title": "Льняные шорты Paade Mode",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 4945,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/fb03e1cfd28893110f332b49ec8e78ad/height/808/i/2b/11/b7/7b/a2b8d086-fdac-4154-8fab-66686f2f5613.jpg"
+      },
+      {
+        "id": 57863,
+        "title": "Хлопковые шорты Emilio Pucci",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 3550,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/fff28e996c22a5c8e0b4d3e9e59ecf4b/height/808/i/15/7b/eb/7a/157beb7a-c8ba-3bc1-8d55-d4191ddb53df.jpg"
+      },
+      {
+        "id": 58020,
+        "title": "Льняные шорты Paade Mode",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 4730,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/a3dcc445c23ceb579ce0ca8da0964665/height/808/i/7e/ed/cf/c5/48ed6216-5b0d-41c4-b09f-d92cee2e469e.jpg"
+      },
+      {
+        "id": 92264,
+        "title": "Женские шорты PUMA HER High-Waist Shorts",
+        "store": "street-beat",
+        "color": "оранжевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/07d/ugwaw52qcveaiain6wzm5qu7jfw7b63y.jpg"
+      },
+      {
+        "id": 140249,
+        "title": "Шорты женские Reebok, Оранжевый",
+        "store": "sportmaster",
+        "color": "оранжевый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/fea/151003260299.jpg"
+      },
+      {
+        "id": 158500,
+        "title": "Шорты, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/981/500_600_42ef/186059250299.jpg"
+      },
+      {
+        "id": 57021,
+        "title": "Хлопковые шорты Dondup",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 7520,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/2301055c4873c0240b9f2ae455fb6391/height/808/i/d1/f7/07/65/d1f70765-6c69-32d3-b167-6b7f8ce30633.jpg"
+      },
+      {
+        "id": 148570,
+        "title": "Шорты женские Demix Pace, Оранжевый",
+        "store": "sportmaster",
+        "color": "оранжевый",
+        "price": 749,
+        "score": 0.8636,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/57c/141534170299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 8465,
+        "title": "Кардиган оверсайз вязаный на пуговицах с зебровым рисунком",
+        "store": "befree",
+        "color": "белый",
+        "price": 4599,
+        "score": 0.4182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527026/BF2631527026_5_1.jpg"
+      },
+      {
+        "id": 3821,
+        "title": "Бомбер оверсайз из натуральной замши с воротником",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 19999,
+        "score": 0.4,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601041/BF2631601041_68_1.jpg"
+      },
+      {
+        "id": 55872,
+        "title": "Хлопковый жакет Forte Dei Marmi Couture",
+        "store": "tsum",
+        "color": "белый",
+        "price": 47950,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/646535fa051d7840359eadfe03437a7d/height/808/i/ac/a0/a3/49/bc87f44c-4959-4b4e-b653-c3265c46cbbc.jpg"
+      },
+      {
+        "id": 56179,
+        "title": "Кардиган из вискозы и хлопка Escada Sport",
+        "store": "tsum",
+        "color": "белый",
+        "price": 23150,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/e25b90a266c2395afee20e36f4dce190/height/808/i/4b/11/71/fa/a0857b2a-ab45-4b67-951e-e39a56eb7f5a.jpg"
+      },
+      {
+        "id": 56584,
+        "title": "Куртка Electric and Rose",
+        "store": "tsum",
+        "color": "белый",
+        "price": 26700,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/cdcc3e9e16198242ad76650394430c00/height/808/i/1a/b5/27/de/4bb9d8f0-4347-4f9b-8629-b89a9536d1cd.jpg"
+      },
+      {
+        "id": 57635,
+        "title": "Куртка Heroine Sport",
+        "store": "tsum",
+        "color": "белый",
+        "price": 12400,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/07423d49ad3c11bbd296ae82eda09a41/height/808/i/83/d3/69/05/83d36905-1c2a-3d3f-88ed-c111a4e55187.jpg"
+      },
+      {
+        "id": 58545,
+        "title": "Бомбер sherpa.",
+        "store": "tsum",
+        "color": "белый",
+        "price": 24700,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/a9dc061def5065745af5654f0206fd30/height/808/i/45/6f/d0/52/e6119dbc-f28d-4b06-8f30-f33a557c1a51.jpg"
+      },
+      {
+        "id": 58606,
+        "title": "Хлопковый бомбер Les Coyotes de Paris",
+        "store": "tsum",
+        "color": "белый",
+        "price": 17700,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/bfa1056997a068a6fe5f6588bc6d6fa4/height/808/i/a2/3d/66/a8/e3dbcc97-e5f6-4307-a5c9-1a9a984032ee.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55687,
+        "title": "Кожаные босоножки SW Signature 35 Stuart Weitzman",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 29950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/42892fc7fff0705388224c32ec9122a8/height/808/i/45/4d/7f/8d/b7ce299a-ec93-4f73-85e8-edbd6a0dc517.jpg"
+      },
+      {
+        "id": 1530,
+        "title": "Босоножки с ремешками на квадратном каблуке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688017/BF2626688017_68_2.jpg"
+      },
+      {
+        "id": 55451,
+        "title": "Кожаные босоножки Lily 100 Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 49500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/699e825c888111cbc9a55a0a7981f4df/height/808/i/60/f4/64/04/46cecffb-a5f3-4446-992a-a72c335eb40c.jpg"
+      },
+      {
+        "id": 57094,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12350,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/3a55d23f85225ee7b46d24e3b0502874/height/808/i/ed/bf/32/65/2c740ed0-2266-4c5d-93eb-b6976d3d6e2f.jpg"
+      },
+      {
+        "id": 57137,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/efacc2704416cb044508768565318f91/height/808/i/3b/71/b0/bf/d351f14d-2497-402c-9dff-76789890dabb.jpg"
+      },
+      {
+        "id": 133429,
+        "title": "Женские сандалии Nike Calm Mule",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 8399,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7b3/jox0o31u86ik461yizlv17i4w4s345rw.JPG"
+      },
+      {
+        "id": 133437,
+        "title": "Женские сандалии Explore Camp Sandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10499,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c09/3h4wzx1u4asod1m66pu31cbmof9uuo0x.JPG"
+      },
+      {
+        "id": 133441,
+        "title": "Женские сандалии Explore Camp Shandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 11999,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/22a/po5xwha6xu9kwjr4t72azt0zvypc36dd.JPG"
+      }
+    ],
+    [
+      {
+        "id": 710,
+        "title": "Плетеная сумка из рафии",
+        "store": "finnflare",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/630/FSG11200_630_30.jpg"
+      },
+      {
+        "id": 1967,
+        "title": "Сумка-багет через плечо замшевая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457027/BF2635457027_62_1.jpeg"
+      },
+      {
+        "id": 2204,
+        "title": "Сумка-хобо из деревянных бусин",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2625457048/BF2625457048_62_1.jpg"
+      },
+      {
+        "id": 6839,
+        "title": "Сумка-кисет с бахромой",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457082/BF2635457082_62_11.jpg"
+      },
+      {
+        "id": 6969,
+        "title": "Сумка-мешок из искусственной замши",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457067/BF2635457067_62_13.jpg"
+      },
+      {
+        "id": 91745,
+        "title": "Сумка через плечо Hot Shot Crossbody Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/957/1000_1000_0/bz4rndmxci2fv7lrxflz4g0fls8hxknh.jpg"
+      },
+      {
+        "id": 93912,
+        "title": "Сумка через плечо PUMA HER Half Moon Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4a6/ekolveyxg20x5sthw5l6zmu6p7wku9cb.jpg"
+      },
+      {
+        "id": 103784,
+        "title": "Сумка Essentials Tote Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/e34/1000_1000_0/a6c5n09gqww7qvy9vsts0rq3wy77b4bt.jpg"
+      }
+    ]
+  ]
+}

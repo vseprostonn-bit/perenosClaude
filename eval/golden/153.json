@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Лёгкий летний городской стиль.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка белая",
+      "color": "белый",
+      "search_query": "футболка белый",
+      "type": "футболка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди прямая",
+      "color": "молочный",
+      "search_query": "юбка миди прямой молочный",
+      "type": "юбка",
+      "silhouette": "прямой",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "бежевый",
+      "search_query": "босоножки бежевый",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "бежевый",
+      "search_query": "сумка через плечо бежевый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "головной убор",
+      "color": "бежевый",
+      "search_query": "головной убор бежевый",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 23,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17016_201_20.jpg"
+      },
+      {
+        "id": 36,
+        "title": "Футболка прямого кроя из джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100197_201_20.jpg"
+      },
+      {
+        "id": 104,
+        "title": "Футболка прямого кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11031_201_20.jpg"
+      },
+      {
+        "id": 314,
+        "title": "Спортивная футболка из технологичного трикотажа",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CBG/201/CBG17006_201_20.jpg"
+      },
+      {
+        "id": 437,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17006_201_20.jpg"
+      },
+      {
+        "id": 438,
+        "title": "Футболка из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/201/FAF110144_201_20.jpg"
+      },
+      {
+        "id": 612,
+        "title": "Футболка с круглым вырезом",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBC/201/FBC11085_201_20.jpg"
+      },
+      {
+        "id": 1317,
+        "title": "Футболка полуприлегающего кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/201/FSG110116-1P_201_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55369,
+        "title": "Хлопковая юбка Ports 1961",
+        "store": "tsum",
+        "color": "кремовый",
+        "price": 10400,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/a7872a454baa171815783d7932c8801b/height/808/i/28/22/e7/01/b9e5c004-cc8b-4744-ab20-c73876205090.jpg"
+      },
+      {
+        "id": 55410,
+        "title": "Хлопковая юбка Plan C",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14050,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/bf7b7c86006f1df4681ec782bcdc3653/height/808/i/65/52/71/5e/38eb568a-ed00-47c2-82da-a81d2b8334ff.jpg"
+      },
+      {
+        "id": 55416,
+        "title": "Юбка-шорты Plan C",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 13250,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/0ebf5be7b899c31ecb894b7fcdfa3f01/height/808/i/ef/59/fd/2f/ef59fd2f-a0a5-3982-8b22-aec67067f21c.jpg"
+      },
+      {
+        "id": 55452,
+        "title": "Хлопковая юбка Weill",
+        "store": "tsum",
+        "color": "кремовый",
+        "price": 15100,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/7153846cfd546a2833e14db2afb19831/height/808/i/66/da/cc/df/bb7e32d3-1e3b-40a7-a4d3-c6f3ab77d6b0.jpg"
+      },
+      {
+        "id": 55475,
+        "title": "Хлопковая юбка LVIR",
+        "store": "tsum",
+        "color": "белый",
+        "price": 15200,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/96d6fb32f144bb9d57760fd4ec3f4d25/height/808/i/3b/68/48/56/3d8180d6-47e7-4b37-812a-fc851b09d927.jpg"
+      },
+      {
+        "id": 55515,
+        "title": "Шерстяная юбка Rag and Bone",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 9695,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/ecf198f520945097ab5ff52f78d8d889/height/808/i/b7/fa/1b/6e/a337b392-56c2-4da5-bb6e-358851451437.jpg"
+      },
+      {
+        "id": 55530,
+        "title": "Плиссированная юбка Hood by Air",
+        "store": "tsum",
+        "color": "белый",
+        "price": 6810,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/f2d0b710c0bb63fa7122a7c880afb765/height/808/i/6f/36/31/e6/0dbaaae1-e1ea-46a4-924e-ecaf1171deb3.jpg"
+      },
+      {
+        "id": 55532,
+        "title": "Юбка-шорты Bogner Fire+Ice",
+        "store": "tsum",
+        "color": "кремовый",
+        "price": 15050,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/17f1ba247c403ac7bd649aef603a9e46/height/808/i/96/ae/99/b2/66423d5b-4faa-4450-9ad4-835cf26e6594.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55687,
+        "title": "Кожаные босоножки SW Signature 35 Stuart Weitzman",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 29950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/42892fc7fff0705388224c32ec9122a8/height/808/i/45/4d/7f/8d/b7ce299a-ec93-4f73-85e8-edbd6a0dc517.jpg"
+      },
+      {
+        "id": 1530,
+        "title": "Босоножки с ремешками на квадратном каблуке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688017/BF2626688017_68_2.jpg"
+      },
+      {
+        "id": 55451,
+        "title": "Кожаные босоножки Lily 100 Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 49500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/699e825c888111cbc9a55a0a7981f4df/height/808/i/60/f4/64/04/46cecffb-a5f3-4446-992a-a72c335eb40c.jpg"
+      },
+      {
+        "id": 57094,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12350,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/3a55d23f85225ee7b46d24e3b0502874/height/808/i/ed/bf/32/65/2c740ed0-2266-4c5d-93eb-b6976d3d6e2f.jpg"
+      },
+      {
+        "id": 57137,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/efacc2704416cb044508768565318f91/height/808/i/3b/71/b0/bf/d351f14d-2497-402c-9dff-76789890dabb.jpg"
+      },
+      {
+        "id": 133429,
+        "title": "Женские сандалии Nike Calm Mule",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 8399,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7b3/jox0o31u86ik461yizlv17i4w4s345rw.JPG"
+      },
+      {
+        "id": 133437,
+        "title": "Женские сандалии Explore Camp Sandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10499,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c09/3h4wzx1u4asod1m66pu31cbmof9uuo0x.JPG"
+      },
+      {
+        "id": 133441,
+        "title": "Женские сандалии Explore Camp Shandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 11999,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/22a/po5xwha6xu9kwjr4t72azt0zvypc36dd.JPG"
+      }
+    ],
+    [
+      {
+        "id": 1967,
+        "title": "Сумка-багет через плечо замшевая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457027/BF2635457027_62_1.jpeg"
+      },
+      {
+        "id": 91745,
+        "title": "Сумка через плечо Hot Shot Crossbody Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/957/1000_1000_0/bz4rndmxci2fv7lrxflz4g0fls8hxknh.jpg"
+      },
+      {
+        "id": 93912,
+        "title": "Сумка через плечо PUMA HER Half Moon Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3199,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4a6/ekolveyxg20x5sthw5l6zmu6p7wku9cb.jpg"
+      },
+      {
+        "id": 111927,
+        "title": "Сумка через плечо Terra Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3699,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/838/8bpimo151vm5p5apnntfv415mfqlsa6q.jpg"
+      },
+      {
+        "id": 114418,
+        "title": "Сумка через плечо Mini Canvas Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 2399,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e6b/idg4rai5j9bui8rujtzesuelu43ove43.jpg"
+      },
+      {
+        "id": 133170,
+        "title": "Сумка через плечо Alva Medium",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/9ff/3fur64te2cmyk4isxt8y82pbkzvgfsa6.jpg"
+      },
+      {
+        "id": 136166,
+        "title": "Сумка Kappa, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2f8/141177690299.jpg"
+      },
+      {
+        "id": 139499,
+        "title": "Сумка PUMA, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/78f/194301880299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 136381,
+        "title": "Панама для девочек Kappa, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1199,
+        "score": 0.8333,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/d9f/148216140299.jpg"
+      },
+      {
+        "id": 136719,
+        "title": "Шапка женская FILA, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 849,
+        "score": 0.8333,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/3bc/177764680299.jpg"
+      },
+      {
+        "id": 136720,
+        "title": "Шапка для девочек Volkl, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 849,
+        "score": 0.8333,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/80d/163470230299.jpg"
+      },
+      {
+        "id": 136658,
+        "title": "Шапка для девочек Outventure, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 499,
+        "score": 0.75,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/8c9/165282700299.jpg"
+      },
+      {
+        "id": 1734,
+        "title": "Топ-халтер шифоновый с шарфиком",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418007/BF2631418007_65_1.jpg"
+      },
+      {
+        "id": 2155,
+        "title": "Ремень брючный широкий из натуральной замши",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346045/BF2635346045_62_1.jpg"
+      },
+      {
+        "id": 2302,
+        "title": "Ремень брючный узкий из натуральной замши",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346043/BF2635346043_62_11.jpg"
+      },
+      {
+        "id": 5734,
+        "title": "Платок-бандана из шерсти с рисунком",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635341017/BF2635341017_65_1.jpg"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "блузка в горошек",
+      "color": "белый",
+      "search_query": "блузка горох белый",
+      "type": "блузка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "горох"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "бордовый",
+      "search_query": "брюки широкие бордовый",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли лодочки",
+      "color": "бирюзовый",
+      "search_query": "туфли лодочки бирюзовый",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 156775,
+        "title": "Полупрозрачная блузка из лиоцелла, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/314/500_600_4542/180438710299.jpg"
+      },
+      {
+        "id": 157204,
+        "title": "Полупрозрачная блузка, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/613/500_600_f72e/184163440299.jpg"
+      },
+      {
+        "id": 158257,
+        "title": "Воздушная блузка с завязками для девочек, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/0fc/500_600_c6bd/186763180299.jpg"
+      },
+      {
+        "id": 159314,
+        "title": "Укороченная блузка с открытыми плечами, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 1399,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cd8/500_600_c897/155747280299.jpg"
+      },
+      {
+        "id": 158670,
+        "title": "Укороченная блузка для девочек, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 599,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/65b/500_600_4ad9/161745550299.jpg"
+      },
+      {
+        "id": 1544,
+        "title": "Блузка-топ хлопковая ажурная на кулиске",
+        "store": "befree",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621418020/BF2621418020_1_1.jpg"
+      },
+      {
+        "id": 1576,
+        "title": "Блузка с завязками на талии из хлопкового муслина",
+        "store": "befree",
+        "color": "белый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621418115/BF2621418115_1_1.jpg"
+      },
+      {
+        "id": 2313,
+        "title": "Блузка на одно плечо вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120008pl/BF2631120008pl_1_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 6398,
+        "title": "Брюки-джоггеры спортивные на завязках",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708003/BF2631708003_71_1.jpg"
+      },
+      {
+        "id": 89647,
+        "title": "Женские брюки Sportswear Phoenix Fleece Pant",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 7699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a6c/c2mnfmff6j5m2sh5ds1g77ipe7208873.jpg"
+      },
+      {
+        "id": 98897,
+        "title": "Женские брюки PUMA SQUAD Pants FL",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 4799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7ac/61m3dj3czozgw06u5y7j12feyjkmeuce.jpg"
+      },
+      {
+        "id": 103671,
+        "title": "Женские брюки PUMA BMW MMS WMN ESS+ Sweat Pants",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 5499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/85f/3pj067k0swgun2bb7d909p08r6kemaw3.jpg"
+      },
+      {
+        "id": 115489,
+        "title": "Брюки для малышей Icon Clash Fleece Jogger",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b2f/hipsy9is82k0p0wcnu4fqeeyt3zw9fyq.jpg"
+      },
+      {
+        "id": 124799,
+        "title": "Брюки K NSW CLUB FLC JGGR LBR",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/58c/1000_1000_0/11rxdc8iqpt9mptg34stkh6uaa8z3gvf.jpg"
+      },
+      {
+        "id": 3707,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034/BF2631308034_20_1.jpg"
+      },
+      {
+        "id": 3710,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034PL/BF2631308034PL_20_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55677,
+        "title": "Текстильные туфли Anitta Gedebe",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 31950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/f869df7c0434b6a7ed24d5387f61f41e/height/808/i/79/ec/61/29/cfbf98e0-ba18-4019-8986-2240a9002587.jpg"
+      },
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      },
+      {
+        "id": 10336,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 11999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870025_50.jpg"
+      },
+      {
+        "id": 10583,
+        "title": "Туфли-лодочки из атласа",
+        "store": "loverepublic",
+        "color": null,
+        "price": 5999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/54427/thumb/300_9999/544270035_90.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.6818,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_20_11.jpg"
+      },
+      {
+        "id": 4663,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "желтый",
+        "price": 3799,
+        "score": 0.6818,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_9_11.jpg"
+      },
+      {
+        "id": 4927,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.6818,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_20_11.jpg"
+      }
+    ]
+  ]
+}

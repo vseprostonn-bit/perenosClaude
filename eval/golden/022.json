@@ -1,0 +1,485 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        3359
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        6766,
+        2396,
+        4838
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        1935
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "куртка кожаная короткая",
+      "color": "коричневый",
+      "search_query": "куртка кожаная коричневая",
+      "type": "куртка",
+      "silhouette": "приталенный",
+      "length": "укороченный",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка голубая",
+      "color": "голубой",
+      "search_query": "рубашка голубая",
+      "type": "рубашка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "джинсы прямые светлые",
+      "color": "светло-голубой",
+      "search_query": "джинсы прямые светло-голубой",
+      "type": "джинсы",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "ботинки коричневые",
+      "color": "коричневый",
+      "search_query": "ботинки коричневые",
+      "type": "ботинки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка коричневая",
+      "color": "коричневый",
+      "search_query": "сумка коричневая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1857,
+        "title": "Куртка-косуха из искусственной кожи со шнуровкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621601008/BF2621601008_22_1.jpg"
+      },
+      {
+        "id": 1891,
+        "title": "Куртка-бомбер из искусственной замши утепленная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601006/BF2631601006_22_1.jpg"
+      },
+      {
+        "id": 2036,
+        "title": "Куртка-бомбер с кожаной фактурой утепленная без капюшона",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2611601008/BF2611601008_22_1.jpg"
+      },
+      {
+        "id": 2167,
+        "title": "Куртка из искусственной кожи под питона лакированная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 4599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601016/BF2631601016_22_1.jpg"
+      },
+      {
+        "id": 3256,
+        "title": "Куртка с капюшоном и меховой отделкой утепленная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601067/BF2631601067_20_1.jpg"
+      },
+      {
+        "id": 3519,
+        "title": "Куртка стеганая с лакированным эффектом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2541601046/BF2541601046_22_1.jpg"
+      },
+      {
+        "id": 3722,
+        "title": "Куртка стеганая с капюшоном утепленная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601005/BF2641601005_22_1.jpg"
+      },
+      {
+        "id": 4542,
+        "title": "Куртка с воротником-стойкой на завязках утепленная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601019/BF2641601019_22_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3359,
+        "title": "Рубашка хлопковая с резинкой по низу",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418055pl/BF2631418055pl_42_1.jpg"
+      },
+      {
+        "id": 4818,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042/BF2631418042_41_1.jpg"
+      },
+      {
+        "id": 5239,
+        "title": "Рубашка хлопковая со сборками на завязках по бокам",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632418017/BF2632418017_42_1.jpg"
+      },
+      {
+        "id": 5603,
+        "title": "Рубашка оверсайз с галстуком",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418090/BF2631418090_41_1.jpg"
+      },
+      {
+        "id": 7133,
+        "title": "Рубашка хлопковая с резинкой по низу",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418055/BF2631418055_42_1.jpg"
+      },
+      {
+        "id": 7456,
+        "title": "Рубашка прямая с галстуком",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418062/BF2631418062_42_1.jpg"
+      },
+      {
+        "id": 7470,
+        "title": "Рубашка прямая с галстуком",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418062pl/BF2631418062pl_42_1.jpg"
+      },
+      {
+        "id": 7835,
+        "title": "Рубашка оверсайз с галстуком",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418090pl/BF2631418090pl_41_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4838,
+        "title": "Джинсы прямые с низкой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631209073/BF2631209073_102_1.jpg"
+      },
+      {
+        "id": 2396,
+        "title": "Джинсы прямые со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1299,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209067/BF2621209067_101_1.jpg"
+      },
+      {
+        "id": 6766,
+        "title": "Джинсы прямые со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1299,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209067/BF2621209067_102_1.jpg"
+      },
+      {
+        "id": 1614,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/WideSS18/WideSS18_100_1.jpg"
+      },
+      {
+        "id": 1618,
+        "title": "Джинсы-аладдины из лиоцелла со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209065/BF2621209065_101_1.jpg"
+      },
+      {
+        "id": 1697,
+        "title": "Джинсы багги рваные со средней посадкой и кружевом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209064/BF2621209064_100_1.jpg"
+      },
+      {
+        "id": 1698,
+        "title": "Джинсы-баллоны со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209068/BF2621209068_101_1.jpg"
+      },
+      {
+        "id": 2014,
+        "title": "Джинсы клеш с высокой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Flare14p2/Flare14p2_103_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55578,
+        "title": "Комбинированные ботинки Andrea Ventura Firenze",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 22150,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f1e395bce463df8fa6a115741f4dc005/height/808/i/46/2f/64/7d/462f647d-201f-343c-bf40-b324ed222e81.jpg"
+      },
+      {
+        "id": 55582,
+        "title": "Комбинированные ботинки Andrea Ventura Firenze",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 22150,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/bf4842d7b2bb8195d6a802b3e1f21de1/height/808/i/56/de/01/3d/56de013d-dc14-3942-890d-3191124fe9c8.jpg"
+      },
+      {
+        "id": 56040,
+        "title": "Текстильные ботинки Gia 9 GIABORGHINI",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 22350,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/7e6d4a05ec13fd126a68e67479e7b33b/height/808/i/9e/fe/aa/7b/9efeaa7b-a3f0-35ff-8567-d3fa3d0e1465.jpg"
+      },
+      {
+        "id": 86171,
+        "title": "Комбинированные ботинки Andrea Ventura Firenze",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 17750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/057bbb05997f5260b0ea4a81a3893e63/height/808/i/2e/81/2b/62/2e812b62-55b2-3fe9-8802-0f6c220681e2.jpg"
+      },
+      {
+        "id": 87170,
+        "title": "Кожаные ботинки Marte Gia Couture",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 17250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3704cf25ff8092c8129d546e628c92cb/height/808/i/27/ef/5c/ae/27ef5cae-b623-3d67-ba76-6efe6eafc40d.jpg"
+      },
+      {
+        "id": 88447,
+        "title": "Ботинки Jasper",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 12999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/cad/fdfeq5rzdv6gdju70g0mixtjy94buce1.jpg"
+      },
+      {
+        "id": 89286,
+        "title": "Ботинки W STORMSTRIKE III WP DEEPTAUP/TNFBLK",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 6499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/d0b/rwldu88399zunwzvk60ktn6o2w31v3l6.jpg"
+      },
+      {
+        "id": 90748,
+        "title": "Женские ботинки MTE Sk8-Hi Waterproof",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 11199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/73f/oy41737dw2b1viex8w0zbnd3qj2dn8dc.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1935,
+        "title": "Сумка-тоут на плечо с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457038/BF2635457038_20_11.jpg"
+      },
+      {
+        "id": 1976,
+        "title": "Сумка-хобо замшевая",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457084/BF2635457084_66_1.jpg"
+      },
+      {
+        "id": 2070,
+        "title": "Сумка-хобо замшевая",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457084/BF2635457084_63_12.jpg"
+      },
+      {
+        "id": 3498,
+        "title": "Сумка из искусственной кожи с заклепками и замком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457053/BF2635457053_20_11.jpg"
+      },
+      {
+        "id": 4834,
+        "title": "Сумка на короткой ручке из искусственной кожи с заклепками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457079/BF2635457079_20_1.jpg"
+      },
+      {
+        "id": 6842,
+        "title": "Сумка-кисет с бахромой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457082/BF2635457082_20_12.jpg"
+      },
+      {
+        "id": 7130,
+        "title": "Сумка-мешок из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457067/BF2635457067_20_1.jpg"
+      },
+      {
+        "id": 7317,
+        "title": "Сумка-багет на плечо с завязками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457036/BF2635457036_20_12.jpg"
+      }
+    ]
+  ]
+}

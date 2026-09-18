@@ -1,0 +1,293 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        55835
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка с V-образным вырезом",
+      "color": "зелёный",
+      "search_query": "рубашка женский зеленый",
+      "type": "рубашка",
+      "silhouette": "приталенный",
+      "length": "укороченный",
+      "sleeve": "длинный",
+      "fit": "высокая посадка",
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди",
+      "color": "белый",
+      "search_query": "юбка миди белая",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": "средняя посадка",
+      "pattern": "цветочный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "ожерелье",
+      "color": "бирюзовый",
+      "search_query": "ожерелье бирюзовый",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 55405,
+        "title": "Рубашка из вискозы Paade Mode",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 4640,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/889859b3173ffaa869c8448a87f94f3d/height/808/i/3b/e6/99/d8/954018e6-ed83-4376-9068-712b177eeee3.jpg"
+      },
+      {
+        "id": 56080,
+        "title": "Рубашка из вискозы Paade Mode",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 3810,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/225700440155a83ba793a3c84c4d5e00/height/808/i/16/69/f2/23/58dceb95-da41-4e9a-8642-e259a0de3dc5.jpg"
+      },
+      {
+        "id": 56722,
+        "title": "Хлопковая рубашка Denimist",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 15350,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c6731594197035ea8841da1f12398fdd/height/808/i/bd/f4/2b/e5/5ebe9b83-935f-46c0-a640-dc5c4a0cd241.jpg"
+      },
+      {
+        "id": 58167,
+        "title": "Рубашка Plan C",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 9630,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/dae66ce7c9221e8fa1f6ffeb3636738f/height/808/i/f4/8f/f9/98/f48ff998-fe64-37d2-a777-24c64a75b3e5.jpg"
+      },
+      {
+        "id": 58195,
+        "title": "Рубашка из лиоцелла BOSS Orange",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 9760,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/301852d02d8cb2ed758de30887a10a76/height/808/i/5b/9a/a8/9a/30b35186-c8e2-41bf-b0da-c20e3c6fe719.jpg"
+      },
+      {
+        "id": 137375,
+        "title": "Майка женская Diadora, Зеленый",
+        "store": "sportmaster",
+        "color": "зеленый",
+        "price": 4299,
+        "score": 0.8333,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/6b7/177233150299.jpg"
+      },
+      {
+        "id": 55923,
+        "title": "Рубашка из вискозы и льна Max Mara Studio",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 47700,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/82a58dfb45c2ff569c8fed57187ef12a/height/808/i/da/63/06/8c/6534f895-ce51-461d-a02e-2c67a5251359.jpg"
+      },
+      {
+        "id": 56166,
+        "title": "Рубашка из вискозы Alexandre Vauthier",
+        "store": "tsum",
+        "color": "зеленый",
+        "price": 30800,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/cf559e3045a8773f9c37ca8afe0641bc/height/808/i/76/65/41/ba/766541ba-45e5-3345-a5da-bbad97d917e2.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55475,
+        "title": "Хлопковая юбка LVIR",
+        "store": "tsum",
+        "color": "белый",
+        "price": 15200,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/96d6fb32f144bb9d57760fd4ec3f4d25/height/808/i/3b/68/48/56/3d8180d6-47e7-4b37-812a-fc851b09d927.jpg"
+      },
+      {
+        "id": 55530,
+        "title": "Плиссированная юбка Hood by Air",
+        "store": "tsum",
+        "color": "белый",
+        "price": 6810,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f2d0b710c0bb63fa7122a7c880afb765/height/808/i/6f/36/31/e6/0dbaaae1-e1ea-46a4-924e-ecaf1171deb3.jpg"
+      },
+      {
+        "id": 55835,
+        "title": "Юбка из вискозы Ports 1961",
+        "store": "tsum",
+        "color": "белый",
+        "price": 13000,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0a19d19cb59fdfc7edff6ba70a3df6a8/height/808/i/90/ef/eb/b3/90efebb3-c24d-307a-b244-f5258fd65a78.jpg"
+      },
+      {
+        "id": 56023,
+        "title": "Юбка JW Anderson",
+        "store": "tsum",
+        "color": "белый",
+        "price": 15400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b1b4f68bd15a9ecf1adfa0cb284a05fe/height/808/i/c4/a0/96/d2/57ffdee2-f20d-4035-b913-7ecbd27988fb.jpg"
+      },
+      {
+        "id": 56427,
+        "title": "Хлопковая юбка Paade Mode",
+        "store": "tsum",
+        "color": "белый",
+        "price": 4735,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/da5437ec720117729d743efdc285588d/height/808/i/e0/e6/ed/22/74ff6f5a-db33-4df5-992a-fe43a73c5802.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Юбка-шорты из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.8636,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17005_201_20.jpg"
+      },
+      {
+        "id": 4969,
+        "title": "Юбка-шорты мини из гобелена",
+        "store": "befree",
+        "color": "белый",
+        "price": 2599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641312034/BF2641312034_99_1.jpg"
+      },
+      {
+        "id": 5588,
+        "title": "Юбка домашняя атласная на резинке",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631812021/BF2631812021_4_11.jpg"
+      }
+    ],
+    [
+      {
+        "id": 88276,
+        "title": "Шапка SALTY LINED BEANIE DARK SAGE",
+        "store": "street-beat",
+        "color": "бирюзовый",
+        "price": 2699,
+        "score": 0.6667,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/a29/1000_1000_0/zd4z98rqfgg2074q5vtlzgkyd7v84owa.jpg"
+      },
+      {
+        "id": 96486,
+        "title": "Женское нижнее белье PUMA WOMEN BIKINI 2P PACK",
+        "store": "street-beat",
+        "color": "бирюзовый",
+        "price": 2499,
+        "score": 0.6667,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/217/fmq9efq9zu6h1njttojtsnegevy40zon.jpg"
+      },
+      {
+        "id": 100132,
+        "title": "Женское нижнее белье PUMA WOMEN HIPSTER 2P PACK",
+        "store": "street-beat",
+        "color": "бирюзовый",
+        "price": 2499,
+        "score": 0.6667,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/96c/fhimpqqbzxzjb7k15hiskna9yryfyukj.jpeg"
+      },
+      {
+        "id": 106643,
+        "title": "Кепка Cusco Hat",
+        "store": "street-beat",
+        "color": "бирюзовый",
+        "price": 4399,
+        "score": 0.6667,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/39e/7s10tgg90e8hbmkpysr5ad2j4vi1gi44.jpg"
+      },
+      {
+        "id": 114254,
+        "title": "Женское нижнее белье PUMA HIGH WAIST BRAZIL",
+        "store": "street-beat",
+        "color": "бирюзовый",
+        "price": 2999,
+        "score": 0.6667,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/13b/acxfaokfu37kjm70fuy73v54pfu8itbh.jpg"
+      },
+      {
+        "id": 116943,
+        "title": "Кепка Trucker Cap",
+        "store": "street-beat",
+        "color": "бирюзовый",
+        "price": 3299,
+        "score": 0.6667,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/1bd/1000_1000_0/lzubli2d3kl4layag66q880v2j3scxd6.jpg"
+      },
+      {
+        "id": 116945,
+        "title": "Кепка Ball Cap",
+        "store": "street-beat",
+        "color": "бирюзовый",
+        "price": 4199,
+        "score": 0.6667,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/276/bndoxc3vqhxu4l16wm7xo5ghhu6uxxoe.jpg"
+      },
+      {
+        "id": 120059,
+        "title": "Шапка Box Cuffed Beanie",
+        "store": "street-beat",
+        "color": "бирюзовый",
+        "price": 3399,
+        "score": 0.6667,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/74a/l7wae1mvf09uhzb7gyhkz2p1hepdeb70.jpg"
+      }
+    ]
+  ]
+}

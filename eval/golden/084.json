@@ -1,0 +1,389 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Летний городской шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        6413
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        5617
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        710
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ вязаный",
+      "color": "красный",
+      "search_query": "топ вязаный красный",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди",
+      "color": "белый",
+      "search_query": "юбка миди белая",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "цветочный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли лодочки",
+      "color": "красный",
+      "search_query": "туфли лодочки красные",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка плетеная",
+      "color": "бежевый",
+      "search_query": "сумка плетеная бежевый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 4769,
+        "title": "Топ-бандо вязаный",
+        "store": "befree",
+        "color": "красный",
+        "price": 1299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631521003/BF2631521003_70_1.jpg"
+      },
+      {
+        "id": 1689,
+        "title": "Лиф-топ купальный со шнуровкой",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624730020/BF2624730020_70_1.jpg"
+      },
+      {
+        "id": 4897,
+        "title": "Топ облегающий на широких бретелях в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121039/BF2631121039_70_1.jpg"
+      },
+      {
+        "id": 5066,
+        "title": "Бюстгальтер-топ ажурный хлопковый с оборками",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830002/BF2634830002_75_11.jpg"
+      },
+      {
+        "id": 6413,
+        "title": "Майка-топ укороченная в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121023/BF2621121023_70_1.jpg"
+      },
+      {
+        "id": 7069,
+        "title": "Бюстгальтер-топ ажурный хлопковый с оборками",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830002/BF2634830002_70_11.jpg"
+      },
+      {
+        "id": 7529,
+        "title": "Майка-топ трикотажная облегающая",
+        "store": "befree",
+        "color": "красный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121003/BF2622121003_77_1.jpg"
+      },
+      {
+        "id": 7851,
+        "title": "Топ домашний приталенный ажурный на тонких бретелях",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631821002/BF2631821002_75_11.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55475,
+        "title": "Хлопковая юбка LVIR",
+        "store": "tsum",
+        "color": "белый",
+        "price": 15200,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/96d6fb32f144bb9d57760fd4ec3f4d25/height/808/i/3b/68/48/56/3d8180d6-47e7-4b37-812a-fc851b09d927.jpg"
+      },
+      {
+        "id": 55530,
+        "title": "Плиссированная юбка Hood by Air",
+        "store": "tsum",
+        "color": "белый",
+        "price": 6810,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f2d0b710c0bb63fa7122a7c880afb765/height/808/i/6f/36/31/e6/0dbaaae1-e1ea-46a4-924e-ecaf1171deb3.jpg"
+      },
+      {
+        "id": 55835,
+        "title": "Юбка из вискозы Ports 1961",
+        "store": "tsum",
+        "color": "белый",
+        "price": 13000,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0a19d19cb59fdfc7edff6ba70a3df6a8/height/808/i/90/ef/eb/b3/90efebb3-c24d-307a-b244-f5258fd65a78.jpg"
+      },
+      {
+        "id": 56023,
+        "title": "Юбка JW Anderson",
+        "store": "tsum",
+        "color": "белый",
+        "price": 15400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b1b4f68bd15a9ecf1adfa0cb284a05fe/height/808/i/c4/a0/96/d2/57ffdee2-f20d-4035-b913-7ecbd27988fb.jpg"
+      },
+      {
+        "id": 56427,
+        "title": "Хлопковая юбка Paade Mode",
+        "store": "tsum",
+        "color": "белый",
+        "price": 4735,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/da5437ec720117729d743efdc285588d/height/808/i/e0/e6/ed/22/74ff6f5a-db33-4df5-992a-fe43a73c5802.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Юбка-шорты из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.8636,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17005_201_20.jpg"
+      },
+      {
+        "id": 4969,
+        "title": "Юбка-шорты мини из гобелена",
+        "store": "befree",
+        "color": "белый",
+        "price": 2599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641312034/BF2641312034_99_1.jpg"
+      },
+      {
+        "id": 5588,
+        "title": "Юбка домашняя атласная на резинке",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631812021/BF2631812021_4_11.jpg"
+      }
+    ],
+    [
+      {
+        "id": 5617,
+        "title": "Туфли-слингбэки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682023/BF2636682023_70_13.jpg"
+      },
+      {
+        "id": 55710,
+        "title": "Туфли из кожи крокодила Celia Ralph Lauren",
+        "store": "tsum",
+        "color": "красный",
+        "price": 469500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/6cc4f8877d67aa8b7a82288836f61ef6/height/808/i/44/f2/24/fa/44f224fa-5dec-3b63-8c5f-b75d091ec01d.jpg"
+      },
+      {
+        "id": 55669,
+        "title": "Кожаные туфли Disk 95 Paul Andrew",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 38900,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/86c2ece75da7f9f3f6d96a423235ea01/height/808/i/dc/ec/f5/33/dcecf533-cf17-3bd5-882f-f265bbeb494e.jpg"
+      },
+      {
+        "id": 55672,
+        "title": "Текстильные туфли Cube Paul Andrew",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 37450,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/5cb5a6a0f66f1c480e643e4677bffcb5/height/808/i/25/d7/52/ba/25d752ba-dec9-3b66-a055-500ebad31435.jpg"
+      },
+      {
+        "id": 55676,
+        "title": "Текстильные туфли Dominique 105 Gedebe",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 25550,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/23951145fedf17e7772a1c68f8dad832/height/808/i/5f/d8/0b/ae/74ae55f6-5b8e-4788-b3a6-ad51d4d9954e.jpg"
+      },
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      },
+      {
+        "id": 10336,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 11999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870025_50.jpg"
+      }
+    ],
+    [
+      {
+        "id": 710,
+        "title": "Плетеная сумка из рафии",
+        "store": "finnflare",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/630/FSG11200_630_30.jpg"
+      },
+      {
+        "id": 136166,
+        "title": "Сумка Kappa, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2f8/141177690299.jpg"
+      },
+      {
+        "id": 139499,
+        "title": "Сумка PUMA, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/78f/194301880299.jpg"
+      },
+      {
+        "id": 139612,
+        "title": "Сумка adidas, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5399,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/23c/190704020299.jpg"
+      },
+      {
+        "id": 139845,
+        "title": "Сумка adidas Leo Bowling Bag, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/29a/195097850299.jpg"
+      },
+      {
+        "id": 140142,
+        "title": "Сумка Demix, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/792/111673430299.jpg"
+      },
+      {
+        "id": 141002,
+        "title": "Сумка для коврика Sensana, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1699,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2c2/162786200299.jpg"
+      },
+      {
+        "id": 146216,
+        "title": "Сумка Reebok Arlo, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/21c/194954490299.jpg"
+      }
+    ]
+  ]
+}

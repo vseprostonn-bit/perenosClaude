@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка классическая",
+      "color": "синий",
+      "search_query": "рубашка классический синий",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди прямая",
+      "color": "коричневый",
+      "search_query": "юбка миди прямая коричневый",
+      "type": "юбка",
+      "silhouette": "прямой",
+      "length": "миди",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли классические",
+      "color": "серебристый",
+      "search_query": "туфли классические серебристый",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "оранжевый",
+      "search_query": "сумка через плечо оранжевый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 58558,
+        "title": "Хлопковая рубашка Trussardi junior",
+        "store": "tsum",
+        "color": "синий",
+        "price": 5555,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/8426866a87206af072b30e117f85304c/height/808/i/57/74/b8/d2/871c022b-8aa5-4591-917b-58b05c0fe675.jpg"
+      },
+      {
+        "id": 86305,
+        "title": "Хлопковая рубашка Two Women In The World",
+        "store": "tsum",
+        "color": "синий",
+        "price": 8250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/27d0e671c05e8b61372c5ad09a0d7cdb/height/808/i/36/bf/a3/b6/8d4bfae8-4b15-4c54-a625-7a83eaafd560.jpg"
+      },
+      {
+        "id": 87148,
+        "title": "Хлопковая рубашка Michael Lo Sordo",
+        "store": "tsum",
+        "color": "синий",
+        "price": 4660,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d8f0db672023d302dd6cee26d3795305/height/808/i/bb/07/14/58/b79fae7b-583f-484d-9d56-3035c307edf2.jpg"
+      },
+      {
+        "id": 5232,
+        "title": "Рубашка классическая прямая",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418063/BF2631418063_42_1.jpg"
+      },
+      {
+        "id": 55906,
+        "title": "Рубашка изо льна и хлопка Aspesi",
+        "store": "tsum",
+        "color": "синий",
+        "price": 10550,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/3423c91d2d14dd22ca4271e7e2c485ca/height/808/i/9a/3a/63/66/5dda9b85-8ba2-439b-ab22-a5720d4cee0e.jpg"
+      },
+      {
+        "id": 56744,
+        "title": "Хлопковая рубашка Colville",
+        "store": "tsum",
+        "color": "синий",
+        "price": 12500,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/36cea7ce854fa9c528071b6e047b3852/height/808/i/dc/44/6d/67/40d8ae67-fb83-46e6-b292-d114f4a30837.jpg"
+      },
+      {
+        "id": 56976,
+        "title": "Льняная рубашка Destin",
+        "store": "tsum",
+        "color": "синий",
+        "price": 13850,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c473dbee1f6bd5336c89b862fbf994d1/height/808/i/53/66/be/fe/9a1ae8b3-236a-49cb-9461-186b37d1b142.jpg"
+      },
+      {
+        "id": 57542,
+        "title": "Рубашка Pietro Brunelli",
+        "store": "tsum",
+        "color": "синий",
+        "price": 13000,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/750512539b58f813150411833dbd8551/height/808/i/3b/da/50/34/3bda5034-8ccf-3072-b3dd-dbecba7ca6fc.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1894,
+        "title": "Юбка прямая миди из искусственной кожи под крокодила",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312036/BF2631312036_26_1.jpg"
+      },
+      {
+        "id": 7273,
+        "title": "Юбка прямая миди из искусственной кожи под крокодила",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312036PL/BF2631312036PL_26_1.jpg"
+      },
+      {
+        "id": 4762,
+        "title": "Юбка-шорты миди прямая кружевная с разрезом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312019/BF2631312019_63_1.jpg"
+      },
+      {
+        "id": 55466,
+        "title": "Юбка Dondup",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 18600,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/9f1a38dd1a784ee492e4d631f1deb998/height/808/i/fd/00/5e/42/4f85bd20-1e66-4e7f-ad57-890dcdc8e713.jpg"
+      },
+      {
+        "id": 56873,
+        "title": "Хлопковая юбка AERON",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 23300,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/d5734342eb1979a0ddd72249bc8e67d2/height/808/i/c9/0a/3c/06/a34be094-7560-451b-9c79-821ed11adb18.jpg"
+      },
+      {
+        "id": 57379,
+        "title": "Юбка LVIR",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 19700,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/1318c9ef6f0b59a198303b08352b889b/height/808/i/81/93/db/d5/22a53745-6883-428a-b93c-0781cb07181e.jpg"
+      },
+      {
+        "id": 4459,
+        "title": "Юбка-годе миди атласная с кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312025PL/BF2631312025PL_68_1.jpg"
+      },
+      {
+        "id": 4799,
+        "title": "Юбка-годе миди атласная с кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312025/BF2631312025_68_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      },
+      {
+        "id": 10336,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 11999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870025_50.jpg"
+      },
+      {
+        "id": 10583,
+        "title": "Туфли-лодочки из атласа",
+        "store": "loverepublic",
+        "color": null,
+        "price": 5999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/54427/thumb/300_9999/544270035_90.jpg"
+      },
+      {
+        "id": 54961,
+        "title": "Кожаные туфли Strut Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 19950,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/f6fd8d2f6946edb6279ab9960290c3fc/height/808/i/d1/04/a8/c4/12e31ed1-f374-42dd-95ee-835985047531.jpg"
+      },
+      {
+        "id": 55013,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14850,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/71898f8f7ce5612f7a4874f40114c40b/height/808/i/78/f2/91/3b/519dc7c8-a7b5-427c-b844-47c6cd42cca6.jpg"
+      },
+      {
+        "id": 55676,
+        "title": "Текстильные туфли Dominique 105 Gedebe",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 25550,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/23951145fedf17e7772a1c68f8dad832/height/808/i/5f/d8/0b/ae/74ae55f6-5b8e-4788-b3a6-ad51d4d9954e.jpg"
+      },
+      {
+        "id": 55704,
+        "title": "Текстильные туфли Julia Gedebe",
+        "store": "tsum",
+        "color": "фиолетовый",
+        "price": 25550,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/77db2e223434b345919dfff039488a69/height/808/i/58/8d/e8/db/59983b8c-0b0b-4634-830f-323e870996d2.jpg"
+      }
+    ],
+    [
+      {
+        "id": 156658,
+        "title": "Сумка через плечо, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/0dc/500_600_60e2/178585170299.jpg"
+      },
+      {
+        "id": 157088,
+        "title": "Сумка, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/6f7/500_600_638e/182946030299.jpg"
+      },
+      {
+        "id": 159186,
+        "title": "Плетеная сумка, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/967/500_600_a462/180438430299.jpg"
+      },
+      {
+        "id": 159764,
+        "title": "Сумка, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/bc9/500_600_72ea/180809230299.jpg"
+      },
+      {
+        "id": 6650,
+        "title": "Сумка женская",
+        "store": "befree",
+        "color": "оранжевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645457013/BF2645457013_23_1.jpg"
+      },
+      {
+        "id": 8039,
+        "title": "Сумка-багет из искусственной кожи",
+        "store": "befree",
+        "color": "оранжевый",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457002/BF2635457002_23_2.jpg"
+      },
+      {
+        "id": 6976,
+        "title": "Сумка через плечо каркасная из искусственной кожи с карабином",
+        "store": "befree",
+        "color": "красный",
+        "price": 2299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457077/BF2635457077_70_12.jpg"
+      },
+      {
+        "id": 146581,
+        "title": "Сумка через плечо Under Armour Essential, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 3399,
+        "score": 0.8909,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/e89/185430160299.jpg"
+      }
+    ]
+  ]
+}

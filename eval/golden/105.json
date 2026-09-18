@@ -1,0 +1,287 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "свитер oversize",
+      "color": "бежевый",
+      "search_query": "свитер oversize бежевый",
+      "type": "свитер",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка-карандаш",
+      "color": "бордовый",
+      "search_query": "юбка карандаш бордовая",
+      "type": "юбка",
+      "silhouette": "приталенный",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли лодочка",
+      "color": "бордовый",
+      "search_query": "туфли лодочка бордовая",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 3440,
+        "title": "Худи на молнии оверсайз вельветовая с капюшоном",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631123011/BF2631123011_61_1.jpg"
+      },
+      {
+        "id": 4538,
+        "title": "Джемпер вязаный с шерстью и имитацией второго слоя",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641526012/BF2641526012_61_100.jpg"
+      },
+      {
+        "id": 4651,
+        "title": "Худи на молнии оверсайз вельветовая с капюшоном",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631123011pl/BF2631123011pl_61_1.jpg"
+      },
+      {
+        "id": 6064,
+        "title": "Джемпер вязаный на пуговицах с баской и кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526046/BF2631526046_61_100.jpg"
+      },
+      {
+        "id": 6376,
+        "title": "Майка свободная вареная на тонких бретелях",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1299,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121029/BF2631121029_36_1.jpg"
+      },
+      {
+        "id": 6451,
+        "title": "Лонгслив с асимметричным кейпом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641122005/BF2641122005_64_100.jpg"
+      },
+      {
+        "id": 7234,
+        "title": "Худи на молнии вязаная с капюшоном",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527004/BF2631527004_36_1.jpg"
+      },
+      {
+        "id": 7236,
+        "title": "Худи на молнии вязаная с капюшоном",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527004/BF2631527004_61_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 56619,
+        "title": "Юбка Heliot Emil",
+        "store": "tsum",
+        "color": "бордовый",
+        "price": 9960,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/39684435dab5c30e525ad39ce601c0a9/height/808/i/52/3d/4a/16/aaa7ab9a-4da6-4b51-9514-12b89cd1d572.jpg"
+      },
+      {
+        "id": 113489,
+        "title": "Женская юбка Sportswear Loose Bubble Skirt",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 5599,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/85f/mfyvw76kedl7otk0brfqefj9us5idkyj.jpg"
+      },
+      {
+        "id": 55458,
+        "title": "Юбка Heliot Emil",
+        "store": "tsum",
+        "color": "бордовый",
+        "price": 14700,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/22a2d6121c4c03cbc8f61820bdadd4f4/height/808/i/cb/2f/d2/05/1b44d456-87e3-4e13-ac8c-1658b8769e08.jpg"
+      },
+      {
+        "id": 56696,
+        "title": "Шерстяные юбка-шорты Botter",
+        "store": "tsum",
+        "color": "бордовый",
+        "price": 33700,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/52298cbfc198221bb70ee23bf3de48c7/height/808/i/9d/25/bd/0d/dcdaae24-cd87-4e7d-936c-37f149d2db66.jpg"
+      },
+      {
+        "id": 8368,
+        "title": "Юбка-шорты мини в складку с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632312009/BF2632312009_20_1.jpg"
+      },
+      {
+        "id": 55516,
+        "title": "Хлопковая юбка Rag and Bone",
+        "store": "tsum",
+        "color": "красный",
+        "price": 6570,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/cb38c38092831f2819885ba8b7fb4c0d/height/808/i/67/d4/de/a6/a194ccbe-5835-4c6b-911f-f3a1f1aa9698.jpg"
+      },
+      {
+        "id": 123639,
+        "title": "Женская юбка PUMA T7 Skirt",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 7299,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e0a/laetylkwi90nd10qyu2n2mcv35wql1qy.jpg"
+      },
+      {
+        "id": 1882,
+        "title": "Юбка-шорты мини облегающая костюмная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312032/BF2631312032_26_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3077,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_20_1.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_20_11.jpg"
+      },
+      {
+        "id": 4927,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_20_11.jpg"
+      },
+      {
+        "id": 5617,
+        "title": "Туфли-слингбэки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682023/BF2636682023_70_13.jpg"
+      },
+      {
+        "id": 159681,
+        "title": "Сатиновые туфли-лодочки, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.7545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cd6/500_600_f7b2/172369780299.jpg"
+      },
+      {
+        "id": 1807,
+        "title": "Туфли на танкетке лаковые из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682008/BF2636682008_20_2.jpg"
+      },
+      {
+        "id": 6663,
+        "title": "Туфли с перемычкой между пальцами из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688019/BF2626688019_20_11.jpg"
+      },
+      {
+        "id": 8191,
+        "title": "Туфли-мюли с открытым носом и декором из бусин",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 799,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683008/BF2626683008_20_3.jpg"
+      }
+    ]
+  ]
+}

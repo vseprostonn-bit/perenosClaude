@@ -1,0 +1,392 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Летний городской шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        155926
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        58111
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        55357,
+        55694
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        710
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка прямая",
+      "color": "розовый",
+      "search_query": "рубашка прямая розовый",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "розовый",
+      "search_query": "брюки широкие розовый",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": "макси",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "коричневый",
+      "search_query": "босоножки коричневый",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка плетеная",
+      "color": "бежевый",
+      "search_query": "сумка плетеная бежевый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1908,
+        "title": "Рубашка прямая из жатого хлопка в полоску",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418087/BF2631418087_95_1.jpg"
+      },
+      {
+        "id": 4462,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042/BF2631418042_95_1.jpg"
+      },
+      {
+        "id": 7917,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042pl/BF2631418042pl_95_1.jpg"
+      },
+      {
+        "id": 155926,
+        "title": "Пижамная рубашка в полоску, Розовый",
+        "store": "ostin",
+        "color": "розовый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/8ea/500_600_aed5/172044850299.jpg"
+      },
+      {
+        "id": 3223,
+        "title": "Рубашка прямая хлопковая в клетку",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2299,
+        "score": 0.9318,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418051/BF2631418051_95_1.jpg"
+      },
+      {
+        "id": 7927,
+        "title": "Рубашка прямая хлопковая в клетку",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2299,
+        "score": 0.9318,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418051pl/BF2631418051pl_95_1.jpg"
+      },
+      {
+        "id": 55054,
+        "title": "Хлопковая рубашка Forte Dei Marmi Couture",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 13150,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/1e66608f4e58583a4636d506b73a7d4d/height/808/i/4b/63/be/1a/905f83dd-dc87-4299-bbe9-e6578d60e248.jpg"
+      },
+      {
+        "id": 56420,
+        "title": "Рубашка из вискозы и шелка BOSS Orange",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 11900,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/7d74ad10730abe5841c6bfdd933e10d5/height/808/i/dd/7c/13/66/28fd50cb-e7dd-46ae-a90c-cd7f522dd011.jpg"
+      }
+    ],
+    [
+      {
+        "id": 7486,
+        "title": "Брюки широкие со средней посадкой",
+        "store": "befree",
+        "color": "розовый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308007/BF2632308007_90_1.jpg"
+      },
+      {
+        "id": 7254,
+        "title": "Брюки клеш домашние с кружевом",
+        "store": "befree",
+        "color": "розовый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808005/BF2631808005_90_1.jpg"
+      },
+      {
+        "id": 8430,
+        "title": "Брюки-баллоны со средней посадкой на завязках",
+        "store": "befree",
+        "color": "розовый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308002/BF2632308002_90_1.jpg"
+      },
+      {
+        "id": 55059,
+        "title": "Хлопковые брюки Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 4795,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/655c527cd4400c8be6f1b090cfcf6e05/height/808/i/70/10/9a/7a/8b43b414-24a8-41af-bd56-bb69fa392e21.jpg"
+      },
+      {
+        "id": 56432,
+        "title": "Брюки Leonard Paris",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 5365,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/ad521531ebd2e02427acc2750ddfcf84/height/808/i/44/07/aa/40/4407aa40-6d87-3f53-ba70-26da57848462.jpg"
+      },
+      {
+        "id": 56441,
+        "title": "Хлопковые брюки Pietro Brunelli",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 4475,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f72f68e6abbc593b3dba756e62d40b52/height/808/i/6a/ef/a8/1d/6aefa81d-f81b-3aee-9757-3973ac686eb2.jpg"
+      },
+      {
+        "id": 58111,
+        "title": "Брюки Plan C",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 6995,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3893e2c2b01f7995539fb7fd4d13094d/height/808/i/b1/31/5e/7f/838c7def-8f6a-44b1-b03f-ee4fdebefa8f.jpg"
+      },
+      {
+        "id": 58159,
+        "title": "Хлопковые брюки Roberto Cavalli",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 6370,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/e1d822e43745bb0abcbc8df35a16ecd7/height/808/i/6b/c7/86/d9/33afff54-be7a-408c-a620-278f542765fc.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55398,
+        "title": "Кожаные босоножки String Paul Andrew",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 31650,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c6740f124e14161cbfe1459fffdfecb1/height/808/i/08/cd/21/ee/88d93c0f-0c83-47fd-b54a-c9561cebd9cd.jpg"
+      },
+      {
+        "id": 55433,
+        "title": "Кожаные босоножки String Paul Andrew",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 31650,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/0224ca75597f6ec2e74f3c2467754d92/height/808/i/3d/21/55/78/9e754e60-ba0e-4a7e-baac-2e84d288ec90.jpg"
+      },
+      {
+        "id": 4427,
+        "title": "Босоножки с помпоном из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688016/BF2626688016_20_1.jpg"
+      },
+      {
+        "id": 6874,
+        "title": "Босоножки на каблуке с квадратным мысом и бантиком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688007/BF2626688007_20_11.jpg"
+      },
+      {
+        "id": 7844,
+        "title": "Босоножки из искусственной кожи на платформе с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688018/BF2626688018_20_11.jpg"
+      },
+      {
+        "id": 3816,
+        "title": "Сандалии-гладиаторы высокие с замшевой фактурой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.7727,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688012/BF2626688012_63_11.jpg"
+      },
+      {
+        "id": 55357,
+        "title": "Сандалии Alberta Ferretti",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 27850,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/c16a435eb87796c7a3c18098657fb5a5/height/808/i/7e/47/33/a8/7e4733a8-61fb-3ed2-9cfb-c3e0d3e5350c.jpg"
+      },
+      {
+        "id": 55694,
+        "title": "Кожаные сандалии Jopee Isabel Marant",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 35600,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/8bbd87fdd1bd81a48354f5edbe9fb806/height/808/i/72/df/03/d9/3af1705b-a651-44a9-9490-b05e3fc3a48b.jpg"
+      }
+    ],
+    [
+      {
+        "id": 710,
+        "title": "Плетеная сумка из рафии",
+        "store": "finnflare",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/630/FSG11200_630_30.jpg"
+      },
+      {
+        "id": 136166,
+        "title": "Сумка Kappa, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2f8/141177690299.jpg"
+      },
+      {
+        "id": 139499,
+        "title": "Сумка PUMA, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/78f/194301880299.jpg"
+      },
+      {
+        "id": 139612,
+        "title": "Сумка adidas, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5399,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/23c/190704020299.jpg"
+      },
+      {
+        "id": 139845,
+        "title": "Сумка adidas Leo Bowling Bag, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/29a/195097850299.jpg"
+      },
+      {
+        "id": 140142,
+        "title": "Сумка Demix, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/792/111673430299.jpg"
+      },
+      {
+        "id": 141002,
+        "title": "Сумка для коврика Sensana, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1699,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2c2/162786200299.jpg"
+      },
+      {
+        "id": 146216,
+        "title": "Сумка Reebok Arlo, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/21c/194954490299.jpg"
+      }
+    ]
+  ]
+}

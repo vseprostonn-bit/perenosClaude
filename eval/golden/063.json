@@ -1,0 +1,296 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Летний городской шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        55433,
+        55694,
+        55398,
+        4427
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ вязаный ажурный",
+      "color": "белый",
+      "search_query": "вязаный топ белый",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "ажур"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди цветочная",
+      "color": "бежевый",
+      "search_query": "юбка миди цветочный принт",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "цветочный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки на танкетке",
+      "color": "коричневый",
+      "search_query": "босоножки танкетка коричневые",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1335,
+        "title": "Топ из хлопка с открытым плечом и фигурным узлом",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSE/201/FSE110162_201_20.jpg"
+      },
+      {
+        "id": 1629,
+        "title": "Топ с открытой спиной и драпировкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418009/BF2631418009_1_1.jpg"
+      },
+      {
+        "id": 3146,
+        "title": "Топ приталенный асимметричный с кружевом",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632120008/BF2632120008_1_11.jpg"
+      },
+      {
+        "id": 3151,
+        "title": "Топ приталенный со шнуровкой и люверсами",
+        "store": "befree",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632121008/BF2632121008_4_1.jpg"
+      },
+      {
+        "id": 3239,
+        "title": "Топ приталенный на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 899,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121028/BF2631121028_1_100.jpg"
+      },
+      {
+        "id": 4417,
+        "title": "Топ-халтер облегающий на завязках",
+        "store": "befree",
+        "color": "белый",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121006/BF2631121006_1_1.jpg"
+      },
+      {
+        "id": 4621,
+        "title": "Топ спортивный в рубчик",
+        "store": "befree",
+        "color": "белый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631721001/BF2631721001_1_1.jpg"
+      },
+      {
+        "id": 4693,
+        "title": "Бюстгальтер-топ бесшовный в рубчик без косточек",
+        "store": "befree",
+        "color": "белый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830001/BF2644830001_1_100.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55416,
+        "title": "Юбка-шорты Plan C",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 13250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0ebf5be7b899c31ecb894b7fcdfa3f01/height/808/i/ef/59/fd/2f/ef59fd2f-a0a5-3982-8b22-aec67067f21c.jpg"
+      },
+      {
+        "id": 55515,
+        "title": "Шерстяная юбка Rag and Bone",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 9695,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/ecf198f520945097ab5ff52f78d8d889/height/808/i/b7/fa/1b/6e/a337b392-56c2-4da5-bb6e-358851451437.jpg"
+      },
+      {
+        "id": 56132,
+        "title": "Вельветовая юбка Paade Mode",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 4465,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/fcd4ee7955d95a6549b646108e2d9f87/height/808/i/32/bc/41/24/ced6f11b-f992-438e-8eb5-612186e72dbc.jpg"
+      },
+      {
+        "id": 58036,
+        "title": "Юбка изо льна и хлопка Pietro Brunelli",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11800,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/5cb116648e1499d4837e3c7c0e7081aa/height/808/i/10/e7/f0/28/4d60733e-7f55-4f8c-a883-26bd4f8ebb25.jpg"
+      },
+      {
+        "id": 5192,
+        "title": "Юбка-шорты мини с ремешком",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632312007/BF2632312007_36_1.jpg"
+      },
+      {
+        "id": 5270,
+        "title": "Юбка-карго мини с накладным карманом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312010/BF2631312010_62_11.jpg"
+      },
+      {
+        "id": 55410,
+        "title": "Хлопковая юбка Plan C",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14050,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/bf7b7c86006f1df4681ec782bcdc3653/height/808/i/65/52/71/5e/38eb568a-ed00-47c2-82da-a81d2b8334ff.jpg"
+      },
+      {
+        "id": 55443,
+        "title": "Юбка из вискозы Rick Owens Lilies",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/910cd9a9ecd9ec8e7a48b73c7d09c43b/height/808/i/33/f8/6a/a7/f6eacbee-79dc-4747-89f4-d280147191e8.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55398,
+        "title": "Кожаные босоножки String Paul Andrew",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 31650,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c6740f124e14161cbfe1459fffdfecb1/height/808/i/08/cd/21/ee/88d93c0f-0c83-47fd-b54a-c9561cebd9cd.jpg"
+      },
+      {
+        "id": 55433,
+        "title": "Кожаные босоножки String Paul Andrew",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 31650,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/0224ca75597f6ec2e74f3c2467754d92/height/808/i/3d/21/55/78/9e754e60-ba0e-4a7e-baac-2e84d288ec90.jpg"
+      },
+      {
+        "id": 4427,
+        "title": "Босоножки с помпоном из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688016/BF2626688016_20_1.jpg"
+      },
+      {
+        "id": 6874,
+        "title": "Босоножки на каблуке с квадратным мысом и бантиком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688007/BF2626688007_20_11.jpg"
+      },
+      {
+        "id": 7844,
+        "title": "Босоножки из искусственной кожи на платформе с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688018/BF2626688018_20_11.jpg"
+      },
+      {
+        "id": 3816,
+        "title": "Сандалии-гладиаторы высокие с замшевой фактурой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.7727,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688012/BF2626688012_63_11.jpg"
+      },
+      {
+        "id": 55357,
+        "title": "Сандалии Alberta Ferretti",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 27850,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/c16a435eb87796c7a3c18098657fb5a5/height/808/i/7e/47/33/a8/7e4733a8-61fb-3ed2-9cfb-c3e0d3e5350c.jpg"
+      },
+      {
+        "id": 55694,
+        "title": "Кожаные сандалии Jopee Isabel Marant",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 35600,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/8bbd87fdd1bd81a48354f5edbe9fb806/height/808/i/72/df/03/d9/3af1705b-a651-44a9-9490-b05e3fc3a48b.jpg"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городской casual",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [
+        7899
+      ],
+      "acceptable": [],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [
+        2315
+      ],
+      "acceptable": [
+        2149
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "absent"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка в клетку",
+      "color": "синий",
+      "search_query": "рубашка клетка синяя",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "клетка"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие светлые",
+      "color": "молочный",
+      "search_query": "брюки широкие молочный",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "шляпа вязаная белая",
+      "color": "белый",
+      "search_query": "шляпа вязаная белая",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "бежевый",
+      "search_query": "сумка через плечо бежевый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 7899,
+        "title": "Рубашка домашняя в клетку",
+        "store": "befree",
+        "color": "синий",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631818013/BF2631818013_44_1.jpg"
+      },
+      {
+        "id": 7925,
+        "title": "Рубашка прямая хлопковая в клетку",
+        "store": "befree",
+        "color": "синий",
+        "price": 2599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418048pl/BF2631418048pl_45_1.jpg"
+      },
+      {
+        "id": 8248,
+        "title": "Рубашка прямая хлопковая в клетку",
+        "store": "befree",
+        "color": "синий",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418048/BF2631418048_45_1.jpg"
+      },
+      {
+        "id": 58558,
+        "title": "Хлопковая рубашка Trussardi junior",
+        "store": "tsum",
+        "color": "синий",
+        "price": 5555,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/8426866a87206af072b30e117f85304c/height/808/i/57/74/b8/d2/871c022b-8aa5-4591-917b-58b05c0fe675.jpg"
+      },
+      {
+        "id": 86305,
+        "title": "Хлопковая рубашка Two Women In The World",
+        "store": "tsum",
+        "color": "синий",
+        "price": 8250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/27d0e671c05e8b61372c5ad09a0d7cdb/height/808/i/36/bf/a3/b6/8d4bfae8-4b15-4c54-a625-7a83eaafd560.jpg"
+      },
+      {
+        "id": 87148,
+        "title": "Хлопковая рубашка Michael Lo Sordo",
+        "store": "tsum",
+        "color": "синий",
+        "price": 4660,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d8f0db672023d302dd6cee26d3795305/height/808/i/bb/07/14/58/b79fae7b-583f-484d-9d56-3035c307edf2.jpg"
+      },
+      {
+        "id": 7280,
+        "title": "Рубашка прямая в клетку с проволокой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3799,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418049pl/BF2631418049pl_42_1.jpg"
+      },
+      {
+        "id": 8075,
+        "title": "Рубашка хлопковая в клетку с принтом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632418018/BF2632418018_42_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2149,
+        "title": "Брюки-аладдины из тенсела на завязках",
+        "store": "befree",
+        "color": "молочный",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308036/BF2621308036_60_1.jpg"
+      },
+      {
+        "id": 2315,
+        "title": "Брюки широкие из хлопкового муслина на завязках",
+        "store": "befree",
+        "color": "молочный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622308007/BF2622308007_60_1.jpg"
+      },
+      {
+        "id": 2630,
+        "title": "Брюки широкие из тенсела на завязках с кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308025/BF2621308025_62_1.jpg"
+      },
+      {
+        "id": 2637,
+        "title": "Брюки широкие из гобелена со средней посадкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 4799,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308011/BF2641308011_99_1.jpg"
+      },
+      {
+        "id": 4614,
+        "title": "Брюки широкие укороченные из хлопка с высокой посадкой",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308033/BF2631308033_68_1.jpg"
+      },
+      {
+        "id": 4956,
+        "title": "Брюки широкие костюмные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308001/BF2641308001_64_100.jpg"
+      },
+      {
+        "id": 5970,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_61_1.jpg"
+      },
+      {
+        "id": 6357,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_61_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 468,
+        "title": "Вязаная шапка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 699,
+        "score": 0.8333,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/201/FAE111104_201_20.jpg"
+      },
+      {
+        "id": 1280,
+        "title": "Вязаная балаклава с добавлением шерсти",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 699,
+        "score": 0.8333,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWC/201/FWC11163_201_20.jpg"
+      },
+      {
+        "id": 9076,
+        "title": "Шапка-бини вязаная в рубчик",
+        "store": "befree",
+        "color": "белый",
+        "price": 1199,
+        "score": 0.8333,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/ScandicRibHatCol1/ScandicRibHatCol1_1_1.jpg"
+      },
+      {
+        "id": 83,
+        "title": "Шапка из шерсти и мохера",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/201/FAE111119_201_20.jpg"
+      },
+      {
+        "id": 476,
+        "title": "Капор с шерстью",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 690,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAD/201MC/FAD111112_201MC_20.jpg"
+      },
+      {
+        "id": 4586,
+        "title": "Топ-бандо облегающий с шарфиком",
+        "store": "befree",
+        "color": "белый",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121007/BF2631121007_1_1.jpg"
+      },
+      {
+        "id": 5101,
+        "title": "Футболка-поло хлопковая с поясом-цепочкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120054/BF2631120054_1_1.jpg"
+      },
+      {
+        "id": 5468,
+        "title": "Набор носков коротких базовых (3 пары)",
+        "store": "befree",
+        "color": "белый",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/ANNESET23/ANNESET23_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 87339,
+        "title": "Женские кроссовки Shox R4",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/829/1kdn0ph71sdpvb4dxllxk7u8xuhwwj12.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87512,
+        "title": "Женские кроссовки PWR Hybrid Training",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/996/82zgkob37ioopsj6cyqsxoj0gt0bazbg.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87701,
+        "title": "Женские кроссовки Air Zoom Pegasus 41",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/0e1/xe3i1v8p3s9i603bjsn1bblc9vmx99nx.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87736,
+        "title": "Женские кроссовки PUMA CA Flyz",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/715/aon4e1ewoyestvns3llqbx40untua3mq.jpg"
+      },
+      {
+        "id": 87964,
+        "title": "Женские кроссовки Cali Dream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/546/0q64eb1fu7q9tpvyba3jjczd6jouecyl.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1967,
+        "title": "Сумка-багет через плечо замшевая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457027/BF2635457027_62_1.jpeg"
+      },
+      {
+        "id": 91745,
+        "title": "Сумка через плечо Hot Shot Crossbody Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/957/1000_1000_0/bz4rndmxci2fv7lrxflz4g0fls8hxknh.jpg"
+      },
+      {
+        "id": 93912,
+        "title": "Сумка через плечо PUMA HER Half Moon Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3199,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4a6/ekolveyxg20x5sthw5l6zmu6p7wku9cb.jpg"
+      },
+      {
+        "id": 111927,
+        "title": "Сумка через плечо Terra Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3699,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/838/8bpimo151vm5p5apnntfv415mfqlsa6q.jpg"
+      },
+      {
+        "id": 114418,
+        "title": "Сумка через плечо Mini Canvas Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 2399,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e6b/idg4rai5j9bui8rujtzesuelu43ove43.jpg"
+      },
+      {
+        "id": 133170,
+        "title": "Сумка через плечо Alva Medium",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/9ff/3fur64te2cmyk4isxt8y82pbkzvgfsa6.jpg"
+      },
+      {
+        "id": 136166,
+        "title": "Сумка Kappa, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2f8/141177690299.jpg"
+      },
+      {
+        "id": 139499,
+        "title": "Сумка PUMA, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/78f/194301880299.jpg"
+      }
+    ]
+  ]
+}

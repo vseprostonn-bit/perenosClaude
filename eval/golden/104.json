@@ -1,0 +1,287 @@
+{
+  "gender": "men",
+  "note": "",
+  "vibe": "Casual, стильный городской образ.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка классическая",
+      "color": "бежевый",
+      "search_query": "рубашка классическая бежевый",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган",
+      "color": "коричневый",
+      "search_query": "кардиган коричневый",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки чинос",
+      "color": "бежевый",
+      "search_query": "брюки чинос бежевый",
+      "type": "брюки",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": null,
+      "fit": "высокая посадка",
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 61165,
+        "title": "Хлопковая рубашка A-COLD-WALL",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 19250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/eda96279dc063954b214f4acd7e6d34d/height/808/i/25/ea/3c/7e/40462a3b-82b4-4200-82c9-1ab8b85050ee.jpg"
+      },
+      {
+        "id": 61721,
+        "title": "Рубашка из хлопка и льна Sonrisa",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 15950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3d0ca7e94318f5254d1f39a3be477b6b/height/808/i/b3/00/0e/cb/cada936c-09bd-4916-8f7c-b2f6e3da2b7a.jpg"
+      },
+      {
+        "id": 62338,
+        "title": "Хлопковая рубашка Aspesi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 15700,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b2c28645361aa5417fdc3024fe15d9af/height/808/i/f5/91/33/8d/70c4e375-4cfd-4897-980d-c16d01487846.jpg"
+      },
+      {
+        "id": 63528,
+        "title": "Льняная рубашка Aspesi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 17850,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/666cfde80d23815aa37f086e5abd47ca/height/808/i/34/bb/d7/f1/73d93eb0-561f-44d2-9d83-eb4eda777088.jpg"
+      },
+      {
+        "id": 92448,
+        "title": "Мужская рубашка",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c8b/xzcvq9q7h5rtxnbg5rvghmnbnz5f2rf5.jpg"
+      },
+      {
+        "id": 110819,
+        "title": "Мужская рубашка G-Boyd",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a37/zekp05aivzn89djway1e6xpna8564ltg.jpg"
+      },
+      {
+        "id": 113677,
+        "title": "Мужская рубашка Wardrobe Essentials Shirt",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 5499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/91b/e0ljx197cccjtsdiy0tr6hmlxl4d36ov.jpg"
+      },
+      {
+        "id": 114713,
+        "title": "Мужская рубашка Ebaltow",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 13599,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/99c/1000_1000_0/ny3j1ar7rpi4hi25mfa3a5ab97pjarh9.jpg"
+      }
+    ],
+    [
+      {
+        "id": 60617,
+        "title": "Кардиган из вискозы Trussardi",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 13870,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/7f70627eee8a0f64c1327de4d17294c4/height/808/i/a3/3e/98/8c/8dbd4c69-e60e-48f2-9225-9ee857f7ede8.jpg"
+      },
+      {
+        "id": 4500,
+        "title": "Кардиган вязаный с рисунком и шерстью",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633128007/BF2633128007_26_11.jpg"
+      },
+      {
+        "id": 63108,
+        "title": "Шерстяной кардиган Svevo",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 52700,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/9fd04c81a354713419a318092712d881/height/808/i/ec/91/82/ad/cb684bd4-feb9-4c18-9b27-bcf979f1a8ef.jpg"
+      },
+      {
+        "id": 63460,
+        "title": "Шерстяной кардиган Moschino",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 69650,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/21e65231c67036c0d33640e17790b06b/height/808/i/43/67/03/e3/56d0c7e7-4388-4aec-bc83-4f514499fa7d.jpg"
+      },
+      {
+        "id": 63398,
+        "title": "Кардиган BOSS Orange",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 21650,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/e06d5b93b8fe5a57dceb079bc645257a/height/808/i/4e/95/3c/6f/9113156f-1dc7-4903-9beb-2dd210f54c55.jpg"
+      },
+      {
+        "id": 63777,
+        "title": "Комбинированный кардиган BOSS Green",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 29250,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/eb9a4cee52248ce5e51be285f4fa55fc/height/808/i/34/d3/79/75/1f42b3bb-aab5-4728-89d4-62685975d5bf.jpg"
+      },
+      {
+        "id": 60679,
+        "title": "Кардиган из шелка и хлопка Il Borgo Cashmere",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 47500,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/2089684b3302b4b2ce7a6b3f09dc3a52/height/808/i/0f/a4/ac/95/0071d092-7ede-4321-9d57-ab6d7ef0703e.jpg"
+      },
+      {
+        "id": 62537,
+        "title": "Шерстяной кардиган Svevo",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 53950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/842c0f1bd22664f2e7e06a74fceebd23/height/808/i/9c/86/e9/ab/8293be51-83c1-4afa-b81f-429bde6664c4.jpg"
+      }
+    ],
+    [
+      {
+        "id": 68505,
+        "title": "Брюки чинос светло-бежевые из хлопка",
+        "store": "kanzler",
+        "color": "бежевый",
+        "price": 2990,
+        "score": 0.9545,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/e8d/4sbzk7n6lykh03h1uzjgcw2s2wloxxgo.jpg"
+      },
+      {
+        "id": 60681,
+        "title": "Брюки Fradi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/5fa7bc834a2a0ef0a361465168372dec/height/808/i/03/ef/5d/4c/c0927af4-16f9-4910-9e61-d1aa145fdafd.jpg"
+      },
+      {
+        "id": 60743,
+        "title": "Брюки BOSS Green",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14650,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/091de6681b71d2f3fc141f92ee2a3911/height/808/i/6d/d7/b1/95/77c5e27f-6c7f-44cd-9d31-e1c41d42f9e9.jpg"
+      },
+      {
+        "id": 60842,
+        "title": "Хлопковые брюки-карго Fradi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 13250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d518973532ebd242e470f51d8c1102c1/height/808/i/b5/44/2e/10/718b2a70-556e-4fae-a9a1-e7ddaa9cf1ae.jpg"
+      },
+      {
+        "id": 60932,
+        "title": "Хлопковые брюки Notsonormal",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 16550,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c7cbb58904ca9ec8f9a03ecc1bedc797/height/808/i/90/4b/36/a2/904b36a2-ebec-31dd-aff2-db252f24d0cb.jpg"
+      },
+      {
+        "id": 60992,
+        "title": "Хлопковые брюки Richard J. Brown",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20600,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9f7162946c1776804d8d9d1246025add/height/808/i/e9/de/73/9d/54b8131a-dcd1-4faa-9338-2cbf4c6d8a78.jpg"
+      },
+      {
+        "id": 61526,
+        "title": "Хлопковые брюки 7 For All Mankind",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/8191c413886727d6375157759613ff20/height/808/i/48/49/fa/a8/c802044e-01e5-4845-bc36-8a820764d815.jpg"
+      },
+      {
+        "id": 61548,
+        "title": "Хлопковые брюки Richard J. Brown",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20600,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/bdfe0258b92b88f55406c4f55815b3ac/height/808/i/d6/52/f3/34/acdbe418-cd00-469f-bf4f-27984e894942.jpg"
+      }
+    ]
+  ]
+}

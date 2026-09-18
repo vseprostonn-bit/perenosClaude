@@ -1,0 +1,385 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Лёгкий летний городской образ.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        1530
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка короткая",
+      "color": "голубой",
+      "search_query": "футболка короткая голубая",
+      "type": "футболка",
+      "silhouette": "прямой",
+      "length": "укороченный",
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди",
+      "color": "бирюзовый",
+      "search_query": "юбка миди бирюзовая",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "бежевый",
+      "search_query": "босоножки бежевые",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка плетеная",
+      "color": "коричневый",
+      "search_query": "сумка плетеная коричневая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 57997,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 8295,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c8a869ad70b5a7984a14f86dfe34fcd7/height/808/i/7c/12/71/ad/f95e0219-c75a-4ac0-946f-bc4c94f995e2.jpg"
+      },
+      {
+        "id": 58078,
+        "title": "Хлопковая футболка Moschino",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 4400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0229eb7d2272360e64bc791fe8ef6a9f/height/808/i/6c/0d/80/c8/6af8bc45-d453-4780-915c-8c51581848e0.jpg"
+      },
+      {
+        "id": 58631,
+        "title": "Футболка Leonard Paris",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 8240,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/670a9901c55047c9d2ff895cf53d2011/height/808/i/44/8f/90/99/448f9099-bc63-31cf-b5cc-234136d4108b.jpg"
+      },
+      {
+        "id": 58707,
+        "title": "Льняная футболка Canessa",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 6995,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c0d76d38c8cc2eaf03852536318f4364/height/808/i/09/46/43/b4/094643b4-fb4d-330f-b0c8-7f0e90b40de7.jpg"
+      },
+      {
+        "id": 59441,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 8470,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/54616dbae09fd54fcd5d736cb227c619/height/808/i/12/e1/c2/b3/9c327353-5ded-429d-83dd-f78592f9a89f.jpg"
+      },
+      {
+        "id": 59443,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 7840,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/518dca13d9549bef8e484e6f42bddac2/height/808/i/f5/e3/aa/3b/025d206a-13ba-4928-861b-f39d705a21b7.jpg"
+      },
+      {
+        "id": 8163,
+        "title": "Футболка-поло хлопковая на пуговицах",
+        "store": "befree",
+        "color": "голубой",
+        "price": 999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120031/BF2631120031_41_1.jpg"
+      },
+      {
+        "id": 56348,
+        "title": "Хлопковая футболка Pence",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 10400,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/59f9fdc48f185bcd87919eb7968434c5/height/808/i/b1/89/58/48/5a68c46c-080f-4ca6-afea-7dcd9eecb524.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55421,
+        "title": "Хлопковая юбка Lug Von Siga",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 8195,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/4437585bd88dc9f04742a1c51b9ee329/height/808/i/72/4d/b8/6f/724db86f-0750-3af1-996f-58111e6d2863.jpg"
+      },
+      {
+        "id": 55508,
+        "title": "Твидовая юбка BOSS Orange",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 13950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/9de60ef27975c02438be62ecea07bedf/height/808/i/87/ab/b5/6a/99e2781a-ad53-4549-8a33-eaa31207f46e.jpg"
+      },
+      {
+        "id": 55709,
+        "title": "Юбка Delpozo",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 16950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/68810dedaeef65853f94579fd75cc8e3/height/808/i/4c/d1/27/4d/dd1c01aa-3a23-4f94-8ed4-baf3ea19e8c5.jpg"
+      },
+      {
+        "id": 55236,
+        "title": "Хлопковая юбка ADCTED",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 25200,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9803950a3377e6aa9bcc942a46423b22/height/808/i/ab/05/58/7e/03ca1f3c-9e2f-423d-baa9-5f0bd61ae40c.jpg"
+      },
+      {
+        "id": 59127,
+        "title": "Юбка Philosophy di Lorenzo Serafini",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 57600,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f5a42549dd65dfb056308c0766e7943c/height/808/i/55/00/5b/e3/ed113bf7-4970-4b8f-8dab-8432dd467670.jpg"
+      },
+      {
+        "id": 277,
+        "title": "Трикотажная юбка-карандаш из шерсти и акрила",
+        "store": "finnflare",
+        "color": null,
+        "price": 6499,
+        "score": 0.6364,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAG/665/FAG11146_665_20.jpg"
+      },
+      {
+        "id": 605,
+        "title": "Трикотажная юбка-карандаш из шерсти и акрила",
+        "store": "finnflare",
+        "color": null,
+        "price": 6499,
+        "score": 0.6364,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAG/255/FAG11146_255_20.jpg"
+      },
+      {
+        "id": 762,
+        "title": "Трикотажная юбка-карандаш из шерсти и акрила",
+        "store": "finnflare",
+        "color": null,
+        "price": 6499,
+        "score": 0.6364,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAG/252/FAG11146_252_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55687,
+        "title": "Кожаные босоножки SW Signature 35 Stuart Weitzman",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 29950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/42892fc7fff0705388224c32ec9122a8/height/808/i/45/4d/7f/8d/b7ce299a-ec93-4f73-85e8-edbd6a0dc517.jpg"
+      },
+      {
+        "id": 1530,
+        "title": "Босоножки с ремешками на квадратном каблуке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688017/BF2626688017_68_2.jpg"
+      },
+      {
+        "id": 55451,
+        "title": "Кожаные босоножки Lily 100 Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 49500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/699e825c888111cbc9a55a0a7981f4df/height/808/i/60/f4/64/04/46cecffb-a5f3-4446-992a-a72c335eb40c.jpg"
+      },
+      {
+        "id": 57094,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12350,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/3a55d23f85225ee7b46d24e3b0502874/height/808/i/ed/bf/32/65/2c740ed0-2266-4c5d-93eb-b6976d3d6e2f.jpg"
+      },
+      {
+        "id": 57137,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/efacc2704416cb044508768565318f91/height/808/i/3b/71/b0/bf/d351f14d-2497-402c-9dff-76789890dabb.jpg"
+      },
+      {
+        "id": 133429,
+        "title": "Женские сандалии Nike Calm Mule",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 8399,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7b3/jox0o31u86ik461yizlv17i4w4s345rw.JPG"
+      },
+      {
+        "id": 133437,
+        "title": "Женские сандалии Explore Camp Sandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10499,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c09/3h4wzx1u4asod1m66pu31cbmof9uuo0x.JPG"
+      },
+      {
+        "id": 133441,
+        "title": "Женские сандалии Explore Camp Shandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 11999,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/22a/po5xwha6xu9kwjr4t72azt0zvypc36dd.JPG"
+      }
+    ],
+    [
+      {
+        "id": 156824,
+        "title": "Плетеная сумка, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/4a4/500_600_e3f5/180438420299.jpg"
+      },
+      {
+        "id": 158481,
+        "title": "Сумка плетеная из рафии, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/d2c/500_600_dbf4/186279250299.jpg"
+      },
+      {
+        "id": 1935,
+        "title": "Сумка-тоут на плечо с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457038/BF2635457038_20_11.jpg"
+      },
+      {
+        "id": 1976,
+        "title": "Сумка-хобо замшевая",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457084/BF2635457084_66_1.jpg"
+      },
+      {
+        "id": 2070,
+        "title": "Сумка-хобо замшевая",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457084/BF2635457084_63_12.jpg"
+      },
+      {
+        "id": 3498,
+        "title": "Сумка из искусственной кожи с заклепками и замком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457053/BF2635457053_20_11.jpg"
+      },
+      {
+        "id": 4834,
+        "title": "Сумка на короткой ручке из искусственной кожи с заклепками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457079/BF2635457079_20_1.jpg"
+      },
+      {
+        "id": 6842,
+        "title": "Сумка-кисет с бахромой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457082/BF2635457082_20_12.jpg"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        5888
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "absent"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        159203
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ асимметричный",
+      "color": "бежевый",
+      "search_query": "топ асимметричный бежевый",
+      "type": "топ",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "голубой",
+      "search_query": "брюки широкие голубые",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": "классическая",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "коричневый",
+      "search_query": "сумка через плечо коричневая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1780,
+        "title": "Бюстгальтер-топ на тонких бретелях",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830017/BF2634830017_62_1.jpg"
+      },
+      {
+        "id": 5764,
+        "title": "Бюстгальтер-топ без косточек",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830005/BF2644830005_62_1.jpg"
+      },
+      {
+        "id": 9040,
+        "title": "Бюстгальтер-топ бесшовный в рубчик",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830011/BF2634830011_62_1.jpg"
+      },
+      {
+        "id": 4342,
+        "title": "Лиф-топ купальный с принтом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 599,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624730032/BF2624730032_59_1.jpg"
+      },
+      {
+        "id": 3057,
+        "title": "Топ-корсет вискозный с пуговицами",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.8333,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621418007/BF2621418007_3_1.jpg"
+      },
+      {
+        "id": 7446,
+        "title": "Топ-корсет на молнии с кружевным лифом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.8333,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632418010/BF2632418010_62_1.jpg"
+      },
+      {
+        "id": 6376,
+        "title": "Майка свободная вареная на тонких бретелях",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1299,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121029/BF2631121029_36_1.jpg"
+      },
+      {
+        "id": 1632,
+        "title": "Майка-топ в рубчик на пуговицах",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 599,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121008/BF2622121008_20_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 5888,
+        "title": "Брюки широкие на завязках",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308040/BF2621308040_41_1.jpg"
+      },
+      {
+        "id": 6219,
+        "title": "Брюки широкие хлопковые на завязках с вышивкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308008/BF2621308008_98_1.jpg"
+      },
+      {
+        "id": 5083,
+        "title": "Брюки-аладдины со средней посадкой на резинке",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308021/BF2631308021_49_1.jpg"
+      },
+      {
+        "id": 7854,
+        "title": "Брюки-аладдины со средней посадкой на резинке",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308021PL/BF2631308021PL_49_1.jpg"
+      },
+      {
+        "id": 8370,
+        "title": "Брюки домашние атласные на завязках с кружевом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808010/BF2631808010_49_11.jpg"
+      },
+      {
+        "id": 9133,
+        "title": "Брюки INCANTO PD1206",
+        "store": "incantoeu",
+        "color": "голубой",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/c9d/2acapyg0135dmey5bhj14n9sar1ao397.jpg"
+      },
+      {
+        "id": 4635,
+        "title": "Брюки широкие утепленные с вышивкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108006/BF2632108006_47_1.jpg"
+      },
+      {
+        "id": 6355,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_47_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 87339,
+        "title": "Женские кроссовки Shox R4",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/829/1kdn0ph71sdpvb4dxllxk7u8xuhwwj12.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87512,
+        "title": "Женские кроссовки PWR Hybrid Training",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/996/82zgkob37ioopsj6cyqsxoj0gt0bazbg.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87701,
+        "title": "Женские кроссовки Air Zoom Pegasus 41",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/0e1/xe3i1v8p3s9i603bjsn1bblc9vmx99nx.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87736,
+        "title": "Женские кроссовки PUMA CA Flyz",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/715/aon4e1ewoyestvns3llqbx40untua3mq.jpg"
+      },
+      {
+        "id": 87964,
+        "title": "Женские кроссовки Cali Dream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/546/0q64eb1fu7q9tpvyba3jjczd6jouecyl.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1935,
+        "title": "Сумка-тоут на плечо с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457038/BF2635457038_20_11.jpg"
+      },
+      {
+        "id": 7317,
+        "title": "Сумка-багет на плечо с завязками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457036/BF2635457036_20_12.jpg"
+      },
+      {
+        "id": 91356,
+        "title": "Сумка через плечо Consigned Flinn Crossbody Bag",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9af/1000_1000_0/99rrxf1etxnuhuchbrg7jdyrel8qj2xu.jpg"
+      },
+      {
+        "id": 129421,
+        "title": "Сумка через плечо PUMA FWD Cross Body",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 4499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/615/35icjhm31wn0uzyhhmuxhd8kvqx3yxmx.jpg"
+      },
+      {
+        "id": 147582,
+        "title": "Сумка через плечо женская Sensana, Коричневый",
+        "store": "sportmaster",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/097/195384260299.jpg"
+      },
+      {
+        "id": 158838,
+        "title": "Сумка на плечо, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/3a4/500_600_28f1/179305110299.jpg"
+      },
+      {
+        "id": 159203,
+        "title": "Сумка через плечо, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/c8e/500_600_5ca0/181777560299.jpg"
+      },
+      {
+        "id": 1976,
+        "title": "Сумка-хобо замшевая",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457084/BF2635457084_66_1.jpg"
+      }
+    ]
+  ]
+}

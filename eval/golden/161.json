@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "куртка кожаная бордовая",
+      "color": "бордовый",
+      "search_query": "куртка кожаная бордовая",
+      "type": "куртка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка розовая",
+      "color": "розовый",
+      "search_query": "футболка розовая",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки зеленые широкие",
+      "color": "зеленый",
+      "search_query": "брюки широкие зеленый",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли красные острые",
+      "color": "красный",
+      "search_query": "туфли красные острые",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 2467,
+        "title": "Куртка укороченная утепленная с капюшоном",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601052/BF2641601052_71_1.jpg"
+      },
+      {
+        "id": 3741,
+        "title": "Куртка стеганая утепленная с капюшоном",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 5599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601002/BF2641601002_71_1.jpg"
+      },
+      {
+        "id": 4528,
+        "title": "Куртка лакированная утепленная с капюшоном",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601090/BF2641601090_71_1.jpg"
+      },
+      {
+        "id": 5375,
+        "title": "Куртка с высоким воротником утепленная",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 5599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601037/BF2641601037_79_100.jpg"
+      },
+      {
+        "id": 6051,
+        "title": "Куртка лакированная с воротником-стойкой утепленная",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601003/BF2641601003_71_1.jpg"
+      },
+      {
+        "id": 7076,
+        "title": "Куртка стеганая с меховым воротником утепленная",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601040/BF2641601040_71_1.jpg"
+      },
+      {
+        "id": 7306,
+        "title": "Куртка спортивная с воротником-стойкой утепленная",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631701002/BF2631701002_71_1.jpg"
+      },
+      {
+        "id": 7836,
+        "title": "Куртка-косуха из искусственной замши с ремешком",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 5599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601018pl/BF2631601018pl_71_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 56187,
+        "title": "Хлопковая футболка Les Coyotes de Paris",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 3960,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/03fc9fd5aa0979c85cb3dd3c7e5a4fc5/height/808/i/4d/01/59/1f/a0c18e8d-b822-456c-8bd5-3f0c18440307.jpg"
+      },
+      {
+        "id": 57145,
+        "title": "Хлопковая футболка Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 4915,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/128e6c517e7d0549426cb84829eda426/height/808/i/a7/84/34/7a/4857e2c7-f8c1-4d81-aa70-e7d68a19a821.jpg"
+      },
+      {
+        "id": 57716,
+        "title": "Хлопковая футболка BOSS Orange",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 4605,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/bb0ff9763edd91ee5dff7fc660054396/height/808/i/d4/d9/8e/d0/415cda09-a877-4a17-a5fc-fda3fbb0e5dd.jpg"
+      },
+      {
+        "id": 57849,
+        "title": "Хлопковая футболка Trussardi",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 4890,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/aabf96e690a8ea226ef28b9d4d5d32ab/height/808/i/94/56/7f/3f/b6d10caf-4e65-4481-b1a2-b79d0217961e.jpg"
+      },
+      {
+        "id": 58432,
+        "title": "Хлопковая футболка Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 4995,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/153b247bc2e4b6e9081299bb5b13644f/height/808/i/8c/8e/45/bc/76017f38-5fa8-49cf-adb8-15fdd2b5420b.jpg"
+      },
+      {
+        "id": 4829,
+        "title": "Футболка облегающая",
+        "store": "befree",
+        "color": "розовый",
+        "price": 999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120034/BF2631120034_90_1.jpg"
+      },
+      {
+        "id": 7692,
+        "title": "Футболка-поло облегающая хлопковая с кантом",
+        "store": "befree",
+        "color": "розовый",
+        "price": 799,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632120004/BF2632120004_90_1.jpg"
+      },
+      {
+        "id": 56199,
+        "title": "Хлопковая футболка Notsonormal",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 10350,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/b6bd41c0f107989696c78786dd02810d/height/808/i/cf/d2/9f/93/cfd29f93-9688-3246-bd96-b06e2a4745bd.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3706,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034/BF2631308034_16_1.jpg"
+      },
+      {
+        "id": 3712,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034PL/BF2631308034PL_16_1.jpg"
+      },
+      {
+        "id": 4424,
+        "title": "Брюки широкие из пайеток",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 2599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308006/BF2631308006_10_1.jpg"
+      },
+      {
+        "id": 4615,
+        "title": "Брюки широкие костюмные с высокой посадкой и складками",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308036/BF2631308036_13_1.jpg"
+      },
+      {
+        "id": 5281,
+        "title": "Брюки широкие со средней посадкой",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308007/BF2632308007_16_1.jpg"
+      },
+      {
+        "id": 136622,
+        "title": "Брюки женские FILA, Зеленый",
+        "store": "sportmaster",
+        "color": "зеленый",
+        "price": 2249,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/555/157325090299.jpg"
+      },
+      {
+        "id": 137871,
+        "title": "Брюки женские Cordillero, Зеленый",
+        "store": "sportmaster",
+        "color": "зеленый",
+        "price": 1899,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/a09/175047890299.jpg"
+      },
+      {
+        "id": 137978,
+        "title": "Брюки женские Northland, Зеленый",
+        "store": "sportmaster",
+        "color": "зеленый",
+        "price": 2749,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/aac/180270290299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 5617,
+        "title": "Туфли-слингбэки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682023/BF2636682023_70_13.jpg"
+      },
+      {
+        "id": 55710,
+        "title": "Туфли из кожи крокодила Celia Ralph Lauren",
+        "store": "tsum",
+        "color": "красный",
+        "price": 469500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/6cc4f8877d67aa8b7a82288836f61ef6/height/808/i/44/f2/24/fa/44f224fa-5dec-3b63-8c5f-b75d091ec01d.jpg"
+      },
+      {
+        "id": 55669,
+        "title": "Кожаные туфли Disk 95 Paul Andrew",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 38900,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/86c2ece75da7f9f3f6d96a423235ea01/height/808/i/dc/ec/f5/33/dcecf533-cf17-3bd5-882f-f265bbeb494e.jpg"
+      },
+      {
+        "id": 55672,
+        "title": "Текстильные туфли Cube Paul Andrew",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 37450,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/5cb5a6a0f66f1c480e643e4677bffcb5/height/808/i/25/d7/52/ba/25d752ba-dec9-3b66-a055-500ebad31435.jpg"
+      },
+      {
+        "id": 55676,
+        "title": "Текстильные туфли Dominique 105 Gedebe",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 25550,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/23951145fedf17e7772a1c68f8dad832/height/808/i/5f/d8/0b/ae/74ae55f6-5b8e-4788-b3a6-ad51d4d9954e.jpg"
+      },
+      {
+        "id": 5442,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "розовый",
+        "price": 1999,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_91_2.jpg"
+      },
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "свитер оверсайз",
+      "color": "синий",
+      "search_query": "свитер оверсайз синий",
+      "type": "свитер",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "серый",
+      "search_query": "брюки широкие серые",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": "низкая посадка",
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки",
+      "color": "желтый",
+      "search_query": "кроссовки желтые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "бирюзовый",
+      "search_query": "сумка через плечо бирюзовая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "кольцо",
+      "color": "золотой",
+      "search_query": "кольцо золотое",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 2017,
+        "title": "Джемпер оверсайз вязаный с узором аргайл",
+        "store": "befree",
+        "color": "синий",
+        "price": 4599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526034/BF2631526034_45_1.jpg"
+      },
+      {
+        "id": 3441,
+        "title": "Худи на молнии оверсайз вельветовая с капюшоном",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631123011/BF2631123011_47_1.jpg"
+      },
+      {
+        "id": 4687,
+        "title": "Худи на молнии оверсайз вельветовая с капюшоном",
+        "store": "befree",
+        "color": "синий",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631123011pl/BF2631123011pl_47_1.jpg"
+      },
+      {
+        "id": 6522,
+        "title": "Джемпер оверсайз вязаный",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632526023/BF2632526023_47_100.jpg"
+      },
+      {
+        "id": 58106,
+        "title": "Свитер Aspesi",
+        "store": "tsum",
+        "color": "синий",
+        "price": 8670,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/21691969ac1ff30d9a6ca00945ff2f29/height/808/i/b0/7d/f7/f4/b07df7f4-85a5-3316-8424-c2bd93056afe.jpg"
+      },
+      {
+        "id": 4975,
+        "title": "Джемпер оверсайз вязаный рваный с принтом",
+        "store": "befree",
+        "color": "синий",
+        "price": 4299,
+        "score": 0.8604,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526041/BF2631526041_45_1.jpg"
+      },
+      {
+        "id": 461,
+        "title": "Худи из хлопка",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 3999,
+        "score": 0.8182,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/101/FAF110148_101_20.jpg"
+      },
+      {
+        "id": 3245,
+        "title": "Свитшот из футера с воротником-стойкой на молнии утепленный",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631123010/BF2631123010_47_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4485,
+        "title": "Брюки широкие велюровые с лампасами",
+        "store": "befree",
+        "color": "серый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308052/BF2631308052_32_1.jpg"
+      },
+      {
+        "id": 4957,
+        "title": "Брюки широкие со средней посадкой",
+        "store": "befree",
+        "color": "серый",
+        "price": 3799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308045/BF2631308045_39_1.jpg"
+      },
+      {
+        "id": 4963,
+        "title": "Брюки широкие костюмные на завязках",
+        "store": "befree",
+        "color": "серый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308001/BF2641308001_38_1.jpg"
+      },
+      {
+        "id": 5691,
+        "title": "Брюки широкие утепленные с вышивкой и лампасами",
+        "store": "befree",
+        "color": "серый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108006/BF2632108006_38_1.jpg"
+      },
+      {
+        "id": 6618,
+        "title": "Брюки широкие костюмные на завязках",
+        "store": "befree",
+        "color": "серый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308001PL/BF2641308001PL_38_1.jpg"
+      },
+      {
+        "id": 8155,
+        "title": "Брюки широкие с высокой посадкой и имитацией второго слоя",
+        "store": "befree",
+        "color": "серый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108003/BF2632108003_38_1.jpg"
+      },
+      {
+        "id": 8287,
+        "title": "Брюки широкие домашние на завязках из вискозы",
+        "store": "befree",
+        "color": "серый",
+        "price": 2599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808008/BF2631808008_38_1.jpg"
+      },
+      {
+        "id": 3635,
+        "title": "Брюки широкие трикотажные с принтом и лампасами",
+        "store": "befree",
+        "color": "серый",
+        "price": 2999,
+        "score": 0.9318,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108014/BF2631108014_38_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 88893,
+        "title": "Кроссовки PUMA Speedcat Decon",
+        "store": "street-beat",
+        "color": "желтый",
+        "price": 14999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/9e7/fxmi8ygfzsww0hxy7fc5if5zixua5vxd.jpg"
+      },
+      {
+        "id": 89237,
+        "title": "Женские кроссовки PUMA Magnify NITRO 3",
+        "store": "street-beat",
+        "color": "желтый",
+        "price": 17999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/84c/p187be03klzs4fpc0t8igfhlz3c2nyd3.jpg"
+      },
+      {
+        "id": 102538,
+        "title": "Женские кроссовки Gazelle",
+        "store": "street-beat",
+        "color": "желтый",
+        "price": 11499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/d01/nz1q3pet5255rwo1c4uee9ful4qn8c3n.JPG"
+      },
+      {
+        "id": 104578,
+        "title": "Кроссовки XT-Whisper",
+        "store": "street-beat",
+        "color": "желтый",
+        "price": 22199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/aaf/3zih03hd52mfe53lyky332t1p9w27e6n.jpg"
+      },
+      {
+        "id": 106187,
+        "title": "Кроссовки PUMA Arizona Nylon",
+        "store": "street-beat",
+        "color": "желтый",
+        "price": 12999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/9af/oymdgkehh1bf1isyaxv1yfqgy0rli22u.jpg"
+      },
+      {
+        "id": 107730,
+        "title": "Кроссовки PUMA Speedcat Nylon",
+        "store": "street-beat",
+        "color": "желтый",
+        "price": 13499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c65/cdo329wkv9xzfj8083lmobu2cuch694n.jpg"
+      },
+      {
+        "id": 109026,
+        "title": "Кроссовки PUMA H-Street Strap S",
+        "store": "street-beat",
+        "color": "желтый",
+        "price": 13499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/0fa/n63zjoaupodzw0g5ea9s2x3qyoq97qe8.jpg"
+      },
+      {
+        "id": 109038,
+        "title": "Женские кроссовки PUMA H-Street Strap S",
+        "store": "street-beat",
+        "color": "желтый",
+        "price": 13499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/6f5/s6zgepvywtp3zbnr2pqp5oazpb19lewh.jpg"
+      }
+    ],
+    [
+      {
+        "id": 99578,
+        "title": "Сумка PUMA 1976 Grip Bag Keychain",
+        "store": "street-beat",
+        "color": "бирюзовый",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e6a/zycv008x21dfvrnja4denn410zzlvqjc.jpg"
+      },
+      {
+        "id": 7929,
+        "title": "Сумка через плечо каркасная из искусственной кожи с карабином",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457077/BF2635457077_41_1.jpg"
+      },
+      {
+        "id": 8767,
+        "title": "Сумка-боулинг с короткой ручкой из искусственной кожи",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457009/BF2635457009_43_11.jpg"
+      },
+      {
+        "id": 58004,
+        "title": "Сумка Jade Colori Nannacay",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 6230,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/796239e617bd1b3299fb80b601764be5/height/808/i/fe/7f/24/ba/fe7f24ba-83fa-3b13-b2ba-961425d86d71.jpg"
+      },
+      {
+        "id": 88543,
+        "title": "Поясная сумка Terra Lumbar",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 4599,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/2dd/1000_1000_0/p7ey2owcmmstayt2okpzsfgc8cn7fb99.jpg"
+      },
+      {
+        "id": 89640,
+        "title": "Поясная сумка Never Stop Lumbar",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 3499,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/d73/1000_1000_0/423rl0pots8d88lq8x0d1ammh6yonfxy.jpg"
+      },
+      {
+        "id": 111284,
+        "title": "Поясная сумка Abanu Multi",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 5899,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/506/1ll0jjb9to8dwh0m1nevfi5aszbloaz9.jpg"
+      },
+      {
+        "id": 8737,
+        "title": "Сумка-мешок из искусственной кожи на завязках",
+        "store": "befree",
+        "color": "голубой",
+        "price": 999,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457066/BF2635457066_43_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 155889,
+        "title": "Пояс-цепь с декоративными подвесками, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/81e/500_600_b149/173711150299.jpg"
+      },
+      {
+        "id": 157521,
+        "title": "Серьги-пусеты, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cda/500_600_7031/186269640299.jpg"
+      },
+      {
+        "id": 158062,
+        "title": "Серьги с искусственным камнем, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/024/500_600_dbf8/176216140299.jpg"
+      },
+      {
+        "id": 158306,
+        "title": "Солнцезащитные очки, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/8e4/500_600_b65b/186590890299.jpg"
+      },
+      {
+        "id": 158308,
+        "title": "Солнцезащитные очки, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 1399,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/456/500_600_2386/186279190299.jpg"
+      },
+      {
+        "id": 158349,
+        "title": "Серьги-пусеты с жемчугом и кораллами, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/421/500_600_451f/186370800299.jpg"
+      },
+      {
+        "id": 158352,
+        "title": "Серьги, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/c8a/500_600_cebc/186590600299.jpg"
+      },
+      {
+        "id": 158382,
+        "title": "Солнцезащитные очки, Золотой",
+        "store": "ostin",
+        "color": "золотой",
+        "price": 1399,
+        "score": 0.6667,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/2c7/500_600_8c37/186279700299.jpg"
+      }
+    ]
+  ]
+}

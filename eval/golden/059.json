@@ -1,0 +1,204 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Повседневный городской стиль",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [
+        36
+      ],
+      "acceptable": [
+        38
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        6349,
+        6472
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка белая",
+      "color": "белый",
+      "search_query": "футболка белая",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки черные широкие",
+      "color": "черный",
+      "search_query": "брюки широкие черный",
+      "type": "брюки",
+      "silhouette": "приталенный",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 17,
+        "title": "Футболка унисекс из хлопка оверсайз силуэта",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-900107_201_20.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17016_201_20.jpg"
+      },
+      {
+        "id": 36,
+        "title": "Футболка прямого кроя из джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100197_201_20.jpg"
+      },
+      {
+        "id": 38,
+        "title": "Футболка свободного кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100192_201_20.jpg"
+      },
+      {
+        "id": 49,
+        "title": "Футболка свободного кроя из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11037_201_20.jpg"
+      },
+      {
+        "id": 104,
+        "title": "Футболка прямого кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11031_201_20.jpg"
+      },
+      {
+        "id": 214,
+        "title": "Футболка приталенного силуэта из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17009_201_20.jpg"
+      },
+      {
+        "id": 314,
+        "title": "Спортивная футболка из технологичного трикотажа",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CBG/201/CBG17006_201_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3207,
+        "title": "Брюки широкие костюмные со средней посадкой",
+        "store": "befree",
+        "color": "черный",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308038/BF2631308038_50_1.jpg"
+      },
+      {
+        "id": 4921,
+        "title": "Брюки широкие спортивные трикотажные",
+        "store": "befree",
+        "color": "черный",
+        "price": 3799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708005/BF2631708005_50_1.jpg"
+      },
+      {
+        "id": 4973,
+        "title": "Брюки широкие костюмные со средней посадкой и складками",
+        "store": "befree",
+        "color": "черный",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308007/BF2641308007_50_1.jpg"
+      },
+      {
+        "id": 6349,
+        "title": "Брюки широкие вискозные со льном на завязках",
+        "store": "befree",
+        "color": "черный",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308005/BF2621308005_50_1.jpg"
+      },
+      {
+        "id": 6356,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_50_1.jpg"
+      },
+      {
+        "id": 6458,
+        "title": "Брюки широкие на завязках с лампасами",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308033/BF2641308033_50_1.jpg"
+      },
+      {
+        "id": 6472,
+        "title": "Брюки широкие костюмные со средней посадкой и разрезами",
+        "store": "befree",
+        "color": "черный",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308041/BF2631308041_50_1.jpg"
+      },
+      {
+        "id": 6638,
+        "title": "Брюки широкие костюмные со средней посадкой и складками",
+        "store": "befree",
+        "color": "черный",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308007PL/BF2641308007PL_50_100.jpg"
+      }
+    ]
+  ]
+}

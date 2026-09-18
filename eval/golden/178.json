@@ -1,0 +1,287 @@
+{
+  "gender": "men",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка черная",
+      "color": "черный",
+      "search_query": "футболка черный",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки бежевые",
+      "color": "бежевый",
+      "search_query": "брюки бежевый",
+      "type": "брюки",
+      "silhouette": "простой",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли черные",
+      "color": "черный",
+      "search_query": "туфли черный",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 5754,
+        "title": "Футболка-поло на молнии",
+        "store": "befree",
+        "color": "черный",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633120040/BF2633120040_50_1.jpg"
+      },
+      {
+        "id": 56332,
+        "title": "Хлопковая футболка Les Coyotes de Paris",
+        "store": "tsum",
+        "color": "черный",
+        "price": 4315,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/030026f2933e3245284279bae07e8586/height/808/i/28/dc/8d/2e/28dc8d2e-1ac4-39ed-ad3f-579fff5cf33e.jpg"
+      },
+      {
+        "id": 56838,
+        "title": "Хлопковая футболка Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 3970,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c9600912e25e0421f8091f4ac6a2c307/height/808/i/38/44/c8/79/e42e66c5-55c8-4485-b3b6-69f573657512.jpg"
+      },
+      {
+        "id": 58336,
+        "title": "Хлопковая футболка Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 8400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/cb55fba40ac6da2e00a05a28700a0e6e/height/808/i/f0/2d/67/1c/12f4f7eb-3568-429e-adda-c2428e30bc24.jpg"
+      },
+      {
+        "id": 60533,
+        "title": "Футболка прямого кроя из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/200/BAS-200166_200_20.jpg"
+      },
+      {
+        "id": 60579,
+        "title": "Футболка INCANTO BU1171",
+        "store": "incantoeu",
+        "color": "черный",
+        "price": 3699,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/8df/6xguctz3dtonlxey0tbdi1xjdzx2q43j.jpg"
+      },
+      {
+        "id": 60635,
+        "title": "Хлопковая футболка Diego Venturino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 4775,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/1808ea01c85a6c7cb8536ffd7a3abe89/height/808/i/e1/5f/7e/35/e15f7e35-6fa4-396a-918d-085ee5ae6b13.jpg"
+      },
+      {
+        "id": 60726,
+        "title": "Хлопковая футболка Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 8910,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/8fedbcc9aa6e6810d88ac748f895e58f/height/808/i/08/98/31/55/08983155-a814-339b-8c80-73ca4a05f5de.jpg"
+      }
+    ],
+    [
+      {
+        "id": 68505,
+        "title": "Брюки чинос светло-бежевые из хлопка",
+        "store": "kanzler",
+        "color": "бежевый",
+        "price": 2990,
+        "score": 0.9545,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/e8d/4sbzk7n6lykh03h1uzjgcw2s2wloxxgo.jpg"
+      },
+      {
+        "id": 60681,
+        "title": "Брюки Fradi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/5fa7bc834a2a0ef0a361465168372dec/height/808/i/03/ef/5d/4c/c0927af4-16f9-4910-9e61-d1aa145fdafd.jpg"
+      },
+      {
+        "id": 60743,
+        "title": "Брюки BOSS Green",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14650,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/091de6681b71d2f3fc141f92ee2a3911/height/808/i/6d/d7/b1/95/77c5e27f-6c7f-44cd-9d31-e1c41d42f9e9.jpg"
+      },
+      {
+        "id": 60842,
+        "title": "Хлопковые брюки-карго Fradi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 13250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d518973532ebd242e470f51d8c1102c1/height/808/i/b5/44/2e/10/718b2a70-556e-4fae-a9a1-e7ddaa9cf1ae.jpg"
+      },
+      {
+        "id": 60932,
+        "title": "Хлопковые брюки Notsonormal",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 16550,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c7cbb58904ca9ec8f9a03ecc1bedc797/height/808/i/90/4b/36/a2/904b36a2-ebec-31dd-aff2-db252f24d0cb.jpg"
+      },
+      {
+        "id": 60992,
+        "title": "Хлопковые брюки Richard J. Brown",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20600,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9f7162946c1776804d8d9d1246025add/height/808/i/e9/de/73/9d/54b8131a-dcd1-4faa-9338-2cbf4c6d8a78.jpg"
+      },
+      {
+        "id": 61526,
+        "title": "Хлопковые брюки 7 For All Mankind",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/8191c413886727d6375157759613ff20/height/808/i/48/49/fa/a8/c802044e-01e5-4845-bc36-8a820764d815.jpg"
+      },
+      {
+        "id": 61548,
+        "title": "Хлопковые брюки Richard J. Brown",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20600,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/bdfe0258b92b88f55406c4f55815b3ac/height/808/i/d6/52/f3/34/acdbe418-cd00-469f-bf4f-27984e894942.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55013,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14850,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/71898f8f7ce5612f7a4874f40114c40b/height/808/i/78/f2/91/3b/519dc7c8-a7b5-427c-b844-47c6cd42cca6.jpg"
+      },
+      {
+        "id": 60691,
+        "title": "Кожаные домашние туфли Aldo Brue",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22500,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f149953381ad089e34d3d535e812a1e6/height/808/i/a1/26/2b/83/3f5fd197-80de-425a-8de8-8aa462ceeb57.jpg"
+      },
+      {
+        "id": 68261,
+        "title": "Туфли из натуральной кожи",
+        "store": "kanzler",
+        "color": "черный",
+        "price": 10493,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/5bc/3rlp2ndx1v9hqiv3qkxw2sgkaf69bx3t.jpg"
+      },
+      {
+        "id": 74531,
+        "title": "Туфли из натуральной кожи",
+        "store": "kanzler",
+        "color": "черный",
+        "price": 10990,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/fbc/89zqbouj1t32adaqp5oqfk4ody6vy5au.jpg"
+      },
+      {
+        "id": 58559,
+        "title": "Домашние туфли из кожи Babbi",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 6395,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/478182453a1cd86f6218032eee3f1620/height/808/i/5a/a1/fe/79/5aa1fe79-78a0-3b0c-9589-773e293ef924.jpg"
+      },
+      {
+        "id": 5682,
+        "title": "Кеды из натуральной замши с контрастными вставками",
+        "store": "befree",
+        "color": "черный",
+        "price": 5599,
+        "score": 0.3636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633680003/BF2633680003_50_11.jpg"
+      },
+      {
+        "id": 7303,
+        "title": "Кроссовки низкие из натуральной замши",
+        "store": "befree",
+        "color": "черный",
+        "price": 5999,
+        "score": 0.3636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633681001/BF2633681001_50_11.jpg"
+      },
+      {
+        "id": 54819,
+        "title": "Замшевые сапоги Master of Arts",
+        "store": "tsum",
+        "color": "черный",
+        "price": 7590,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/0913101e9125ea5fab478c246624ac45/height/808/i/17/04/ba/8e/1704ba8e-c5ec-3b53-a83e-d493fc13af60.jpg"
+      }
+    ]
+  ]
+}

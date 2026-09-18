@@ -1,0 +1,287 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Элегантное лето",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ бретельный",
+      "color": "серебристый",
+      "search_query": "топ бретельный серебристый",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "металлик"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка плиссе",
+      "color": "бежевый",
+      "search_query": "юбка плиссе бежевый",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "золотистый",
+      "search_query": "босоножки золотистый",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1810,
+        "title": "Бюстгальтер-топ бесшовный в рубчик",
+        "store": "befree",
+        "color": "серый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830055/BF2634830055_38_1.jpg"
+      },
+      {
+        "id": 3203,
+        "title": "Топ облегающий на тонких бретелях",
+        "store": "befree",
+        "color": "серый",
+        "price": 699,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121027MEL/BF2631121027MEL_33_1.jpg"
+      },
+      {
+        "id": 3240,
+        "title": "Топ приталенный на тонких бретелях",
+        "store": "befree",
+        "color": "серый",
+        "price": 899,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121028/BF2631121028_38_1.jpg"
+      },
+      {
+        "id": 3627,
+        "title": "Топ с имитацией второго слоя",
+        "store": "befree",
+        "color": "серый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121026pl/BF2631121026pl_39_1.jpg"
+      },
+      {
+        "id": 4803,
+        "title": "Топ облегающий на тонких бретелях с кружевом",
+        "store": "befree",
+        "color": "серый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121019/BF2631121019_33_1.jpg"
+      },
+      {
+        "id": 4919,
+        "title": "Топ с имитацией второго слоя",
+        "store": "befree",
+        "color": "серый",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121026/BF2631121026_39_1.jpg"
+      },
+      {
+        "id": 4954,
+        "title": "Бюстгальтер-топ бесшовный в рубчик без косточек",
+        "store": "befree",
+        "color": "серый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830001/BF2644830001_57_100.jpg"
+      },
+      {
+        "id": 5104,
+        "title": "Бюстгальтер-топ бесшовный в рубчик",
+        "store": "befree",
+        "color": "серый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830056/BF2634830056_38_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55416,
+        "title": "Юбка-шорты Plan C",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 13250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0ebf5be7b899c31ecb894b7fcdfa3f01/height/808/i/ef/59/fd/2f/ef59fd2f-a0a5-3982-8b22-aec67067f21c.jpg"
+      },
+      {
+        "id": 55515,
+        "title": "Шерстяная юбка Rag and Bone",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 9695,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/ecf198f520945097ab5ff52f78d8d889/height/808/i/b7/fa/1b/6e/a337b392-56c2-4da5-bb6e-358851451437.jpg"
+      },
+      {
+        "id": 56132,
+        "title": "Вельветовая юбка Paade Mode",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 4465,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/fcd4ee7955d95a6549b646108e2d9f87/height/808/i/32/bc/41/24/ced6f11b-f992-438e-8eb5-612186e72dbc.jpg"
+      },
+      {
+        "id": 58036,
+        "title": "Юбка изо льна и хлопка Pietro Brunelli",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11800,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/5cb116648e1499d4837e3c7c0e7081aa/height/808/i/10/e7/f0/28/4d60733e-7f55-4f8c-a883-26bd4f8ebb25.jpg"
+      },
+      {
+        "id": 5192,
+        "title": "Юбка-шорты мини с ремешком",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632312007/BF2632312007_36_1.jpg"
+      },
+      {
+        "id": 5270,
+        "title": "Юбка-карго мини с накладным карманом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312010/BF2631312010_62_11.jpg"
+      },
+      {
+        "id": 55410,
+        "title": "Хлопковая юбка Plan C",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14050,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/bf7b7c86006f1df4681ec782bcdc3653/height/808/i/65/52/71/5e/38eb568a-ed00-47c2-82da-a81d2b8334ff.jpg"
+      },
+      {
+        "id": 55443,
+        "title": "Юбка из вискозы Rick Owens Lilies",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/910cd9a9ecd9ec8e7a48b73c7d09c43b/height/808/i/33/f8/6a/a7/f6eacbee-79dc-4747-89f4-d280147191e8.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55663,
+        "title": "Кожаные босоножки Alexandre Birman",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 16900,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/039fe9d40bc157bbbb00cb2d4a38b2e4/height/808/i/05/17/61/d2/051761d2-1b2a-3a8d-bf4f-d716a09df4d6.jpg"
+      },
+      {
+        "id": 86959,
+        "title": "Текстильные босоножки Moschino",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 35000,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/ad868eb7bef0da1f08d14db566c5d7a6/height/808/i/0a/55/eb/54/0a55eb54-2890-3f29-85b4-bf4ddcaef4ee.jpg"
+      },
+      {
+        "id": 86960,
+        "title": "Текстильные босоножки Moschino",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 37750,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/eb0b824f72d64e083a1bbf23149f9c9c/height/808/i/97/17/73/dc/3a910d40-2aeb-4ab3-829b-ff7aaec2644f.jpg"
+      },
+      {
+        "id": 55687,
+        "title": "Кожаные босоножки SW Signature 35 Stuart Weitzman",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 29950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/42892fc7fff0705388224c32ec9122a8/height/808/i/45/4d/7f/8d/b7ce299a-ec93-4f73-85e8-edbd6a0dc517.jpg"
+      },
+      {
+        "id": 1530,
+        "title": "Босоножки с ремешками на квадратном каблуке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688017/BF2626688017_68_2.jpg"
+      },
+      {
+        "id": 55451,
+        "title": "Кожаные босоножки Lily 100 Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 49500,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/699e825c888111cbc9a55a0a7981f4df/height/808/i/60/f4/64/04/46cecffb-a5f3-4446-992a-a72c335eb40c.jpg"
+      },
+      {
+        "id": 57094,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12350,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3a55d23f85225ee7b46d24e3b0502874/height/808/i/ed/bf/32/65/2c740ed0-2266-4c5d-93eb-b6976d3d6e2f.jpg"
+      },
+      {
+        "id": 57137,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11500,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/efacc2704416cb044508768565318f91/height/808/i/3b/71/b0/bf/d351f14d-2497-402c-9dff-76789890dabb.jpg"
+      }
+    ]
+  ]
+}

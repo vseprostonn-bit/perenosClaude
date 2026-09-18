@@ -1,0 +1,287 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Лёгкий летний casual",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ бикини",
+      "color": "голубой",
+      "search_query": "топ бикини голубой",
+      "type": "топ",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "шорты белые широкие",
+      "color": "белый",
+      "search_query": "шорты широкие белый",
+      "type": "шорты",
+      "silhouette": "прямой",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган оверсайз",
+      "color": "молочный",
+      "search_query": "кардиган оверсайз молочный",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "укороченный",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 9317,
+        "title": "Топ-бандо бикини с чашками - вкладышами INCANTO ID617",
+        "store": "incantoeu",
+        "color": "голубой",
+        "price": 3499,
+        "score": 1.0,
+        "photo_url": "https://incanto.eu/upload/iblock/d15/23qf6bx96gt20cds5c770k846wrmsf2c.jpg"
+      },
+      {
+        "id": 4673,
+        "title": "Топ кружевной на тонких бретелях",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830052/BF2634830052_49_1.jpg"
+      },
+      {
+        "id": 4904,
+        "title": "Топ облегающий на широких бретелях в рубчик",
+        "store": "befree",
+        "color": "голубой",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121039/BF2631121039_41_1.jpg"
+      },
+      {
+        "id": 5091,
+        "title": "Топ облегающий с кружевом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632418011/BF2632418011_41_1.jpg"
+      },
+      {
+        "id": 7262,
+        "title": "Топ домашний атласный с кружевными бретелями",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631821010/BF2631821010_49_11.jpg"
+      },
+      {
+        "id": 7394,
+        "title": "Бюстгальтер-топ ажурный с кружевом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830034/BF2634830034_49_1.jpg"
+      },
+      {
+        "id": 8046,
+        "title": "Бюстгальтер-топ в рубчик",
+        "store": "befree",
+        "color": "голубой",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830095/BF2634830095_163_1.jpg"
+      },
+      {
+        "id": 8522,
+        "title": "Бюстгальтер-топ ажурный с кружевом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830033/BF2634830033_49_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 9319,
+        "title": "Шорты INCANTO ID578",
+        "store": "incantoeu",
+        "color": "белый",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/4f9/slob9n2aon83w9bknaonkpia0bxlo15x.jpg"
+      },
+      {
+        "id": 54039,
+        "title": "Белые шорты-баллон для девочек",
+        "store": "sela",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://www.sela.ru/wa-data/public/shop/products/83/32/213283/images/937342/937342.970.jpg"
+      },
+      {
+        "id": 56036,
+        "title": "Хлопковые шорты Joshua Sanders",
+        "store": "tsum",
+        "color": "белый",
+        "price": 10550,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/a558d9cdcb463b721a8b7fcd4f4b30b0/height/808/i/00/bd/f9/7e/476dbb68-8eaf-4931-842c-4afab9819149.jpg"
+      },
+      {
+        "id": 56060,
+        "title": "Хлопковые шорты Ramael",
+        "store": "tsum",
+        "color": "белый",
+        "price": 9950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/2640baf0c6ecdec1386d870b3b493579/height/808/i/0c/ce/59/b4/e1f6d6f7-a168-4289-b207-f7063c71fc0a.jpg"
+      },
+      {
+        "id": 56337,
+        "title": "Хлопковые шорты Roberto Cavalli",
+        "store": "tsum",
+        "color": "белый",
+        "price": 6185,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/7d3cf53f7eac2efd568273d9a6bcf4b8/height/808/i/6a/be/18/1f/6abe181f-4dd9-3ec0-83e6-1cd4c20ed023.jpg"
+      },
+      {
+        "id": 56585,
+        "title": "Шорты Heroine Sport",
+        "store": "tsum",
+        "color": "белый",
+        "price": 7360,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/55fb7e86464068f4750a7304f422e63f/height/808/i/e1/77/ff/a3/e177ffa3-44f2-3d26-bc70-3eae658f30b6.jpg"
+      },
+      {
+        "id": 56872,
+        "title": "Хлопковые шорты Moschino",
+        "store": "tsum",
+        "color": "белый",
+        "price": 3750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/84628c09255d368c89bc08188fa0b8d1/height/808/i/c8/51/2b/46/a1f73a01-2c91-432f-8759-736509c6c4a8.jpg"
+      },
+      {
+        "id": 57143,
+        "title": "Хлопковые шорты Moschino",
+        "store": "tsum",
+        "color": "белый",
+        "price": 5595,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/fa3ab16ec56f0e67ef8d1942c9196a85/height/808/i/7e/5f/1d/be/1fc936ce-0966-4798-aa92-ffa572fef201.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3820,
+        "title": "Кардиган-доломан вязаный",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3799,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527012/BF2641527012_60_1.jpg"
+      },
+      {
+        "id": 4852,
+        "title": "Кардиган вязаный на пуговицах",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527010/BF2631527010_60_1.jpg"
+      },
+      {
+        "id": 5128,
+        "title": "Кардиган вязаный на пуговицах с кантом",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527015/BF2631527015_60_1.jpg"
+      },
+      {
+        "id": 6099,
+        "title": "Кардиган вязаный с вышивкой",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3299,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527020/BF2641527020_60_1.jpg"
+      },
+      {
+        "id": 7866,
+        "title": "Кардиган вязаный на пуговицах",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3299,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527002/BF2631527002_60_1.jpg"
+      },
+      {
+        "id": 8465,
+        "title": "Кардиган оверсайз вязаный на пуговицах с зебровым рисунком",
+        "store": "befree",
+        "color": "белый",
+        "price": 4599,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527026/BF2631527026_5_1.jpg"
+      },
+      {
+        "id": 1660,
+        "title": "Кардиган-майка длинный в рубчик на пуговицах",
+        "store": "befree",
+        "color": "молочный",
+        "price": 799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121027pl/BF2621121027pl_60_1.jpg"
+      },
+      {
+        "id": 3051,
+        "title": "Кардиган-майка длинный в рубчик на пуговицах",
+        "store": "befree",
+        "color": "молочный",
+        "price": 799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121027/BF2621121027_60_1.jpg"
+      }
+    ]
+  ]
+}

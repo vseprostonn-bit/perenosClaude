@@ -1,0 +1,206 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [
+        159415
+      ],
+      "acceptable": [
+        3218
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [
+        7380
+      ],
+      "acceptable": [
+        5640,
+        6354
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка классическая",
+      "color": "белый",
+      "search_query": "рубашка классический белый",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "коричневый",
+      "search_query": "брюки широкие коричневый",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": "макси",
+      "sleeve": null,
+      "fit": "высокая посадка",
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 157570,
+        "title": "Длинная рубашка из лиоцелла, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/ce1/500_600_846a/187002080299.jpg"
+      },
+      {
+        "id": 159415,
+        "title": "Льняная рубашка с длинным рукавом, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/6c9/500_600_870a/186021050299.jpg"
+      },
+      {
+        "id": 155858,
+        "title": "Хлопковая рубашка с галстуком, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/209/500_600_b767/163668170299.jpg"
+      },
+      {
+        "id": 3218,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_1_1.jpg"
+      },
+      {
+        "id": 3220,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_4_1.jpg"
+      },
+      {
+        "id": 3254,
+        "title": "Рубашка хлопковая с баской",
+        "store": "befree",
+        "color": "белый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418061/BF2631418061_1_1.jpg"
+      },
+      {
+        "id": 4827,
+        "title": "Рубашка хлопковая со сборками на завязках по бокам",
+        "store": "befree",
+        "color": "белый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632418017/BF2632418017_1_1.jpg"
+      },
+      {
+        "id": 6579,
+        "title": "Рубашка на крючках",
+        "store": "befree",
+        "color": "белый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641418003/BF2641418003_1_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3707,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034/BF2631308034_20_1.jpg"
+      },
+      {
+        "id": 3710,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034PL/BF2631308034PL_20_1.jpg"
+      },
+      {
+        "id": 4991,
+        "title": "Брюки широкие костюмные с низкой посадкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 4599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308002/BF2641308002_22_1.jpg"
+      },
+      {
+        "id": 5640,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_22_1.jpg"
+      },
+      {
+        "id": 5690,
+        "title": "Брюки широкие утепленные с вышивкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108006/BF2632108006_27_1.jpg"
+      },
+      {
+        "id": 6354,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_22_1.jpg"
+      },
+      {
+        "id": 6460,
+        "title": "Брюки широкие костюмные со средней посадкой и разрезами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308041/BF2631308041_20_100.jpg"
+      },
+      {
+        "id": 7380,
+        "title": "Брюки широкие на завязках из хлопка, модала и вискозы",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308008/BF2632308008_20_1.jpg"
+      }
+    ]
+  ]
+}

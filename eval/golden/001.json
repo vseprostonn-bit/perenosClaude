@@ -1,0 +1,482 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская элегантность",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [
+        7864
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "absent"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        3207,
+        4921,
+        6638
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган oversize",
+      "color": "бежевый",
+      "search_query": "кардиган oversize бежевый",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "удлинённый",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ с открытой спиной",
+      "color": "черный",
+      "search_query": "топ черный открытый спина",
+      "type": "топ",
+      "silhouette": null,
+      "length": "укороченный",
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "черный",
+      "search_query": "брюки широкие черные",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": "макси",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки на платформе",
+      "color": "черный",
+      "search_query": "босоножки платформа черные",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "черный",
+      "search_query": "сумка черная цепочка",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 158904,
+        "title": "Удлинённый кардиган из лиоцелла и шёлка, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/16d/500_600_cf17/182887710299.jpg"
+      },
+      {
+        "id": 7864,
+        "title": "Кардиган вязаный на пуговицах",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527002/BF2631527002_36_1.jpg"
+      },
+      {
+        "id": 8364,
+        "title": "Кардиган вязаный на пуговицах",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527016/BF2631527016_36_1.jpg"
+      },
+      {
+        "id": 8476,
+        "title": "Кардиган вязаный с шерстью на пуговицах",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527019/BF2631527019_36_1.jpg"
+      },
+      {
+        "id": 54893,
+        "title": "Хлопковый кардиган ADCTED",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 17100,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/027d736d40709acd0e9ae024db0f2304/height/808/i/56/5f/dd/b8/9f8528c1-8cec-460e-ae47-8a4827155648.jpg"
+      },
+      {
+        "id": 55201,
+        "title": "Хлопковый кардиган ADCTED",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 15800,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/5336c669668aa6ebd9edd07cf5bbe173/height/808/i/34/e3/4c/5b/e7958601-96f2-4f88-84a2-d3ddfc5f3157.jpg"
+      },
+      {
+        "id": 56828,
+        "title": "Кардиган из вискозы AERON",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 19700,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/1fc6a81ac2675d92b5c2bb61756a39a6/height/808/i/15/0a/35/16/437e87f3-1d86-4d18-aa20-b35451a9afc6.jpg"
+      },
+      {
+        "id": 86316,
+        "title": "Хлопковый кардиган ADCTED",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 17100,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/286fa6b9d221a24b72309377391cc3e1/height/808/i/a1/0c/56/de/7446b341-8e4e-41fe-8787-d99e72486816.jpg"
+      }
+    ],
+    [
+      {
+        "id": 6780,
+        "title": "Топ с открытой спиной и драпировкой",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418009/BF2631418009_50_1.jpg"
+      },
+      {
+        "id": 1704,
+        "title": "Майка-топ хлопковая в рубчик с вышитым кантом",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121026/BF2621121026_50_1.jpg"
+      },
+      {
+        "id": 2287,
+        "title": "Майка-топ облегающая вискозная со сборками",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121018/BF2621121018_50_1.jpg"
+      },
+      {
+        "id": 2387,
+        "title": "Майка-топ облегающая на тонких бретелях",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121034/BF2621121034_50_1.jpg"
+      },
+      {
+        "id": 2428,
+        "title": "Бюстгальтер-топ без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830005/BF2644830005_50_1.jpg"
+      },
+      {
+        "id": 3166,
+        "title": "Топ на пуговицах и тонких бретелях с бархатным узором",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418034/BF2631418034_50_1.jpg"
+      },
+      {
+        "id": 3232,
+        "title": "Топ из лиоцелла",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121034/BF2631121034_50_1.jpg"
+      },
+      {
+        "id": 3343,
+        "title": "Топ шифоновый на двойных тонких бретелях с кружевом",
+        "store": "befree",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418068pl/BF2631418068pl_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3207,
+        "title": "Брюки широкие костюмные со средней посадкой",
+        "store": "befree",
+        "color": "черный",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308038/BF2631308038_50_1.jpg"
+      },
+      {
+        "id": 4921,
+        "title": "Брюки широкие спортивные трикотажные",
+        "store": "befree",
+        "color": "черный",
+        "price": 3799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708005/BF2631708005_50_1.jpg"
+      },
+      {
+        "id": 4973,
+        "title": "Брюки широкие костюмные со средней посадкой и складками",
+        "store": "befree",
+        "color": "черный",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308007/BF2641308007_50_1.jpg"
+      },
+      {
+        "id": 6349,
+        "title": "Брюки широкие вискозные со льном на завязках",
+        "store": "befree",
+        "color": "черный",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308005/BF2621308005_50_1.jpg"
+      },
+      {
+        "id": 6356,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_50_1.jpg"
+      },
+      {
+        "id": 6458,
+        "title": "Брюки широкие на завязках с лампасами",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308033/BF2641308033_50_1.jpg"
+      },
+      {
+        "id": 6472,
+        "title": "Брюки широкие костюмные со средней посадкой и разрезами",
+        "store": "befree",
+        "color": "черный",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308041/BF2631308041_50_1.jpg"
+      },
+      {
+        "id": 6638,
+        "title": "Брюки широкие костюмные со средней посадкой и складками",
+        "store": "befree",
+        "color": "черный",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308007PL/BF2641308007PL_50_100.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55438,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 24950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/862d2a182bd06cb7e067ea76fdac604c/height/808/i/69/54/79/8f/6954798f-90b0-38bf-b671-1005d715f2b5.jpg"
+      },
+      {
+        "id": 55447,
+        "title": "Босоножки Cecile 105 Gedebe",
+        "store": "tsum",
+        "color": "черный",
+        "price": 25200,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/79a6a9d7db044f56610b9aeb78d979a2/height/808/i/1e/02/bb/3e/1e02bb3e-db0b-39a1-a403-f5780f9b6400.jpg"
+      },
+      {
+        "id": 55584,
+        "title": "Текстильные босоножки Cube Toe-Ring 95 Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/20466697afad8b5683f80f5a037d0d67/height/808/i/b0/ef/35/7b/b0ef357b-7773-3fd0-8bd0-0b9cf1b1d77f.jpg"
+      },
+      {
+        "id": 87060,
+        "title": "Текстильные босоножки Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 23650,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/a472214b22656d702ef6e4c18c6f29fd/height/808/i/d7/c5/e0/a0/d7c5e0a0-7435-34f6-9608-b21db068d6d6.jpg"
+      },
+      {
+        "id": 54957,
+        "title": "Кожаные босоножки Nudistcurve 75 Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 36250,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/15d0a295b5a822b3f6eae0063f4ad931/height/808/i/ce/90/0d/6f/8f43d47e-f659-4e01-8c92-dd1ba5ea5e99.jpg"
+      },
+      {
+        "id": 55112,
+        "title": "Кожаные босоножки Nearlynude SW Bow Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 33550,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/47476d1ac7cf06d8b9352ba88abd0b24/height/808/i/55/ef/be/87/ab85c1da-d3d7-4127-ae0a-4463e3f26b16.jpg"
+      },
+      {
+        "id": 55415,
+        "title": "Замшевые босоножки Peep Sling Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 34500,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/ad5611c073a0e0ec1f006894e499b86e/height/808/i/6c/0e/34/09/6c0e3409-3233-30b5-8e10-e63e6d172f8b.jpg"
+      },
+      {
+        "id": 55437,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 35950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/38d8440896dd95efc4b01e9715288129/height/808/i/78/2b/04/88/782b0488-87bc-306a-b433-9a076946e878.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4489,
+        "title": "Сумка на плечо с заклепками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457075/BF2635457075_50_11.jpg"
+      },
+      {
+        "id": 5976,
+        "title": "Сумка-багет на плечо со значками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457050/BF2635457050_50_11.jpg"
+      },
+      {
+        "id": 6841,
+        "title": "Сумка-тоут через плечо спортивная",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457052/BF2635457052_50_1.jpg"
+      },
+      {
+        "id": 87487,
+        "title": "Сумка через плечо Clyffe Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9c6/1000_1000_0/isb8aibvkgrjkknhgz1zkjxbm2mpqbtp.jpg"
+      },
+      {
+        "id": 87488,
+        "title": "Сумка через плечо Glen Canyon Pocket Cross Body",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/8a4/1000_1000_0/16gn8p01n28uufs09fwaow929yjxt13d.jpg"
+      },
+      {
+        "id": 87567,
+        "title": "Сумка через плечо Bail Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 3499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/2dd/p3d01jtovbkvtxbxtr7imfpwc41yxhm4.jpg"
+      },
+      {
+        "id": 87868,
+        "title": "Сумка через плечо Never Stop Utility Sling Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9cb/1000_1000_0/r4g20yagotuqpo2kahnnqtzvs0ey2hqj.jpg"
+      },
+      {
+        "id": 87990,
+        "title": "Сумка через плечо PUMA FUTURE.ARCHIVE Crossbody",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/ec4/v2hub7vo3gpbrj5z71ozppxbt6zsnpfw.jpg"
+      }
+    ]
+  ]
+}

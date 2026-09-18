@@ -1,0 +1,66 @@
+# Образ — продукт-конфиг для Growth Factory
+
+product:
+  id: obraz
+  name: "Образ"
+  external_repo: "vseprostonn-bit/Obraz-WB-OZON-AI"
+  tagline: "Готовый образ + где купить дешевле на 4 маркетплейсах"
+  status: "faza-0-WIP"
+  owner_growth: "Саша (трафик, блогеры)"
+  owner_product: "Yorren (код, каталог, ИП)"
+
+audience:
+  core: "девушки 18-28, РФ, покупают одежду на WB/Ozon"
+  segments: ["студентка (low)", "офис (smart casual)", "свидание (вечер)"]
+  where: ["женские TG-каналы", "VK Клипы", "YouTube Shorts"]
+  forbidden_channel: "Instagram-реклама запрещена с 09.2025"
+
+form_factor:
+  faza0: "TG-бот (aiogram 3) + пейвол Robokassa"
+  next: "Telegram Mini App (Vue 3 + FastAPI), затем iOS/Android"
+
+offer:
+  free: "анкета (размер/стиль/бюджет) + 3-5 образов"
+  paywall: "199 / 299 / 499 руб/мес — A/B по tg_id, детерминирован"
+  cta: "Где купить — WB/Ozon/Lamoda/ЯМ"
+
+catalog:
+  lamoda: "Admitad YML 450k SKU"
+  others: "WB/Ozon/ЯМ — ручные ссылки через add_item.py (без парсинга в фазе 0)"
+  update: "крон раз/сутки, in_stock/цена"
+
+referral:
+  blogger_reward: "15% с оплат подписок приведённых, 3-6 мес рекуррентно"
+  discount: "промокод блогера — скидка 10-15% на 1-й месяц"
+  attribution: "первое касание (t.me/bot?start=ref_XXX), перезапись запрещена"
+  payout: "самозанятые, антифрод: флаг blogger.tg == user.tg, ручной реестр в фазе 0"
+
+money:
+  cpa:
+    lamoda: "до 15%"
+    ym: "1-14%"
+    ozon: "до 8%"
+    wb: "1-9%"
+  payment: "Robokassa (МИР + СБП, Робочеки, рекуррент)"
+  tax: "ИП Yorren, УСН 6%, ОКВЭДы готовы"
+  split: "50/50 после выплат блогерам, резерв 10% возвраты"
+
+metrics_go_no_go:
+  reg_price: "<=50 руб"
+  reg_to_pay: ">=3-5% (стоп <2% после пивота)"
+  cac: "<=3 подписки (<=900р при 299р)"
+  d7_return: ">=20%"
+
+budget_faza0: "20-30к (посевы 20-25к + домен/VPS 1к)"
+
+growth_factory_links:
+  playbook: "02_growth-factory/GROWTH-PLAYBOOK.md"
+  research_core: "02_growth-factory/research/01-07"
+  copy_system: "02_growth-factory/NEURO-COPY-SYSTEM.md"
+  product_pipeline: "01_product-factory/"
+
+structure:
+  docs: "obraz/docs/"
+  research: "obraz/research/ — 3 внешних исследования (только бесплатные инструменты)"
+  agents: "obraz/agents/ — 3 агента (marketing/content/finance) на базе research"
+  instructions: "obraz/instructions/ — операционки (брифы, чек-листы посевов)"

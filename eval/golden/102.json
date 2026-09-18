@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ без бретелей",
+      "color": "черный",
+      "search_query": "топ черный без бретелей",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "куртка джинс",
+      "color": "голубой",
+      "search_query": "куртка джинс голубая",
+      "type": "куртка",
+      "silhouette": "оверсайз",
+      "length": "укороченный",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка черно-белая",
+      "color": "черный",
+      "search_query": "юбка черно-белая",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "черный",
+      "search_query": "босоножки черные",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "бордовый",
+      "search_query": "сумка бордовая через плечо",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 2428,
+        "title": "Бюстгальтер-топ без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830005/BF2644830005_50_1.jpg"
+      },
+      {
+        "id": 4520,
+        "title": "Бюстгальтер-топ бесшовный в рубчик без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 1799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830001/BF2644830001_50_100.jpg"
+      },
+      {
+        "id": 6087,
+        "title": "Бюстгальтер-топ без косточек на широких бретелях",
+        "store": "befree",
+        "color": "черный",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830076/BF2634830076_50_1.jpg"
+      },
+      {
+        "id": 7044,
+        "title": "Бюстгальтер-топ ажурный с кружевом без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830028/BF2634830028_55_1.jpg"
+      },
+      {
+        "id": 8388,
+        "title": "Бюстгальтер-топ в рубчик без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 1299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830065/BF2634830065_50_1.jpg"
+      },
+      {
+        "id": 1655,
+        "title": "Топ-халтер облегающий с бусинами",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121025/BF2621121025_50_1.jpg"
+      },
+      {
+        "id": 1704,
+        "title": "Майка-топ хлопковая в рубчик с вышитым кантом",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121026/BF2621121026_50_1.jpg"
+      },
+      {
+        "id": 1721,
+        "title": "Топ-халтер облегающий на завязках",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121006/BF2631121006_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 126364,
+        "title": "Женская куртка Terra Peak Jacket",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 14199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/2ee/nsxh9jyaq54gak2wr75ypn7o4heihrku.jpg"
+      },
+      {
+        "id": 138008,
+        "title": "Куртка софтшелл женская Columbia AmazeStretch Jacket, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/b6f/179203580299.jpg"
+      },
+      {
+        "id": 139156,
+        "title": "Куртка горнолыжная женская Glissade, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/de1/189947890299.jpg"
+      },
+      {
+        "id": 140072,
+        "title": "Куртка сноубордическая мембранная женская Termit, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 8999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/0a3/194144050299.jpg"
+      },
+      {
+        "id": 142528,
+        "title": "Легкая куртка для девочек оверсайз Northland, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 4499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2d5/195397090299.jpg"
+      },
+      {
+        "id": 143051,
+        "title": "Куртка сноубордическая мембранная женская Termit, Голубой",
+        "store": "sportmaster",
+        "color": "голубой",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/6c8/194088190299.jpg"
+      },
+      {
+        "id": 9037,
+        "title": "Куртка-бомбер с капюшоном утепленная",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2611601002/BF2611601002_41_1.jpg"
+      },
+      {
+        "id": 56611,
+        "title": "Хлопковая куртка Denimist",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 22350,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/5d6cd9919f30decb38b0dd1df14dab20/height/808/i/7b/16/22/46/7b162246-527e-31b8-a706-fa13f298ab69.jpg"
+      }
+    ],
+    [
+      {
+        "id": 31,
+        "title": "Юбка женская",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11164_200_20.jpg"
+      },
+      {
+        "id": 1239,
+        "title": "Плисированная юбка-мини на резинке",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSF/200/FSF110178R_200_20.jpg"
+      },
+      {
+        "id": 1456,
+        "title": "Юбка с шерстью и кашемиром",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWD/200/FWD11145_200_20.jpg"
+      },
+      {
+        "id": 1892,
+        "title": "Юбка-шорты мини в складку с ремешком",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632312009/BF2632312009_50_1.jpg"
+      },
+      {
+        "id": 1942,
+        "title": "Юбка-шорты мини костюмная",
+        "store": "befree",
+        "color": "черный",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312013/BF2631312013_50_1.jpg"
+      },
+      {
+        "id": 3880,
+        "title": "Юбка-мини с кожаной фактурой и кружевом",
+        "store": "befree",
+        "color": "черный",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641312008/BF2641312008_50_1.jpg"
+      },
+      {
+        "id": 4825,
+        "title": "Юбка-шорты мини костюмная в складку",
+        "store": "befree",
+        "color": "черный",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312028/BF2631312028_50_1.jpg"
+      },
+      {
+        "id": 5364,
+        "title": "Юбка прямая мини с длинной бахромой",
+        "store": "befree",
+        "color": "черный",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641312004/BF2641312004_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55438,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 24950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/862d2a182bd06cb7e067ea76fdac604c/height/808/i/69/54/79/8f/6954798f-90b0-38bf-b671-1005d715f2b5.jpg"
+      },
+      {
+        "id": 55447,
+        "title": "Босоножки Cecile 105 Gedebe",
+        "store": "tsum",
+        "color": "черный",
+        "price": 25200,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/79a6a9d7db044f56610b9aeb78d979a2/height/808/i/1e/02/bb/3e/1e02bb3e-db0b-39a1-a403-f5780f9b6400.jpg"
+      },
+      {
+        "id": 55584,
+        "title": "Текстильные босоножки Cube Toe-Ring 95 Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/20466697afad8b5683f80f5a037d0d67/height/808/i/b0/ef/35/7b/b0ef357b-7773-3fd0-8bd0-0b9cf1b1d77f.jpg"
+      },
+      {
+        "id": 87060,
+        "title": "Текстильные босоножки Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 23650,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/a472214b22656d702ef6e4c18c6f29fd/height/808/i/d7/c5/e0/a0/d7c5e0a0-7435-34f6-9608-b21db068d6d6.jpg"
+      },
+      {
+        "id": 54957,
+        "title": "Кожаные босоножки Nudistcurve 75 Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 36250,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/15d0a295b5a822b3f6eae0063f4ad931/height/808/i/ce/90/0d/6f/8f43d47e-f659-4e01-8c92-dd1ba5ea5e99.jpg"
+      },
+      {
+        "id": 55112,
+        "title": "Кожаные босоножки Nearlynude SW Bow Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 33550,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/47476d1ac7cf06d8b9352ba88abd0b24/height/808/i/55/ef/be/87/ab85c1da-d3d7-4127-ae0a-4463e3f26b16.jpg"
+      },
+      {
+        "id": 55415,
+        "title": "Замшевые босоножки Peep Sling Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 34500,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/ad5611c073a0e0ec1f006894e499b86e/height/808/i/6c/0e/34/09/6c0e3409-3233-30b5-8e10-e63e6d172f8b.jpg"
+      },
+      {
+        "id": 55437,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 35950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/38d8440896dd95efc4b01e9715288129/height/808/i/78/2b/04/88/782b0488-87bc-306a-b433-9a076946e878.jpg"
+      }
+    ],
+    [
+      {
+        "id": 5353,
+        "title": "Сумка-багет мягкая с ремешком",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 4799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645457010/BF2645457010_71_11.jpg"
+      },
+      {
+        "id": 6330,
+        "title": "Сумка-багет из искусственной кожи на коротких ручках",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457045/BF2635457045_71_11.jpg"
+      },
+      {
+        "id": 1935,
+        "title": "Сумка-тоут на плечо с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457038/BF2635457038_20_11.jpg"
+      },
+      {
+        "id": 6976,
+        "title": "Сумка через плечо каркасная из искусственной кожи с карабином",
+        "store": "befree",
+        "color": "красный",
+        "price": 2299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457077/BF2635457077_70_12.jpg"
+      },
+      {
+        "id": 7317,
+        "title": "Сумка-багет на плечо с завязками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457036/BF2635457036_20_12.jpg"
+      },
+      {
+        "id": 91356,
+        "title": "Сумка через плечо Consigned Flinn Crossbody Bag",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.8909,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9af/1000_1000_0/99rrxf1etxnuhuchbrg7jdyrel8qj2xu.jpg"
+      },
+      {
+        "id": 129421,
+        "title": "Сумка через плечо PUMA FWD Cross Body",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 4499,
+        "score": 0.8909,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/615/35icjhm31wn0uzyhhmuxhd8kvqx3yxmx.jpg"
+      },
+      {
+        "id": 146581,
+        "title": "Сумка через плечо Under Armour Essential, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 3399,
+        "score": 0.8909,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/e89/185430160299.jpg"
+      }
+    ]
+  ]
+}

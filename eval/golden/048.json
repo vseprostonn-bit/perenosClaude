@@ -1,0 +1,585 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Романтичный городской шик",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [
+        3731,
+        7889,
+        3715
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "top",
+      "exact": [
+        23
+      ],
+      "acceptable": [
+        36,
+        38
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        2427,
+        2459
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        710
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [
+        7504
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган oversize",
+      "color": "красный",
+      "search_query": "кардиган oversize красный",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка белая",
+      "color": "белый",
+      "search_query": "футболка белая",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "джинсы с белыми точками",
+      "color": "синий",
+      "search_query": "джинсы синие точки",
+      "type": "джинсы",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "горох"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли красные",
+      "color": "красный",
+      "search_query": "туфли красные",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка плетеная",
+      "color": "бежевый",
+      "search_query": "сумка плетеная бежевый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки в черной оправе",
+      "color": "черный",
+      "search_query": "очки черные",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 158817,
+        "title": "Кардиган с баской и золотыми пуговицами, Красный",
+        "store": "ostin",
+        "color": "красный",
+        "price": 1999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cbf/500_600_aa84/178586340299.jpg"
+      },
+      {
+        "id": 3329,
+        "title": "Кардиган вязаный с кейпом",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527051/BF2631527051_70_1.jpg"
+      },
+      {
+        "id": 3715,
+        "title": "Кардиган вязаный на молнии с воротником-стойкой",
+        "store": "befree",
+        "color": "красный",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527026/BF2641527026_70_1.jpg"
+      },
+      {
+        "id": 3731,
+        "title": "Кардиган вязаный с шерстью",
+        "store": "befree",
+        "color": "красный",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527013/BF2641527013_70_1.jpg"
+      },
+      {
+        "id": 7889,
+        "title": "Кардиган вязаный с шерстью и кейпом",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527045/BF2631527045_70_1.jpg"
+      },
+      {
+        "id": 54917,
+        "title": "Кардиган из шерсти и вискозы M05CH1NO Jeans",
+        "store": "tsum",
+        "color": "красный",
+        "price": 11600,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/8dc383ad1abc435507ff106005f4dfd0/height/808/i/97/92/59/0c/1d2018a8-b55a-409c-b31b-ecef6f2d46ed.jpg"
+      },
+      {
+        "id": 1947,
+        "title": "Кардиган вязаный на молнии с шерстью и имитацией второго слоя",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2999,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527048/BF2631527048_91_1.jpg"
+      },
+      {
+        "id": 2215,
+        "title": "Кардиган оверсайз вязаный на петельках с вышивкой",
+        "store": "befree",
+        "color": "розовый",
+        "price": 5599,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527055/BF2631527055_95_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 17,
+        "title": "Футболка унисекс из хлопка оверсайз силуэта",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-900107_201_20.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17016_201_20.jpg"
+      },
+      {
+        "id": 36,
+        "title": "Футболка прямого кроя из джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100197_201_20.jpg"
+      },
+      {
+        "id": 38,
+        "title": "Футболка свободного кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100192_201_20.jpg"
+      },
+      {
+        "id": 49,
+        "title": "Футболка свободного кроя из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11037_201_20.jpg"
+      },
+      {
+        "id": 104,
+        "title": "Футболка прямого кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11031_201_20.jpg"
+      },
+      {
+        "id": 214,
+        "title": "Футболка приталенного силуэта из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17009_201_20.jpg"
+      },
+      {
+        "id": 314,
+        "title": "Спортивная футболка из технологичного трикотажа",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CBG/201/CBG17006_201_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1726,
+        "title": "Джинсы клеш со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622209013/BF2622209013_110_1.jpg"
+      },
+      {
+        "id": 2418,
+        "title": "Джинсы багги со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209080/BF2621209080_106_1.jpg"
+      },
+      {
+        "id": 2427,
+        "title": "Джинсы багги с низкой посадкой и баской",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632209012/BF2632209012_105_1.jpg"
+      },
+      {
+        "id": 2435,
+        "title": "Джинсы клеш со штанинами на пуговицах",
+        "store": "befree",
+        "color": "синий",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209043/BF2641209043_105_100.jpg"
+      },
+      {
+        "id": 2459,
+        "title": "Джинсы зауженные со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209042col106/BF2641209042col106_106_1.jpg"
+      },
+      {
+        "id": 2462,
+        "title": "Джинсы клеш со средней посадкой и узором",
+        "store": "befree",
+        "color": "синий",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209028/BF2641209028_110_1.jpg"
+      },
+      {
+        "id": 2537,
+        "title": "Джинсы прямые с низкой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209045col106/BF2641209045col106_106_1.jpg"
+      },
+      {
+        "id": 2555,
+        "title": "Джинсы багги с низкой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642209004/BF2642209004_106_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 5617,
+        "title": "Туфли-слингбэки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682023/BF2636682023_70_13.jpg"
+      },
+      {
+        "id": 55710,
+        "title": "Туфли из кожи крокодила Celia Ralph Lauren",
+        "store": "tsum",
+        "color": "красный",
+        "price": 469500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/6cc4f8877d67aa8b7a82288836f61ef6/height/808/i/44/f2/24/fa/44f224fa-5dec-3b63-8c5f-b75d091ec01d.jpg"
+      },
+      {
+        "id": 55669,
+        "title": "Кожаные туфли Disk 95 Paul Andrew",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 38900,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/86c2ece75da7f9f3f6d96a423235ea01/height/808/i/dc/ec/f5/33/dcecf533-cf17-3bd5-882f-f265bbeb494e.jpg"
+      },
+      {
+        "id": 55672,
+        "title": "Текстильные туфли Cube Paul Andrew",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 37450,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/5cb5a6a0f66f1c480e643e4677bffcb5/height/808/i/25/d7/52/ba/25d752ba-dec9-3b66-a055-500ebad31435.jpg"
+      },
+      {
+        "id": 55676,
+        "title": "Текстильные туфли Dominique 105 Gedebe",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 25550,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/23951145fedf17e7772a1c68f8dad832/height/808/i/5f/d8/0b/ae/74ae55f6-5b8e-4788-b3a6-ad51d4d9954e.jpg"
+      },
+      {
+        "id": 5442,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "розовый",
+        "price": 1999,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_91_2.jpg"
+      },
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      }
+    ],
+    [
+      {
+        "id": 710,
+        "title": "Плетеная сумка из рафии",
+        "store": "finnflare",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/630/FSG11200_630_30.jpg"
+      },
+      {
+        "id": 136166,
+        "title": "Сумка Kappa, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2f8/141177690299.jpg"
+      },
+      {
+        "id": 139499,
+        "title": "Сумка PUMA, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/78f/194301880299.jpg"
+      },
+      {
+        "id": 139612,
+        "title": "Сумка adidas, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5399,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/23c/190704020299.jpg"
+      },
+      {
+        "id": 139845,
+        "title": "Сумка adidas Leo Bowling Bag, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/29a/195097850299.jpg"
+      },
+      {
+        "id": 140142,
+        "title": "Сумка Demix, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/792/111673430299.jpg"
+      },
+      {
+        "id": 141002,
+        "title": "Сумка для коврика Sensana, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1699,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2c2/162786200299.jpg"
+      },
+      {
+        "id": 146216,
+        "title": "Сумка Reebok Arlo, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/21c/194954490299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 7504,
+        "title": "Очки имиджевые в круглой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.9167,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635360006/BF2635360006_50_1.jpg"
+      },
+      {
+        "id": 82373,
+        "title": "Очки солнцезащитные в широкой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9167,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2525360040/BF2525360040_50_1.jpg"
+      },
+      {
+        "id": 56,
+        "title": "Шапка женская",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11155_200_20.jpg"
+      },
+      {
+        "id": 66,
+        "title": "Снуд",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF91406_200_20.jpg"
+      },
+      {
+        "id": 70,
+        "title": "Шапка из хлопка",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 2499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF111146_200_20.jpg"
+      },
+      {
+        "id": 76,
+        "title": "Варежки из ангоры и шерсти",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11150_200_20.jpg"
+      },
+      {
+        "id": 129,
+        "title": "Лонгслив-термобелье с хлопком",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/200/FAE110197_200_20.jpg"
+      },
+      {
+        "id": 159,
+        "title": "Трикотажные перчатки",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF11307_200_30.jpg"
+      }
+    ]
+  ]
+}

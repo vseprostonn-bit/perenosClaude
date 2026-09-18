@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Obraz Mini App — Онбординг квиз</title>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --bg:linear-gradient(180deg,#FFF8F6 0%,#FFEDE8 100%);
+  --bg-flat:#FFF8F6;
+  --text:#1A1A1E;
+  --hint:#9A8F8F;
+  --accent:#FF4D6A;
+  --accent2:#FF8FA3;
+  --peach:#FFD5C2;
+  --border:#F2E6E2;
+  --card:rgba(255,255,255,0.72);
+  --card-solid:#fff;
+  --shadow:0 4px 6px rgba(255,77,106,0.06),0 10px 24px rgba(255,143,163,0.08);
+  --spring:cubic-bezier(0.16,1,0.3,1);
+}
+body{
+  font-family:'Inter',sans-serif;
+  background:linear-gradient(180deg,#FFF8F6 0%,#FFEDE8 100%);
+  background-attachment:fixed;
+  color:var(--text);
+  max-width:390px;margin:0 auto;
+  min-height:100vh;display:flex;flex-direction:column;
+  overflow-x:hidden;
+}
+
+/* Progress */
+.progress{display:flex;gap:6px;padding:20px 20px 8px;}
+.progress .bar{flex:1;height:5px;border-radius:3px;background:var(--border);overflow:hidden;position:relative;}
+.progress .bar .fill{
+  position:absolute;inset:0;border-radius:3px;
+  background:linear-gradient(90deg,var(--accent),var(--accent2));
+  transform:scaleX(0);transform-origin:left;
+  transition:transform .3s var(--spring);
+}
+.progress .bar.done .fill{transform:scaleX(1);}
+
+/* Steps */
+.step{flex:1;padding:28px 20px;display:flex;flex-direction:column;}
+.step h1{font-family:'Manrope',sans-serif;font-weight:700;font-size:24px;line-height:1.25;margin-bottom:8px;}
+.step p{color:var(--hint);font-size:14px;margin-bottom:24px;line-height:1.5;}
+
+/* Options */
+.options{display:flex;flex-direction:column;gap:10px;}
+.option{
+  padding:16px 20px;
+  border:1.5px solid var(--border);
+  border-radius:16px;font-size:15px;cursor:pointer;
+  background:var(--card);backdrop-filter:blur(12px);
+  transition:border-color .2s var(--spring), background .2s var(--spring), transform .15s var(--spring), box-shadow .15s var(--spring);
+  display:flex;align-items:center;gap:12px;
+  box-shadow:var(--shadow);
+}
+.option:active{transform:scale(0.98);}
+.option .check{
+  width:22px;height:22px;border-radius:50%;
+  border:2px solid var(--border);
+  display:flex;align-items:center;justify-content:center;
+  transition:all .2s var(--spring);
+  flex-shrink:0;
+}
+.option .check svg{opacity:0;transform:scale(0.5);transition:all .2s var(--spring);}
+.option.selected{
+  border-color:var(--accent);
+  background:linear-gradient(135deg,rgba(255,77,106,0.06),rgba(255,143,163,0.1));
+}
+.option.selected .check{
+  border-color:var(--accent);
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+}
+.option.selected .check svg{opacity:1;transform:scale(1);}
+
+/* Buttons */
+.main-btn{
+  margin:16px 20px 12px;padding:16px;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+  color:#fff;border:none;border-radius:14px;
+  font-size:17px;font-weight:600;font-family:'Manrope',sans-serif;
+  cursor:pointer;width:calc(100% - 40px);
+  box-shadow:0 4px 16px rgba(255,77,106,0.25);
+  transition:transform .15s var(--spring), box-shadow .15s var(--spring), opacity .2s;
+}
+.main-btn:active{transform:scale(0.98);}
+.main-btn:disabled{opacity:.4;box-shadow:none;}
+.skip{text-align:center;color:var(--hint);font-size:13px;margin-bottom:24px;cursor:pointer;}
+
+/* Screen transition */
+.screen-enter{animation:slideUp .3s var(--spring) both;}
+@keyframes slideUp{
+  from{opacity:0;transform:translateY(24px);}
+  to{opacity:1;transform:translateY(0);}
+}
+</style>
+</head>
+<body>
+  <div class="progress">
+    <div class="bar done"><div class="fill"></div></div>
+    <div class="bar"><div class="fill"></div></div>
+    <div class="bar"><div class="fill"></div></div>
+  </div>
+  <div class="step screen-enter">
+    <h1>Какой у тебя размер?</h1>
+    <p>Подберём образы, которые сядут идеально</p>
+    <div class="options">
+      <div class="option" onclick="select(this)"><span class="check"><svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 6l3 3 5-5" stroke="#fff" stroke-width="2" stroke-linecap="round"/></svg></span>XS (40-42)</div>
+      <div class="option" onclick="select(this)"><span class="check"><svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 6l3 3 5-5" stroke="#fff" stroke-width="2" stroke-linecap="round"/></svg></span>S (42-44)</div>
+      <div class="option" onclick="select(this)"><span class="check"><svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 6l3 3 5-5" stroke="#fff" stroke-width="2" stroke-linecap="round"/></svg></span>M (44-46)</div>
+      <div class="option" onclick="select(this)"><span class="check"><svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 6l3 3 5-5" stroke="#fff" stroke-width="2" stroke-linecap="round"/></svg></span>L (46-48)</div>
+      <div class="option" onclick="select(this)"><span class="check"><svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 6l3 3 5-5" stroke="#fff" stroke-width="2" stroke-linecap="round"/></svg></span>XL (48-50)</div>
+      <div class="option" onclick="select(this)"><span class="check"><svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 6l3 3 5-5" stroke="#fff" stroke-width="2" stroke-linecap="round"/></svg></span>XXL (50+)</div>
+    </div>
+  </div>
+  <button class="main-btn" id="nextBtn" disabled onclick="nextStep()">Далее</button>
+  <div class="skip">Пропустить</div>
+  <script>
+    function select(el){
+      document.querySelectorAll('.option').forEach(o=>o.classList.remove('selected'));
+      el.classList.add('selected');
+      document.getElementById('nextBtn').disabled=false;
+    }
+    function nextStep(){
+      // TG MainButton / haptic placeholder
+      document.querySelector('.step').classList.remove('screen-enter');
+      void document.querySelector('.step').offsetWidth;
+      document.querySelector('.step').classList.add('screen-enter');
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,293 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "absent"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        88131,
+        87440
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "Кардиган оверсайз",
+      "color": "розовый",
+      "search_query": "кардиган оверсайз розовый",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "удлинённый",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "Брюки в полоску",
+      "color": "синий",
+      "search_query": "брюки полосатые синие",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "Кеды розовые",
+      "color": "розовый",
+      "search_query": "кроссовки кеды розовые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 2215,
+        "title": "Кардиган оверсайз вязаный на петельках с вышивкой",
+        "store": "befree",
+        "color": "розовый",
+        "price": 5599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527055/BF2631527055_95_1.jpg"
+      },
+      {
+        "id": 157760,
+        "title": "Вязаный кардиган с фигурными пуговицами, Розовый",
+        "store": "ostin",
+        "color": "розовый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/6d4/500_600_127d/176484210299.jpg"
+      },
+      {
+        "id": 156043,
+        "title": "Кардиган на пуговицах, Розовый",
+        "store": "ostin",
+        "color": "розовый",
+        "price": 1999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/946/500_600_aba3/174846360299.jpg"
+      },
+      {
+        "id": 156703,
+        "title": "Базовый кардиган, Розовый",
+        "store": "ostin",
+        "color": "розовый",
+        "price": 1999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/73e/500_600_e02b/180354350299.jpg"
+      },
+      {
+        "id": 158580,
+        "title": "Кардиган с фигурными пуговицами, Розовый",
+        "store": "ostin",
+        "color": "розовый",
+        "price": 2999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/b41/500_600_f90b/176484080299.jpg"
+      },
+      {
+        "id": 85694,
+        "title": "Кардиган пушистый с капюшоном",
+        "store": "befree",
+        "color": "розовый",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642527003/BF2642527003_90_100.jpg"
+      },
+      {
+        "id": 154140,
+        "title": "Кардиган BAON",
+        "store": "baon",
+        "color": "розовый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://baon.ru/public/shopcatalog-resize/pagesize/baon/B1426008/GARNETROSE/1772100875/FRONT.jpg"
+      },
+      {
+        "id": 159451,
+        "title": "Кардиган для девочек, Розовый",
+        "store": "ostin",
+        "color": "розовый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/a89/500_600_f250/181435390299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 168,
+        "title": "Трикотажные брюки с шерстью",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 6499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/101/FAF11126_101_20.jpg"
+      },
+      {
+        "id": 4635,
+        "title": "Брюки широкие утепленные с вышивкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108006/BF2632108006_47_1.jpg"
+      },
+      {
+        "id": 6355,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_47_1.jpg"
+      },
+      {
+        "id": 7484,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_47_1.jpg"
+      },
+      {
+        "id": 8175,
+        "title": "Брюки широкие с высокой посадкой и имитацией второго слоя",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108003/BF2632108003_47_1.jpg"
+      },
+      {
+        "id": 5667,
+        "title": "Брюки домашние хлопковые с принтом",
+        "store": "befree",
+        "color": "синий",
+        "price": 2299,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808013/BF2631808013_44_1.jpg"
+      },
+      {
+        "id": 54971,
+        "title": "Брюки из хлопка и льна Haider Ackermann",
+        "store": "tsum",
+        "color": "синий",
+        "price": 17250,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/20a75fa1787e19fbca3c8f5acfe2f705/height/808/i/e0/d6/96/0b/7d12519e-79f4-4ad0-8d45-9f21bce10d16.jpg"
+      },
+      {
+        "id": 55010,
+        "title": "Брюки Rosetta Getty",
+        "store": "tsum",
+        "color": "синий",
+        "price": 11800,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/a981730169bdc82855da026244d713ef/height/808/i/70/24/ae/fd/beb2b535-fc7f-47b9-b5df-4b0d58853848.jpg"
+      }
+    ],
+    [
+      {
+        "id": 56920,
+        "title": "Кожаные кроссовки Adam Premiata will be",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 11200,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/1df137f5aa79d715d57e43058d1a147e/height/808/i/7e/eb/f8/ed/942687b7-c83e-42e8-a677-aed8bba3aeae.jpg"
+      },
+      {
+        "id": 57133,
+        "title": "Кожаные кроссовки Adam Premiata will be",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 11950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/6531f3103af54f2de056d9aff73623dc/height/808/i/08/56/3b/a1/fc37b933-babd-4a13-88db-f8f39af2df9d.jpg"
+      },
+      {
+        "id": 57139,
+        "title": "Кожаные кроссовки Adam Premiata will be",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 12500,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b285cf8f81782314865bf29b302e7617/height/808/i/5d/63/ea/19/31d2beb0-e9da-4c97-abe1-af9c7b4c885e.jpg"
+      },
+      {
+        "id": 57962,
+        "title": "Кожаные кроссовки Adam Premiata will be",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 9720,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9e7de4ca61df33dc04746913601db952/height/808/i/b9/87/03/4e/fb8fcc53-cf09-432f-bbc4-f7d8fe8a63a6.jpg"
+      },
+      {
+        "id": 58811,
+        "title": "Кожаные кеды Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 11500,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0f5d4fd5de5229d914ef7efa1335212a/height/808/i/ce/de/0f/b7/cede0fb7-26bb-3fbf-aec5-617071cefd5f.jpg"
+      },
+      {
+        "id": 87440,
+        "title": "Подростковые кроссовки Suede XL",
+        "store": "street-beat",
+        "color": "розовый",
+        "price": 9499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e0c/we2znffqhsw2euocnv58z8po6943abx1.JPG"
+      },
+      {
+        "id": 87966,
+        "title": "Женские кеды Vans Knu Skool FLOR SNKSS",
+        "store": "street-beat",
+        "color": "розовый",
+        "price": 11199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/379/ios8zruam5116oxvt5ssvf91h27w5exz.jpg"
+      },
+      {
+        "id": 88131,
+        "title": "Женские кроссовки Suede XL Fat Laces",
+        "store": "street-beat",
+        "color": "розовый",
+        "price": 6699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/f1d/bwv52t9ffhthc4bc5oraw8v1tk5cr70a.jpg"
+      }
+    ]
+  ]
+}

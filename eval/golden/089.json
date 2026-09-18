@@ -1,0 +1,294 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городской шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        55680,
+        159681,
+        4619
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка с пуговицами",
+      "color": "фиолетовый",
+      "search_query": "рубашка женский фиолетовый",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки чинос",
+      "color": "коричневый",
+      "search_query": "брюки женские коричневые",
+      "type": "брюки",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли на каблуке",
+      "color": "бежевый",
+      "search_query": "туфли женские бежевые",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "леопард"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 158251,
+        "title": "Полупрозрачная рубашка из хлопка и рами, Фиолетовый",
+        "store": "ostin",
+        "color": "фиолетовый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/4ed/500_600_5b80/180438700299.jpg"
+      },
+      {
+        "id": 155891,
+        "title": "Асимметричная рубашка из хлопка, Фиолетовый",
+        "store": "ostin",
+        "color": "фиолетовый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/a5c/500_600_e66e/166138910299.jpg"
+      },
+      {
+        "id": 57406,
+        "title": "Льняная рубашка Aspesi",
+        "store": "tsum",
+        "color": "фиолетовый",
+        "price": 4230,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/ff77225f9623bf82893dbb0796ab4c8c/height/808/i/95/90/f0/58/dd535244-aae5-4f49-8b08-129d48ad528f.jpg"
+      },
+      {
+        "id": 58558,
+        "title": "Хлопковая рубашка Trussardi junior",
+        "store": "tsum",
+        "color": "синий",
+        "price": 5555,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/8426866a87206af072b30e117f85304c/height/808/i/57/74/b8/d2/871c022b-8aa5-4591-917b-58b05c0fe675.jpg"
+      },
+      {
+        "id": 86305,
+        "title": "Хлопковая рубашка Two Women In The World",
+        "store": "tsum",
+        "color": "синий",
+        "price": 8250,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/27d0e671c05e8b61372c5ad09a0d7cdb/height/808/i/36/bf/a3/b6/8d4bfae8-4b15-4c54-a625-7a83eaafd560.jpg"
+      },
+      {
+        "id": 87148,
+        "title": "Хлопковая рубашка Michael Lo Sordo",
+        "store": "tsum",
+        "color": "синий",
+        "price": 4660,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/d8f0db672023d302dd6cee26d3795305/height/808/i/bb/07/14/58/b79fae7b-583f-484d-9d56-3035c307edf2.jpg"
+      },
+      {
+        "id": 55906,
+        "title": "Рубашка изо льна и хлопка Aspesi",
+        "store": "tsum",
+        "color": "синий",
+        "price": 10550,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/3423c91d2d14dd22ca4271e7e2c485ca/height/808/i/9a/3a/63/66/5dda9b85-8ba2-439b-ab22-a5720d4cee0e.jpg"
+      },
+      {
+        "id": 56744,
+        "title": "Хлопковая рубашка Colville",
+        "store": "tsum",
+        "color": "синий",
+        "price": 12500,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/36cea7ce854fa9c528071b6e047b3852/height/808/i/dc/44/6d/67/40d8ae67-fb83-46e6-b292-d114f4a30837.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2213,
+        "title": "Брюки багги с ремнем",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108006/BF2631108006_27_1.jpg"
+      },
+      {
+        "id": 2434,
+        "title": "Брюки-баллоны со средней посадкой на резинке утепленные",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641108006/BF2641108006_27_1.jpg"
+      },
+      {
+        "id": 3339,
+        "title": "Брюки-баллоны из футера на резинке",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108009pl/BF2631108009pl_20_1.jpg"
+      },
+      {
+        "id": 3707,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034/BF2631308034_20_1.jpg"
+      },
+      {
+        "id": 3710,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034PL/BF2631308034PL_20_1.jpg"
+      },
+      {
+        "id": 3735,
+        "title": "Брюки клеш велюровые с низкой посадкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308006/BF2641308006_22_100.jpg"
+      },
+      {
+        "id": 4540,
+        "title": "Брюки-баллоны со средней посадкой на резинке утепленные",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641108006pl/BF2641108006pl_27_100.jpg"
+      },
+      {
+        "id": 4626,
+        "title": "Брюки-джоггеры из футера на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108007/BF2631108007_27_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55680,
+        "title": "Туфли Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 44750,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/b628faed6cf37d59bcc27158286ae38c/height/808/i/ff/56/3a/0d/f8a19cba-a71e-4ca3-a1bd-059d285376d1.jpg"
+      },
+      {
+        "id": 4927,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_20_11.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_20_11.jpg"
+      },
+      {
+        "id": 5445,
+        "title": "Туфли-балетки кроше с завязками",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3299,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626682019/BF2626682019_60_1.jpg"
+      },
+      {
+        "id": 159681,
+        "title": "Сатиновые туфли-лодочки, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.7545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cd6/500_600_f7b2/172369780299.jpg"
+      },
+      {
+        "id": 1807,
+        "title": "Туфли на танкетке лаковые из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682008/BF2636682008_20_2.jpg"
+      },
+      {
+        "id": 3077,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_20_1.jpg"
+      },
+      {
+        "id": 6663,
+        "title": "Туфли с перемычкой между пальцами из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688019/BF2626688019_20_11.jpg"
+      }
+    ]
+  ]
+}

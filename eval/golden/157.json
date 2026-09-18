@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Лёгкий городской шик.",
+  "items": [
+    {
+      "slot": "dress",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "dress",
+      "category": "dress",
+      "name": "платье-комбинация",
+      "color": "бежевый",
+      "search_query": "платье комбинация бежевый",
+      "type": "платье",
+      "silhouette": "прямой",
+      "length": "мини",
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган оверсайз",
+      "color": "голубой",
+      "search_query": "кардиган оверсайз голубой",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "удлинённый",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "коричневый",
+      "search_query": "босоножки коричневые",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумочка через плечо",
+      "color": "бирюзовый",
+      "search_query": "сумка бирюзовая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 157511,
+        "title": "Платье изо льна с вышивкой, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 7999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/fbe/500_600_f196/186122300299.jpg"
+      },
+      {
+        "id": 157556,
+        "title": "Платье из сатина с ремнем, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/dfa/500_600_8c2b/186048940299.jpg"
+      },
+      {
+        "id": 157560,
+        "title": "Платье с открытыми плечами, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/926/500_600_7c90/185640500299.jpg"
+      },
+      {
+        "id": 144737,
+        "title": "Платье женское Protest, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1499,
+        "score": 0.9545,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/eb3/178684290299.jpg"
+      },
+      {
+        "id": 155924,
+        "title": "Платье А-силуэта на тонких бретелях, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 1999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/f94/500_600_fd8d/156119890299.jpg"
+      },
+      {
+        "id": 156281,
+        "title": "Платье-комбинация на тонких бретелях, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/4cb/500_600_96dc/150453200299.jpg"
+      },
+      {
+        "id": 156647,
+        "title": "Вязаное платье мини, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/1a0/500_600_a818/178612630299.jpg"
+      },
+      {
+        "id": 156786,
+        "title": "Платье для девочек, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/bf7/500_600_b396/180438090299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 56756,
+        "title": "Кашемировый кардиган Canessa",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 43950,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/ceb0542dd3fefb257ce9f2bbbf92d6df/height/808/i/ec/f0/97/47/4e8b3af5-917a-4eaf-901d-06cd0695b89b.jpg"
+      },
+      {
+        "id": 2318,
+        "title": "Кардиган вязаный с рисунком и меховым воротником",
+        "store": "befree",
+        "color": "синий",
+        "price": 4999,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527052/BF2631527052_45_1.jpg"
+      },
+      {
+        "id": 57767,
+        "title": "Хлопковый кардиган Tak.Ori",
+        "store": "tsum",
+        "color": "синий",
+        "price": 11950,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/401aae5127f52fd42a0d72b8a17af8e6/height/808/i/11/a4/67/e4/779e586f-2db8-400f-b3e0-8ff719353a2e.jpg"
+      },
+      {
+        "id": 1895,
+        "title": "Кардиган вязаный на пуговицах с шерстью",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527018/BF2631527018_45_1.jpg"
+      },
+      {
+        "id": 1911,
+        "title": "Кардиган вязаный с декором из пуговиц",
+        "store": "befree",
+        "color": "синий",
+        "price": 2599,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527032/BF2631527032_47_1.jpg"
+      },
+      {
+        "id": 4345,
+        "title": "Кардиган вязаный с косой молнией",
+        "store": "befree",
+        "color": "синий",
+        "price": 3299,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642527006/BF2642527006_40_1.jpg"
+      },
+      {
+        "id": 5653,
+        "title": "Кардиган вязаный с кейпом",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527051/BF2631527051_47_1.jpg"
+      },
+      {
+        "id": 7887,
+        "title": "Кардиган вязаный на завязках с меховой отделкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 2599,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527035/BF2631527035_47_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55398,
+        "title": "Кожаные босоножки String Paul Andrew",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 31650,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c6740f124e14161cbfe1459fffdfecb1/height/808/i/08/cd/21/ee/88d93c0f-0c83-47fd-b54a-c9561cebd9cd.jpg"
+      },
+      {
+        "id": 55433,
+        "title": "Кожаные босоножки String Paul Andrew",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 31650,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/0224ca75597f6ec2e74f3c2467754d92/height/808/i/3d/21/55/78/9e754e60-ba0e-4a7e-baac-2e84d288ec90.jpg"
+      },
+      {
+        "id": 4427,
+        "title": "Босоножки с помпоном из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688016/BF2626688016_20_1.jpg"
+      },
+      {
+        "id": 6874,
+        "title": "Босоножки на каблуке с квадратным мысом и бантиком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688007/BF2626688007_20_11.jpg"
+      },
+      {
+        "id": 7844,
+        "title": "Босоножки из искусственной кожи на платформе с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688018/BF2626688018_20_11.jpg"
+      },
+      {
+        "id": 3816,
+        "title": "Сандалии-гладиаторы высокие с замшевой фактурой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.7727,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688012/BF2626688012_63_11.jpg"
+      },
+      {
+        "id": 55357,
+        "title": "Сандалии Alberta Ferretti",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 27850,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/c16a435eb87796c7a3c18098657fb5a5/height/808/i/7e/47/33/a8/7e4733a8-61fb-3ed2-9cfb-c3e0d3e5350c.jpg"
+      },
+      {
+        "id": 55694,
+        "title": "Кожаные сандалии Jopee Isabel Marant",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 35600,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/8bbd87fdd1bd81a48354f5edbe9fb806/height/808/i/72/df/03/d9/3af1705b-a651-44a9-9490-b05e3fc3a48b.jpg"
+      }
+    ],
+    [
+      {
+        "id": 99578,
+        "title": "Сумка PUMA 1976 Grip Bag Keychain",
+        "store": "street-beat",
+        "color": "бирюзовый",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e6a/zycv008x21dfvrnja4denn410zzlvqjc.jpg"
+      },
+      {
+        "id": 7929,
+        "title": "Сумка через плечо каркасная из искусственной кожи с карабином",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457077/BF2635457077_41_1.jpg"
+      },
+      {
+        "id": 8767,
+        "title": "Сумка-боулинг с короткой ручкой из искусственной кожи",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457009/BF2635457009_43_11.jpg"
+      },
+      {
+        "id": 58004,
+        "title": "Сумка Jade Colori Nannacay",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 6230,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/796239e617bd1b3299fb80b601764be5/height/808/i/fe/7f/24/ba/fe7f24ba-83fa-3b13-b2ba-961425d86d71.jpg"
+      },
+      {
+        "id": 88543,
+        "title": "Поясная сумка Terra Lumbar",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 4599,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/2dd/1000_1000_0/p7ey2owcmmstayt2okpzsfgc8cn7fb99.jpg"
+      },
+      {
+        "id": 89640,
+        "title": "Поясная сумка Never Stop Lumbar",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 3499,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/d73/1000_1000_0/423rl0pots8d88lq8x0d1ammh6yonfxy.jpg"
+      },
+      {
+        "id": 111284,
+        "title": "Поясная сумка Abanu Multi",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 5899,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/506/1ll0jjb9to8dwh0m1nevfi5aszbloaz9.jpg"
+      },
+      {
+        "id": 8737,
+        "title": "Сумка-мешок из искусственной кожи на завязках",
+        "store": "befree",
+        "color": "голубой",
+        "price": 999,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457066/BF2635457066_43_1.jpg"
+      }
+    ]
+  ]
+}

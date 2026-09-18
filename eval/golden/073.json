@@ -1,0 +1,393 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Спортивный шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        4897,
+        6413
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [
+        8370
+      ],
+      "acceptable": [
+        6219,
+        5083,
+        7854,
+        5888
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "absent"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ с открытыми плечами",
+      "color": "красный",
+      "search_query": "топ открытый плечи красный",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "широкие брюки",
+      "color": "голубой",
+      "search_query": "брюки широкие голубые",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган oversize",
+      "color": "белый",
+      "search_query": "кардиган oversize белый",
+      "type": "кардиган",
+      "silhouette": "oversize",
+      "length": "удлиненный",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1689,
+        "title": "Лиф-топ купальный со шнуровкой",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624730020/BF2624730020_70_1.jpg"
+      },
+      {
+        "id": 4897,
+        "title": "Топ облегающий на широких бретелях в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121039/BF2631121039_70_1.jpg"
+      },
+      {
+        "id": 5066,
+        "title": "Бюстгальтер-топ ажурный хлопковый с оборками",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830002/BF2634830002_75_11.jpg"
+      },
+      {
+        "id": 6413,
+        "title": "Майка-топ укороченная в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121023/BF2621121023_70_1.jpg"
+      },
+      {
+        "id": 7069,
+        "title": "Бюстгальтер-топ ажурный хлопковый с оборками",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830002/BF2634830002_70_11.jpg"
+      },
+      {
+        "id": 7529,
+        "title": "Майка-топ трикотажная облегающая",
+        "store": "befree",
+        "color": "красный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121003/BF2622121003_77_1.jpg"
+      },
+      {
+        "id": 7851,
+        "title": "Топ домашний приталенный ажурный на тонких бретелях",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631821002/BF2631821002_75_11.jpg"
+      },
+      {
+        "id": 8045,
+        "title": "Бюстгальтер-топ в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830095/BF2634830095_70_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 5888,
+        "title": "Брюки широкие на завязках",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308040/BF2621308040_41_1.jpg"
+      },
+      {
+        "id": 6219,
+        "title": "Брюки широкие хлопковые на завязках с вышивкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308008/BF2621308008_98_1.jpg"
+      },
+      {
+        "id": 5083,
+        "title": "Брюки-аладдины со средней посадкой на резинке",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308021/BF2631308021_49_1.jpg"
+      },
+      {
+        "id": 7854,
+        "title": "Брюки-аладдины со средней посадкой на резинке",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308021PL/BF2631308021PL_49_1.jpg"
+      },
+      {
+        "id": 8370,
+        "title": "Брюки домашние атласные на завязках с кружевом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808010/BF2631808010_49_11.jpg"
+      },
+      {
+        "id": 9133,
+        "title": "Брюки INCANTO PD1206",
+        "store": "incantoeu",
+        "color": "голубой",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/c9d/2acapyg0135dmey5bhj14n9sar1ao397.jpg"
+      },
+      {
+        "id": 4635,
+        "title": "Брюки широкие утепленные с вышивкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108006/BF2632108006_47_1.jpg"
+      },
+      {
+        "id": 6355,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_47_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 56179,
+        "title": "Кардиган из вискозы и хлопка Escada Sport",
+        "store": "tsum",
+        "color": "белый",
+        "price": 23150,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/e25b90a266c2395afee20e36f4dce190/height/808/i/4b/11/71/fa/a0857b2a-ab45-4b67-951e-e39a56eb7f5a.jpg"
+      },
+      {
+        "id": 54893,
+        "title": "Хлопковый кардиган ADCTED",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 17100,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/027d736d40709acd0e9ae024db0f2304/height/808/i/56/5f/dd/b8/9f8528c1-8cec-460e-ae47-8a4827155648.jpg"
+      },
+      {
+        "id": 55201,
+        "title": "Хлопковый кардиган ADCTED",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 15800,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/5336c669668aa6ebd9edd07cf5bbe173/height/808/i/34/e3/4c/5b/e7958601-96f2-4f88-84a2-d3ddfc5f3157.jpg"
+      },
+      {
+        "id": 56828,
+        "title": "Кардиган из вискозы AERON",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 19700,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/1fc6a81ac2675d92b5c2bb61756a39a6/height/808/i/15/0a/35/16/437e87f3-1d86-4d18-aa20-b35451a9afc6.jpg"
+      },
+      {
+        "id": 59387,
+        "title": "Кардиган из шерсти вискозы Weekend Max Mara",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 19950,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/c8b000fdcf224b0fab0c56c7fc33cae6/height/808/i/10/3a/27/f1/383c4f67-dc93-4e1a-82d9-d721b4c98a2a.jpg"
+      },
+      {
+        "id": 86316,
+        "title": "Хлопковый кардиган ADCTED",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 17100,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/286fa6b9d221a24b72309377391cc3e1/height/808/i/a1/0c/56/de/7446b341-8e4e-41fe-8787-d99e72486816.jpg"
+      },
+      {
+        "id": 3820,
+        "title": "Кардиган-доломан вязаный",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3799,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527012/BF2641527012_60_1.jpg"
+      },
+      {
+        "id": 4852,
+        "title": "Кардиган вязаный на пуговицах",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3599,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527010/BF2631527010_60_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 87339,
+        "title": "Женские кроссовки Shox R4",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/829/1kdn0ph71sdpvb4dxllxk7u8xuhwwj12.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87512,
+        "title": "Женские кроссовки PWR Hybrid Training",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/996/82zgkob37ioopsj6cyqsxoj0gt0bazbg.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87701,
+        "title": "Женские кроссовки Air Zoom Pegasus 41",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/0e1/xe3i1v8p3s9i603bjsn1bblc9vmx99nx.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87736,
+        "title": "Женские кроссовки PUMA CA Flyz",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/715/aon4e1ewoyestvns3llqbx40untua3mq.jpg"
+      },
+      {
+        "id": 87964,
+        "title": "Женские кроссовки Cali Dream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/546/0q64eb1fu7q9tpvyba3jjczd6jouecyl.jpg"
+      }
+    ]
+  ]
+}

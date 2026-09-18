@@ -1,0 +1,490 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городской casual",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        46,
+        47,
+        48,
+        699,
+        202,
+        1236,
+        1346
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        4860,
+        6270
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        87868
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка черная",
+      "color": "черный",
+      "search_query": "футболка черный",
+      "type": "футболка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "джинсы синие широкие",
+      "color": "синий",
+      "search_query": "джинсы широкий синий",
+      "type": "джинсы",
+      "silhouette": "трапеция",
+      "length": null,
+      "sleeve": null,
+      "fit": "низкая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "куртка кожаная черная",
+      "color": "черный",
+      "search_query": "куртка кожаная черный",
+      "type": "куртка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки черные",
+      "color": "черный",
+      "search_query": "босоножки черный",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка черная через плечо",
+      "color": "черный",
+      "search_query": "сумка черная",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 46,
+        "title": "Футболка прямого кроя из джерси",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/200/BAS-100197_200_20.jpg"
+      },
+      {
+        "id": 202,
+        "title": "Футболка прилегающего кроя из трикотажа интерлок",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/200/BAS-100203_200_20.jpg"
+      },
+      {
+        "id": 1193,
+        "title": "Футболка с круглым вырезом",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1290,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBC/200/FBC11085_200_20.jpg"
+      },
+      {
+        "id": 1461,
+        "title": "Удлиненная футболка прямого кроя",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/200/BAS-100193_200_20.jpg"
+      },
+      {
+        "id": 1904,
+        "title": "Футболка-поло хлопковая на пуговицах",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120031/BF2631120031_50_1.jpg"
+      },
+      {
+        "id": 3506,
+        "title": "Футболка прямая хлопковая с подплечниками",
+        "store": "befree",
+        "color": "черный",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120066/BF2631120066_50_1.jpg"
+      },
+      {
+        "id": 8968,
+        "title": "Футболка хлопковая с вареным эффектом",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621120075/BF2621120075_50_1.jpg"
+      },
+      {
+        "id": 56838,
+        "title": "Хлопковая футболка Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 3970,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c9600912e25e0421f8091f4ac6a2c307/height/808/i/38/44/c8/79/e42e66c5-55c8-4485-b3b6-69f573657512.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3150,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Wide19col106H/Wide19col106H_106_1.jpg"
+      },
+      {
+        "id": 3376,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 1499,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Wide13col110/Wide13col110_110_1.jpg"
+      },
+      {
+        "id": 3751,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Wide20col106H/Wide20col106H_106_1.jpg"
+      },
+      {
+        "id": 4860,
+        "title": "Джинсы широкие со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631209049/BF2631209049_106_1.jpg"
+      },
+      {
+        "id": 5394,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Wide14col110/Wide14col110_110_1.jpg"
+      },
+      {
+        "id": 5424,
+        "title": "Джинсы широкие со средней посадкой в китайском стиле",
+        "store": "befree",
+        "color": "синий",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209082/BF2621209082_106_1.jpg"
+      },
+      {
+        "id": 5484,
+        "title": "Джинсы широкие со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631209080/BF2631209080_106_1.jpg"
+      },
+      {
+        "id": 6270,
+        "title": "Джинсы широкие из лиоцелла со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631209032/BF2631209032_106_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 256,
+        "title": "Куртка с водоотталкивающей пропиткой и искусственным утеплителем",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 9999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/200/BAS-100248_200_20.jpg"
+      },
+      {
+        "id": 332,
+        "title": "Куртка с водоотталкивающей пропиткой и искусственным утеплителем",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 7999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/200/BAS-100230_200_20.jpg"
+      },
+      {
+        "id": 333,
+        "title": "Куртка с искусственным утеплителем и водоотталкивающей пропиткой",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 12999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAG/200/FAG11002_200_20.jpg"
+      },
+      {
+        "id": 627,
+        "title": "Куртка с водоотталкивающей пропиткой и искусственным утеплителем",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 12999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/200/BAS-100224_200_20.jpg"
+      },
+      {
+        "id": 1718,
+        "title": "Куртка укороченная без капюшона",
+        "store": "befree",
+        "color": "черный",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2611601014/BF2611601014_50_1.jpg"
+      },
+      {
+        "id": 1893,
+        "title": "Куртка с капюшоном и меховой отделкой утепленная",
+        "store": "befree",
+        "color": "черный",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601067/BF2631601067_50_1.jpg"
+      },
+      {
+        "id": 2448,
+        "title": "Куртка стеганая утепленная с капюшоном",
+        "store": "befree",
+        "color": "черный",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642601032/BF2642601032_50_1.jpg"
+      },
+      {
+        "id": 2456,
+        "title": "Куртка стеганая утепленная с капюшоном",
+        "store": "befree",
+        "color": "черный",
+        "price": 5599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601002/BF2641601002_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55438,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 24950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/862d2a182bd06cb7e067ea76fdac604c/height/808/i/69/54/79/8f/6954798f-90b0-38bf-b671-1005d715f2b5.jpg"
+      },
+      {
+        "id": 55447,
+        "title": "Босоножки Cecile 105 Gedebe",
+        "store": "tsum",
+        "color": "черный",
+        "price": 25200,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/79a6a9d7db044f56610b9aeb78d979a2/height/808/i/1e/02/bb/3e/1e02bb3e-db0b-39a1-a403-f5780f9b6400.jpg"
+      },
+      {
+        "id": 55584,
+        "title": "Текстильные босоножки Cube Toe-Ring 95 Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/20466697afad8b5683f80f5a037d0d67/height/808/i/b0/ef/35/7b/b0ef357b-7773-3fd0-8bd0-0b9cf1b1d77f.jpg"
+      },
+      {
+        "id": 87060,
+        "title": "Текстильные босоножки Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 23650,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/a472214b22656d702ef6e4c18c6f29fd/height/808/i/d7/c5/e0/a0/d7c5e0a0-7435-34f6-9608-b21db068d6d6.jpg"
+      },
+      {
+        "id": 54957,
+        "title": "Кожаные босоножки Nudistcurve 75 Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 36250,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/15d0a295b5a822b3f6eae0063f4ad931/height/808/i/ce/90/0d/6f/8f43d47e-f659-4e01-8c92-dd1ba5ea5e99.jpg"
+      },
+      {
+        "id": 55112,
+        "title": "Кожаные босоножки Nearlynude SW Bow Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 33550,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/47476d1ac7cf06d8b9352ba88abd0b24/height/808/i/55/ef/be/87/ab85c1da-d3d7-4127-ae0a-4463e3f26b16.jpg"
+      },
+      {
+        "id": 55415,
+        "title": "Замшевые босоножки Peep Sling Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 34500,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/ad5611c073a0e0ec1f006894e499b86e/height/808/i/6c/0e/34/09/6c0e3409-3233-30b5-8e10-e63e6d172f8b.jpg"
+      },
+      {
+        "id": 55437,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 35950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/38d8440896dd95efc4b01e9715288129/height/808/i/78/2b/04/88/782b0488-87bc-306a-b433-9a076946e878.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4489,
+        "title": "Сумка на плечо с заклепками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457075/BF2635457075_50_11.jpg"
+      },
+      {
+        "id": 5976,
+        "title": "Сумка-багет на плечо со значками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457050/BF2635457050_50_11.jpg"
+      },
+      {
+        "id": 6841,
+        "title": "Сумка-тоут через плечо спортивная",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457052/BF2635457052_50_1.jpg"
+      },
+      {
+        "id": 87487,
+        "title": "Сумка через плечо Clyffe Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9c6/1000_1000_0/isb8aibvkgrjkknhgz1zkjxbm2mpqbtp.jpg"
+      },
+      {
+        "id": 87488,
+        "title": "Сумка через плечо Glen Canyon Pocket Cross Body",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/8a4/1000_1000_0/16gn8p01n28uufs09fwaow929yjxt13d.jpg"
+      },
+      {
+        "id": 87567,
+        "title": "Сумка через плечо Bail Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 3499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/2dd/p3d01jtovbkvtxbxtr7imfpwc41yxhm4.jpg"
+      },
+      {
+        "id": 87868,
+        "title": "Сумка через плечо Never Stop Utility Sling Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9cb/1000_1000_0/r4g20yagotuqpo2kahnnqtzvs0ey2hqj.jpg"
+      },
+      {
+        "id": 87990,
+        "title": "Сумка через плечо PUMA FUTURE.ARCHIVE Crossbody",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/ec4/v2hub7vo3gpbrj5z71ozppxbt6zsnpfw.jpg"
+      }
+    ]
+  ]
+}

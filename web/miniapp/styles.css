@@ -1,0 +1,271 @@
+/* Образ - мини-приложение.
+   Обновлено 08.09.2026: подача приведена к лендингу - фото вместо плашек,
+   контурные иконки вместо эмодзи, уверенность подбора словами, а не процентом.
+   Классы те же, что в app.js: разметка не менялась. */
+
+*{margin:0;padding:0;box-sizing:border-box}
+
+:root{
+  --cream:#FFF8F6;
+  --cream-deep:#FBEDE8;
+  --white:#fff;
+  --text:#5C4252;
+  --ink:#33232C;
+  --soft:#7A6070;
+  --accent:#FF4D6A;
+  --accent-soft:#FF8FA3;
+  --line:#EBDBD5;
+  --ok:#2F7A5B;      --ok-bg:#E6F4ED;
+  --warn:#8A6A2F;    --warn-bg:#FAF0DC;
+  --shadow-s:0 1px 2px rgba(51,35,44,.05),0 6px 16px -8px rgba(92,66,82,.2);
+  --shadow-m:0 2px 6px rgba(51,35,44,.06),0 22px 44px -22px rgba(92,66,82,.35);
+  --ease:cubic-bezier(.16,1,.3,1);
+  --tab-h:74px;
+}
+
+html,body{height:100%}
+body{
+  background:var(--cream);
+  color:var(--text);
+  font:400 15px/1.5 Manrope,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  -webkit-font-smoothing:antialiased;
+  overscroll-behavior-y:none;
+}
+h1,h2,h3,.serif{font-family:"Playfair Display",Georgia,serif;font-weight:600;color:var(--ink);letter-spacing:-.02em;line-height:1.14;text-wrap:balance}
+button{font-family:inherit;cursor:pointer}
+img{max-width:100%}
+.img-fallback{object-fit:contain!important;background:var(--cream-deep)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:8px}
+.hidden{display:none!important}
+.muted{color:var(--soft);font-size:14px;line-height:1.5}
+
+#view{padding-bottom:calc(var(--tab-h) + env(safe-area-inset-bottom,0px) + 12px)}
+
+/* ---------------------------------------------------------- шапка экрана */
+.top{
+  display:flex;align-items:center;gap:10px;
+  padding:calc(env(safe-area-inset-top,0px) + 12px) 20px 14px;
+  position:sticky;top:0;z-index:20;
+  background:linear-gradient(var(--cream) 72%,rgba(255,248,246,0));
+}
+.logo{display:flex;align-items:center;gap:8px;font-family:"Playfair Display",serif;font-weight:600;font-size:17px;color:var(--ink);letter-spacing:.02em}
+.logo svg{overflow:visible}
+/* Знак собирается: рамки съезжаются, в момент совмещения вспыхивает искра */
+.logo svg rect:first-of-type{animation:markL 2.2s var(--ease)}
+.logo svg rect:nth-of-type(2){animation:markR 2.2s var(--ease)}
+.logo svg path{animation:markSpark 2.2s var(--ease);transform-origin:26px 26px}
+@keyframes markL{0%,12%{transform:translateX(-13px);opacity:0}34%,100%{transform:none;opacity:1}}
+@keyframes markR{0%,12%{transform:translateX(13px);opacity:0}34%,100%{transform:none;opacity:1}}
+@keyframes markSpark{0%,30%{transform:scale(0);opacity:0}46%,100%{transform:scale(1);opacity:1}}
+
+.top .title{font-family:"Playfair Display",serif;font-size:20px;font-weight:600;color:var(--ink)}
+.top .title small{display:block;font:500 12.5px/1.4 Manrope,sans-serif;color:var(--soft);letter-spacing:0}
+.avatar{margin-left:auto;width:34px;height:34px;border-radius:12px;background:linear-gradient(140deg,var(--accent-soft),var(--accent));color:#fff;display:grid;place-items:center;font-weight:700;font-size:14px;border:none;flex:none}
+.back{border:none;background:none;color:var(--ink);font-size:20px;line-height:1;padding:6px 8px 6px 0;margin-left:-4px}
+
+/* ---------------------------------------------------------- герой экрана */
+.hero{padding:2px 20px 6px}
+.hero h1{font-size:27px}
+.hero p{margin-top:8px}
+
+/* переключатель Себе / Ему */
+.segmented{display:flex;background:rgba(92,66,82,.07);border-radius:12px;padding:3px}
+.segmented button{flex:1;border:none;background:none;font:600 13.5px Manrope,sans-serif;color:var(--soft);padding:9px;border-radius:9px;transition:background .25s var(--ease),color .2s}
+.segmented button.on{background:var(--white);color:var(--ink);box-shadow:var(--shadow-s)}
+
+/* ---------------------------------------------------------- полка магазинов */
+.shops{padding:0 0 14px}
+.shops-h{padding:0 20px 8px;font-size:12.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--soft)}
+.shops-row{display:flex;flex-wrap:wrap;gap:7px;padding:0 20px 2px}
+.shops-row span{
+  flex:none;background:var(--white);border-radius:10px;padding:7px 12px;
+  font-family:"Playfair Display",Georgia,serif;font-size:14px;color:var(--ink);
+  box-shadow:var(--shadow-s);white-space:nowrap;
+}
+
+/* ---------------------------------------------------------- карточки действий */
+.actions{display:grid;gap:12px;padding:8px 20px 4px}
+.act{
+  position:relative;display:block;width:100%;text-align:left;border:none;
+  border-radius:20px;overflow:hidden;padding:82px 18px 18px;color:#fff;
+  background:var(--ink) center/cover no-repeat;box-shadow:var(--shadow-s);
+  transition:transform .18s var(--ease),box-shadow .25s var(--ease);isolation:isolate;
+}
+.act::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(51,35,44,.12) 0%,rgba(51,35,44,.78) 78%)}
+.act:active{transform:scale(.985)}
+.act.scan{background-image:url("/app/img/app-scan.jpg")}
+.act.feed{background-image:url("/app/img/flatlay-women.jpg")}
+.act h3{font-size:22px;color:#fff}
+.act p{font-size:13.5px;color:rgba(255,255,255,.84);margin-top:5px;line-height:1.45}
+.act .glyph{display:none}                    /* на карточках действий - фотография */
+/* Крупная иконка в пустых состояниях вместо эмодзи */
+.upload .glyph{display:block;margin:0 auto 14px;color:var(--accent)}
+.ic-lg{width:38px;height:38px}
+.act .badge{position:absolute;top:14px;left:14px;background:rgba(255,255,255,.94);color:var(--ink);font-size:11.5px;font-weight:700;padding:5px 10px;border-radius:8px}
+
+/* ---------------------------------------------------------- секции и лента */
+.section-h{display:flex;align-items:baseline;padding:22px 20px 12px}
+.section-h h2{font-size:19px}
+.section-h button{margin-left:auto;background:none;border:none;color:var(--accent);font:600 13px Manrope,sans-serif}
+.rail{display:flex;gap:12px;overflow-x:auto;padding:0 20px 6px;scrollbar-width:none}
+.rail::-webkit-scrollbar{height:0}
+.look{width:136px;flex:none;background:none;border:none;padding:0;text-align:left}
+.look img{width:136px;height:172px;object-fit:cover;border-radius:14px;box-shadow:var(--shadow-s);background:var(--cream-deep);display:block}
+.look .name{display:block;font-size:13px;font-weight:600;color:var(--ink);margin-top:8px}
+.look .price,.look .muted{font-size:12px;color:var(--soft)}
+/* Экран разбора: фото пользовательницы с плашками поверх.
+   look-hero - контейнер, а не картинка: внутри img, метка «твоё фото» и вайб. */
+.look-hero{position:relative;margin:4px 20px 0;border-radius:18px;overflow:hidden;box-shadow:var(--shadow-s);background:var(--cream-deep)}
+.look-hero img{display:block;width:100%;height:240px;object-fit:cover}
+.look-hero .tag{position:absolute;top:12px;left:12px;background:rgba(255,255,255,.94);color:var(--ink);font-size:11.5px;font-weight:700;padding:5px 10px;border-radius:8px}
+.look-hero .vibe{
+  position:absolute;left:0;right:0;bottom:0;padding:34px 16px 14px;color:#fff;
+  background:linear-gradient(180deg,rgba(51,35,44,0),rgba(51,35,44,.82));
+}
+.look-hero .vibe b{display:block;font-family:"Playfair Display",Georgia,serif;font-size:19px;font-weight:600}
+.look-hero .vibe span{font-size:13px;color:rgba(255,255,255,.82)}
+
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:4px 20px}
+.list{display:grid;gap:10px;padding:4px 20px}
+
+/* ---------------------------------------------------------- вещь из разбора */
+.items{display:grid;gap:10px;padding:4px 20px}
+.item{
+  background:var(--white);border-radius:16px;padding:12px;box-shadow:var(--shadow-s);
+  display:grid;grid-template-columns:76px 1fr;gap:12px;align-items:start;
+}
+.item img{width:76px;height:76px;object-fit:cover;border-radius:12px;background:var(--cream-deep)}
+.item .slot{font-size:11.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--soft)}
+.item .name{font-size:14.5px;font-weight:600;color:var(--ink);line-height:1.3;margin-top:3px}
+.item .price{font-size:16px;font-weight:700;color:var(--ink);margin-top:6px;font-variant-numeric:tabular-nums}
+.item .price s{font-size:13px;font-weight:500;color:var(--soft);margin-left:7px}
+.item .store{font-size:12.5px;color:var(--soft);margin-top:2px}
+
+/* шапка сохранённого разбора: фото пользовательницы не храним, поэтому без кадра */
+.look-head{margin:4px 20px 0;padding:16px 18px;border-radius:18px;background:var(--white);box-shadow:var(--shadow-s)}
+.look-head .tag{display:inline-block;font-size:11.5px;font-weight:700;color:var(--soft);background:var(--cream-deep);padding:4px 9px;border-radius:8px;margin-bottom:8px}
+.look-head b{display:block;font-family:"Playfair Display",Georgia,serif;font-size:19px;font-weight:600;color:var(--ink)}
+.look-head span{display:block;font-size:13px;color:var(--soft);margin-top:2px}
+.note{padding:4px 20px 8px;font-size:12.5px}
+
+/* ---------------------------------------------------------- мои разборы */
+.history{display:grid;gap:8px;padding:0 20px 4px}
+.history-row{
+  display:grid;grid-template-columns:48px 1fr auto;gap:12px;align-items:center;width:100%;
+  background:var(--white);border:none;border-radius:14px;padding:9px 12px 9px 9px;box-shadow:var(--shadow-s);
+  text-align:left;font:inherit;color:inherit;transition:transform .18s var(--ease);
+}
+.history-row:active{transform:scale(.99)}
+.history-row img{width:48px;height:48px;object-fit:cover;border-radius:10px;background:var(--cream-deep)}
+.history-row .h-info{min-width:0}
+.history-row b{display:block;font-size:14.5px;font-weight:600;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.history-row small{display:block;font-size:12.5px;color:var(--soft);margin-top:1px}
+.history-row .h-total{font-size:14px;font-weight:700;color:var(--ink);font-variant-numeric:tabular-nums}
+
+/* уверенность словами: «она самая» честнее абстрактного процента */
+.match{display:inline-block;font-size:11px;font-weight:700;padding:3px 8px;border-radius:7px;margin-left:6px;color:var(--warn);background:var(--warn-bg);vertical-align:2px}
+.match.high{color:var(--ok);background:var(--ok-bg)}
+
+.btns{display:flex;gap:8px;margin-top:10px}
+.buy,.btn-primary{border:none;border-radius:12px;background:var(--accent);color:#fff;font:700 14px Manrope,sans-serif;padding:12px 16px;box-shadow:0 2px 6px rgba(232,53,83,.2),0 12px 24px -14px rgba(232,53,83,.55);transition:transform .18s var(--ease)}
+.buy:active,.btn-primary:active{transform:translateY(1px) scale(.99)}
+.alt,.btn-ghost{border:1.5px solid var(--line);background:var(--white);color:var(--ink);border-radius:12px;font:600 14px Manrope,sans-serif;padding:11px 15px;transition:border-color .2s}
+.alt:hover,.btn-ghost:hover{border-color:var(--soft)}
+.btn-primary{display:block;width:100%;text-align:center}
+.btn-ghost{display:block;width:100%;text-align:center}
+
+/* ---------------------------------------------------------- загрузка, пустое */
+.upload{
+  margin:8px 20px;border:1.5px dashed var(--line);border-radius:18px;
+  background:var(--white);padding:28px 20px;text-align:center;
+}
+.upload h3{font-size:19px;margin-bottom:6px}
+.loader{padding:44px 20px;text-align:center;color:var(--soft)}
+.ring{width:34px;height:34px;margin:0 auto 14px;border-radius:50%;border:2.5px solid var(--line);border-top-color:var(--accent);animation:spin .9s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.empty{padding:52px 24px;text-align:center;color:var(--soft)}
+.empty h3{font-size:20px;margin-bottom:8px}
+
+/* ---------------------------------------------------------- фильтры, чипы */
+.filters{display:flex;gap:8px;overflow-x:auto;padding:2px 20px 12px;scrollbar-width:none}
+.filters::-webkit-scrollbar{height:0}
+.chip,.store-chip{flex:none;border:1.5px solid var(--line);background:var(--white);color:var(--text);border-radius:11px;padding:8px 13px;font:600 13px Manrope,sans-serif;transition:all .2s var(--ease)}
+.chip.on,.store-chip.on{background:var(--ink);border-color:var(--ink);color:#fff}
+.stores{display:flex;flex-wrap:wrap;gap:7px;padding:0}
+
+/* ---------------------------------------------------------- карточка образа */
+.card-hero{width:100%;height:300px;object-fit:cover;border-radius:0 0 22px 22px;display:block;background:var(--cream-deep)}
+.total{display:flex;align-items:baseline;gap:10px;padding:18px 20px 6px}
+.total .s{color:var(--soft);font-size:13.5px}
+.total .p,.total b{margin-left:auto;font-family:"Playfair Display",Georgia,serif;font-size:24px;color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
+.total span{color:var(--soft);font-size:13.5px}
+
+/* Текстовая часть карточки вещи */
+.item .info{min-width:0}
+
+/* Обёртка экрана: мягкое появление при переходе между вкладками */
+.screen{animation:screenIn .3s var(--ease)}
+@keyframes screenIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.row{display:flex;align-items:center;gap:12px;padding:14px 16px;background:var(--white);
+  border-radius:16px;box-shadow:var(--shadow-s);border:none}
+.row.stack{display:grid;gap:10px;padding:14px 16px}
+.row .k{font-size:12.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--soft)}
+.row .v{margin-left:auto;font-size:15px;font-weight:600;color:var(--ink)}
+.row.stack .v{margin-left:0}
+.tag{display:inline-block;font-size:11.5px;font-weight:700;color:var(--accent);background:rgba(255,77,106,.1);padding:5px 9px;border-radius:8px}
+.cap{font-size:12.5px;color:var(--soft);padding:0 20px 10px}
+.steps{display:grid;gap:12px;padding:8px 20px}
+.steps .k{font-family:"Playfair Display",serif;font-size:14px;color:var(--accent);font-weight:600}
+.steps .v{font-size:14.5px;color:var(--ink)}
+.stack{display:grid;gap:10px;padding:4px 20px}
+
+/* ---------------------------------------------------------- тариф */
+.plan{
+  background:var(--ink);color:#fff;border-radius:20px;padding:22px;margin:8px 20px 14px;
+  position:relative;overflow:hidden;box-shadow:var(--shadow-m);
+}
+.plan::before{content:"";position:absolute;width:220px;height:220px;right:-80px;top:-90px;border-radius:50%;background:radial-gradient(circle,rgba(255,77,106,.45),transparent 70%)}
+.plan h3,.plan .price{font-family:"Playfair Display",serif;font-size:38px;color:#fff;font-weight:600;position:relative}
+.plan small{font:500 15px Manrope,sans-serif;opacity:.72}
+.plan p{color:rgba(255,255,255,.75);font-size:13.5px;margin-top:6px;position:relative}
+.plan .btn-primary{margin-top:18px;position:relative}
+.plan .name{font-size:12.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;
+  color:rgba(255,255,255,.7);position:relative}
+.plan ul{list-style:none;margin-top:14px;display:grid;gap:8px;position:relative}
+.plan li{font-size:13.5px;color:rgba(255,255,255,.82);padding-left:18px;position:relative}
+.plan li::before{content:"";position:absolute;left:0;top:8px;width:7px;height:7px;
+  border-radius:50%;background:var(--accent)}
+
+/* ---------------------------------------------------------- таббар */
+.nav{
+  position:fixed;left:0;right:0;bottom:0;z-index:30;
+  height:calc(var(--tab-h) + env(safe-area-inset-bottom,0px));
+  padding:8px 6px calc(14px + env(safe-area-inset-bottom,0px));
+  display:flex;background:rgba(255,248,246,.93);backdrop-filter:blur(16px) saturate(140%);
+  border-top:1px solid var(--line);
+}
+.nav button{flex:1;background:none;border:none;display:grid;gap:4px;justify-items:center;font:600 10.5px Manrope,sans-serif;color:var(--soft);transition:color .2s}
+.nav button svg{width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.nav button.on{color:var(--accent)}
+/* Разбор - то, ради чего пришли: центральная кнопка крупнее и всегда цветная */
+.nav button.main svg{width:26px;height:26px;stroke-width:1.6}
+.nav button.main{color:var(--ink)}
+.nav button.main.on{color:var(--accent)}
+.nav .ic{display:none}                        /* старые эмодзи-иконки */
+
+/* ---------------------------------------------------------- служебное */
+.toast{
+  position:fixed;left:50%;bottom:calc(var(--tab-h) + 22px);transform:translateX(-50%) translateY(12px);
+  background:var(--ink);color:#fff;padding:12px 18px;border-radius:12px;font-size:14px;font-weight:600;
+  opacity:0;pointer-events:none;transition:opacity .25s var(--ease),transform .25s var(--ease);z-index:60;
+  box-shadow:var(--shadow-m);max-width:86vw;text-align:center;
+}
+.toast.on{opacity:1;transform:translateX(-50%)}
+.demo-badge{
+  position:fixed;top:calc(env(safe-area-inset-top,0px) + 10px);left:50%;transform:translateX(-50%);
+  background:rgba(51,35,44,.9);color:#fff;font-size:11px;font-weight:700;padding:5px 11px;border-radius:8px;z-index:70;
+}
+
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important;transition:none!important}
+}

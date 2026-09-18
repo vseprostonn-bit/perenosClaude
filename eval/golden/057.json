@@ -1,0 +1,389 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Лёгкий городской шик.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        3851
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        710
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка прямая",
+      "color": "бежевый",
+      "search_query": "рубашка прямая бежевый",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "бежевый",
+      "search_query": "брюки широкие бежевый",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": "макси",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "балетки",
+      "color": "белый",
+      "search_query": "балетки белый",
+      "type": "балетки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка плетеная",
+      "color": "бежевый",
+      "search_query": "сумка плетеная бежевый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 7916,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042pl/BF2631418042pl_65_1.jpg"
+      },
+      {
+        "id": 157596,
+        "title": "Длинная рубашка из жатой ткани, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 4599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/08a/500_600_b936/186020940299.jpg"
+      },
+      {
+        "id": 1919,
+        "title": "Рубашка прямая в клетку с воротником-косынкой",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1999,
+        "score": 0.9318,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418076/BF2631418076_65_1.jpg"
+      },
+      {
+        "id": 7884,
+        "title": "Рубашка прямая хлопковая в клетку",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.9318,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418074/BF2631418074_65_1.jpg"
+      },
+      {
+        "id": 155925,
+        "title": "Пижамная рубашка в полоску, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.9318,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/806/500_600_ab4f/172044830299.jpg"
+      },
+      {
+        "id": 92439,
+        "title": "Женская рубашка Corduroy Jacket",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/149/1000_1000_0/ko4fhj0t8ld7fbsxfqboq21glfsmnd0c.jpg"
+      },
+      {
+        "id": 3219,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_26_1.jpg"
+      },
+      {
+        "id": 7918,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043pl/BF2631418043pl_26_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2630,
+        "title": "Брюки широкие из тенсела на завязках с кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308025/BF2621308025_62_1.jpg"
+      },
+      {
+        "id": 4956,
+        "title": "Брюки широкие костюмные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308001/BF2641308001_64_100.jpg"
+      },
+      {
+        "id": 5970,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_61_1.jpg"
+      },
+      {
+        "id": 6357,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_61_1.jpg"
+      },
+      {
+        "id": 2449,
+        "title": "Брюки-баллоны трикотажные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641108004/BF2641108004_36_100.jpg"
+      },
+      {
+        "id": 3211,
+        "title": "Брюки-джоггеры вязаные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631508001/BF2631508001_36_1.jpg"
+      },
+      {
+        "id": 3851,
+        "title": "Брюки-прямые со средней посадкой на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308059/BF2631308059_65_1.jpg"
+      },
+      {
+        "id": 4646,
+        "title": "Брюки спортивные с лампасами на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708006/BF2631708006_62_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 93718,
+        "title": "Подростковые балетки Samba Jane",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/58b/v8hux60fp3m2m0bnmuhxm6av8c4j0rs3.jpg"
+      },
+      {
+        "id": 126477,
+        "title": "Женские балетки Samba Jane",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 10499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/847/oi0beanhg27t9lr2lo8x90josvqhrh0v.jpg"
+      },
+      {
+        "id": 159828,
+        "title": "Полупрозрачные «желейные» балетки для девочек, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/13b/500_600_14a0/185314330299.jpg"
+      },
+      {
+        "id": 1745,
+        "title": "Балетки на шнуровке из гобелена",
+        "store": "befree",
+        "color": "белый",
+        "price": 3999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626682030/BF2626682030_99_2.jpg"
+      },
+      {
+        "id": 5920,
+        "title": "Балетки сетчатые с вышивкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626682021/BF2626682021_1_1.jpg"
+      },
+      {
+        "id": 5911,
+        "title": "Балетки сетчатые на липучке",
+        "store": "befree",
+        "color": "белый",
+        "price": 1299,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682002/BF2636682002_1_11.jpg"
+      },
+      {
+        "id": 5919,
+        "title": "Балетки сетчатые с ремешком",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682003/BF2636682003_1_1.jpg"
+      },
+      {
+        "id": 100559,
+        "title": "Женские балетки PUMA Speedcat Ballet Nova",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 11499,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e44/h80re3wh9drcvf3qjpgurah7godwstem.jpg"
+      }
+    ],
+    [
+      {
+        "id": 710,
+        "title": "Плетеная сумка из рафии",
+        "store": "finnflare",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/630/FSG11200_630_30.jpg"
+      },
+      {
+        "id": 136166,
+        "title": "Сумка Kappa, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2f8/141177690299.jpg"
+      },
+      {
+        "id": 139499,
+        "title": "Сумка PUMA, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/78f/194301880299.jpg"
+      },
+      {
+        "id": 139612,
+        "title": "Сумка adidas, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5399,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/23c/190704020299.jpg"
+      },
+      {
+        "id": 139845,
+        "title": "Сумка adidas Leo Bowling Bag, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/29a/195097850299.jpg"
+      },
+      {
+        "id": 140142,
+        "title": "Сумка Demix, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/792/111673430299.jpg"
+      },
+      {
+        "id": 141002,
+        "title": "Сумка для коврика Sensana, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1699,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2c2/162786200299.jpg"
+      },
+      {
+        "id": 146216,
+        "title": "Сумка Reebok Arlo, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/21c/194954490299.jpg"
+      }
+    ]
+  ]
+}

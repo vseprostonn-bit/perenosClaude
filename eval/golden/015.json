@@ -1,0 +1,293 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Элегантный городской стиль.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "absent"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        55680,
+        9712
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "блуза с рукавами",
+      "color": "синий",
+      "search_query": "блузка синий",
+      "type": "блузка",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди",
+      "color": "белый",
+      "search_query": "юбка миди белый",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "цветочный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли",
+      "color": "золотой",
+      "search_query": "туфли золотой",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 58209,
+        "title": "Шелковая блузка Essentiel Antwerp",
+        "store": "tsum",
+        "color": "синий",
+        "price": 2590,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d984435cc9cb2f72b56ae2a00cc22a16/height/808/i/eb/17/8c/67/eb178c67-cd79-3428-8f3e-af38a2807ff1.jpg"
+      },
+      {
+        "id": 6012,
+        "title": "Блузка приталенная с рукавами клеш",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1199,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2531418028/BF2531418028_42_1.jpg"
+      },
+      {
+        "id": 56090,
+        "title": "Блузка Ralph Lauren",
+        "store": "tsum",
+        "color": "синий",
+        "price": 15500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/aa8260bdc4a816e66fc3c34501514140/height/808/i/b2/0f/e2/21/b20fe221-2faa-3dc8-b0a5-04fd194b7406.jpg"
+      },
+      {
+        "id": 56575,
+        "title": "Блузка из вискозы Colville",
+        "store": "tsum",
+        "color": "синий",
+        "price": 19150,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/64af120504431c639bdf41e534409467/height/808/i/0c/bd/12/d1/20465d2b-39a8-435d-a526-ce3daa413d4d.jpg"
+      },
+      {
+        "id": 58130,
+        "title": "Шелковая блузка Max Mara Studio",
+        "store": "tsum",
+        "color": "синий",
+        "price": 34650,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/db889c64f0307fce2701d1fbb694d095/height/808/i/85/5c/9e/1d/71ac9482-58b2-4162-baad-b01d7b87a7e6.jpg"
+      },
+      {
+        "id": 6915,
+        "title": "Блузка атласная с глубоким вырезом и кружевом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1799,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621418163/BF2621418163_41_1.jpg"
+      },
+      {
+        "id": 56247,
+        "title": "Хлопковая блузка Scotch and Soda",
+        "store": "tsum",
+        "color": "фиолетовый",
+        "price": 2995,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/9fb883cfe7bc9308f549345a4d6de26a/height/808/i/2e/95/ce/82/2e95ce82-3360-3d2a-b605-5a7f677aec0b.jpg"
+      },
+      {
+        "id": 156776,
+        "title": "Полупрозрачная блузка из лиоцелла, Голубой",
+        "store": "ostin",
+        "color": "голубой",
+        "price": 1599,
+        "score": 0.8,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/e04/500_600_1d3b/183090060299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55475,
+        "title": "Хлопковая юбка LVIR",
+        "store": "tsum",
+        "color": "белый",
+        "price": 15200,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/96d6fb32f144bb9d57760fd4ec3f4d25/height/808/i/3b/68/48/56/3d8180d6-47e7-4b37-812a-fc851b09d927.jpg"
+      },
+      {
+        "id": 55530,
+        "title": "Плиссированная юбка Hood by Air",
+        "store": "tsum",
+        "color": "белый",
+        "price": 6810,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f2d0b710c0bb63fa7122a7c880afb765/height/808/i/6f/36/31/e6/0dbaaae1-e1ea-46a4-924e-ecaf1171deb3.jpg"
+      },
+      {
+        "id": 55835,
+        "title": "Юбка из вискозы Ports 1961",
+        "store": "tsum",
+        "color": "белый",
+        "price": 13000,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0a19d19cb59fdfc7edff6ba70a3df6a8/height/808/i/90/ef/eb/b3/90efebb3-c24d-307a-b244-f5258fd65a78.jpg"
+      },
+      {
+        "id": 56023,
+        "title": "Юбка JW Anderson",
+        "store": "tsum",
+        "color": "белый",
+        "price": 15400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b1b4f68bd15a9ecf1adfa0cb284a05fe/height/808/i/c4/a0/96/d2/57ffdee2-f20d-4035-b913-7ecbd27988fb.jpg"
+      },
+      {
+        "id": 56427,
+        "title": "Хлопковая юбка Paade Mode",
+        "store": "tsum",
+        "color": "белый",
+        "price": 4735,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/da5437ec720117729d743efdc285588d/height/808/i/e0/e6/ed/22/74ff6f5a-db33-4df5-992a-fe43a73c5802.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Юбка-шорты из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.8636,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17005_201_20.jpg"
+      },
+      {
+        "id": 4969,
+        "title": "Юбка-шорты мини из гобелена",
+        "store": "befree",
+        "color": "белый",
+        "price": 2599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641312034/BF2641312034_99_1.jpg"
+      },
+      {
+        "id": 5588,
+        "title": "Юбка домашняя атласная на резинке",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631812021/BF2631812021_4_11.jpg"
+      }
+    ],
+    [
+      {
+        "id": 58559,
+        "title": "Домашние туфли из кожи Babbi",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 6395,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/478182453a1cd86f6218032eee3f1620/height/808/i/5a/a1/fe/79/5aa1fe79-78a0-3b0c-9589-773e293ef924.jpg"
+      },
+      {
+        "id": 55680,
+        "title": "Туфли Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 44750,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/b628faed6cf37d59bcc27158286ae38c/height/808/i/ff/56/3a/0d/f8a19cba-a71e-4ca3-a1bd-059d285376d1.jpg"
+      },
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      },
+      {
+        "id": 10336,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 11999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870025_50.jpg"
+      },
+      {
+        "id": 10583,
+        "title": "Туфли-лодочки из атласа",
+        "store": "loverepublic",
+        "color": null,
+        "price": 5999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/54427/thumb/300_9999/544270035_90.jpg"
+      },
+      {
+        "id": 54961,
+        "title": "Кожаные туфли Strut Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 19950,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/f6fd8d2f6946edb6279ab9960290c3fc/height/808/i/d1/04/a8/c4/12e31ed1-f374-42dd-95ee-835985047531.jpg"
+      },
+      {
+        "id": 55013,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14850,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/71898f8f7ce5612f7a4874f40114c40b/height/808/i/78/f2/91/3b/519dc7c8-a7b5-427c-b844-47c6cd42cca6.jpg"
+      }
+    ]
+  ]
+}

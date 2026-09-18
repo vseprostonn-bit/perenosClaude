@@ -1,0 +1,391 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        1874,
+        6399
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        1614,
+        2014
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        6330
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "кардиган свободный",
+      "color": "красный",
+      "search_query": "кардиган свободный красный",
+      "type": "свитер",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "джинсы прямые",
+      "color": "голубой",
+      "search_query": "джинсы прямые голубой",
+      "type": "джинсы",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли лакированные",
+      "color": "бордовый",
+      "search_query": "туфли лакированные бордовый",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "бордовый",
+      "search_query": "сумка через плечо бордовая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1874,
+        "title": "Джемпер вязаный с имитацией второго слоя",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526004/BF2631526004_70_1.jpg"
+      },
+      {
+        "id": 3247,
+        "title": "Свитшот из футера с воротником-стойкой на молнии утепленный",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631123010/BF2631123010_70_1.jpg"
+      },
+      {
+        "id": 4922,
+        "title": "Джемпер шерстяной с воротником-стойкой",
+        "store": "befree",
+        "color": "красный",
+        "price": 1299,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2541526023/BF2541526023_70_1.jpg"
+      },
+      {
+        "id": 5249,
+        "title": "Лонгслив на одно плечо со сборками на завязках",
+        "store": "befree",
+        "color": "красный",
+        "price": 1999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632418021/BF2632418021_77_1.jpg"
+      },
+      {
+        "id": 6101,
+        "title": "Джемпер вязаный на молнии с воротником",
+        "store": "befree",
+        "color": "красный",
+        "price": 3799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527026pl/BF2641527026pl_70_1.jpg"
+      },
+      {
+        "id": 6399,
+        "title": "Лонгслив на пуговицах с имитацией второго слоя",
+        "store": "befree",
+        "color": "красный",
+        "price": 1199,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622122008/BF2622122008_77_1.jpg"
+      },
+      {
+        "id": 6525,
+        "title": "Джемпер оверсайз вязаный",
+        "store": "befree",
+        "color": "красный",
+        "price": 3599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632526023/BF2632526023_70_1.jpg"
+      },
+      {
+        "id": 6531,
+        "title": "Джемпер вязаный с воротником-стойкой на пуговицах и шерстью",
+        "store": "befree",
+        "color": "красный",
+        "price": 3299,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641526005/BF2641526005_70_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4838,
+        "title": "Джинсы прямые с низкой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631209073/BF2631209073_102_1.jpg"
+      },
+      {
+        "id": 2396,
+        "title": "Джинсы прямые со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1299,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209067/BF2621209067_101_1.jpg"
+      },
+      {
+        "id": 6766,
+        "title": "Джинсы прямые со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1299,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209067/BF2621209067_102_1.jpg"
+      },
+      {
+        "id": 1614,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/WideSS18/WideSS18_100_1.jpg"
+      },
+      {
+        "id": 1618,
+        "title": "Джинсы-аладдины из лиоцелла со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209065/BF2621209065_101_1.jpg"
+      },
+      {
+        "id": 1697,
+        "title": "Джинсы багги рваные со средней посадкой и кружевом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209064/BF2621209064_100_1.jpg"
+      },
+      {
+        "id": 1698,
+        "title": "Джинсы-баллоны со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209068/BF2621209068_101_1.jpg"
+      },
+      {
+        "id": 2014,
+        "title": "Джинсы клеш с высокой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Flare14p2/Flare14p2_103_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3077,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_20_1.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_20_11.jpg"
+      },
+      {
+        "id": 4927,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_20_11.jpg"
+      },
+      {
+        "id": 5617,
+        "title": "Туфли-слингбэки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682023/BF2636682023_70_13.jpg"
+      },
+      {
+        "id": 159681,
+        "title": "Сатиновые туфли-лодочки, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.7545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cd6/500_600_f7b2/172369780299.jpg"
+      },
+      {
+        "id": 1807,
+        "title": "Туфли на танкетке лаковые из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682008/BF2636682008_20_2.jpg"
+      },
+      {
+        "id": 6663,
+        "title": "Туфли с перемычкой между пальцами из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688019/BF2626688019_20_11.jpg"
+      },
+      {
+        "id": 8191,
+        "title": "Туфли-мюли с открытым носом и декором из бусин",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 799,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683008/BF2626683008_20_3.jpg"
+      }
+    ],
+    [
+      {
+        "id": 5353,
+        "title": "Сумка-багет мягкая с ремешком",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 4799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645457010/BF2645457010_71_11.jpg"
+      },
+      {
+        "id": 6330,
+        "title": "Сумка-багет из искусственной кожи на коротких ручках",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457045/BF2635457045_71_11.jpg"
+      },
+      {
+        "id": 1935,
+        "title": "Сумка-тоут на плечо с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457038/BF2635457038_20_11.jpg"
+      },
+      {
+        "id": 6976,
+        "title": "Сумка через плечо каркасная из искусственной кожи с карабином",
+        "store": "befree",
+        "color": "красный",
+        "price": 2299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457077/BF2635457077_70_12.jpg"
+      },
+      {
+        "id": 7317,
+        "title": "Сумка-багет на плечо с завязками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457036/BF2635457036_20_12.jpg"
+      },
+      {
+        "id": 91356,
+        "title": "Сумка через плечо Consigned Flinn Crossbody Bag",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 0.8909,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9af/1000_1000_0/99rrxf1etxnuhuchbrg7jdyrel8qj2xu.jpg"
+      },
+      {
+        "id": 129421,
+        "title": "Сумка через плечо PUMA FWD Cross Body",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 4499,
+        "score": 0.8909,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/615/35icjhm31wn0uzyhhmuxhd8kvqx3yxmx.jpg"
+      },
+      {
+        "id": 146581,
+        "title": "Сумка через плечо Under Armour Essential, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 3399,
+        "score": 0.8909,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/e89/185430160299.jpg"
+      }
+    ]
+  ]
+}

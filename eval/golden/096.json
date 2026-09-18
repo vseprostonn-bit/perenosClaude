@@ -1,0 +1,390 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [
+        3218
+      ],
+      "acceptable": [],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        55680,
+        10024
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        156669
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка классическая",
+      "color": "белый",
+      "search_query": "рубашка белая",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка прямая",
+      "color": "синий",
+      "search_query": "юбка синяя прямая",
+      "type": "юбка",
+      "silhouette": "прямые",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли лодочки",
+      "color": "бежевый",
+      "search_query": "туфли лодочки бежевые",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "красный",
+      "search_query": "сумка красная через плечо",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 54542,
+        "title": "Удлиненная белая рубашка увеличенного объема для девочек",
+        "store": "sela",
+        "color": "белый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://www.sela.ru/wa-data/public/shop/products/96/70/217096/images/952480/952480.970.jpg"
+      },
+      {
+        "id": 3218,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_1_1.jpg"
+      },
+      {
+        "id": 3220,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_4_1.jpg"
+      },
+      {
+        "id": 3254,
+        "title": "Рубашка хлопковая с баской",
+        "store": "befree",
+        "color": "белый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418061/BF2631418061_1_1.jpg"
+      },
+      {
+        "id": 4827,
+        "title": "Рубашка хлопковая со сборками на завязках по бокам",
+        "store": "befree",
+        "color": "белый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632418017/BF2632418017_1_1.jpg"
+      },
+      {
+        "id": 6579,
+        "title": "Рубашка на крючках",
+        "store": "befree",
+        "color": "белый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641418003/BF2641418003_1_1.jpg"
+      },
+      {
+        "id": 6755,
+        "title": "Рубашка укороченная хлопковая с вареным эффектом",
+        "store": "befree",
+        "color": "белый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621418131/BF2621418131_1_1.jpg"
+      },
+      {
+        "id": 94062,
+        "title": "Женская рубашка PUMA WARDROBE ESS Shirt",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 4799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7ad/0bd09or8guj6z8hlz7ita1fe32u5fl0y.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4625,
+        "title": "Юбка-шорты мини пышная с лампасами и лентами",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631712001/BF2631712001_40_1.jpg"
+      },
+      {
+        "id": 5440,
+        "title": "Юбка-шорты мини многоярусная с вышивкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 799,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621312002/BF2621312002_44_1.jpg"
+      },
+      {
+        "id": 55614,
+        "title": "Хлопковая юбка Michael Lo Sordo",
+        "store": "tsum",
+        "color": "синий",
+        "price": 8400,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/d8259d27372c9a03d345d47c119a2d7c/height/808/i/73/5a/7d/bd/6e035a8f-29e5-4a5b-87c9-b1e16b4b0e24.jpg"
+      },
+      {
+        "id": 55474,
+        "title": "Шерстяная юбка We11done",
+        "store": "tsum",
+        "color": "синий",
+        "price": 52450,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/f157afe972089041da6fcfe428f8f6b1/height/808/i/36/2c/88/dc/9fae2225-0af3-4d6e-a59a-2e62f618e671.jpg"
+      },
+      {
+        "id": 56470,
+        "title": "Шелковая юбка Kika Vargas",
+        "store": "tsum",
+        "color": "синий",
+        "price": 13950,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/51eb40efda48e272bd46198ef5b78d60/height/808/i/f9/ab/f2/53/89f78d86-bfca-4112-b595-9e769701cb16.jpg"
+      },
+      {
+        "id": 56487,
+        "title": "Хлопковая юбка Paade Mode",
+        "store": "tsum",
+        "color": "фиолетовый",
+        "price": 3595,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/656d1a4a8fb3dd48d7a11dd9d86d2f05/height/808/i/6b/bb/db/2b/dc470cea-99f3-4a16-9d1c-153603844fdf.jpg"
+      },
+      {
+        "id": 1883,
+        "title": "Юбка-шорты мини облегающая костюмная",
+        "store": "befree",
+        "color": "синий",
+        "price": 1999,
+        "score": 0.7989,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312032/BF2631312032_45_1.jpg"
+      },
+      {
+        "id": 55421,
+        "title": "Хлопковая юбка Lug Von Siga",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 8195,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/4437585bd88dc9f04742a1c51b9ee329/height/808/i/72/4d/b8/6f/724db86f-0750-3af1-996f-58111e6d2863.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55680,
+        "title": "Туфли Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 44750,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/b628faed6cf37d59bcc27158286ae38c/height/808/i/ff/56/3a/0d/f8a19cba-a71e-4ca3-a1bd-059d285376d1.jpg"
+      },
+      {
+        "id": 4927,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_20_11.jpg"
+      },
+      {
+        "id": 159681,
+        "title": "Сатиновые туфли-лодочки, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.8455,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cd6/500_600_f7b2/172369780299.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_20_11.jpg"
+      },
+      {
+        "id": 5445,
+        "title": "Туфли-балетки кроше с завязками",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3299,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626682019/BF2626682019_60_1.jpg"
+      },
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      },
+      {
+        "id": 10336,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 11999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870025_50.jpg"
+      }
+    ],
+    [
+      {
+        "id": 6976,
+        "title": "Сумка через плечо каркасная из искусственной кожи с карабином",
+        "store": "befree",
+        "color": "красный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457077/BF2635457077_70_12.jpg"
+      },
+      {
+        "id": 146581,
+        "title": "Сумка через плечо Under Armour Essential, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 3399,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/e89/185430160299.jpg"
+      },
+      {
+        "id": 156669,
+        "title": "Сумка на плечо, Красный",
+        "store": "ostin",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/ba0/500_600_c67e/178585140299.jpg"
+      },
+      {
+        "id": 4507,
+        "title": "Сумка из искусственной кожи с заклепками и замком",
+        "store": "befree",
+        "color": "красный",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457053/BF2635457053_70_11.jpg"
+      },
+      {
+        "id": 6653,
+        "title": "Сумка женская",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645457013/BF2645457013_70_1.jpg"
+      },
+      {
+        "id": 93922,
+        "title": "Сумка на пояс PUMA FERRARI Waist Bag",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 4499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/908/2srkkiautuhpowx19xipizhlulk3rige.jpg"
+      },
+      {
+        "id": 132660,
+        "title": "Поясная сумка ACTIVE SLING BELT",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 4599,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/ad7/ye7jum770ut36zurvhzpcxt1peoy5iyt.jpg"
+      },
+      {
+        "id": 138577,
+        "title": "Сумка на пояс Tatonka Funny M, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 2099,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/21d/156354740299.jpg"
+      }
+    ]
+  ]
+}

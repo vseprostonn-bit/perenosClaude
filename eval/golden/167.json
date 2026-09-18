@@ -1,0 +1,287 @@
+{
+  "gender": "men",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка с коротким рукавом",
+      "color": "бежевый",
+      "search_query": "рубашка короткий рукав бежевый",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "короткий",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки чинос",
+      "color": "темно-синий",
+      "search_query": "брюки чинос темно-синий",
+      "type": "брюки",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": null,
+      "fit": "высокая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 2341,
+        "title": "Рубашка с коротким рукавом из вискозы со льном и хлопком",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2623117004/BF2623117004_62_1.jpg"
+      },
+      {
+        "id": 61165,
+        "title": "Хлопковая рубашка A-COLD-WALL",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 19250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/eda96279dc063954b214f4acd7e6d34d/height/808/i/25/ea/3c/7e/40462a3b-82b4-4200-82c9-1ab8b85050ee.jpg"
+      },
+      {
+        "id": 61721,
+        "title": "Рубашка из хлопка и льна Sonrisa",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 15950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3d0ca7e94318f5254d1f39a3be477b6b/height/808/i/b3/00/0e/cb/cada936c-09bd-4916-8f7c-b2f6e3da2b7a.jpg"
+      },
+      {
+        "id": 62338,
+        "title": "Хлопковая рубашка Aspesi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 15700,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b2c28645361aa5417fdc3024fe15d9af/height/808/i/f5/91/33/8d/70c4e375-4cfd-4897-980d-c16d01487846.jpg"
+      },
+      {
+        "id": 63528,
+        "title": "Льняная рубашка Aspesi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 17850,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/666cfde80d23815aa37f086e5abd47ca/height/808/i/34/bb/d7/f1/73d93eb0-561f-44d2-9d83-eb4eda777088.jpg"
+      },
+      {
+        "id": 92448,
+        "title": "Мужская рубашка",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c8b/xzcvq9q7h5rtxnbg5rvghmnbnz5f2rf5.jpg"
+      },
+      {
+        "id": 110819,
+        "title": "Мужская рубашка G-Boyd",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a37/zekp05aivzn89djway1e6xpna8564ltg.jpg"
+      },
+      {
+        "id": 113677,
+        "title": "Мужская рубашка Wardrobe Essentials Shirt",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 5499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/91b/e0ljx197cccjtsdiy0tr6hmlxl4d36ov.jpg"
+      }
+    ],
+    [
+      {
+        "id": 71355,
+        "title": "Брюки чинос темно-синие на кулиске из шерсти с вытачками",
+        "store": "kanzler",
+        "color": "синий",
+        "price": 8990,
+        "score": 1.0,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/76e/tdaksc18jgsyaonzkpm1jseqrgdd38a3.jpg"
+      },
+      {
+        "id": 58449,
+        "title": "Льняные брюки Aspesi",
+        "store": "tsum",
+        "color": "синий",
+        "price": 13500,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/41073a90ca451e64e0402d917d3d2400/height/808/i/e8/8d/c0/e6/5ef3bef1-3031-46ff-976c-7728582a0480.jpg"
+      },
+      {
+        "id": 59169,
+        "title": "Льняные брюки Aspesi",
+        "store": "tsum",
+        "color": "синий",
+        "price": 13950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0088b2d99ca09671605ec41702ffa5db/height/808/i/7f/de/8f/97/ab68d08f-3ded-4fa7-ad63-135fcd0729e1.jpg"
+      },
+      {
+        "id": 59381,
+        "title": "Льняные брюки Aspesi",
+        "store": "tsum",
+        "color": "синий",
+        "price": 12850,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/edd8d07c716d873d6e8d9329c4de20c9/height/808/i/70/fe/ca/0b/a5141242-f0cb-4209-a925-9538998238ef.jpg"
+      },
+      {
+        "id": 60628,
+        "title": "Брюки Bogner Fire+Ice",
+        "store": "tsum",
+        "color": "синий",
+        "price": 16800,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9f2b45efb470a475132fb36149dd1f6c/height/808/i/ad/16/f1/d2/0ec19459-6809-4354-ae66-3f22aabbced9.jpg"
+      },
+      {
+        "id": 60826,
+        "title": "Шерстяные брюки-карго Dondup",
+        "store": "tsum",
+        "color": "синий",
+        "price": 19950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9298665b05c5fdb4a2bc5e978b5b94b0/height/808/i/52/bc/c8/2f/cc3b776a-c77d-4936-b3bd-b80276c5b69a.jpg"
+      },
+      {
+        "id": 60877,
+        "title": "Хлопковые брюки Harmont & Blaine",
+        "store": "tsum",
+        "color": "синий",
+        "price": 15300,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/4740f918febf63f7be35758a8918a250/height/808/i/de/5c/2a/1f/e2416d60-eb81-4ec1-a426-d294ed6bd6fb.jpg"
+      },
+      {
+        "id": 60919,
+        "title": "Шерстяные брюки Dondup",
+        "store": "tsum",
+        "color": "синий",
+        "price": 16550,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/7ecb5ed632f9dfaaa7c47981f83bdd61/height/808/i/e3/2d/f1/54/8470b5c2-0723-4b30-bfd4-626b33af4c92.jpg"
+      }
+    ],
+    [
+      {
+        "id": 68878,
+        "title": "Кроссовки из натуральной кожи",
+        "store": "kanzler",
+        "color": "белый",
+        "price": 9990,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/984/z1ixraxw6nir8h8u1xm55dh91fzh0eyq.jpg"
+      },
+      {
+        "id": 87217,
+        "title": "Мужские кроссовки Rivalry Low",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 8499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a44/m3x5pv04v0po0h4ytqvo90omhb11szs2.JPG"
+      },
+      {
+        "id": 87227,
+        "title": "Мужские кроссовки PUMA Slipstream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a22/7x0720yqp5fjwxqhsyabroi1i6ybb2v2.jpg"
+      },
+      {
+        "id": 87319,
+        "title": "Мужские кроссовки Universum",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/703/3opw55uchl0t6yazri0o71u8iyo9lyzd.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87854,
+        "title": "Мужские кроссовки PUMA MagMax NITRO",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a72/e2wfp1j7dduevon8jimjq56hsruuya4s.jpg"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "gender": "men",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка поло",
+      "color": "розовый",
+      "search_query": "поло розовый",
+      "type": "поло",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "короткий",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки чинос",
+      "color": "бежевый",
+      "search_query": "брюки чинос бежевые",
+      "type": "брюки",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": null,
+      "fit": "средняя посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли дерби",
+      "color": "коричневый",
+      "search_query": "туфли дерби коричневые",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 62591,
+        "title": "Хлопковое поло Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 9280,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/2ab6626f5d2a0e8a30b3b13c7a6516a9/height/808/i/d9/09/c0/f0/63ed58a3-4244-4303-be9a-ca0b17db1189.jpg"
+      },
+      {
+        "id": 63445,
+        "title": "Хлопковое поло Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 11150,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/2496311e63b1cd073278d8ff5c89d67d/height/808/i/e7/c6/7a/ed/22332309-f21c-4b86-9ef0-ec67d1e9fa49.jpg"
+      },
+      {
+        "id": 72834,
+        "title": "Поло из хлопка",
+        "store": "kanzler",
+        "color": "розовый",
+        "price": 3990,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/7f0/1sohshet9bxtt01xsr6bfyx1pddkq0kc.JPG"
+      },
+      {
+        "id": 73146,
+        "title": "Поло из хлопка Пима",
+        "store": "kanzler",
+        "color": "розовый",
+        "price": 4990,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/860/9cid75ha5e2xp5hwbwa9a8uc9ez8c0uq.JPG"
+      },
+      {
+        "id": 60704,
+        "title": "Поло из кашемира и шелка Il Borgo Cashmere",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 105000,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/8cbb5e44d4293dcc409486347dc86a88/height/808/i/e0/54/b5/66/204596d3-b236-492a-b0bc-25c745a1ec15.jpg"
+      },
+      {
+        "id": 62507,
+        "title": "Хлопковое поло Il Borgo Cashmere",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 42000,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/b429a33f5e24c8f421a6af03992d3e99/height/808/i/3d/34/a7/ca/7515deee-a6ad-4464-adde-3a75fab6e5dd.jpg"
+      },
+      {
+        "id": 62128,
+        "title": "Хлопковое поло K-Way",
+        "store": "tsum",
+        "color": "красный",
+        "price": 6335,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/e1ad72e34149a421d50a60e3bcfec9b3/height/808/i/4c/74/db/00/ca1b1394-0ec3-499b-9922-0f9ada643afa.jpg"
+      },
+      {
+        "id": 87206,
+        "title": "Шелковое поло Svevo",
+        "store": "tsum",
+        "color": "красный",
+        "price": 28750,
+        "score": 0.7091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d6e41f1d2805f722c1704cdf8ab9f4e1/height/808/i/5f/51/73/f8/5f5173f8-63bf-3c45-be06-d425f54beb4e.jpg"
+      }
+    ],
+    [
+      {
+        "id": 68505,
+        "title": "Брюки чинос светло-бежевые из хлопка",
+        "store": "kanzler",
+        "color": "бежевый",
+        "price": 2990,
+        "score": 0.9545,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/e8d/4sbzk7n6lykh03h1uzjgcw2s2wloxxgo.jpg"
+      },
+      {
+        "id": 60681,
+        "title": "Брюки Fradi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/5fa7bc834a2a0ef0a361465168372dec/height/808/i/03/ef/5d/4c/c0927af4-16f9-4910-9e61-d1aa145fdafd.jpg"
+      },
+      {
+        "id": 60743,
+        "title": "Брюки BOSS Green",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14650,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/091de6681b71d2f3fc141f92ee2a3911/height/808/i/6d/d7/b1/95/77c5e27f-6c7f-44cd-9d31-e1c41d42f9e9.jpg"
+      },
+      {
+        "id": 60842,
+        "title": "Хлопковые брюки-карго Fradi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 13250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d518973532ebd242e470f51d8c1102c1/height/808/i/b5/44/2e/10/718b2a70-556e-4fae-a9a1-e7ddaa9cf1ae.jpg"
+      },
+      {
+        "id": 60932,
+        "title": "Хлопковые брюки Notsonormal",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 16550,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c7cbb58904ca9ec8f9a03ecc1bedc797/height/808/i/90/4b/36/a2/904b36a2-ebec-31dd-aff2-db252f24d0cb.jpg"
+      },
+      {
+        "id": 60992,
+        "title": "Хлопковые брюки Richard J. Brown",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20600,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9f7162946c1776804d8d9d1246025add/height/808/i/e9/de/73/9d/54b8131a-dcd1-4faa-9338-2cbf4c6d8a78.jpg"
+      },
+      {
+        "id": 61526,
+        "title": "Хлопковые брюки 7 For All Mankind",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/8191c413886727d6375157759613ff20/height/808/i/48/49/fa/a8/c802044e-01e5-4845-bc36-8a820764d815.jpg"
+      },
+      {
+        "id": 61548,
+        "title": "Хлопковые брюки Richard J. Brown",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20600,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/bdfe0258b92b88f55406c4f55815b3ac/height/808/i/d6/52/f3/34/acdbe418-cd00-469f-bf4f-27984e894942.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55013,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14850,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/71898f8f7ce5612f7a4874f40114c40b/height/808/i/78/f2/91/3b/519dc7c8-a7b5-427c-b844-47c6cd42cca6.jpg"
+      },
+      {
+        "id": 58559,
+        "title": "Домашние туфли из кожи Babbi",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 6395,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/478182453a1cd86f6218032eee3f1620/height/808/i/5a/a1/fe/79/5aa1fe79-78a0-3b0c-9589-773e293ef924.jpg"
+      },
+      {
+        "id": 60691,
+        "title": "Кожаные домашние туфли Aldo Brue",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22500,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/f149953381ad089e34d3d535e812a1e6/height/808/i/a1/26/2b/83/3f5fd197-80de-425a-8de8-8aa462ceeb57.jpg"
+      },
+      {
+        "id": 54877,
+        "title": "Кожаные слипоны Montelpare Tradition",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 6930,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/29afea359ebab6c18beb8af45ce1d4ee/height/808/i/5d/de/c4/56/5ddec456-9509-3d17-a653-95ce02e68c2d.jpg"
+      },
+      {
+        "id": 57135,
+        "title": "Кроссовки Moschino",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 13700,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/3dde36062c0a628b7ae91545736c01c0/height/808/i/23/25/90/ce/39d847b9-ba7e-49cf-b481-216934be9cf4.jpg"
+      },
+      {
+        "id": 57138,
+        "title": "Кроссовки Moschino",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 12450,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/edbad79d6bfebce411e71ad0587dde4c/height/808/i/47/3e/8c/1c/9bcd0cb0-6a62-4acd-8d24-26ecb8acfb38.jpg"
+      },
+      {
+        "id": 57644,
+        "title": "Кроссовки Moschino",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 11150,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/bc44f45eb0c5f46f446ec5af76d7de28/height/808/i/dd/6c/94/90/b0cf156b-3a21-4818-81c0-af0e9d786064.jpg"
+      },
+      {
+        "id": 57978,
+        "title": "Замшевые слипоны Montelpare Tradition",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 11500,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/0a1f3fcc89b351e943add9fce5e18d74/height/808/i/60/40/28/44/60402844-533b-3dd6-82a6-0a210a4e0faf.jpg"
+      }
+    ]
+  ]
+}

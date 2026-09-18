@@ -1,0 +1,391 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Яркий городской стиль",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        59426,
+        155914
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        5445
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        156669,
+        6653
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "водолазка",
+      "color": "красный",
+      "search_query": "топ водолазка красный",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка-карандаш",
+      "color": "жёлтый",
+      "search_query": "юбка карандаш жёлтый",
+      "type": "юбка",
+      "silhouette": "прямой",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли",
+      "color": "бежевый",
+      "search_query": "туфли бежевые",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "красный",
+      "search_query": "сумка красная",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1689,
+        "title": "Лиф-топ купальный со шнуровкой",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2624730020/BF2624730020_70_1.jpg"
+      },
+      {
+        "id": 4897,
+        "title": "Топ облегающий на широких бретелях в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121039/BF2631121039_70_1.jpg"
+      },
+      {
+        "id": 5066,
+        "title": "Бюстгальтер-топ ажурный хлопковый с оборками",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830002/BF2634830002_75_11.jpg"
+      },
+      {
+        "id": 6413,
+        "title": "Майка-топ укороченная в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121023/BF2621121023_70_1.jpg"
+      },
+      {
+        "id": 7069,
+        "title": "Бюстгальтер-топ ажурный хлопковый с оборками",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830002/BF2634830002_70_11.jpg"
+      },
+      {
+        "id": 7529,
+        "title": "Майка-топ трикотажная облегающая",
+        "store": "befree",
+        "color": "красный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121003/BF2622121003_77_1.jpg"
+      },
+      {
+        "id": 7851,
+        "title": "Топ домашний приталенный ажурный на тонких бретелях",
+        "store": "befree",
+        "color": "красный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631821002/BF2631821002_75_11.jpg"
+      },
+      {
+        "id": 8045,
+        "title": "Бюстгальтер-топ в рубчик",
+        "store": "befree",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830095/BF2634830095_70_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 56360,
+        "title": "Хлопковая юбка Les Coyotes de Paris",
+        "store": "tsum",
+        "color": "желтый",
+        "price": 5235,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9456e1fd2ab56345d4ddb52067d25a7e/height/808/i/b9/d1/ed/fa/8d01442c-efc3-4eaa-b03c-95262275eb69.jpg"
+      },
+      {
+        "id": 58174,
+        "title": "Юбка Paade Mode",
+        "store": "tsum",
+        "color": "желтый",
+        "price": 8360,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3844cf5a55f942261e6170b219b1f095/height/808/i/c0/66/36/cc/bcac45f3-4559-4d65-b0d8-5a9a85cbdfee.jpg"
+      },
+      {
+        "id": 155914,
+        "title": "Трикотажная юбка из пушистой пряжи, Желтый",
+        "store": "ostin",
+        "color": "желтый",
+        "price": 1999,
+        "score": 0.8636,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/4b4/500_600_3454/169367580299.jpg"
+      },
+      {
+        "id": 157368,
+        "title": "Короткая юбка для девочек, Желтый",
+        "store": "ostin",
+        "color": "желтый",
+        "price": 1599,
+        "score": 0.8636,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/a06/500_600_50af/184105290299.jpg"
+      },
+      {
+        "id": 59426,
+        "title": "Шелковая юбка Albus Lumen",
+        "store": "tsum",
+        "color": "желтый",
+        "price": 25100,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/bcfef91853c9af910e1d132e6d77a5ac/height/808/i/b0/db/06/22/ff3587bb-e14c-4afa-a204-c9796bbb5c6b.jpg"
+      },
+      {
+        "id": 142325,
+        "title": "Юбка женская Outventure, Желтый",
+        "store": "sportmaster",
+        "color": "желтый",
+        "price": 1299,
+        "score": 0.8182,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/121/195396360299.jpg"
+      },
+      {
+        "id": 159809,
+        "title": "Юбка для девочек, Желтый",
+        "store": "ostin",
+        "color": "желтый",
+        "price": 999,
+        "score": 0.8182,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/ca8/500_600_a714/183803270299.jpg"
+      },
+      {
+        "id": 277,
+        "title": "Трикотажная юбка-карандаш из шерсти и акрила",
+        "store": "finnflare",
+        "color": null,
+        "price": 6499,
+        "score": 0.7273,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAG/665/FAG11146_665_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55680,
+        "title": "Туфли Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 44750,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/b628faed6cf37d59bcc27158286ae38c/height/808/i/ff/56/3a/0d/f8a19cba-a71e-4ca3-a1bd-059d285376d1.jpg"
+      },
+      {
+        "id": 4927,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_20_11.jpg"
+      },
+      {
+        "id": 5445,
+        "title": "Туфли-балетки кроше с завязками",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3299,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626682019/BF2626682019_60_1.jpg"
+      },
+      {
+        "id": 159681,
+        "title": "Сатиновые туфли-лодочки, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.7545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cd6/500_600_f7b2/172369780299.jpg"
+      },
+      {
+        "id": 1807,
+        "title": "Туфли на танкетке лаковые из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682008/BF2636682008_20_2.jpg"
+      },
+      {
+        "id": 3077,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_20_1.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_20_11.jpg"
+      },
+      {
+        "id": 6663,
+        "title": "Туфли с перемычкой между пальцами из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688019/BF2626688019_20_11.jpg"
+      }
+    ],
+    [
+      {
+        "id": 6976,
+        "title": "Сумка через плечо каркасная из искусственной кожи с карабином",
+        "store": "befree",
+        "color": "красный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457077/BF2635457077_70_12.jpg"
+      },
+      {
+        "id": 146581,
+        "title": "Сумка через плечо Under Armour Essential, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 3399,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/e89/185430160299.jpg"
+      },
+      {
+        "id": 156669,
+        "title": "Сумка на плечо, Красный",
+        "store": "ostin",
+        "color": "красный",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/ba0/500_600_c67e/178585140299.jpg"
+      },
+      {
+        "id": 4507,
+        "title": "Сумка из искусственной кожи с заклепками и замком",
+        "store": "befree",
+        "color": "красный",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457053/BF2635457053_70_11.jpg"
+      },
+      {
+        "id": 6653,
+        "title": "Сумка женская",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645457013/BF2645457013_70_1.jpg"
+      },
+      {
+        "id": 93922,
+        "title": "Сумка на пояс PUMA FERRARI Waist Bag",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 4499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/908/2srkkiautuhpowx19xipizhlulk3rige.jpg"
+      },
+      {
+        "id": 132660,
+        "title": "Поясная сумка ACTIVE SLING BELT",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 4599,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/ad7/ye7jum770ut36zurvhzpcxt1peoy5iyt.jpg"
+      },
+      {
+        "id": 138577,
+        "title": "Сумка на пояс Tatonka Funny M, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 2099,
+        "score": 0.9091,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/21d/156354740299.jpg"
+      }
+    ]
+  ]
+}

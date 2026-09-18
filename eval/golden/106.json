@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Элегантный французский шик",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган оверсайз",
+      "color": "бежевый",
+      "search_query": "кардиган оверсайз бежевый",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "блузка белая",
+      "color": "белый",
+      "search_query": "блузка белая",
+      "type": "блузка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки клеш синие",
+      "color": "синий",
+      "search_query": "брюки клеш синие",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли красные",
+      "color": "красный",
+      "search_query": "туфли красные",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 158904,
+        "title": "Удлинённый кардиган из лиоцелла и шёлка, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/16d/500_600_cf17/182887710299.jpg"
+      },
+      {
+        "id": 7864,
+        "title": "Кардиган вязаный на пуговицах",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527002/BF2631527002_36_1.jpg"
+      },
+      {
+        "id": 8364,
+        "title": "Кардиган вязаный на пуговицах",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527016/BF2631527016_36_1.jpg"
+      },
+      {
+        "id": 8476,
+        "title": "Кардиган вязаный с шерстью на пуговицах",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527019/BF2631527019_36_1.jpg"
+      },
+      {
+        "id": 1969,
+        "title": "Кардиган оверсайз вязаный на пуговицах",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527038/BF2631527038_27_1.jpg"
+      },
+      {
+        "id": 2312,
+        "title": "Кардиган оверсайз на молнии вязаный с вышивкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 5599,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527054/BF2631527054_26_1.jpg"
+      },
+      {
+        "id": 6539,
+        "title": "Кардиган оверсайз вязаный с капюшоном",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 4599,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527030/BF2641527030_22_100.jpg"
+      },
+      {
+        "id": 54893,
+        "title": "Хлопковый кардиган ADCTED",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 17100,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/027d736d40709acd0e9ae024db0f2304/height/808/i/56/5f/dd/b8/9f8528c1-8cec-460e-ae47-8a4827155648.jpg"
+      }
+    ],
+    [
+      {
+        "id": 52847,
+        "title": "Комбинированная белая блузка для девочек",
+        "store": "sela",
+        "color": "белый",
+        "price": 1799,
+        "score": 1.0,
+        "photo_url": "https://www.sela.ru/wa-data/public/shop/products/71/66/216671/images/947160/947160.970.jpg"
+      },
+      {
+        "id": 52848,
+        "title": "Белая блузка с баской для девочек",
+        "store": "sela",
+        "color": "белый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://www.sela.ru/wa-data/public/shop/products/75/66/216675/images/952578/952578.970.jpg"
+      },
+      {
+        "id": 86941,
+        "title": "Нарядная белая блузка с жабо для девочек",
+        "store": "sela",
+        "color": "белый",
+        "price": 2599,
+        "score": 1.0,
+        "photo_url": "https://www.sela.ru/wa-data/public/shop/products/90/66/216690/images/947464/947464.970.jpg"
+      },
+      {
+        "id": 1544,
+        "title": "Блузка-топ хлопковая ажурная на кулиске",
+        "store": "befree",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621418020/BF2621418020_1_1.jpg"
+      },
+      {
+        "id": 1576,
+        "title": "Блузка с завязками на талии из хлопкового муслина",
+        "store": "befree",
+        "color": "белый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621418115/BF2621418115_1_1.jpg"
+      },
+      {
+        "id": 2313,
+        "title": "Блузка на одно плечо вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120008pl/BF2631120008pl_1_1.jpg"
+      },
+      {
+        "id": 3233,
+        "title": "Блузка шифоновая с галстуком и имитацией второго слоя",
+        "store": "befree",
+        "color": "белый",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418052/BF2631418052_1_1.jpg"
+      },
+      {
+        "id": 5892,
+        "title": "Блузка-топ на тонких бретелях с баской и вышивкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621418030/BF2621418030_1_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 168,
+        "title": "Трикотажные брюки с шерстью",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 6499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/101/FAF11126_101_20.jpg"
+      },
+      {
+        "id": 4635,
+        "title": "Брюки широкие утепленные с вышивкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108006/BF2632108006_47_1.jpg"
+      },
+      {
+        "id": 6355,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_47_1.jpg"
+      },
+      {
+        "id": 7484,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_47_1.jpg"
+      },
+      {
+        "id": 8175,
+        "title": "Брюки широкие с высокой посадкой и имитацией второго слоя",
+        "store": "befree",
+        "color": "синий",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108003/BF2632108003_47_1.jpg"
+      },
+      {
+        "id": 7253,
+        "title": "Брюки клеш домашние с кружевом",
+        "store": "befree",
+        "color": "фиолетовый",
+        "price": 1799,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808005/BF2631808005_83_2.jpg"
+      },
+      {
+        "id": 5667,
+        "title": "Брюки домашние хлопковые с принтом",
+        "store": "befree",
+        "color": "синий",
+        "price": 2299,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808013/BF2631808013_44_1.jpg"
+      },
+      {
+        "id": 54971,
+        "title": "Брюки из хлопка и льна Haider Ackermann",
+        "store": "tsum",
+        "color": "синий",
+        "price": 17250,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/20a75fa1787e19fbca3c8f5acfe2f705/height/808/i/e0/d6/96/0b/7d12519e-79f4-4ad0-8d45-9f21bce10d16.jpg"
+      }
+    ],
+    [
+      {
+        "id": 5617,
+        "title": "Туфли-слингбэки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "красный",
+        "price": 2999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682023/BF2636682023_70_13.jpg"
+      },
+      {
+        "id": 55710,
+        "title": "Туфли из кожи крокодила Celia Ralph Lauren",
+        "store": "tsum",
+        "color": "красный",
+        "price": 469500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/6cc4f8877d67aa8b7a82288836f61ef6/height/808/i/44/f2/24/fa/44f224fa-5dec-3b63-8c5f-b75d091ec01d.jpg"
+      },
+      {
+        "id": 55669,
+        "title": "Кожаные туфли Disk 95 Paul Andrew",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 38900,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/86c2ece75da7f9f3f6d96a423235ea01/height/808/i/dc/ec/f5/33/dcecf533-cf17-3bd5-882f-f265bbeb494e.jpg"
+      },
+      {
+        "id": 55672,
+        "title": "Текстильные туфли Cube Paul Andrew",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 37450,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/5cb5a6a0f66f1c480e643e4677bffcb5/height/808/i/25/d7/52/ba/25d752ba-dec9-3b66-a055-500ebad31435.jpg"
+      },
+      {
+        "id": 55676,
+        "title": "Текстильные туфли Dominique 105 Gedebe",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 25550,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/23951145fedf17e7772a1c68f8dad832/height/808/i/5f/d8/0b/ae/74ae55f6-5b8e-4788-b3a6-ad51d4d9954e.jpg"
+      },
+      {
+        "id": 5442,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "розовый",
+        "price": 1999,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_91_2.jpg"
+      },
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.6364,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      }
+    ]
+  ]
+}

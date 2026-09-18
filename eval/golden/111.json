@@ -1,0 +1,195 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "джинсовый халат",
+      "color": "синий",
+      "search_query": "халат джинсовый синий",
+      "type": "халат",
+      "silhouette": "оверсайз",
+      "length": "макси",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "коричневый",
+      "search_query": "сумка через плечо коричневая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 136483,
+        "title": "Куртка утепленная для девочек оверсайз Kappa, Синий",
+        "store": "sportmaster",
+        "color": "синий",
+        "price": 5999,
+        "score": 0.5545,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/e75/157094540299.jpg"
+      },
+      {
+        "id": 102,
+        "title": "Куртка oversize силуэта с капюшоном",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 19999,
+        "score": 0.5091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/101/FWF11048_101_20.jpg"
+      },
+      {
+        "id": 7295,
+        "title": "Ветровка оверсайз спортивная с лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 4599,
+        "score": 0.4636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631701004/BF2631701004_40_1.jpg"
+      },
+      {
+        "id": 135377,
+        "title": "Ультралегкий пуховик женский Bask Chamonix Light V2, Синий",
+        "store": "sportmaster",
+        "color": "синий",
+        "price": 26199,
+        "score": 0.4545,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/c26/71244640299.jpg"
+      },
+      {
+        "id": 135601,
+        "title": "Куртка для беговых лыж женская Ziener Nahla, Синий",
+        "store": "sportmaster",
+        "color": "синий",
+        "price": 14999,
+        "score": 0.4545,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/3a2/134522900299.jpg"
+      },
+      {
+        "id": 136656,
+        "title": "Пуховик женский The North Face Aconcagua 3, Синий",
+        "store": "sportmaster",
+        "color": "синий",
+        "price": 23999,
+        "score": 0.4545,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/9eb/169308970299.jpg"
+      },
+      {
+        "id": 136689,
+        "title": "Куртка горнолыжная женская Glissade, Синий",
+        "store": "sportmaster",
+        "color": "синий",
+        "price": 8999,
+        "score": 0.4545,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/68f/162124380299.jpg"
+      },
+      {
+        "id": 136967,
+        "title": "Куртка утепленная женская Jack Wolfskin Frost Haven, Синий",
+        "store": "sportmaster",
+        "color": "синий",
+        "price": 27999,
+        "score": 0.4545,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/5b6/175690020299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1935,
+        "title": "Сумка-тоут на плечо с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457038/BF2635457038_20_11.jpg"
+      },
+      {
+        "id": 7317,
+        "title": "Сумка-багет на плечо с завязками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457036/BF2635457036_20_12.jpg"
+      },
+      {
+        "id": 91356,
+        "title": "Сумка через плечо Consigned Flinn Crossbody Bag",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9af/1000_1000_0/99rrxf1etxnuhuchbrg7jdyrel8qj2xu.jpg"
+      },
+      {
+        "id": 129421,
+        "title": "Сумка через плечо PUMA FWD Cross Body",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 4499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/615/35icjhm31wn0uzyhhmuxhd8kvqx3yxmx.jpg"
+      },
+      {
+        "id": 147582,
+        "title": "Сумка через плечо женская Sensana, Коричневый",
+        "store": "sportmaster",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/097/195384260299.jpg"
+      },
+      {
+        "id": 158838,
+        "title": "Сумка на плечо, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/3a4/500_600_28f1/179305110299.jpg"
+      },
+      {
+        "id": 159203,
+        "title": "Сумка через плечо, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/c8e/500_600_5ca0/181777560299.jpg"
+      },
+      {
+        "id": 1976,
+        "title": "Сумка-хобо замшевая",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457084/BF2635457084_66_1.jpg"
+      }
+    ]
+  ]
+}

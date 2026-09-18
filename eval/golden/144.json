@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка белая",
+      "color": "белый",
+      "search_query": "футболка белый",
+      "type": "футболка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "шорты голубые деним",
+      "color": "голубой",
+      "search_query": "шорты джинсовые голубой",
+      "type": "шорты",
+      "silhouette": "приталенный",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "куртка оранжевая",
+      "color": "оранжевый",
+      "search_query": "куртка оранжевый",
+      "type": "куртка",
+      "silhouette": "оверсайз",
+      "length": "укороченный",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белый",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка синяя",
+      "color": "синий",
+      "search_query": "сумка синий",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 23,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17016_201_20.jpg"
+      },
+      {
+        "id": 36,
+        "title": "Футболка прямого кроя из джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100197_201_20.jpg"
+      },
+      {
+        "id": 104,
+        "title": "Футболка прямого кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11031_201_20.jpg"
+      },
+      {
+        "id": 314,
+        "title": "Спортивная футболка из технологичного трикотажа",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CBG/201/CBG17006_201_20.jpg"
+      },
+      {
+        "id": 437,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17006_201_20.jpg"
+      },
+      {
+        "id": 438,
+        "title": "Футболка из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/201/FAF110144_201_20.jpg"
+      },
+      {
+        "id": 612,
+        "title": "Футболка с круглым вырезом",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBC/201/FBC11085_201_20.jpg"
+      },
+      {
+        "id": 1317,
+        "title": "Футболка полуприлегающего кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/201/FSG110116-1P_201_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 7256,
+        "title": "Шорты домашние атласные с кружевом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631811010/BF2631811010_49_12.jpg"
+      },
+      {
+        "id": 7808,
+        "title": "Шорты домашние атласные на завязках",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631811021/BF2631811021_49_11.jpg"
+      },
+      {
+        "id": 9227,
+        "title": "Шорты INCANTO PD1206",
+        "store": "incantoeu",
+        "color": "голубой",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/c31/9wxqx3h1qsby6obwo43yt4yfu4gd6610.jpg"
+      },
+      {
+        "id": 9253,
+        "title": "Шелковые шорты INCANTO PD267",
+        "store": "incantoeu",
+        "color": "голубой",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/6d1/nqajjb3pk1tpb0d2us3t6e953qjqiafn.jpg"
+      },
+      {
+        "id": 9387,
+        "title": "Шорты INCANTO PD1188",
+        "store": "incantoeu",
+        "color": "голубой",
+        "price": 3699,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/aa7/lm9acozuj81qvv3uql8tphs6ee4tqquw.jpg"
+      },
+      {
+        "id": 56054,
+        "title": "Хлопковые шорты Unlabel",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 2340,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9219df388dfe436bf3bed7e37e7e281c/height/808/i/d2/14/56/3f/d214563f-0806-3189-ae66-ff43ffc8af51.jpg"
+      },
+      {
+        "id": 7339,
+        "title": "Шорты домашние хлопковые на резинке",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1299,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631811016/BF2631811016_42_1.jpg"
+      },
+      {
+        "id": 56466,
+        "title": "Хлопковые шорты Pence",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 10350,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/141ecce5491950df8e584f622acd30f6/height/808/i/f6/07/4f/da/78774c62-8b19-43b7-814f-2c8854d9bb19.jpg"
+      }
+    ],
+    [
+      {
+        "id": 159196,
+        "title": "Куртка из искусственной замши с бахромой для девочек, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/5fd/500_600_7d4d/181636000299.jpg"
+      },
+      {
+        "id": 156816,
+        "title": "Куртка из искусственной замши с бахромой для девочек, Оранжевый",
+        "store": "ostin",
+        "color": "оранжевый",
+        "price": 1999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/7e6/500_600_f25f/183848410299.jpg"
+      },
+      {
+        "id": 3260,
+        "title": "Куртка утепленная с капюшоном",
+        "store": "befree",
+        "color": "красный",
+        "price": 4999,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601011/BF2631601011_70_1.jpg"
+      },
+      {
+        "id": 8251,
+        "title": "Куртка-бомбер утепленная с воротником-стойкой",
+        "store": "befree",
+        "color": "красный",
+        "price": 4999,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601026/BF2631601026_77_1.jpg"
+      },
+      {
+        "id": 101352,
+        "title": "Подростковая куртка Pearlescent Down",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 6499,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/8e3/tszm73msa222zyilcwuvq8zjst8mwvkd.jpg"
+      },
+      {
+        "id": 143461,
+        "title": "Куртка для самбо Green Hill, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 3999,
+        "score": 0.8,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/f8d/56813220299.jpg"
+      },
+      {
+        "id": 146681,
+        "title": "Куртка мембранная непромокаемая женская Demix, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 6999,
+        "score": 0.8,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/f6a/198312780299.jpg"
+      },
+      {
+        "id": 146847,
+        "title": "Куртка утепленная женская Columbia Puffect II Colorblock Jacket, Красный",
+        "store": "sportmaster",
+        "color": "красный",
+        "price": 10999,
+        "score": 0.8,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/ce8/155173550299.jpg"
+      }
+    ],
+    [
+      {
+        "id": 87339,
+        "title": "Женские кроссовки Shox R4",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/829/1kdn0ph71sdpvb4dxllxk7u8xuhwwj12.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87512,
+        "title": "Женские кроссовки PWR Hybrid Training",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/996/82zgkob37ioopsj6cyqsxoj0gt0bazbg.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87701,
+        "title": "Женские кроссовки Air Zoom Pegasus 41",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/0e1/xe3i1v8p3s9i603bjsn1bblc9vmx99nx.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87736,
+        "title": "Женские кроссовки PUMA CA Flyz",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/715/aon4e1ewoyestvns3llqbx40untua3mq.jpg"
+      },
+      {
+        "id": 87964,
+        "title": "Женские кроссовки Cali Dream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/546/0q64eb1fu7q9tpvyba3jjczd6jouecyl.jpg"
+      }
+    ],
+    [
+      {
+        "id": 140920,
+        "title": "Сумка женская Demix, Синий",
+        "store": "sportmaster",
+        "color": "синий",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/6d4/155670480299.jpg"
+      },
+      {
+        "id": 143630,
+        "title": "Сумка на пояс FILA, Синий",
+        "store": "sportmaster",
+        "color": "синий",
+        "price": 1299,
+        "score": 0.9545,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/64b/123102170299.jpg"
+      },
+      {
+        "id": 4898,
+        "title": "Сумка поясная цветная",
+        "store": "befree",
+        "color": "синий",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457023/BF2635457023_40_11.jpg"
+      },
+      {
+        "id": 5341,
+        "title": "Сумка через плечо с подвеской-сумочкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645457020/BF2645457020_40_1.jpg"
+      },
+      {
+        "id": 6277,
+        "title": "Сумка-кисет из бусин",
+        "store": "befree",
+        "color": "синий",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2625457002/BF2625457002_99_3.jpg"
+      },
+      {
+        "id": 58022,
+        "title": "Сумка Priya Nannacay",
+        "store": "tsum",
+        "color": "синий",
+        "price": 4750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d6f73fe65a2f4e46c4e1ee049c64bdd0/height/808/i/3e/07/b5/bd/3e07b5bd-13d0-36e9-9527-22b9c56af536.jpg"
+      },
+      {
+        "id": 87224,
+        "title": "Сумка через плечо Eastpak The One",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/628/08ghuehffm21oymceof8ryeww57m4v4h.jpg"
+      },
+      {
+        "id": 91139,
+        "title": "Поясная сумка Semer Sling Bag",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/f62/7kxnm7t7ndvgg93rdyg4dfxh9trecdlg.jpg"
+      }
+    ]
+  ]
+}

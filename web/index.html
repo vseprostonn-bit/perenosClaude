@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Образ - найди вещь по фото</title>
+<meta name="description" content="Кидаешь фото образа - получаешь карточки этих вещей с ценами и кнопкой купить. Первые три разбора бесплатно, карта не нужна.">
+<link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/images/favicon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="/images/favicon-180.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Образ - найди вещь по фото">
+<meta property="og:description" content="Кидаешь фото образа - получаешь карточки этих вещей с ценами и кнопкой купить. Три разбора бесплатно.">
+<meta property="og:image" content="https://getobraz.ru/images/hero-walk.jpg">
+<meta property="og:url" content="https://getobraz.ru/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+
+:root{
+  --cream:#FFF8F6;
+  --cream-deep:#FBEDE8;
+  --plum:#5C4252;
+  --plum-ink:#33232C;
+  --plum-soft:#7A6070;
+  --coral:#FF4D6A;
+  --coral-deep:#E8355330;
+  --line:#EBDBD5;
+  --white:#fff;
+  --shadow-s:0 1px 2px rgba(51,35,44,.05), 0 6px 16px -8px rgba(92,66,82,.18);
+  --shadow-m:0 2px 6px rgba(51,35,44,.06), 0 24px 48px -24px rgba(92,66,82,.30);
+  --ease:cubic-bezier(.16,1,.3,1);
+  --maxw:1180px;
+}
+
+html{scroll-behavior:smooth}
+body{
+  background:var(--cream);
+  color:var(--plum);
+  font:400 17px/1.6 Manrope,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  -webkit-font-smoothing:antialiased;
+  overflow-x:hidden;
+}
+
+/* зерно поверх всего: убирает цифровую плоскость */
+body::after{
+  content:"";position:fixed;inset:0;z-index:100;pointer-events:none;opacity:.35;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)' opacity='.42'/%3E%3C/svg%3E");
+}
+
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 28px}
+
+h1,h2,h3,.serif{font-family:"Playfair Display",Georgia,serif;font-weight:600;color:var(--plum-ink);letter-spacing:-.02em;line-height:1.04;text-wrap:balance}
+p{text-wrap:pretty}
+
+a{color:inherit}
+:focus-visible{outline:2px solid var(--coral);outline-offset:3px;border-radius:6px}
+
+.skip{position:absolute;left:-9999px;top:0;background:var(--plum-ink);color:#fff;padding:10px 16px;border-radius:0 0 10px 0;z-index:200}
+.skip:focus{left:0}
+
+/* ------------------------------------------------ шапка */
+header{position:sticky;top:0;z-index:50;background:rgba(255,248,246,.82);backdrop-filter:blur(14px) saturate(140%);border-bottom:1px solid transparent;transition:border-color .3s}
+header.stuck{border-bottom-color:var(--line)}
+.bar{display:flex;align-items:center;gap:32px;height:68px;max-width:var(--maxw);margin:0 auto;padding:0 28px}
+.logo{display:flex;align-items:center;gap:9px;font-family:"Playfair Display",serif;font-size:21px;font-weight:600;color:var(--plum-ink);letter-spacing:.01em;text-decoration:none}
+.mark{width:34px;height:34px;flex:none;overflow:visible}
+/* Метафора знака: две рамки съезжаются и совмещаются, в этот момент вспыхивает
+   искра. Совпадение вещи с фото - ровно этот момент. Анимация из брендбука. */
+.mark .f1,.mark .f2,.mark .sp{transition:transform .5s var(--ease),opacity .5s var(--ease)}
+.mark .sp{transform-origin:26px 26px}
+.logo:hover .mark .f1,.logo:focus-visible .mark .f1{animation:frameL 2.2s var(--ease)}
+.logo:hover .mark .f2,.logo:focus-visible .mark .f2{animation:frameR 2.2s var(--ease)}
+.logo:hover .mark .sp,.logo:focus-visible .mark .sp{animation:spark 2.2s var(--ease)}
+@keyframes frameL{0%,12%{transform:translateX(-13px);opacity:0}34%,86%{transform:none;opacity:1}100%{transform:none;opacity:1}}
+@keyframes frameR{0%,12%{transform:translateX(13px);opacity:0}34%,86%{transform:none;opacity:1}100%{transform:none;opacity:1}}
+@keyframes spark{0%,30%{transform:scale(0);opacity:0}46%,86%{transform:scale(1);opacity:1}100%{transform:scale(1);opacity:1}}
+/* при первой загрузке знак собирается сам, без наведения */
+.mark.intro .f1{animation:frameL 2.2s var(--ease)}
+.mark.intro .f2{animation:frameR 2.2s var(--ease)}
+.mark.intro .sp{animation:spark 2.2s var(--ease)}
+nav.links{display:flex;gap:26px;margin-left:auto;font-size:14.5px;font-weight:500;color:var(--plum-soft)}
+nav.links a{text-decoration:none;position:relative;padding:4px 0;transition:color .2s}
+nav.links a::after{content:"";position:absolute;left:0;right:100%;bottom:0;height:1.5px;background:var(--coral);transition:right .3s var(--ease)}
+nav.links a:hover{color:var(--plum-ink)}
+nav.links a:hover::after{right:0}
+
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;font:600 15px/1 Manrope,sans-serif;padding:14px 24px;border-radius:12px;border:none;cursor:pointer;text-decoration:none;transition:transform .18s var(--ease),box-shadow .25s var(--ease),background .2s}
+.btn-primary{background:var(--coral);color:#fff;box-shadow:0 2px 6px rgba(232,53,83,.22),0 14px 28px -14px rgba(232,53,83,.55)}
+.btn-primary:hover{transform:translateY(-2px);box-shadow:0 4px 10px rgba(232,53,83,.26),0 22px 40px -18px rgba(232,53,83,.6)}
+.btn-primary:active{transform:translateY(1px) scale(.99)}
+.btn-ghost{background:transparent;color:var(--plum-ink);border:1.5px solid var(--line)}
+.btn-ghost:hover{border-color:var(--plum-soft);transform:translateY(-1px)}
+.btn-sm{padding:11px 18px;font-size:14px;border-radius:10px}
+
+/* ------------------------------------------------ герой */
+.hero{position:relative;padding:70px 0 96px}
+.hero-grid{display:grid;grid-template-columns:1.02fr .98fr;gap:56px;align-items:center}
+.hero h1{font-size:clamp(44px,5.6vw,76px)}
+.hero h1 em{font-style:normal;color:var(--coral);position:relative;white-space:nowrap}
+.hero h1 em::after{content:"";position:absolute;left:2%;right:2%;bottom:.1em;height:.14em;background:rgba(255,77,106,.18);border-radius:4px;z-index:-1}
+.lede{margin-top:22px;font-size:19px;line-height:1.55;color:var(--plum-soft);max-width:34ch}
+.hero-cta{display:flex;gap:12px;margin-top:32px;flex-wrap:wrap}
+.hero-note{margin-top:16px;font-size:14px;color:var(--plum-soft)}
+
+/* стопка кадров вместо одной картинки: слои дают глубину */
+.shots{position:relative;height:min(560px,58vw)}
+.shot{position:absolute;border-radius:20px;overflow:hidden;box-shadow:var(--shadow-m);background:var(--cream-deep)}
+.shot img{display:block;width:100%;height:100%;object-fit:cover}
+.shot-a{inset:0 18% 12% 0;transform:rotate(-1.6deg);z-index:2}
+.shot-b{width:46%;right:0;top:14%;aspect-ratio:3/4;transform:rotate(2.4deg);z-index:3}
+.shot-c{width:34%;left:6%;bottom:0;aspect-ratio:1/1;transform:rotate(1.2deg);z-index:4}
+
+.chip{position:absolute;z-index:6;background:rgba(255,255,255,.93);backdrop-filter:blur(8px);border:1px solid rgba(255,255,255,.9);box-shadow:var(--shadow-s);border-radius:13px;padding:10px 14px;font-size:13.5px;font-weight:600;color:var(--plum-ink);display:flex;align-items:center;gap:9px}
+.chip small{display:block;font-weight:500;font-size:12px;color:var(--plum-soft)}
+.chip-1{left:-3%;top:24%}
+.chip-2{right:2%;bottom:16%}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--coral);flex:none;box-shadow:0 0 0 4px rgba(255,77,106,.16)}
+
+/* ------------------------------------------------ полоса брендов */
+.strip{border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:rgba(255,255,255,.5)}
+.strip .wrap{display:flex;align-items:center;gap:28px;padding-top:20px;padding-bottom:20px;flex-wrap:wrap}
+.strip b{font-family:"Playfair Display",serif;font-size:17px;color:var(--plum-ink);font-weight:600}
+.strip span{font-size:14px;color:var(--plum-soft)}
+.strip .brands{margin-left:auto;display:flex;gap:22px;font-size:13.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--plum-soft);flex-wrap:wrap}
+
+/* ------------------------------------------------ полка магазинов */
+.shops{padding:72px 0 8px}
+.shops-head{display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:end;margin-bottom:34px}
+.shops-head h2{font-size:clamp(28px,3.4vw,42px)}
+.shops-note{color:var(--plum-soft);font-size:16px;line-height:1.55}
+.shop-grid{list-style:none;display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.shop-grid li{
+  background:var(--white);border-radius:16px;padding:18px 18px 16px;box-shadow:var(--shadow-s);
+  transition:transform .22s var(--ease),box-shadow .28s var(--ease);position:relative;
+}
+.shop-grid li:hover{transform:translateY(-3px);box-shadow:var(--shadow-m)}
+.shop-grid b{display:block;font-family:"Playfair Display",serif;font-size:19px;color:var(--plum-ink);font-weight:600;letter-spacing:-.01em}
+.shop-grid span{display:block;font-size:13px;color:var(--plum-soft);margin-top:4px}
+.shop-grid .fresh::after{
+  content:"новый";position:absolute;top:12px;right:12px;font-size:10.5px;font-weight:700;
+  letter-spacing:.06em;text-transform:uppercase;color:var(--coral);background:rgba(255,77,106,.1);
+  padding:4px 7px;border-radius:6px;
+}
+.shop-grid .more{background:transparent;box-shadow:none;border:1.5px dashed var(--line);display:grid;align-content:center}
+.shop-grid .more b{color:var(--plum-soft)}
+
+/* ------------------------------------------------ как работает: зигзаг */
+section{padding:104px 0}
+.eyebrow{font-size:12.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--coral);margin-bottom:14px}
+h2{font-size:clamp(32px,3.9vw,50px)}
+.section-head{max-width:46ch;margin-bottom:56px}
+.section-head p{margin-top:16px;color:var(--plum-soft);font-size:18px}
+
+.step{display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:center;margin-bottom:88px}
+.step:last-child{margin-bottom:0}
+.step:nth-child(even) .step-media{order:-1}
+.step-num{font-family:"Playfair Display",serif;font-size:15px;font-weight:600;color:var(--coral);display:flex;align-items:center;gap:12px;margin-bottom:18px}
+.step-num::after{content:"";height:1px;width:56px;background:var(--line)}
+.step h3{font-size:29px;margin-bottom:14px}
+.step p{color:var(--plum-soft);max-width:42ch}
+.step-media{border-radius:22px;overflow:hidden;box-shadow:var(--shadow-m);aspect-ratio:4/3;background:var(--cream-deep)}
+.step-media img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .8s var(--ease)}
+.step-media:hover img{transform:scale(1.03)}
+
+/* карточка результата - показываем сам продукт */
+.result{background:var(--white);border-radius:18px;padding:16px;box-shadow:var(--shadow-s);display:grid;grid-template-columns:64px 1fr auto;gap:14px;align-items:center;margin-top:20px;max-width:430px}
+.result + .result{margin-top:10px}
+.swatch{width:64px;height:64px;border-radius:12px;background:linear-gradient(150deg,#EFE2DC,#E4D2CB)}
+.swatch.b{background:linear-gradient(150deg,#DCD8E4,#C9C2D4)}
+.result strong{display:block;font-size:15px;color:var(--plum-ink);font-weight:600}
+.result span{font-size:13.5px;color:var(--plum-soft)}
+.match{font-size:12px;font-weight:700;color:#2F7A5B;background:#E8F5EE;padding:5px 9px;border-radius:7px}
+.match.close{color:#8A6A2F;background:#FBF1DE}
+
+/* ------------------------------------------------ честность */
+.honest{background:var(--cream-deep);border-radius:28px;padding:64px 56px;display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center}
+.honest h2{font-size:clamp(28px,3.2vw,40px)}
+.honest p{margin-top:16px;color:var(--plum-soft)}
+.honest-card{background:var(--white);border-radius:18px;padding:24px;box-shadow:var(--shadow-s)}
+.honest-card .row{display:flex;gap:12px;align-items:flex-start;padding:14px 0;border-bottom:1px solid var(--line)}
+.honest-card .row:last-child{border:none;padding-bottom:0}
+.honest-card .row:first-child{padding-top:0}
+.tick{width:22px;height:22px;flex:none;border-radius:7px;background:rgba(255,77,106,.1);display:grid;place-items:center;color:var(--coral);font-size:12px;font-weight:800}
+.honest-card b{display:block;font-size:15px;color:var(--plum-ink)}
+.honest-card span{font-size:14px;color:var(--plum-soft)}
+
+/* ------------------------------------------------ цена */
+.price-wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:56px;align-items:center}
+.price-card{background:var(--plum-ink);color:#fff;border-radius:24px;padding:40px;box-shadow:0 30px 60px -30px rgba(51,35,44,.6);position:relative;overflow:hidden}
+.price-card::before{content:"";position:absolute;width:340px;height:340px;right:-120px;top:-140px;border-radius:50%;background:radial-gradient(circle,rgba(255,77,106,.42),transparent 68%)}
+.price-card h3{color:#fff;font-size:26px;position:relative}
+.price-big{font-family:"Playfair Display",serif;font-size:54px;font-weight:600;margin:18px 0 6px;position:relative}
+.price-big small{font-size:18px;font-weight:500;opacity:.72;font-family:Manrope,sans-serif}
+.price-card p{color:rgba(255,255,255,.72);font-size:15px;position:relative}
+.price-card .btn{margin-top:26px;width:100%;position:relative}
+.price-list{list-style:none;display:grid;gap:16px}
+.price-list li{display:flex;gap:13px;align-items:flex-start;font-size:16px}
+.price-list b{color:var(--plum-ink);font-weight:600}
+.price-list span{color:var(--plum-soft);font-size:14.5px;display:block;margin-top:2px}
+
+/* ------------------------------------------------ финал */
+.final{text-align:center;padding:112px 0}
+.final h2{font-size:clamp(34px,4.4vw,58px);max-width:16ch;margin:0 auto}
+.final p{margin:20px auto 0;max-width:44ch;color:var(--plum-soft);font-size:18px}
+.final .btn{margin-top:30px}
+
+footer{border-top:1px solid var(--line);padding:36px 0 44px;font-size:14px;color:var(--plum-soft)}
+.foot-brand{display:flex;align-items:center;gap:9px;font-family:"Playfair Display",serif;font-size:17px;color:var(--plum-ink);font-weight:600}
+.legal{margin-top:22px;padding-top:20px;border-top:1px solid var(--line);display:grid;gap:7px;font-size:13px;line-height:1.5;color:var(--plum-soft);max-width:70ch}
+.legal a{color:var(--plum);text-decoration:underline;text-underline-offset:2px}
+.legal a:hover{color:var(--coral)}
+.foot{display:flex;gap:22px;align-items:center;flex-wrap:wrap}
+.foot a{text-decoration:none;transition:color .2s}
+.foot a:hover{color:var(--plum-ink)}
+.foot .right{margin-left:auto;display:flex;gap:22px}
+
+/* появление на скролле */
+.rise{opacity:0;transform:translateY(22px);transition:opacity .7s var(--ease),transform .7s var(--ease)}
+.rise.in{opacity:1;transform:none}
+
+@media (max-width:900px){
+  .hero-grid,.step,.honest,.price-wrap,.shops-head{grid-template-columns:1fr;gap:40px}
+  .shop-grid{grid-template-columns:repeat(2,1fr)}
+  .shops-head{gap:18px;align-items:start}
+  .step:nth-child(even) .step-media{order:0}
+  .shots{height:420px;margin-top:8px}
+  nav.links{display:none}
+  section{padding:72px 0}
+  .honest{padding:40px 26px}
+}
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important;transition:none!important}
+  .rise{opacity:1;transform:none}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">К содержанию</a>
+
+<header id="top">
+  <div class="bar">
+    <a class="logo" href="#top">
+      <svg class="mark" viewBox="0 0 52 52" fill="none" aria-hidden="true">
+        <rect class="f1" x="6" y="13" width="26" height="26" rx="8" fill="none" stroke="#5C4252" stroke-opacity=".45" stroke-width="2.6"/>
+        <rect class="f2" x="20" y="13" width="26" height="26" rx="8" fill="none" stroke="#5C4252" stroke-width="2.6"/>
+        <path class="sp" d="M26 19.6c.55 4.1 2.7 6.25 6.8 6.8-4.1.55-6.25 2.7-6.8 6.8-.55-4.1-2.7-6.25-6.8-6.8 4.1-.55 6.25-2.7 6.8-6.8z" fill="#FF4D6A"/>
+      </svg>
+      Образ
+    </a>
+    <nav class="links">
+      <a href="#how">Как работает</a>
+      <a href="#shops">Магазины</a>
+      <a href="#honest">Честность</a>
+      <a href="#price">Цена</a>
+    </nav>
+    <a class="btn btn-primary btn-sm" href="https://t.me/obraz_style_bot">Открыть в Telegram</a>
+  </div>
+</header>
+
+<main id="main">
+
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <h1>Увидела вещь -<br>узнай, <em>где купить</em></h1>
+      <p class="lede">Кидаешь фото образа в бота. Через полминуты - карточки этих вещей с ценами, магазином и кнопкой купить.</p>
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="https://t.me/obraz_style_bot">Разобрать первое фото</a>
+        <a class="btn btn-ghost" href="#how">Как это работает</a>
+      </div>
+      <p class="hero-note">Три разбора бесплатно. Карта не нужна.</p>
+    </div>
+
+    <div class="shots">
+      <figure class="shot shot-a"><img src="/images/hero-walk.jpg" alt="Девушка в тренче идёт по бульвару, в руке телефон"></figure>
+      <figure class="shot shot-b"><img src="/images/flatlay-women.jpg" alt="Образ разложен по вещам: пальто, свитер, брюки, лоферы, сумка"></figure>
+      <figure class="shot shot-c"><img src="/images/flatlay-men.jpg" alt="Мужской образ разложен по вещам"></figure>
+      <div class="chip chip-1"><span class="dot"></span><div>Тренч найден<small>совпадение 92%</small></div></div>
+      <div class="chip chip-2"><span class="dot"></span><div>4 вещи из кадра<small>за 30 секунд</small></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="shops" id="shops">
+  <div class="wrap">
+    <div class="shops-head">
+      <div>
+        <p class="eyebrow">Где ищем</p>
+        <h2>120 000 вещей из одиннадцати магазинов</h2>
+      </div>
+      <p class="shops-note">Каталог собран из партнёрских витрин самих магазинов - поэтому цены настоящие, а не собранные роботом со стороны. Визуальный поиск идёт по фото-индексу из 116 526 позиций.</p>
+    </div>
+
+    <ul class="shop-grid">
+      <li><b>Befree</b><span>casual, база</span></li>
+      <li><b>SELA</b><span>повседневное</span></li>
+      <li><b>ЦУМ</b><span>универмаг, премиум</span></li>
+      <li><b>Love Republic</b><span>вечернее, платья</span></li>
+      <li><b>Finn Flare</b><span>верхняя одежда</span></li>
+      <li><b>Incanto</b><span>бельё, трикотаж</span></li>
+      <li class="fresh"><b>Street Beat</b><span>кроссовки, стритвир</span></li>
+      <li class="fresh"><b>Спортмастер</b><span>спорт и активное</span></li>
+      <li class="fresh"><b>Baon</b><span>пуховики, парки</span></li>
+      <li class="fresh"><b>O'STIN</b><span>джинсы, базовое</span></li>
+      <li><b>KANZLER</b><span>мужской костюм</span></li>
+      <li class="more"><b>дальше</b><span>подключаем ещё</span></li>
+    </ul>
+  </div>
+</section>
+
+<section id="how">
+  <div class="wrap">
+    <div class="section-head rise">
+      <p class="eyebrow">Как это работает</p>
+      <h2>Три шага вместо вечера в поиске</h2>
+      <p>Не лента чужих образов и не советы стилиста. Одна задача: показать, где купить то, что ты уже увидела.</p>
+    </div>
+
+    <article class="step rise">
+      <div>
+        <p class="step-num">Шаг 01</p>
+        <h3>Сфоткай или сохрани</h3>
+        <p>Девушка на улице, скрин из соцсетей, кадр из сериала, витрина. Годится любое фото, где вещь видно целиком.</p>
+      </div>
+      <figure class="step-media"><img src="/images/app-scan.jpg" alt="Девушка фотографирует образ прохожей на телефон"></figure>
+    </article>
+
+    <article class="step rise">
+      <div>
+        <p class="step-num">Шаг 02</p>
+        <h3>Кинь в бота</h3>
+        <p>Он разбирает образ на вещи: тип, крой, длину, цвет. Не одним запросом «бежевое пальто», а по каждой детали отдельно.</p>
+      </div>
+      <figure class="step-media"><img src="/images/flatlay-men.jpg" alt="Мужской образ, разложенный по вещам"></figure>
+    </article>
+
+    <article class="step rise">
+      <div>
+        <p class="step-num">Шаг 03</p>
+        <h3>Получи карточки</h3>
+        <p>Каждая вещь - отдельной карточкой: фото, цена, магазин, кнопка купить. Видно, насколько точно совпало.</p>
+        <div class="result">
+          <div class="swatch"></div>
+          <div><strong>Тренч оверсайз, бежевый</strong><span>Befree</span></div>
+          <div class="match">Она самая</div>
+        </div>
+        <div class="result">
+          <div class="swatch b"></div>
+          <div><strong>Лоферы кожаные</strong><span>ЦУМ</span></div>
+          <div class="match close">Похоже</div>
+        </div>
+      </div>
+      <figure class="step-media"><img src="/images/flatlay-women.jpg" alt="Женский образ, разложенный по вещам"></figure>
+    </article>
+  </div>
+</section>
+
+<section id="honest" style="padding-top:0">
+  <div class="wrap">
+    <div class="honest rise">
+      <div>
+        <p class="eyebrow">Без обещаний</p>
+        <h2>Если вещи нет - так и скажем</h2>
+        <p>Проще всего подсунуть похожее и сделать вид, что нашли. Мы показываем, насколько уверены, и признаём, когда точного совпадения нет.</p>
+      </div>
+      <div class="honest-card">
+        <div class="row"><span class="tick">✓</span><div><b>Помечаем уверенность</b><span>«она самая» и «похоже» - разные вещи, и мы их не путаем</span></div></div>
+        <div class="row"><span class="tick">✓</span><div><b>Цены из магазинов</b><span>карточки только оттуда, где мы правда знаем цену</span></div></div>
+        <div class="row"><span class="tick">✓</span><div><b>Мужской гардероб тоже</b><span>бот сам определяет по фото, кого одеваем</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="price" style="padding-top:0">
+  <div class="wrap price-wrap">
+    <div class="rise">
+      <p class="eyebrow">Сколько стоит</p>
+      <h2>Сначала попробуй, потом решай</h2>
+      <ul class="price-list" style="margin-top:28px">
+        <li><div><b>Три разбора бесплатно</b><span>без карты и без регистрации - просто кинь фото</span></div></li>
+        <li><div><b>Дальше подписка</b><span>точную цену бот покажет до оплаты, ничего не спишется само</span></div></li>
+        <li><div><b>Позвала подругу - платишь меньше</b><span>ей три разбора сверху, тебе скидка на следующий месяц</span></div></li>
+      </ul>
+    </div>
+    <div class="price-card rise">
+      <h3>Подписка</h3>
+      <p class="price-big">199-499 <small>₽ в месяц</small></p>
+      <p>Цену бот называет лично, до любой оплаты. Отменить можно в любой момент.</p>
+      <a class="btn btn-primary" href="https://t.me/obraz_style_bot">Начать с бесплатных</a>
+    </div>
+  </div>
+</section>
+
+<section class="final">
+  <div class="wrap">
+    <h2 class="rise">У тебя уже есть фото, которое давно хочется найти</h2>
+    <p class="rise">Открой бота и кинь его. Это займёт полминуты и не будет стоить ничего.</p>
+    <a class="btn btn-primary rise" href="https://t.me/obraz_style_bot">Разобрать фото в Telegram</a>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="foot">
+      <span class="foot-brand">
+        <svg viewBox="0 0 52 52" fill="none" aria-hidden="true" width="22" height="22">
+          <rect x="6" y="13" width="26" height="26" rx="8" fill="none" stroke="#7A6070" stroke-opacity=".45" stroke-width="2.6"/>
+          <rect x="20" y="13" width="26" height="26" rx="8" fill="none" stroke="#7A6070" stroke-width="2.6"/>
+          <path d="M26 19.6c.55 4.1 2.7 6.25 6.8 6.8-4.1.55-6.25 2.7-6.8 6.8-.55-4.1-2.7-6.25-6.8-6.8 4.1-.55 6.25-2.7 6.8-6.8z" fill="#FF4D6A"/>
+        </svg>
+        Образ
+      </span>
+      <div class="right">
+        <a href="/oferta.html">Оферта</a>
+        <a href="/privacy.html">Политика конфиденциальности</a>
+        <a href="https://t.me/getobraz">Канал</a>
+        <a href="https://t.me/obraz_style_bot">Бот</a>
+      </div>
+    </div>
+    <div class="legal">
+      <p>ИП Котюсов Никита Андреевич · ИНН 526021174284 · ОГРНИП 326527500073234</p>
+      <p>Почта для обращений и возвратов: <a href="mailto:vseprostonn@gmail.com">vseprostonn@gmail.com</a></p>
+      <p>Оплата картой через Robokassa. Оформляя подписку, вы принимаете условия <a href="/oferta.html">оферты</a> и <a href="/privacy.html">политики обработки персональных данных</a>.</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+const mark = document.querySelector(".mark");
+if (mark && !matchMedia("(prefers-reduced-motion: reduce)").matches) {
+  mark.classList.add("intro");
+  setTimeout(() => mark.classList.remove("intro"), 2400);
+}
+
+const header = document.getElementById("top");
+addEventListener("scroll", () => header.classList.toggle("stuck", scrollY > 12), {passive:true});
+
+const io = new IntersectionObserver((entries) => {
+  entries.forEach((e, i) => {
+    if (!e.isIntersecting) return;
+    setTimeout(() => e.target.classList.add("in"), i * 70);
+    io.unobserve(e.target);
+  });
+}, {rootMargin: "-40px"});
+document.querySelectorAll(".rise").forEach((el) => io.observe(el));
+</script>
+</body>
+</html>

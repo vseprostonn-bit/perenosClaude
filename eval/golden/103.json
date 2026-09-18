@@ -1,0 +1,563 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка",
+      "color": "голубой",
+      "search_query": "футболка голубая",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "короткий",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "куртка кожаная",
+      "color": "коричневый",
+      "search_query": "куртка кожаная коричневая",
+      "type": "куртка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки леопардовые",
+      "color": "бежевый",
+      "search_query": "брюки леопардовые бежевые",
+      "type": "брюки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "леопард"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки",
+      "color": "синий",
+      "search_query": "кроссовки синие",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "коричневый",
+      "search_query": "сумка через плечо коричневая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "бейсболка",
+      "color": "серый",
+      "search_query": "бейсболка серого цвета",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 57997,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 8295,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c8a869ad70b5a7984a14f86dfe34fcd7/height/808/i/7c/12/71/ad/f95e0219-c75a-4ac0-946f-bc4c94f995e2.jpg"
+      },
+      {
+        "id": 58078,
+        "title": "Хлопковая футболка Moschino",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 4400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0229eb7d2272360e64bc791fe8ef6a9f/height/808/i/6c/0d/80/c8/6af8bc45-d453-4780-915c-8c51581848e0.jpg"
+      },
+      {
+        "id": 58631,
+        "title": "Футболка Leonard Paris",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 8240,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/670a9901c55047c9d2ff895cf53d2011/height/808/i/44/8f/90/99/448f9099-bc63-31cf-b5cc-234136d4108b.jpg"
+      },
+      {
+        "id": 58707,
+        "title": "Льняная футболка Canessa",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 6995,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c0d76d38c8cc2eaf03852536318f4364/height/808/i/09/46/43/b4/094643b4-fb4d-330f-b0c8-7f0e90b40de7.jpg"
+      },
+      {
+        "id": 59441,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 8470,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/54616dbae09fd54fcd5d736cb227c619/height/808/i/12/e1/c2/b3/9c327353-5ded-429d-83dd-f78592f9a89f.jpg"
+      },
+      {
+        "id": 59443,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 7840,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/518dca13d9549bef8e484e6f42bddac2/height/808/i/f5/e3/aa/3b/025d206a-13ba-4928-861b-f39d705a21b7.jpg"
+      },
+      {
+        "id": 8163,
+        "title": "Футболка-поло хлопковая на пуговицах",
+        "store": "befree",
+        "color": "голубой",
+        "price": 999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631120031/BF2631120031_41_1.jpg"
+      },
+      {
+        "id": 56348,
+        "title": "Хлопковая футболка Pence",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 10400,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/59f9fdc48f185bcd87919eb7968434c5/height/808/i/b1/89/58/48/5a68c46c-080f-4ca6-afea-7dcd9eecb524.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1857,
+        "title": "Куртка-косуха из искусственной кожи со шнуровкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621601008/BF2621601008_22_1.jpg"
+      },
+      {
+        "id": 1891,
+        "title": "Куртка-бомбер из искусственной замши утепленная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601006/BF2631601006_22_1.jpg"
+      },
+      {
+        "id": 2036,
+        "title": "Куртка-бомбер с кожаной фактурой утепленная без капюшона",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2611601008/BF2611601008_22_1.jpg"
+      },
+      {
+        "id": 2167,
+        "title": "Куртка из искусственной кожи под питона лакированная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 4599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601016/BF2631601016_22_1.jpg"
+      },
+      {
+        "id": 3212,
+        "title": "Куртка оверсайз из искусственной кожи с воротником-стойкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601043/BF2631601043_22_1.jpg"
+      },
+      {
+        "id": 3256,
+        "title": "Куртка с капюшоном и меховой отделкой утепленная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601067/BF2631601067_20_1.jpg"
+      },
+      {
+        "id": 3519,
+        "title": "Куртка стеганая с лакированным эффектом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2541601046/BF2541601046_22_1.jpg"
+      },
+      {
+        "id": 3722,
+        "title": "Куртка стеганая с капюшоном утепленная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601005/BF2641601005_22_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2449,
+        "title": "Брюки-баллоны трикотажные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641108004/BF2641108004_36_100.jpg"
+      },
+      {
+        "id": 2630,
+        "title": "Брюки широкие из тенсела на завязках с кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308025/BF2621308025_62_1.jpg"
+      },
+      {
+        "id": 3211,
+        "title": "Брюки-джоггеры вязаные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631508001/BF2631508001_36_1.jpg"
+      },
+      {
+        "id": 3851,
+        "title": "Брюки-прямые со средней посадкой на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308059/BF2631308059_65_1.jpg"
+      },
+      {
+        "id": 4614,
+        "title": "Брюки широкие укороченные из хлопка с высокой посадкой",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308033/BF2631308033_68_1.jpg"
+      },
+      {
+        "id": 4646,
+        "title": "Брюки спортивные с лампасами на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708006/BF2631708006_62_1.jpg"
+      },
+      {
+        "id": 4956,
+        "title": "Брюки широкие костюмные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308001/BF2641308001_64_100.jpg"
+      },
+      {
+        "id": 5970,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_61_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 88888,
+        "title": "Кроссовки PUMA Speedcat Decon",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 14999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/653/h4zkw6r0jgsx39e9162mp824b82v3bkf.jpg"
+      },
+      {
+        "id": 90118,
+        "title": "Подростковые кроссовки 574",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 8699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/03f/osis77sfqt2mddhjxgt8phj87h3pmvz3.jpg"
+      },
+      {
+        "id": 95021,
+        "title": "Кроссовки RS-X Efekt",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 8499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e06/2zcz7uz7xhkvzfsu2sqjjfopgb1hf1po.jpg"
+      },
+      {
+        "id": 95033,
+        "title": "Кроссовки для малышей 574",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 8999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/7cd/1000_1000_0/zkunvrsdfqnq8dcaolpppx416ixhu98e.jpg"
+      },
+      {
+        "id": 95332,
+        "title": "Кроссовки для малышей Court Legacy",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/9fc/at21t93vku3c83b04tgs7jjippk8wfby.jpg"
+      },
+      {
+        "id": 96234,
+        "title": "Кроссовки CA Pro Classic",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 9799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/561/ttn5a2suumwzza42b739zw69if3app88.jpg"
+      },
+      {
+        "id": 98333,
+        "title": "Женские кроссовки Speedcat Premium",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 14499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/1b3/6dt6sstlb10xpy5enj1h41q1si77rg0t.jpg"
+      },
+      {
+        "id": 99786,
+        "title": "Кроссовки PUMA Speedcat OG",
+        "store": "street-beat",
+        "color": "синий",
+        "price": 9999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/f0d/4vty06kwqxdy5s3toi0pppo7aukf9z9d.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1935,
+        "title": "Сумка-тоут на плечо с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457038/BF2635457038_20_11.jpg"
+      },
+      {
+        "id": 7317,
+        "title": "Сумка-багет на плечо с завязками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457036/BF2635457036_20_12.jpg"
+      },
+      {
+        "id": 91356,
+        "title": "Сумка через плечо Consigned Flinn Crossbody Bag",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9af/1000_1000_0/99rrxf1etxnuhuchbrg7jdyrel8qj2xu.jpg"
+      },
+      {
+        "id": 129421,
+        "title": "Сумка через плечо PUMA FWD Cross Body",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 4499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/615/35icjhm31wn0uzyhhmuxhd8kvqx3yxmx.jpg"
+      },
+      {
+        "id": 147582,
+        "title": "Сумка через плечо женская Sensana, Коричневый",
+        "store": "sportmaster",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/097/195384260299.jpg"
+      },
+      {
+        "id": 158838,
+        "title": "Сумка на плечо, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/3a4/500_600_28f1/179305110299.jpg"
+      },
+      {
+        "id": 159203,
+        "title": "Сумка через плечо, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/c8e/500_600_5ca0/181777560299.jpg"
+      },
+      {
+        "id": 1976,
+        "title": "Сумка-хобо замшевая",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457084/BF2635457084_66_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3499,
+        "title": "Набор колье из шнурка с узелками и цепочки с подвесками",
+        "store": "befree",
+        "color": "серый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635553091/BF2635553091_7_11.jpg"
+      },
+      {
+        "id": 4354,
+        "title": "Колье-платок с подвесками",
+        "store": "befree",
+        "color": "серый",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2625553060/BF2625553060_7_1.jpg"
+      },
+      {
+        "id": 4419,
+        "title": "Пояс-цепь декоративный",
+        "store": "befree",
+        "color": "серый",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346006/BF2635346006_7_1.jpg"
+      },
+      {
+        "id": 4476,
+        "title": "Шапка-бини трикотажная с шерстью",
+        "store": "befree",
+        "color": "серый",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2545340011/BF2545340011_32_1.jpg"
+      },
+      {
+        "id": 4874,
+        "title": "Браслет деревянный с заклепками",
+        "store": "befree",
+        "color": "серый",
+        "price": 899,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635554026/BF2635554026_7_11.jpg"
+      },
+      {
+        "id": 5368,
+        "title": "Браслет",
+        "store": "befree",
+        "color": "серый",
+        "price": 699,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645554003/BF2645554003_7_1.jpg"
+      },
+      {
+        "id": 5471,
+        "title": "Набор браслетов разной толщины",
+        "store": "befree",
+        "color": "серый",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635554010/BF2635554010_7_12.jpg"
+      },
+      {
+        "id": 5649,
+        "title": "Браслет металлический серебристый на магнитной застежке",
+        "store": "befree",
+        "color": "серый",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635554025/BF2635554025_7_1.jpg"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "gender": "men",
+  "note": "",
+  "vibe": "Лёгкий летний casual.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "поло полосатая",
+      "color": "бежевый",
+      "search_query": "поло полосы бежевый",
+      "type": "поло",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки чинос",
+      "color": "белый",
+      "search_query": "брюки чинос белый",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли мокасины",
+      "color": "коричневый",
+      "search_query": "туфли мокасины коричневый",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки солнцезащитные",
+      "color": "черный",
+      "search_query": "очки солнцезащитные черный",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 62756,
+        "title": "Хлопковое поло BOSS Orange",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 7530,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/11fa421f5eaac1da6c3b73e07b2a3dd6/height/808/i/72/9e/d7/b1/aabbec1f-c80e-4dbf-a8de-9f0a2c1778e6.jpg"
+      },
+      {
+        "id": 62813,
+        "title": "Хлопковое поло BOSS Green",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 8360,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/8a3f07cbf27908e1b303a1c4ba36e39e/height/808/i/b3/ab/3d/c7/e906113d-8361-40c6-89f2-aa2533ead4c8.jpg"
+      },
+      {
+        "id": 62838,
+        "title": "Хлопковое поло BOSS Green",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 10450,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9a3608050ec22fa31a27ab37b3e1bcae/height/808/i/bf/ae/8b/22/bc4451c2-3e75-4e10-8040-2c6a0a8d5091.jpg"
+      },
+      {
+        "id": 63416,
+        "title": "Хлопковое поло BOSS Orange",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 10450,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/6872e8a1ffa365effe3334b91cc1aaac/height/808/i/ac/37/22/e2/d7f1eea7-e5b0-4425-8ec8-0ea19039e934.jpg"
+      },
+      {
+        "id": 63417,
+        "title": "Хлопковое поло BOSS Green",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 10450,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/53252644749ca0b26dba714848c4069b/height/808/i/b6/b4/44/7d/9e43aa58-3a5b-4336-81b6-d73f3f8b5fb8.jpg"
+      },
+      {
+        "id": 62545,
+        "title": "Хлопковое поло K-Way",
+        "store": "tsum",
+        "color": "кремовый",
+        "price": 7920,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/1f9444bac75fd5a4c12378f58b31159c/height/808/i/94/14/bf/60/bb3e12b2-cc33-4370-ad84-b76270173bd1.jpg"
+      },
+      {
+        "id": 62825,
+        "title": "Хлопковое поло BOSS Orange",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 8365,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/22bd415ca9c93e190c7e4a132bd82408/height/808/i/23/a3/07/37/680855d1-c48b-487e-87ea-92dd19453a91.jpg"
+      },
+      {
+        "id": 62845,
+        "title": "Поло из вискозы Trussardi",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 13170,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/2beeeb78b6b4d3588121b9f66a354180/height/808/i/d6/b6/b1/1d/4f219687-7f28-448e-8d83-662e87d4c8b2.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55538,
+        "title": "Брюки из вискозы Paade Mode",
+        "store": "tsum",
+        "color": "белый",
+        "price": 4795,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/4801e3c588b6103c985e9e81366a6cdd/height/808/i/73/ab/c4/8d/79d45b60-1a7b-49e2-a84c-bb798d01d542.jpg"
+      },
+      {
+        "id": 62560,
+        "title": "Хлопковые брюки BOSS Green",
+        "store": "tsum",
+        "color": "белый",
+        "price": 13800,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f36345280e4e4d8e2907f614444e94f8/height/808/i/39/ab/f3/b4/bec87eac-820b-43d2-8808-ee744b3fc790.jpg"
+      },
+      {
+        "id": 62709,
+        "title": "Хлопковые брюки Moschino",
+        "store": "tsum",
+        "color": "белый",
+        "price": 14800,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/8854279c0f95d0333c687223caba9bfc/height/808/i/6a/ec/ea/6c/35bded95-c012-4aed-92a3-b5e73e2e4d59.jpg"
+      },
+      {
+        "id": 64657,
+        "title": "Брюки из хлопка",
+        "store": "kanzler",
+        "color": "белый",
+        "price": 7990,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/ca4/znb5wvmys2wko5bme02ymbiywbwcg4ha.jpg"
+      },
+      {
+        "id": 6712,
+        "title": "Брюки-аладдины на завязках",
+        "store": "befree",
+        "color": "белый",
+        "price": 2599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633108042/BF2633108042_1_1.jpg"
+      },
+      {
+        "id": 61556,
+        "title": "Брюки Richard J. Brown",
+        "store": "tsum",
+        "color": "белый",
+        "price": 34650,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/83a3d6f2f8611ea60228d137ebd0405a/height/808/i/b0/29/24/c9/af9e3994-fb45-4b8d-b414-70c2d7c68220.jpg"
+      },
+      {
+        "id": 68505,
+        "title": "Брюки чинос светло-бежевые из хлопка",
+        "store": "kanzler",
+        "color": "бежевый",
+        "price": 2990,
+        "score": 0.8455,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/e8d/4sbzk7n6lykh03h1uzjgcw2s2wloxxgo.jpg"
+      },
+      {
+        "id": 5056,
+        "title": "Брюки прямые на завязках из фактурной ткани",
+        "store": "befree",
+        "color": "белый",
+        "price": 999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633108006/BF2633108006_1_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55013,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14850,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/71898f8f7ce5612f7a4874f40114c40b/height/808/i/78/f2/91/3b/519dc7c8-a7b5-427c-b844-47c6cd42cca6.jpg"
+      },
+      {
+        "id": 58559,
+        "title": "Домашние туфли из кожи Babbi",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 6395,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/478182453a1cd86f6218032eee3f1620/height/808/i/5a/a1/fe/79/5aa1fe79-78a0-3b0c-9589-773e293ef924.jpg"
+      },
+      {
+        "id": 60691,
+        "title": "Кожаные домашние туфли Aldo Brue",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22500,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/f149953381ad089e34d3d535e812a1e6/height/808/i/a1/26/2b/83/3f5fd197-80de-425a-8de8-8aa462ceeb57.jpg"
+      },
+      {
+        "id": 62381,
+        "title": "Кожаные мокасины Blu Barrett",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 32850,
+        "score": 0.4091,
+        "photo_url": "https://st-cdn.tsum.com/sig/1a6606a40a45893b1b4a3b4852bece87/height/808/i/6a/6c/65/2f/ab1a147f-838b-427a-afbb-0b979dabc367.jpg"
+      },
+      {
+        "id": 86961,
+        "title": "Замшевые мокасины Blu Barrett",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 29450,
+        "score": 0.4091,
+        "photo_url": "https://st-cdn.tsum.com/sig/274577a7564b3b9c6a7680bee8560930/height/808/i/d4/4c/bc/af/8ca0ee3b-a5c5-4626-935e-65e3f339568d.jpg"
+      },
+      {
+        "id": 87059,
+        "title": "Замшевые мокасины Blu Barrett",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 27500,
+        "score": 0.4091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d879bb201de0522c22c7e7400ec39ea7/height/808/i/44/70/3c/fa/00fd78c9-e996-499f-ac29-8cc835221cec.jpg"
+      },
+      {
+        "id": 54877,
+        "title": "Кожаные слипоны Montelpare Tradition",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 6930,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/29afea359ebab6c18beb8af45ce1d4ee/height/808/i/5d/de/c4/56/5ddec456-9509-3d17-a653-95ce02e68c2d.jpg"
+      },
+      {
+        "id": 57135,
+        "title": "Кроссовки Moschino",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 13700,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/3dde36062c0a628b7ae91545736c01c0/height/808/i/23/25/90/ce/39d847b9-ba7e-49cf-b481-216934be9cf4.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3757,
+        "title": "Набор носков коротких базовых (2 пары)",
+        "store": "befree",
+        "color": "черный",
+        "price": 399,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/ShortSocksSet17/ShortSocksSet17_50_1.jpg"
+      },
+      {
+        "id": 4381,
+        "title": "Шапка-бини вязаная",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2643240017/BF2643240017_50_1.jpg"
+      },
+      {
+        "id": 4686,
+        "title": "Ремень из искусственной кожи с крупной пряжкой",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246013/BF2633246013_50_1.jpg"
+      },
+      {
+        "id": 4766,
+        "title": "Носки высокие базовые в рубчик",
+        "store": "befree",
+        "color": "черный",
+        "price": 249,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633234001/BF2633234001_50_1.jpg"
+      },
+      {
+        "id": 4910,
+        "title": "Ремень брючный широкий",
+        "store": "befree",
+        "color": "черный",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246010/BF2633246010_50_1.jpg"
+      },
+      {
+        "id": 5187,
+        "title": "Ремень текстильный с пряжкой-зажимом",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246003/BF2633246003_50_1.jpg"
+      },
+      {
+        "id": 5561,
+        "title": "Ремень плетеный с карабинами",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633246005/BF2633246005_50_11.jpg"
+      },
+      {
+        "id": 6214,
+        "title": "Панама хлопковая",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2623240008/BF2623240008_50_11.jpg"
+      }
+    ]
+  ]
+}

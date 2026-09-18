@@ -1,0 +1,291 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "absent"
+    },
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ боди",
+      "color": "серый",
+      "search_query": "топ боди серый",
+      "type": "топ",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган вязаный",
+      "color": "молочный",
+      "search_query": "кардиган вязаный молочный",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "макси",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "балетки",
+      "color": "черный",
+      "search_query": "балетки черные",
+      "type": "балетки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1810,
+        "title": "Бюстгальтер-топ бесшовный в рубчик",
+        "store": "befree",
+        "color": "серый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830055/BF2634830055_38_1.jpg"
+      },
+      {
+        "id": 3203,
+        "title": "Топ облегающий на тонких бретелях",
+        "store": "befree",
+        "color": "серый",
+        "price": 699,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121027MEL/BF2631121027MEL_33_1.jpg"
+      },
+      {
+        "id": 3240,
+        "title": "Топ приталенный на тонких бретелях",
+        "store": "befree",
+        "color": "серый",
+        "price": 899,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121028/BF2631121028_38_1.jpg"
+      },
+      {
+        "id": 3627,
+        "title": "Топ с имитацией второго слоя",
+        "store": "befree",
+        "color": "серый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121026pl/BF2631121026pl_39_1.jpg"
+      },
+      {
+        "id": 4803,
+        "title": "Топ облегающий на тонких бретелях с кружевом",
+        "store": "befree",
+        "color": "серый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121019/BF2631121019_33_1.jpg"
+      },
+      {
+        "id": 4919,
+        "title": "Топ с имитацией второго слоя",
+        "store": "befree",
+        "color": "серый",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121026/BF2631121026_39_1.jpg"
+      },
+      {
+        "id": 4954,
+        "title": "Бюстгальтер-топ бесшовный в рубчик без косточек",
+        "store": "befree",
+        "color": "серый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830001/BF2644830001_57_100.jpg"
+      },
+      {
+        "id": 5104,
+        "title": "Бюстгальтер-топ бесшовный в рубчик",
+        "store": "befree",
+        "color": "серый",
+        "price": 1299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830056/BF2634830056_38_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3820,
+        "title": "Кардиган-доломан вязаный",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3799,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527012/BF2641527012_60_1.jpg"
+      },
+      {
+        "id": 4852,
+        "title": "Кардиган вязаный на пуговицах",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3599,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527010/BF2631527010_60_1.jpg"
+      },
+      {
+        "id": 5128,
+        "title": "Кардиган вязаный на пуговицах с кантом",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3599,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527015/BF2631527015_60_1.jpg"
+      },
+      {
+        "id": 6099,
+        "title": "Кардиган вязаный с вышивкой",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3299,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527020/BF2641527020_60_1.jpg"
+      },
+      {
+        "id": 7866,
+        "title": "Кардиган вязаный на пуговицах",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3299,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527002/BF2631527002_60_1.jpg"
+      },
+      {
+        "id": 7864,
+        "title": "Кардиган вязаный на пуговицах",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527002/BF2631527002_36_1.jpg"
+      },
+      {
+        "id": 8465,
+        "title": "Кардиган оверсайз вязаный на пуговицах с зебровым рисунком",
+        "store": "befree",
+        "color": "белый",
+        "price": 4599,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527026/BF2631527026_5_1.jpg"
+      },
+      {
+        "id": 8476,
+        "title": "Кардиган вязаный с шерстью на пуговицах",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.8455,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527019/BF2631527019_36_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55896,
+        "title": "Балетки Montelpare Tradition",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14650,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/324ba647f6152ee5ede511ae0a18b041/height/808/i/6d/53/c1/43/21934b60-5f1f-4a09-9584-a1e3397f6d41.jpg"
+      },
+      {
+        "id": 89201,
+        "title": "Женские балетки PUMA Speedcat Ballet SD Wns",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 11499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/98f/atwyfxj34m2582d6fbn43noot4vmnnfc.jpg"
+      },
+      {
+        "id": 89675,
+        "title": "Женские балетки Mostro Fey Lace",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 10499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/ec9/1000_1000_0/26pbkzv38uauj5l13xuqlonfqoerbn4f.jpg"
+      },
+      {
+        "id": 94464,
+        "title": "Женские балетки Samba Jane",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 8999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/bcb/7kcjlbna80tciuozg29accanz1u026wn.jpg"
+      },
+      {
+        "id": 95156,
+        "title": "Женские балетки Vans Mary Jane",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a49/1vt5ktzmxr2nm40hog5kpw6hf6voi2te.jpg"
+      },
+      {
+        "id": 107670,
+        "title": "Женские балетки PUMA Tacklette L",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/f0d/s0m7vqj66g9if62ezk8dirk0dtd4x4uy.jpg"
+      },
+      {
+        "id": 107682,
+        "title": "Женские балетки PUMA Tacklette",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/df8/1hw6j6cm3eocmvqbc2n9mgwd6iwnlsq6.jpg"
+      },
+      {
+        "id": 107758,
+        "title": "Женские балетки PUMA Catch Soleil Ballerina",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/88e/r3deqt78zvte0bxejsp3oetfx3bqibpw.jpg"
+      }
+    ]
+  ]
+}

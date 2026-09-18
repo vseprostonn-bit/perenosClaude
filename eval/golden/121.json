@@ -1,0 +1,287 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ без бретелей",
+      "color": "черный",
+      "search_query": "топ черный без бретелей",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди",
+      "color": "бордовый",
+      "search_query": "юбка миди бордовая",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "клетка"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли",
+      "color": "бежевый",
+      "search_query": "туфли бежевые",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 2428,
+        "title": "Бюстгальтер-топ без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830005/BF2644830005_50_1.jpg"
+      },
+      {
+        "id": 4520,
+        "title": "Бюстгальтер-топ бесшовный в рубчик без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 1799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830001/BF2644830001_50_100.jpg"
+      },
+      {
+        "id": 6087,
+        "title": "Бюстгальтер-топ без косточек на широких бретелях",
+        "store": "befree",
+        "color": "черный",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830076/BF2634830076_50_1.jpg"
+      },
+      {
+        "id": 7044,
+        "title": "Бюстгальтер-топ ажурный с кружевом без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830028/BF2634830028_55_1.jpg"
+      },
+      {
+        "id": 8388,
+        "title": "Бюстгальтер-топ в рубчик без косточек",
+        "store": "befree",
+        "color": "черный",
+        "price": 1299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830065/BF2634830065_50_1.jpg"
+      },
+      {
+        "id": 1655,
+        "title": "Топ-халтер облегающий с бусинами",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121025/BF2621121025_50_1.jpg"
+      },
+      {
+        "id": 1704,
+        "title": "Майка-топ хлопковая в рубчик с вышитым кантом",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121026/BF2621121026_50_1.jpg"
+      },
+      {
+        "id": 1721,
+        "title": "Топ-халтер облегающий на завязках",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121006/BF2631121006_50_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 56619,
+        "title": "Юбка Heliot Emil",
+        "store": "tsum",
+        "color": "бордовый",
+        "price": 9960,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/39684435dab5c30e525ad39ce601c0a9/height/808/i/52/3d/4a/16/aaa7ab9a-4da6-4b51-9514-12b89cd1d572.jpg"
+      },
+      {
+        "id": 113489,
+        "title": "Женская юбка Sportswear Loose Bubble Skirt",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 5599,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/85f/mfyvw76kedl7otk0brfqefj9us5idkyj.jpg"
+      },
+      {
+        "id": 55458,
+        "title": "Юбка Heliot Emil",
+        "store": "tsum",
+        "color": "бордовый",
+        "price": 14700,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/22a2d6121c4c03cbc8f61820bdadd4f4/height/808/i/cb/2f/d2/05/1b44d456-87e3-4e13-ac8c-1658b8769e08.jpg"
+      },
+      {
+        "id": 56696,
+        "title": "Шерстяные юбка-шорты Botter",
+        "store": "tsum",
+        "color": "бордовый",
+        "price": 33700,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/52298cbfc198221bb70ee23bf3de48c7/height/808/i/9d/25/bd/0d/dcdaae24-cd87-4e7d-936c-37f149d2db66.jpg"
+      },
+      {
+        "id": 8368,
+        "title": "Юбка-шорты мини в складку с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632312009/BF2632312009_20_1.jpg"
+      },
+      {
+        "id": 55516,
+        "title": "Хлопковая юбка Rag and Bone",
+        "store": "tsum",
+        "color": "красный",
+        "price": 6570,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/cb38c38092831f2819885ba8b7fb4c0d/height/808/i/67/d4/de/a6/a194ccbe-5835-4c6b-911f-f3a1f1aa9698.jpg"
+      },
+      {
+        "id": 123639,
+        "title": "Женская юбка PUMA T7 Skirt",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 7299,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e0a/laetylkwi90nd10qyu2n2mcv35wql1qy.jpg"
+      },
+      {
+        "id": 4911,
+        "title": "Юбка-трапеция мини в складку и клетку на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632312010/BF2632312010_26_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55680,
+        "title": "Туфли Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 44750,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/b628faed6cf37d59bcc27158286ae38c/height/808/i/ff/56/3a/0d/f8a19cba-a71e-4ca3-a1bd-059d285376d1.jpg"
+      },
+      {
+        "id": 4927,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3799,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_20_11.jpg"
+      },
+      {
+        "id": 5445,
+        "title": "Туфли-балетки кроше с завязками",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3299,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626682019/BF2626682019_60_1.jpg"
+      },
+      {
+        "id": 159681,
+        "title": "Сатиновые туфли-лодочки, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 0.7545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/cd6/500_600_f7b2/172369780299.jpg"
+      },
+      {
+        "id": 1807,
+        "title": "Туфли на танкетке лаковые из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682008/BF2636682008_20_2.jpg"
+      },
+      {
+        "id": 3077,
+        "title": "Туфли-мюли атласные с бантом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683019/BF2626683019_20_1.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Туфли-лодочки на каблуке из искусственной кожи",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682012/BF2636682012_20_11.jpg"
+      },
+      {
+        "id": 6663,
+        "title": "Туфли с перемычкой между пальцами из искусственной замши",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1599,
+        "score": 0.7091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688019/BF2626688019_20_11.jpg"
+      }
+    ]
+  ]
+}

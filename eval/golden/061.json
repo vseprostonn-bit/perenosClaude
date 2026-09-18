@@ -1,0 +1,392 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Лето, море, отпуск.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [
+        17,
+        49
+      ],
+      "acceptable": [
+        36
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        55369
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        6913
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка белая",
+      "color": "белый",
+      "search_query": "футболка белый",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди белая",
+      "color": "молочный",
+      "search_query": "юбка миди белый",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки красные",
+      "color": "красный",
+      "search_query": "босоножки красный",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "шляпа соломенная",
+      "color": "бежевый",
+      "search_query": "шляпа соломенная",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "полоса"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 17,
+        "title": "Футболка унисекс из хлопка оверсайз силуэта",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-900107_201_20.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17016_201_20.jpg"
+      },
+      {
+        "id": 36,
+        "title": "Футболка прямого кроя из джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100197_201_20.jpg"
+      },
+      {
+        "id": 38,
+        "title": "Футболка свободного кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100192_201_20.jpg"
+      },
+      {
+        "id": 49,
+        "title": "Футболка свободного кроя из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11037_201_20.jpg"
+      },
+      {
+        "id": 104,
+        "title": "Футболка прямого кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11031_201_20.jpg"
+      },
+      {
+        "id": 214,
+        "title": "Футболка приталенного силуэта из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17009_201_20.jpg"
+      },
+      {
+        "id": 314,
+        "title": "Спортивная футболка из технологичного трикотажа",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CBG/201/CBG17006_201_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55369,
+        "title": "Хлопковая юбка Ports 1961",
+        "store": "tsum",
+        "color": "кремовый",
+        "price": 10400,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/a7872a454baa171815783d7932c8801b/height/808/i/28/22/e7/01/b9e5c004-cc8b-4744-ab20-c73876205090.jpg"
+      },
+      {
+        "id": 55410,
+        "title": "Хлопковая юбка Plan C",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14050,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/bf7b7c86006f1df4681ec782bcdc3653/height/808/i/65/52/71/5e/38eb568a-ed00-47c2-82da-a81d2b8334ff.jpg"
+      },
+      {
+        "id": 55416,
+        "title": "Юбка-шорты Plan C",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 13250,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/0ebf5be7b899c31ecb894b7fcdfa3f01/height/808/i/ef/59/fd/2f/ef59fd2f-a0a5-3982-8b22-aec67067f21c.jpg"
+      },
+      {
+        "id": 55452,
+        "title": "Хлопковая юбка Weill",
+        "store": "tsum",
+        "color": "кремовый",
+        "price": 15100,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/7153846cfd546a2833e14db2afb19831/height/808/i/66/da/cc/df/bb7e32d3-1e3b-40a7-a4d3-c6f3ab77d6b0.jpg"
+      },
+      {
+        "id": 55475,
+        "title": "Хлопковая юбка LVIR",
+        "store": "tsum",
+        "color": "белый",
+        "price": 15200,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/96d6fb32f144bb9d57760fd4ec3f4d25/height/808/i/3b/68/48/56/3d8180d6-47e7-4b37-812a-fc851b09d927.jpg"
+      },
+      {
+        "id": 55515,
+        "title": "Шерстяная юбка Rag and Bone",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 9695,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/ecf198f520945097ab5ff52f78d8d889/height/808/i/b7/fa/1b/6e/a337b392-56c2-4da5-bb6e-358851451437.jpg"
+      },
+      {
+        "id": 55530,
+        "title": "Плиссированная юбка Hood by Air",
+        "store": "tsum",
+        "color": "белый",
+        "price": 6810,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/f2d0b710c0bb63fa7122a7c880afb765/height/808/i/6f/36/31/e6/0dbaaae1-e1ea-46a4-924e-ecaf1171deb3.jpg"
+      },
+      {
+        "id": 55532,
+        "title": "Юбка-шорты Bogner Fire+Ice",
+        "store": "tsum",
+        "color": "кремовый",
+        "price": 15050,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/17f1ba247c403ac7bd649aef603a9e46/height/808/i/96/ae/99/b2/66423d5b-4faa-4450-9ad4-835cf26e6594.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55417,
+        "title": "Кожаные босоножки String Paul Andrew",
+        "store": "tsum",
+        "color": "красный",
+        "price": 39600,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c77d5ff249974e2f6bdd14c3f83316b2/height/808/i/8a/8d/4b/b5/098ac762-5fce-4060-9c18-4fe20082e6c5.jpg"
+      },
+      {
+        "id": 6913,
+        "title": "Босоножки с перемычкой между пальцами и декором",
+        "store": "befree",
+        "color": "красный",
+        "price": 1799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636688001/BF2636688001_70_7.jpg"
+      },
+      {
+        "id": 88062,
+        "title": "Женские сандалии Speedcat Sandal",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 6299,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/cc1/9yoy3bha8ypcfk0d69h7ffkr0dej7jrw.jpg"
+      },
+      {
+        "id": 55435,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 24950,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/66cb3b1f9b0af0aec1171064c95214c8/height/808/i/19/c8/68/9c/19c8689c-45bf-32ae-9880-78246b88bbc0.jpg"
+      },
+      {
+        "id": 55517,
+        "title": "Кожаные босоножки Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 21550,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/b1a979dff9da7aa7615480e854f6e275/height/808/i/b8/a6/31/b1/b8a631b1-d0eb-30c1-a506-ee5869a4acac.jpg"
+      },
+      {
+        "id": 55666,
+        "title": "Кожаные босоножки Alexandre Birman",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 16900,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/be749f50cc7bfe409b7bca54f116d79a/height/808/i/2a/32/97/42/2a329742-55ef-343e-8789-bcab4b9588dc.jpg"
+      },
+      {
+        "id": 55412,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 35950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/3400cd54a608a7265f340d827c59168b/height/808/i/09/34/27/41/09342741-1107-3e3d-b585-3ea3e92796a1.jpg"
+      },
+      {
+        "id": 55551,
+        "title": "Кожаные босоножки Soiree Crystal Stuart Weitzman",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 41950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/3dc445dad56e62578300572dca887858/height/808/i/aa/30/7b/da/c0f933e0-b04f-4af9-af03-bb2f0fe1f4d6.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1734,
+        "title": "Топ-халтер шифоновый с шарфиком",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418007/BF2631418007_65_1.jpg"
+      },
+      {
+        "id": 2155,
+        "title": "Ремень брючный широкий из натуральной замши",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346045/BF2635346045_62_1.jpg"
+      },
+      {
+        "id": 2302,
+        "title": "Ремень брючный узкий из натуральной замши",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635346043/BF2635346043_62_11.jpg"
+      },
+      {
+        "id": 5734,
+        "title": "Платок-бандана из шерсти с рисунком",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1799,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635341017/BF2635341017_65_1.jpg"
+      },
+      {
+        "id": 5827,
+        "title": "Шарф-палантин клетчатый с бахромой",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1299,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635341019/BF2635341019_65_1.jpg"
+      },
+      {
+        "id": 6468,
+        "title": "Шапка-бини вязаная теплая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645340004/BF2645340004_62_1.jpg"
+      },
+      {
+        "id": 6481,
+        "title": "Шапка-бини вязаная с шерстью",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645340003/BF2645340003_62_11.jpg"
+      },
+      {
+        "id": 6547,
+        "title": "Шарф-палантин клетчатый",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.6667,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645341022/BF2645341022_65_1.jpg"
+      }
+    ]
+  ]
+}

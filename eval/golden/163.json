@@ -1,0 +1,287 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Повседневный городской стиль",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "свитер вязаный",
+      "color": "бежевый",
+      "search_query": "свитер вязаный бежевый",
+      "type": "свитер",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "бордово-коричневый",
+      "search_query": "брюки широкие бордово-коричневые",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": "макси",
+      "sleeve": null,
+      "fit": "низкая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "ботильоны черные",
+      "color": "черный",
+      "search_query": "ботильоны черные",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 4538,
+        "title": "Джемпер вязаный с шерстью и имитацией второго слоя",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641526012/BF2641526012_61_100.jpg"
+      },
+      {
+        "id": 6064,
+        "title": "Джемпер вязаный на пуговицах с баской и кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526046/BF2631526046_61_100.jpg"
+      },
+      {
+        "id": 8027,
+        "title": "Джемпер вязаный с глубоким вырезом и перекрутом по низу",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526028/BF2631526028_61_1.jpg"
+      },
+      {
+        "id": 2472,
+        "title": "Свитер вязаный с горлом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526026/BF2631526026_22_1.jpg"
+      },
+      {
+        "id": 6450,
+        "title": "Свитер вязаный с шерстью",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641526003/BF2641526003_22_1.jpg"
+      },
+      {
+        "id": 5001,
+        "title": "Джемпер оверсайз вязаный с оленем",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4599,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641526076/BF2641526076_65_100.jpg"
+      },
+      {
+        "id": 3440,
+        "title": "Худи на молнии оверсайз вельветовая с капюшоном",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631123011/BF2631123011_61_1.jpg"
+      },
+      {
+        "id": 4651,
+        "title": "Худи на молнии оверсайз вельветовая с капюшоном",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631123011pl/BF2631123011pl_61_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3707,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034/BF2631308034_20_1.jpg"
+      },
+      {
+        "id": 3710,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034PL/BF2631308034PL_20_1.jpg"
+      },
+      {
+        "id": 4991,
+        "title": "Брюки широкие костюмные с низкой посадкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 4599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308002/BF2641308002_22_1.jpg"
+      },
+      {
+        "id": 5640,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_22_1.jpg"
+      },
+      {
+        "id": 5690,
+        "title": "Брюки широкие утепленные с вышивкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108006/BF2632108006_27_1.jpg"
+      },
+      {
+        "id": 6354,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_22_1.jpg"
+      },
+      {
+        "id": 6460,
+        "title": "Брюки широкие костюмные со средней посадкой и разрезами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308041/BF2631308041_20_100.jpg"
+      },
+      {
+        "id": 7380,
+        "title": "Брюки широкие на завязках из хлопка, модала и вискозы",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308008/BF2632308008_20_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 54961,
+        "title": "Кожаные туфли Strut Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 19950,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/f6fd8d2f6946edb6279ab9960290c3fc/height/808/i/d1/04/a8/c4/12e31ed1-f374-42dd-95ee-835985047531.jpg"
+      },
+      {
+        "id": 55013,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14850,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/71898f8f7ce5612f7a4874f40114c40b/height/808/i/78/f2/91/3b/519dc7c8-a7b5-427c-b844-47c6cd42cca6.jpg"
+      },
+      {
+        "id": 55682,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 26350,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/51f2d2ef27aa9873c8b5dbfc5045a743/height/808/i/14/24/f9/b6/e705df01-99ae-4ef7-8128-31e93dac9f13.jpg"
+      },
+      {
+        "id": 8202,
+        "title": "Туфли-лодочки на фигурном каблуке из искусственной замши",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 0.7727,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636683034/BF2636683034_50_1.jpg"
+      },
+      {
+        "id": 54832,
+        "title": "Замшевые туфли Stuart Crystal Fleur 85 Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 48980,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/db9c5207aef5a16716f7bcaac8c8e238/height/808/i/95/f6/01/70/fd20ccc8-0dc7-4861-8123-75af1522eccb.jpg"
+      },
+      {
+        "id": 54983,
+        "title": "Замшевые туфли Wrap Up Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 31950,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/d4c114a0fe0a15afff375115a1445dd0/height/808/i/7a/02/b1/17/1ba9756d-0d4b-4f66-8a05-e4cb376fd08b.jpg"
+      },
+      {
+        "id": 55671,
+        "title": "Кожаные туфли Paul Andrew",
+        "store": "tsum",
+        "color": "черный",
+        "price": 34850,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/c9cb53593107536f58802ecccc537bbd/height/808/i/77/23/19/12/c52b0304-d214-4884-bafd-b8c2b1731b93.jpg"
+      },
+      {
+        "id": 55686,
+        "title": "Кожаные туфли Vida 75 Stuart Weitzman",
+        "store": "tsum",
+        "color": "черный",
+        "price": 29950,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/e3d43ac4e1dcb2f99c8abc6b0be7e2fc/height/808/i/0a/d2/d8/86/d358bc68-1491-4ba1-a7df-bcad6045795b.jpg"
+      }
+    ]
+  ]
+}

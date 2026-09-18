@@ -1,0 +1,488 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская элегантность",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        8255
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        5970,
+        6357
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        4663,
+        10024
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        147582,
+        159203,
+        158838
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ без бретелей",
+      "color": "синий",
+      "search_query": "топ без бретелей синий",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "бежевый",
+      "search_query": "брюки широкие бежевые",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": "макси",
+      "sleeve": null,
+      "fit": "высокая посадка",
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли лодочки",
+      "color": "белый",
+      "search_query": "туфли лодочки белые",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "коричневый",
+      "search_query": "сумка через плечо коричневая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки солнцезащитные",
+      "color": "серебряный",
+      "search_query": "очки солнцезащитные серебристые",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 8255,
+        "title": "Топ облегающий на тонких бретелях",
+        "store": "befree",
+        "color": "синий",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121023/BF2631121023_47_1.jpg"
+      },
+      {
+        "id": 1183,
+        "title": "Майка приталенного силуэта",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 999,
+        "score": 0.8182,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/180/BAS-100184_180_20.jpg"
+      },
+      {
+        "id": 56232,
+        "title": "Льняной топ Lisa Marie Fernandez",
+        "store": "tsum",
+        "color": "синий",
+        "price": 18250,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/ee52bb8cde22607aadc6fcb4cc329614/height/808/i/1c/a0/60/8d/1ca0608d-85c4-3cd9-b567-4c2aca378cf1.jpg"
+      },
+      {
+        "id": 56365,
+        "title": "Шелковый топ Kika Vargas",
+        "store": "tsum",
+        "color": "синий",
+        "price": 34750,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/ee2430670ba4eb15fd2262f24bb8262f/height/808/i/bd/49/e6/2d/a6198e3b-b568-4ab3-b776-719ae4eefda5.jpg"
+      },
+      {
+        "id": 56989,
+        "title": "Бра-топ Bond-eye Australia",
+        "store": "tsum",
+        "color": "синий",
+        "price": 7975,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/8d7365138d1547b691dd0e0090bd6e5e/height/808/i/6d/a0/f2/03/7d4463a6-fb2f-4e7b-8d70-0dfe46e65959.jpg"
+      },
+      {
+        "id": 57201,
+        "title": "Шелковый топ Brock Collection",
+        "store": "tsum",
+        "color": "синий",
+        "price": 26300,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/4ee3735e1f88a3d0eb2733726985ad68/height/808/i/e7/74/92/f3/e77492f3-28f2-3638-b3e0-d1f6946aba5d.jpg"
+      },
+      {
+        "id": 57453,
+        "title": "Топ Philosophy di Lorenzo Serafini",
+        "store": "tsum",
+        "color": "синий",
+        "price": 6515,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/b4c34518a1b9488092dc5d1138ac4530/height/808/i/c1/7e/06/7c/c17e067c-e0f2-3069-ad6e-1bb38ef286f6.jpg"
+      },
+      {
+        "id": 58235,
+        "title": "Бра-топ Bond-eye Australia",
+        "store": "tsum",
+        "color": "синий",
+        "price": 7870,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/898822c8c6a70666026a6568fbe9999d/height/808/i/cf/4c/6f/72/3cc7e53a-da6b-47a5-9fc2-eebcd36b62ad.jpg"
+      }
+    ],
+    [
+      {
+        "id": 2630,
+        "title": "Брюки широкие из тенсела на завязках с кружевом",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308025/BF2621308025_62_1.jpg"
+      },
+      {
+        "id": 4956,
+        "title": "Брюки широкие костюмные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308001/BF2641308001_64_100.jpg"
+      },
+      {
+        "id": 5970,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_61_1.jpg"
+      },
+      {
+        "id": 6357,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_61_1.jpg"
+      },
+      {
+        "id": 2449,
+        "title": "Брюки-баллоны трикотажные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641108004/BF2641108004_36_100.jpg"
+      },
+      {
+        "id": 3211,
+        "title": "Брюки-джоггеры вязаные на завязках",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631508001/BF2631508001_36_1.jpg"
+      },
+      {
+        "id": 3851,
+        "title": "Брюки-прямые со средней посадкой на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308059/BF2631308059_65_1.jpg"
+      },
+      {
+        "id": 4646,
+        "title": "Брюки спортивные с лампасами на резинке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708006/BF2631708006_62_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 8192,
+        "title": "Туфли-мюли с открытым носом и декором из бусин",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626683008/BF2626683008_1_13.jpg"
+      },
+      {
+        "id": 5445,
+        "title": "Туфли-балетки кроше с завязками",
+        "store": "befree",
+        "color": "молочный",
+        "price": 3299,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626682019/BF2626682019_60_1.jpg"
+      },
+      {
+        "id": 55680,
+        "title": "Туфли Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 44750,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/b628faed6cf37d59bcc27158286ae38c/height/808/i/ff/56/3a/0d/f8a19cba-a71e-4ca3-a1bd-059d285376d1.jpg"
+      },
+      {
+        "id": 9712,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 9999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870040_99_0.jpg"
+      },
+      {
+        "id": 10024,
+        "title": "Туфли-лодочки из сатина",
+        "store": "loverepublic",
+        "color": null,
+        "price": 7999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64447/thumb/300_9999/644470012_90_0.jpg"
+      },
+      {
+        "id": 10336,
+        "title": "Туфли-лодочки из натуральной кожи",
+        "store": "loverepublic",
+        "color": null,
+        "price": 11999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64487/thumb/300_9999/644870025_50.jpg"
+      },
+      {
+        "id": 10583,
+        "title": "Туфли-лодочки из атласа",
+        "store": "loverepublic",
+        "color": null,
+        "price": 5999,
+        "score": 0.7273,
+        "photo_url": "https://imgcdn.loverepublic.ru/upload/images/54427/thumb/300_9999/544270035_90.jpg"
+      },
+      {
+        "id": 4663,
+        "title": "Туфли-лодочки на каблуке пушистые",
+        "store": "befree",
+        "color": "желтый",
+        "price": 3799,
+        "score": 0.6818,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636682024/BF2636682024_9_11.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1935,
+        "title": "Сумка-тоут на плечо с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457038/BF2635457038_20_11.jpg"
+      },
+      {
+        "id": 7317,
+        "title": "Сумка-багет на плечо с завязками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457036/BF2635457036_20_12.jpg"
+      },
+      {
+        "id": 91356,
+        "title": "Сумка через плечо Consigned Flinn Crossbody Bag",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9af/1000_1000_0/99rrxf1etxnuhuchbrg7jdyrel8qj2xu.jpg"
+      },
+      {
+        "id": 129421,
+        "title": "Сумка через плечо PUMA FWD Cross Body",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 4499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/615/35icjhm31wn0uzyhhmuxhd8kvqx3yxmx.jpg"
+      },
+      {
+        "id": 147582,
+        "title": "Сумка через плечо женская Sensana, Коричневый",
+        "store": "sportmaster",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/097/195384260299.jpg"
+      },
+      {
+        "id": 158838,
+        "title": "Сумка на плечо, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/3a4/500_600_28f1/179305110299.jpg"
+      },
+      {
+        "id": 159203,
+        "title": "Сумка через плечо, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/c8e/500_600_5ca0/181777560299.jpg"
+      },
+      {
+        "id": 1976,
+        "title": "Сумка-хобо замшевая",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457084/BF2635457084_66_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 7225,
+        "title": "Очки-монолинза солнцезащитные",
+        "store": "befree",
+        "color": "серый",
+        "price": 799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635360002/BF2635360002_7_1.jpg"
+      },
+      {
+        "id": 7050,
+        "title": "Серьги-кольца серебристые абстрактные",
+        "store": "befree",
+        "color": "серый",
+        "price": 399,
+        "score": 0.8333,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635551103/BF2635551103_7_11.jpg"
+      },
+      {
+        "id": 7151,
+        "title": "Серьги-кольца серебристые в виде плетеного корда",
+        "store": "befree",
+        "color": "серый",
+        "price": 399,
+        "score": 0.8333,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635551100/BF2635551100_7_1.jpg"
+      },
+      {
+        "id": 7505,
+        "title": "Очки имиджевые в тонкой оправе",
+        "store": "befree",
+        "color": "серый",
+        "price": 899,
+        "score": 0.8333,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635360007/BF2635360007_7_1.jpg"
+      },
+      {
+        "id": 8346,
+        "title": "Серьги-кольца серебристые",
+        "store": "befree",
+        "color": "серый",
+        "price": 599,
+        "score": 0.8333,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635551095/BF2635551095_7_1.jpg"
+      },
+      {
+        "id": 4811,
+        "title": "Серьги-гвоздики серебристые абстрактные",
+        "store": "befree",
+        "color": "серый",
+        "price": 299,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635551062/BF2635551062_7_1.jpg"
+      },
+      {
+        "id": 5465,
+        "title": "Серьги-кольца серебристые",
+        "store": "befree",
+        "color": "серый",
+        "price": 199,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635551042/BF2635551042_7_1.jpg"
+      },
+      {
+        "id": 6742,
+        "title": "Серьги-полукольца серебристые",
+        "store": "befree",
+        "color": "серый",
+        "price": 299,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635551117/BF2635551117_7_1.jpg"
+      }
+    ]
+  ]
+}

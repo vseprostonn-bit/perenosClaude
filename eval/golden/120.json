@@ -1,0 +1,471 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "Пальто прямого кроя",
+      "color": "бежевый",
+      "search_query": "пальто прямое бежевое",
+      "type": "пальто",
+      "silhouette": "прямой",
+      "length": "удлинённый",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "Рубашка джинс",
+      "color": "голубой",
+      "search_query": "рубашка джинс голубая",
+      "type": "рубашка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "Джинсы прямые",
+      "color": "светло-голубой",
+      "search_query": "джинсы прямые светло-голубые",
+      "type": "джинсы",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "Кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "Сумка через плечо",
+      "color": "коричневый",
+      "search_query": "сумка через плечо коричневая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "леопард"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 55141,
+        "title": "Льняное пальто Tegin",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 10400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/0eb99c15fa6ef623f79e65753e3e04e2/height/808/i/74/97/7e/ee/eeb0810b-eb3c-4cfd-b044-d9ba38eafeb0.jpg"
+      },
+      {
+        "id": 58971,
+        "title": "Пуховое пальто Bacon Young",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 58950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/16de8ed813e806d26ec389150b8679c1/height/808/i/fa/04/2e/a8/593c85e1-da0b-4e9c-a344-a13cccf13a0c.jpg"
+      },
+      {
+        "id": 59360,
+        "title": "Шерстяное пальто Marina Sport",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 54800,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/39460c29b601659f8c7296dad52ff805/height/808/i/b3/50/9f/1f/370623d2-8cec-4d97-b7d5-d085c5eb7da7.jpg"
+      },
+      {
+        "id": 86162,
+        "title": "Шерстяное пальто Drae",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 36900,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/a92e0b46b63111401f4745377311beca/height/808/i/c7/38/fe/9a/c738fe9a-d3b3-391a-ba16-abc95f1084bd.jpg"
+      },
+      {
+        "id": 156149,
+        "title": "Длинное фактурное пальто, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 0.8636,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/7b7/500_600_df64/174031850299.jpg"
+      },
+      {
+        "id": 158832,
+        "title": "Лёгкое пальто с шерстью, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 0.8636,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/25e/500_600_537d/178614810299.jpg"
+      },
+      {
+        "id": 56326,
+        "title": "Шерстяное пальто GOEN.J",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 85200,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/3e4ac391938f460515d88d2c3cb3522f/height/808/i/11/af/80/a7/11af80a7-658a-37ea-83d6-2263eb3dd583.jpg"
+      },
+      {
+        "id": 57743,
+        "title": "Пальто Delpozo",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 99600,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/d1c668b4ef4f899a3f6f80e8020d10b4/height/808/i/71/c9/aa/13/fa53a445-ddc6-404e-867a-daf60af0bce8.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3359,
+        "title": "Рубашка хлопковая с резинкой по низу",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418055pl/BF2631418055pl_42_1.jpg"
+      },
+      {
+        "id": 4818,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042/BF2631418042_41_1.jpg"
+      },
+      {
+        "id": 5235,
+        "title": "Рубашка в полоску с нагрудным карманом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418064/BF2631418064_42_1.jpg"
+      },
+      {
+        "id": 5239,
+        "title": "Рубашка хлопковая со сборками на завязках по бокам",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632418017/BF2632418017_42_1.jpg"
+      },
+      {
+        "id": 5603,
+        "title": "Рубашка оверсайз с галстуком",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418090/BF2631418090_41_1.jpg"
+      },
+      {
+        "id": 7133,
+        "title": "Рубашка хлопковая с резинкой по низу",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418055/BF2631418055_42_1.jpg"
+      },
+      {
+        "id": 7280,
+        "title": "Рубашка прямая в клетку с проволокой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418049pl/BF2631418049pl_42_1.jpg"
+      },
+      {
+        "id": 7456,
+        "title": "Рубашка прямая с галстуком",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418062/BF2631418062_42_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4838,
+        "title": "Джинсы прямые с низкой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631209073/BF2631209073_102_1.jpg"
+      },
+      {
+        "id": 2396,
+        "title": "Джинсы прямые со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1299,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209067/BF2621209067_101_1.jpg"
+      },
+      {
+        "id": 6766,
+        "title": "Джинсы прямые со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1299,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209067/BF2621209067_102_1.jpg"
+      },
+      {
+        "id": 1614,
+        "title": "Джинсы широкие с высокой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/WideSS18/WideSS18_100_1.jpg"
+      },
+      {
+        "id": 1618,
+        "title": "Джинсы-аладдины из лиоцелла со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209065/BF2621209065_101_1.jpg"
+      },
+      {
+        "id": 1697,
+        "title": "Джинсы багги рваные со средней посадкой и кружевом",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209064/BF2621209064_100_1.jpg"
+      },
+      {
+        "id": 1698,
+        "title": "Джинсы-баллоны со средней посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209068/BF2621209068_101_1.jpg"
+      },
+      {
+        "id": 2014,
+        "title": "Джинсы клеш с высокой посадкой",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/Flare14p2/Flare14p2_103_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 87339,
+        "title": "Женские кроссовки Shox R4",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/829/1kdn0ph71sdpvb4dxllxk7u8xuhwwj12.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87512,
+        "title": "Женские кроссовки PWR Hybrid Training",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/996/82zgkob37ioopsj6cyqsxoj0gt0bazbg.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87701,
+        "title": "Женские кроссовки Air Zoom Pegasus 41",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/0e1/xe3i1v8p3s9i603bjsn1bblc9vmx99nx.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87736,
+        "title": "Женские кроссовки PUMA CA Flyz",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/715/aon4e1ewoyestvns3llqbx40untua3mq.jpg"
+      },
+      {
+        "id": 87964,
+        "title": "Женские кроссовки Cali Dream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/546/0q64eb1fu7q9tpvyba3jjczd6jouecyl.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1935,
+        "title": "Сумка-тоут на плечо с ремешком",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457038/BF2635457038_20_11.jpg"
+      },
+      {
+        "id": 7317,
+        "title": "Сумка-багет на плечо с завязками",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457036/BF2635457036_20_12.jpg"
+      },
+      {
+        "id": 91356,
+        "title": "Сумка через плечо Consigned Flinn Crossbody Bag",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9af/1000_1000_0/99rrxf1etxnuhuchbrg7jdyrel8qj2xu.jpg"
+      },
+      {
+        "id": 129421,
+        "title": "Сумка через плечо PUMA FWD Cross Body",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 4499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/615/35icjhm31wn0uzyhhmuxhd8kvqx3yxmx.jpg"
+      },
+      {
+        "id": 147582,
+        "title": "Сумка через плечо женская Sensana, Коричневый",
+        "store": "sportmaster",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/097/195384260299.jpg"
+      },
+      {
+        "id": 158838,
+        "title": "Сумка на плечо, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/3a4/500_600_28f1/179305110299.jpg"
+      },
+      {
+        "id": 159203,
+        "title": "Сумка через плечо, Коричневый",
+        "store": "ostin",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/c8e/500_600_5ca0/181777560299.jpg"
+      },
+      {
+        "id": 1976,
+        "title": "Сумка-хобо замшевая",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 6599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457084/BF2635457084_66_1.jpg"
+      }
+    ]
+  ]
+}

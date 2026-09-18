@@ -1,0 +1,294 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        36
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "куртка кожаная зеленая",
+      "color": "зелёный",
+      "search_query": "куртка кожаная зелёная",
+      "type": "куртка",
+      "silhouette": "оверсайз",
+      "length": "укороченный",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка белая",
+      "color": "белый",
+      "search_query": "футболка белая",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки бордовая",
+      "color": "бордовый",
+      "search_query": "брюки бордовая",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": "классическая",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "полоска"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1932,
+        "title": "Куртка-бомбер из искусственной замши утепленная",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601006/BF2631601006_13_1.jpg"
+      },
+      {
+        "id": 2071,
+        "title": "Куртка с воротником-стойкой из искусственной кожи утепленная",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 7599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601077/BF2631601077_13_1.jpg"
+      },
+      {
+        "id": 2642,
+        "title": "Куртка с воротником-стойкой на завязках утепленная",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601019/BF2641601019_13_1.jpg"
+      },
+      {
+        "id": 3723,
+        "title": "Куртка оверсайз вельветовая с меховым воротником утепленная",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 5599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601004/BF2641601004_13_1.jpg"
+      },
+      {
+        "id": 3728,
+        "title": "Куртка стеганая с капюшоном утепленная",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601005/BF2641601005_13_1.jpg"
+      },
+      {
+        "id": 4463,
+        "title": "Куртка из искусственной кожи с отложным воротником и ремешком",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631601040/BF2631601040_13_1.jpg"
+      },
+      {
+        "id": 5772,
+        "title": "Куртка-бомбер оверсайз с капюшоном утепленная",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641601048/BF2641601048_13_1.jpg"
+      },
+      {
+        "id": 5787,
+        "title": "Куртка вельветовая утепленная с капюшоном",
+        "store": "befree",
+        "color": "зеленый",
+        "price": 5599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642601008/BF2642601008_13_100.jpg"
+      }
+    ],
+    [
+      {
+        "id": 17,
+        "title": "Футболка унисекс из хлопка оверсайз силуэта",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-900107_201_20.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17016_201_20.jpg"
+      },
+      {
+        "id": 36,
+        "title": "Футболка прямого кроя из джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100197_201_20.jpg"
+      },
+      {
+        "id": 38,
+        "title": "Футболка свободного кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100192_201_20.jpg"
+      },
+      {
+        "id": 49,
+        "title": "Футболка свободного кроя из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11037_201_20.jpg"
+      },
+      {
+        "id": 104,
+        "title": "Футболка прямого кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11031_201_20.jpg"
+      },
+      {
+        "id": 214,
+        "title": "Футболка приталенного силуэта из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17009_201_20.jpg"
+      },
+      {
+        "id": 314,
+        "title": "Спортивная футболка из технологичного трикотажа",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CBG/201/CBG17006_201_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 6398,
+        "title": "Брюки-джоггеры спортивные на завязках",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708003/BF2631708003_71_1.jpg"
+      },
+      {
+        "id": 89647,
+        "title": "Женские брюки Sportswear Phoenix Fleece Pant",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 7699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a6c/c2mnfmff6j5m2sh5ds1g77ipe7208873.jpg"
+      },
+      {
+        "id": 98897,
+        "title": "Женские брюки PUMA SQUAD Pants FL",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 4799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7ac/61m3dj3czozgw06u5y7j12feyjkmeuce.jpg"
+      },
+      {
+        "id": 103671,
+        "title": "Женские брюки PUMA BMW MMS WMN ESS+ Sweat Pants",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 5499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/85f/3pj067k0swgun2bb7d909p08r6kemaw3.jpg"
+      },
+      {
+        "id": 115489,
+        "title": "Брюки для малышей Icon Clash Fleece Jogger",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b2f/hipsy9is82k0p0wcnu4fqeeyt3zw9fyq.jpg"
+      },
+      {
+        "id": 124799,
+        "title": "Брюки K NSW CLUB FLC JGGR LBR",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/58c/1000_1000_0/11rxdc8iqpt9mptg34stkh6uaa8z3gvf.jpg"
+      },
+      {
+        "id": 7351,
+        "title": "Брюки домашние хлопковые на завязках с принтом",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 1799,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808016/BF2631808016_72_1.jpg"
+      },
+      {
+        "id": 86529,
+        "title": "Брюки домашние на завязках с принтом",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 2599,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808011/BF2631808011_79_1.jpg"
+      }
+    ]
+  ]
+}

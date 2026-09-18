@@ -1,0 +1,292 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        23
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "absent"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка белая",
+      "color": "белый",
+      "search_query": "футболка белый",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка красная в складку",
+      "color": "красный",
+      "search_query": "юбка красная в складку",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "макси",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо клетчатая",
+      "color": "розовый",
+      "search_query": "сумка через плечо клетчатый розовый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "клетка"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 17,
+        "title": "Футболка унисекс из хлопка оверсайз силуэта",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-900107_201_20.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Футболка из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17016_201_20.jpg"
+      },
+      {
+        "id": 36,
+        "title": "Футболка прямого кроя из джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100197_201_20.jpg"
+      },
+      {
+        "id": 38,
+        "title": "Футболка свободного кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/201/BAS-100192_201_20.jpg"
+      },
+      {
+        "id": 49,
+        "title": "Футболка свободного кроя из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11037_201_20.jpg"
+      },
+      {
+        "id": 104,
+        "title": "Футболка прямого кроя из хлопкового джерси",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/201/FBG11031_201_20.jpg"
+      },
+      {
+        "id": 214,
+        "title": "Футболка приталенного силуэта из капсулы СПОРТ",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CSF/201/CSF17009_201_20.jpg"
+      },
+      {
+        "id": 314,
+        "title": "Спортивная футболка из технологичного трикотажа",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/CBG/201/CBG17006_201_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55516,
+        "title": "Хлопковая юбка Rag and Bone",
+        "store": "tsum",
+        "color": "красный",
+        "price": 6570,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/cb38c38092831f2819885ba8b7fb4c0d/height/808/i/67/d4/de/a6/a194ccbe-5835-4c6b-911f-f3a1f1aa9698.jpg"
+      },
+      {
+        "id": 55425,
+        "title": "Юбка-шорты Plan C",
+        "store": "tsum",
+        "color": "красный",
+        "price": 20900,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c0413957e8fc3a1f3dec1d1527e91d0f/height/808/i/eb/ac/6e/4b/ebac6e4b-6525-3725-8647-acd70e6dd866.jpg"
+      },
+      {
+        "id": 55533,
+        "title": "Кожаная юбка Isabel Marant",
+        "store": "tsum",
+        "color": "красный",
+        "price": 33550,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/113315caf7643863431e2bc215074d58/height/808/i/c6/45/d6/d5/fa8dc974-cef5-4f67-868b-88156efa1099.jpg"
+      },
+      {
+        "id": 59313,
+        "title": "Юбка Philosophy di Lorenzo Serafini",
+        "store": "tsum",
+        "color": "красный",
+        "price": 85750,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/1de8ace794bd50b7c81262e1fe7582f2/height/808/i/04/cd/db/f0/c2c94e1e-a963-42d8-bdcd-e9d7aafc5a0f.jpg"
+      },
+      {
+        "id": 55413,
+        "title": "Юбка THE MANNEI",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 7995,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/1c4f7dd05b544d3dd33c4306720ca7a3/height/808/i/bb/8b/82/3e/bb8b823e-2cdc-3d91-bb81-094687a2a326.jpg"
+      },
+      {
+        "id": 56061,
+        "title": "Хлопковая юбка Paade Mode",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 2995,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/aef9ef647c4abc77951288359ff8b2f4/height/808/i/99/55/f5/77/9955f577-b89e-3693-99c7-8885d74fb7a9.jpg"
+      },
+      {
+        "id": 56339,
+        "title": "Хлопковая юбка Unlabel",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 3455,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/c3d64f8a11c7342272c28e905ee3c9f4/height/808/i/67/a7/8b/f1/67a78bf1-9df2-36ca-beca-3d73dff4e4d2.jpg"
+      },
+      {
+        "id": 56341,
+        "title": "Юбка Roberto Cavalli",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 9950,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/f19ecabcf54d21594dc96669b562ba76/height/808/i/ac/d8/d8/4b/b22c543e-1c22-41ab-b138-e2798a5fffd4.jpg"
+      }
+    ],
+    [
+      {
+        "id": 6585,
+        "title": "Сумка через плечо с подвеской-сумочкой",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2645457020/BF2645457020_93_11.jpg"
+      },
+      {
+        "id": 138809,
+        "title": "Сумка женская PUMA, Розовый",
+        "store": "sportmaster",
+        "color": "розовый",
+        "price": 3499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/e4c/195310590299.jpg"
+      },
+      {
+        "id": 139506,
+        "title": "Сумка женская PUMA, Розовый",
+        "store": "sportmaster",
+        "color": "розовый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/8d5/195310510299.jpg"
+      },
+      {
+        "id": 140485,
+        "title": "Сумка женская FILA, Розовый",
+        "store": "sportmaster",
+        "color": "розовый",
+        "price": 2309,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/6d0/156823470299.jpg"
+      },
+      {
+        "id": 144851,
+        "title": "Сумка женская Under Armour Studio Lite, Розовый",
+        "store": "sportmaster",
+        "color": "розовый",
+        "price": 3799,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/f18/185726610299.jpg"
+      },
+      {
+        "id": 145366,
+        "title": "Сумка женская Demix, Розовый",
+        "store": "sportmaster",
+        "color": "розовый",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/a80/185726260299.jpg"
+      },
+      {
+        "id": 8744,
+        "title": "Сумка-мешочек через плечо",
+        "store": "befree",
+        "color": "розовый",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457019/BF2635457019_90_1.jpg"
+      },
+      {
+        "id": 6929,
+        "title": "Сумка-платок двухсторонняя",
+        "store": "befree",
+        "color": "розовый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457005/BF2635457005_95_2.jpg"
+      }
+    ]
+  ]
+}

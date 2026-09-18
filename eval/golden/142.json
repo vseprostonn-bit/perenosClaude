@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Минималистичный городской стиль",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ без бретелей",
+      "color": "белый",
+      "search_query": "топ без бретелей белый",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки прямые",
+      "color": "серый",
+      "search_query": "брюки прямые серые",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "балетки",
+      "color": "бежевый",
+      "search_query": "балетки бежевые",
+      "type": "балетки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "бирюзовый",
+      "search_query": "сумка через плечо бирюзовая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 4693,
+        "title": "Бюстгальтер-топ бесшовный в рубчик без косточек",
+        "store": "befree",
+        "color": "белый",
+        "price": 1799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830001/BF2644830001_1_100.jpg"
+      },
+      {
+        "id": 8387,
+        "title": "Бюстгальтер-топ в рубчик без косточек",
+        "store": "befree",
+        "color": "белый",
+        "price": 1299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830065/BF2634830065_1_1.jpg"
+      },
+      {
+        "id": 1335,
+        "title": "Топ из хлопка с открытым плечом и фигурным узлом",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSE/201/FSE110162_201_20.jpg"
+      },
+      {
+        "id": 1629,
+        "title": "Топ с открытой спиной и драпировкой",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418009/BF2631418009_1_1.jpg"
+      },
+      {
+        "id": 3146,
+        "title": "Топ приталенный асимметричный с кружевом",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632120008/BF2632120008_1_11.jpg"
+      },
+      {
+        "id": 3151,
+        "title": "Топ приталенный со шнуровкой и люверсами",
+        "store": "befree",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632121008/BF2632121008_4_1.jpg"
+      },
+      {
+        "id": 3239,
+        "title": "Топ приталенный на тонких бретелях",
+        "store": "befree",
+        "color": "белый",
+        "price": 899,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121028/BF2631121028_1_100.jpg"
+      },
+      {
+        "id": 4417,
+        "title": "Топ-халтер облегающий на завязках",
+        "store": "befree",
+        "color": "белый",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121006/BF2631121006_1_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1890,
+        "title": "Брюки прямые костюмные со средней посадкой",
+        "store": "befree",
+        "color": "серый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308035/BF2631308035_38_1.jpg"
+      },
+      {
+        "id": 5402,
+        "title": "Брюки прямые костюмные со средней посадкой",
+        "store": "befree",
+        "color": "серый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621308018/BF2621308018_34_1.jpg"
+      },
+      {
+        "id": 6718,
+        "title": "Брюки прямые из футера на завязках",
+        "store": "befree",
+        "color": "серый",
+        "price": 2599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108005/BF2632108005_38_1.jpg"
+      },
+      {
+        "id": 7283,
+        "title": "Брюки прямые костюмные со средней посадкой",
+        "store": "befree",
+        "color": "серый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308016/BF2631308016_38_11.jpg"
+      },
+      {
+        "id": 7468,
+        "title": "Брюки прямые костюмные со средней посадкой",
+        "store": "befree",
+        "color": "серый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308035PL/BF2631308035PL_38_1.jpg"
+      },
+      {
+        "id": 8383,
+        "title": "Брюки костюмные прямые с вискозой",
+        "store": "befree",
+        "color": "серый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308015/BF2631308015_39_1.jpg"
+      },
+      {
+        "id": 1933,
+        "title": "Брюки клеш вязаные со средней посадкой на завязках",
+        "store": "befree",
+        "color": "серый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631508004/BF2631508004_38_1.jpg"
+      },
+      {
+        "id": 2216,
+        "title": "Брюки багги с ремнем",
+        "store": "befree",
+        "color": "серый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108006/BF2631108006_38_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 100559,
+        "title": "Женские балетки PUMA Speedcat Ballet Nova",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 11499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e44/h80re3wh9drcvf3qjpgurah7godwstem.jpg"
+      },
+      {
+        "id": 107665,
+        "title": "Женские балетки PUMA Tacklette L",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 7799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/29e/gb3n3zjygytj1o4075hafaobnybpke8r.jpg"
+      },
+      {
+        "id": 107742,
+        "title": "Женские балетки PUMA Catch Soleil Ballerina",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/dd5/zlh0jgxtq24olnw8pobif1p9zsf9xop7.jpg"
+      },
+      {
+        "id": 107765,
+        "title": "Женские балетки PUMA Catch Soleil Ballerina SD",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 8499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a19/1m3imdmq8r9gomytbt33tr9g2bdqngow.jpg"
+      },
+      {
+        "id": 107840,
+        "title": "Женские балетки PUMA Catch Soleil Ballerina",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/191/2hukzh3nnctmr2gl6bp6pljv2umuisro.jpg"
+      },
+      {
+        "id": 112556,
+        "title": "Женские балетки Bella",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 5899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/f8d/sj6cnmgugtoas9trkvazij6xyze5brms.jpg"
+      },
+      {
+        "id": 115128,
+        "title": "Женские балетки Speedcat Ballet",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/cb1/mcrtkdeq0kavwvsqnaher35f08e3pwlr.jpg"
+      },
+      {
+        "id": 115855,
+        "title": "Женские балетки H-Street Ballet",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4ac/9ekyf78xnlklzkwdyhcnun7uopb4ftc2.jpg"
+      }
+    ],
+    [
+      {
+        "id": 99578,
+        "title": "Сумка PUMA 1976 Grip Bag Keychain",
+        "store": "street-beat",
+        "color": "бирюзовый",
+        "price": 2499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e6a/zycv008x21dfvrnja4denn410zzlvqjc.jpg"
+      },
+      {
+        "id": 7929,
+        "title": "Сумка через плечо каркасная из искусственной кожи с карабином",
+        "store": "befree",
+        "color": "голубой",
+        "price": 2299,
+        "score": 0.8909,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457077/BF2635457077_41_1.jpg"
+      },
+      {
+        "id": 8767,
+        "title": "Сумка-боулинг с короткой ручкой из искусственной кожи",
+        "store": "befree",
+        "color": "голубой",
+        "price": 3599,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457009/BF2635457009_43_11.jpg"
+      },
+      {
+        "id": 58004,
+        "title": "Сумка Jade Colori Nannacay",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 6230,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/796239e617bd1b3299fb80b601764be5/height/808/i/fe/7f/24/ba/fe7f24ba-83fa-3b13-b2ba-961425d86d71.jpg"
+      },
+      {
+        "id": 88543,
+        "title": "Поясная сумка Terra Lumbar",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 4599,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/2dd/1000_1000_0/p7ey2owcmmstayt2okpzsfgc8cn7fb99.jpg"
+      },
+      {
+        "id": 89640,
+        "title": "Поясная сумка Never Stop Lumbar",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 3499,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/d73/1000_1000_0/423rl0pots8d88lq8x0d1ammh6yonfxy.jpg"
+      },
+      {
+        "id": 111284,
+        "title": "Поясная сумка Abanu Multi",
+        "store": "street-beat",
+        "color": "голубой",
+        "price": 5899,
+        "score": 0.8,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/506/1ll0jjb9to8dwh0m1nevfi5aszbloaz9.jpg"
+      },
+      {
+        "id": 8737,
+        "title": "Сумка-мешок из искусственной кожи на завязках",
+        "store": "befree",
+        "color": "голубой",
+        "price": 999,
+        "score": 0.7545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457066/BF2635457066_43_1.jpg"
+      }
+    ]
+  ]
+}

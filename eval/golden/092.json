@@ -1,0 +1,390 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Лёгкий летний городской стиль.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [
+        3218
+      ],
+      "acceptable": [],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        6913,
+        55417
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [
+        710
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка классическая",
+      "color": "белый",
+      "search_query": "рубашка классический белый",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "джинсовые шорты",
+      "color": "синий",
+      "search_query": "шорты джинсовые синий",
+      "type": "шорты",
+      "silhouette": null,
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки красные",
+      "color": "красный",
+      "search_query": "босоножки красные",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка плетеная",
+      "color": "бежевый",
+      "search_query": "сумка плетеная бежевый",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 157570,
+        "title": "Длинная рубашка из лиоцелла, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/ce1/500_600_846a/187002080299.jpg"
+      },
+      {
+        "id": 159415,
+        "title": "Льняная рубашка с длинным рукавом, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/6c9/500_600_870a/186021050299.jpg"
+      },
+      {
+        "id": 155858,
+        "title": "Хлопковая рубашка с галстуком, Белый",
+        "store": "ostin",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/209/500_600_b767/163668170299.jpg"
+      },
+      {
+        "id": 3218,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_1_1.jpg"
+      },
+      {
+        "id": 3220,
+        "title": "Рубашка прямая вискозная",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418043/BF2631418043_4_1.jpg"
+      },
+      {
+        "id": 3254,
+        "title": "Рубашка хлопковая с баской",
+        "store": "befree",
+        "color": "белый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418061/BF2631418061_1_1.jpg"
+      },
+      {
+        "id": 4827,
+        "title": "Рубашка хлопковая со сборками на завязках по бокам",
+        "store": "befree",
+        "color": "белый",
+        "price": 2599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632418017/BF2632418017_1_1.jpg"
+      },
+      {
+        "id": 6579,
+        "title": "Рубашка на крючках",
+        "store": "befree",
+        "color": "белый",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641418003/BF2641418003_1_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 9280,
+        "title": "Шорты INCANTO PD886",
+        "store": "incantoeu",
+        "color": "синий",
+        "price": 1849,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/853/3j0h1d6iw1q8elr601u4deaos52cw6qg.jpg"
+      },
+      {
+        "id": 54998,
+        "title": "Шорты Isabel Marant",
+        "store": "tsum",
+        "color": "синий",
+        "price": 5970,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/a4e7646f112b8c00beac95361308c114/height/808/i/a3/38/83/68/cf57563f-51dc-4fe9-9209-943614a6fd99.jpg"
+      },
+      {
+        "id": 6852,
+        "title": "Шорты-бермуды хлопковые низкой посадкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 1299,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622311001/BF2622311001_47_1.jpg"
+      },
+      {
+        "id": 8873,
+        "title": "Шорты с контрастными лампасами на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 999,
+        "score": 0.8636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622111002/BF2622111002_47_1.jpg"
+      },
+      {
+        "id": 5619,
+        "title": "Шорты-бермуды домашние с принтом",
+        "store": "befree",
+        "color": "синий",
+        "price": 2299,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631811014/BF2631811014_44_1.jpg"
+      },
+      {
+        "id": 7895,
+        "title": "Шорты домашние с принтом",
+        "store": "befree",
+        "color": "синий",
+        "price": 1599,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631811012/BF2631811012_44_1.jpg"
+      },
+      {
+        "id": 2030,
+        "title": "Шорты трикотажные на завязках",
+        "store": "befree",
+        "color": "синий",
+        "price": 399,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2522111005/BF2522111005_47_1.jpg"
+      },
+      {
+        "id": 55039,
+        "title": "Льняные шорты Lisa Marie Fernandez",
+        "store": "tsum",
+        "color": "синий",
+        "price": 22850,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/2e88fcb02f4fe330205ca8e986674add/height/808/i/af/21/a8/02/af21a802-43a7-3f63-8cbe-99c6b00970d2.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55417,
+        "title": "Кожаные босоножки String Paul Andrew",
+        "store": "tsum",
+        "color": "красный",
+        "price": 39600,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c77d5ff249974e2f6bdd14c3f83316b2/height/808/i/8a/8d/4b/b5/098ac762-5fce-4060-9c18-4fe20082e6c5.jpg"
+      },
+      {
+        "id": 6913,
+        "title": "Босоножки с перемычкой между пальцами и декором",
+        "store": "befree",
+        "color": "красный",
+        "price": 1799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636688001/BF2636688001_70_7.jpg"
+      },
+      {
+        "id": 88062,
+        "title": "Женские сандалии Speedcat Sandal",
+        "store": "street-beat",
+        "color": "красный",
+        "price": 6299,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/cc1/9yoy3bha8ypcfk0d69h7ffkr0dej7jrw.jpg"
+      },
+      {
+        "id": 55435,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 24950,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/66cb3b1f9b0af0aec1171064c95214c8/height/808/i/19/c8/68/9c/19c8689c-45bf-32ae-9880-78246b88bbc0.jpg"
+      },
+      {
+        "id": 55517,
+        "title": "Кожаные босоножки Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 21550,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/b1a979dff9da7aa7615480e854f6e275/height/808/i/b8/a6/31/b1/b8a631b1-d0eb-30c1-a506-ee5869a4acac.jpg"
+      },
+      {
+        "id": 55666,
+        "title": "Кожаные босоножки Alexandre Birman",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 16900,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/be749f50cc7bfe409b7bca54f116d79a/height/808/i/2a/32/97/42/2a329742-55ef-343e-8789-bcab4b9588dc.jpg"
+      },
+      {
+        "id": 55412,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "оранжевый",
+        "price": 35950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/3400cd54a608a7265f340d827c59168b/height/808/i/09/34/27/41/09342741-1107-3e3d-b585-3ea3e92796a1.jpg"
+      },
+      {
+        "id": 55551,
+        "title": "Кожаные босоножки Soiree Crystal Stuart Weitzman",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 41950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/3dc445dad56e62578300572dca887858/height/808/i/aa/30/7b/da/c0f933e0-b04f-4af9-af03-bb2f0fe1f4d6.jpg"
+      }
+    ],
+    [
+      {
+        "id": 710,
+        "title": "Плетеная сумка из рафии",
+        "store": "finnflare",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/630/FSG11200_630_30.jpg"
+      },
+      {
+        "id": 136166,
+        "title": "Сумка Kappa, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2f8/141177690299.jpg"
+      },
+      {
+        "id": 139499,
+        "title": "Сумка PUMA, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/78f/194301880299.jpg"
+      },
+      {
+        "id": 139612,
+        "title": "Сумка adidas, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5399,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/23c/190704020299.jpg"
+      },
+      {
+        "id": 139845,
+        "title": "Сумка adidas Leo Bowling Bag, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/29a/195097850299.jpg"
+      },
+      {
+        "id": 140142,
+        "title": "Сумка Demix, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/792/111673430299.jpg"
+      },
+      {
+        "id": 141002,
+        "title": "Сумка для коврика Sensana, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1699,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/2c2/162786200299.jpg"
+      },
+      {
+        "id": 146216,
+        "title": "Сумка Reebok Arlo, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/21c/194954490299.jpg"
+      }
+    ]
+  ]
+}

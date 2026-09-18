@@ -1,0 +1,295 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Стильный городской аутфит.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        232
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [
+        2468
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка вязанная",
+      "color": "бежевый",
+      "search_query": "рубашка вязанная бежевый",
+      "type": "рубашка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки прямые черные",
+      "color": "черный",
+      "search_query": "брюки прямые черный",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": "высокая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "ботинки черные",
+      "color": "черный",
+      "search_query": "ботинки черные",
+      "type": "ботинки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 155925,
+        "title": "Пижамная рубашка в полоску, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 1599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/806/500_600_ab4f/172044830299.jpg"
+      },
+      {
+        "id": 157596,
+        "title": "Длинная рубашка из жатой ткани, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 4599,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/08a/500_600_b936/186020940299.jpg"
+      },
+      {
+        "id": 155952,
+        "title": "Свободная рубашка изо льна с хлопком, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.9545,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/27e/500_600_61dc/150908250299.jpg"
+      },
+      {
+        "id": 5564,
+        "title": "Рубашка оверсайз вискозная в полоску",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418092/BF2631418092_65_1.jpg"
+      },
+      {
+        "id": 7916,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042pl/BF2631418042pl_65_1.jpg"
+      },
+      {
+        "id": 92439,
+        "title": "Женская рубашка Corduroy Jacket",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/149/1000_1000_0/ko4fhj0t8ld7fbsxfqboq21glfsmnd0c.jpg"
+      },
+      {
+        "id": 121494,
+        "title": "Женская рубашка A-Boyd",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 8199,
+        "score": 0.8636,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/414/bg8iwx2jtfze17hx5zd8nuuu80nvi2tf.jpg"
+      },
+      {
+        "id": 3342,
+        "title": "Рубашка оверсайз с принтом и необработанными краями",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 3599,
+        "score": 0.8604,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418067pl/BF2631418067pl_59_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 6744,
+        "title": "Брюки прямые из футера на завязках",
+        "store": "befree",
+        "color": "черный",
+        "price": 2599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108005/BF2632108005_50_1.jpg"
+      },
+      {
+        "id": 7284,
+        "title": "Брюки прямые костюмные со средней посадкой",
+        "store": "befree",
+        "color": "черный",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308016/BF2631308016_50_1.jpg"
+      },
+      {
+        "id": 7298,
+        "title": "Брюки прямые спортивные на завязках с лампасами",
+        "store": "befree",
+        "color": "черный",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631708013/BF2631708013_50_1.jpg"
+      },
+      {
+        "id": 8384,
+        "title": "Брюки костюмные прямые с вискозой",
+        "store": "befree",
+        "color": "черный",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308015/BF2631308015_50_1.jpg"
+      },
+      {
+        "id": 60,
+        "title": "Трикотажные брюки loose fit",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11068_200_20.jpg"
+      },
+      {
+        "id": 232,
+        "title": "Брюки-джоггеры из трикотажа интерлок",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FBG/200/FBG110112_200_20.jpg"
+      },
+      {
+        "id": 522,
+        "title": "Легкие брюки-алладины из джерси",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSG/200/FSG110160_200_20.jpg"
+      },
+      {
+        "id": 730,
+        "title": "Утепленные брюки прямого кроя",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWE/200/FWE11095_200_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 714,
+        "title": "Ботинки из натуральной кожи",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 9499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/200/FAE21500_200_20.jpg"
+      },
+      {
+        "id": 1181,
+        "title": "Ботинки из натуральной кожи",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 9999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/200/FAE11502_200_20.jpg"
+      },
+      {
+        "id": 2468,
+        "title": "Ботинки-челси на каблуке с металлической деталью",
+        "store": "befree",
+        "color": "черный",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2646687025/BF2646687025_50_12.jpg"
+      },
+      {
+        "id": 54830,
+        "title": "Кожаные ботинки Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 8415,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3d75bebe37c4d5e9c95b4e175587eccc/height/808/i/a9/02/72/66/a9027266-aeb2-348c-b4b3-bf08789038b2.jpg"
+      },
+      {
+        "id": 55579,
+        "title": "Кожаные ботинки Sunny Nude of Scandinavia",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c9a002e5cb3eaff0978af0066b159c1c/height/808/i/dd/aa/90/97/ddaa9097-376f-36b0-b1ad-2430e3c2c33d.jpg"
+      },
+      {
+        "id": 55581,
+        "title": "Комбинированные ботинки Andrea Ventura Firenze",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22150,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/bb55fe6652866a913524e58925ebc1f4/height/808/i/e0/ee/d8/79/e0eed879-e563-37e4-9293-4333eec64318.jpg"
+      },
+      {
+        "id": 55736,
+        "title": "Кожаные ботинки Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 23050,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/dcc3d5678885f689f56fadd1a50d1ee0/height/808/i/bb/01/70/fa/bb0170fa-8471-319f-a503-8c228b1104be.jpg"
+      },
+      {
+        "id": 56251,
+        "title": "Кожаные ботинки Montelpare Tradition",
+        "store": "tsum",
+        "color": "черный",
+        "price": 8640,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/258955ce085643c97009b1e4c6a0322b/height/808/i/7b/86/0c/8c/7b860c8c-8e5d-3c39-a391-b5b1cc6124c6.jpg"
+      }
+    ]
+  ]
+}

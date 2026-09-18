@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Obraz — Крео 3×2</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{font-family:'Inter',sans-serif;background:#FFF8F6;color:#1A1A1E;padding:20px;}
+  h1{font-family:'Manrope',sans-serif;font-size:22px;margin-bottom:16px;}
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:24px;}
+  .creo{border:1px solid #F2E6E2;border-radius:16px;overflow:hidden;background:#fff;}
+  .creo .art{aspect-ratio:1/1;background:linear-gradient(135deg,#FFF0F2,#F2E6E2);display:flex;align-items:center;justify-content:center;color:#9A8F8F;font-size:12px;text-align:center;padding:12px;}
+  .creo .art.tall{aspect-ratio:9/16;}
+  .creo .meta{padding:10px 12px;}
+  .creo .meta strong{font-size:13px;}
+  .creo .meta p{font-size:11px;color:#9A8F8F;margin-top:4px;}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}}
+</style>
+</head>
+<body>
+  <h1>Креативы Obraz — 3 концепции × 2 формата (1080×1080, 1080×1920) — текст ≤7 слов</h1>
+  <div class="grid">
+    <div class="creo"><div class="art">Концепт A: Боль<br>«Часы на WB — 10 сек в Obraz»<br>Магнифик: часы из ткани, мягкий пластик, warm light --ar 1:1</div><div class="meta"><strong>A1 — 1:1 лента</strong><p>Текст ≤7: «10 сек вместо часов» — CTA «Открыть 3 бесплатно»</p></div></div>
+    <div class="creo"><div class="art">Концепт B: Выгода<br>«Где дешевле — кнопка покажет»<br>Магнифик: 4 ценника WB/Ozon/Lamoda/ЯМ, коралл #FF4D6A --ar 1:1</div><div class="meta"><strong>B1 — 1:1 лента</strong><p>Текст: «Где дешевле — покажем» — CTA «Сравнить цены»</p></div></div>
+    <div class="creo"><div class="art">Концепт C: Механика<br>«Квиз 15с → лента → покупка»<br>Магнифик: 3 шага изометрия, soft plastic --ar 1:1</div><div class="meta"><strong>C1 — 1:1 лента</strong><p>Текст: «3 шага — готовый образ» — CTA «Собрать образ»</p></div></div>
+  </div>
+  <div class="grid">
+    <div class="creo"><div class="art tall">A2 — 9:16 сторис/шортс<br>Вертикаль, хук 0-2с: «10 сек вместо часов» + скрин ленты + свайп цены</div><div class="meta"><strong>A2 — 9:16 шортс</strong><p>Хук 0-2с решает 70%, субтитры CapCut, CTA «Открыть в боте»</p></div></div>
+    <div class="creo"><div class="art tall">B2 — 9:16 шортс<br>4 бейджа цены в ряд, пульс коралл, хук «WB 1 200 vs Lamoda 2 900»</div><div class="meta"><strong>B2 — 9:16 шортс</strong><p>Хук: «Где дешевле — смотри»</p></div></div>
+    <div class="creo"><div class="art tall">C2 — 9:16 шортс<br>Квиз 3 вопроса → лента masonry → CTA, прогресс-бар 15с</div><div class="meta"><strong>C2 — 9:16 шортс</strong><p>Хук: «3 вопроса — 50 луков»</p></div></div>
+  </div>
+  <p style="font-size:12px;color:#9A8F8F;">Промпты Магнифик в agents/design-agent.md §Промты — 1 акцент #FF4D6A, 1 материал soft plastic, тёплый свет. Генерация у Саши, сборка в Figma free + Spline.</p>
+</body>
+</html>

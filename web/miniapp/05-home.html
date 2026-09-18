@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Obraz Mini App — Главная</title>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --text:#1A1A1E; --hint:#9A8F8F; --accent:#FF4D6A; --accent2:#FF8FA3;
+  --border:#F2E6E2; --card:#fff;
+  --shadow:0 4px 6px rgba(255,77,106,0.06),0 10px 24px rgba(255,143,163,0.10);
+  --spring:cubic-bezier(0.16,1,0.3,1);
+}
+body{font-family:'Inter',sans-serif;background:linear-gradient(180deg,#FFF8F6,#FFEDE8);
+  background-attachment:fixed;color:var(--text);max-width:390px;margin:0 auto;
+  min-height:100vh;padding-bottom:78px;overflow-x:hidden;}
+h1,h2,h3{font-family:'Manrope',sans-serif;}
+.top{padding:22px 20px 10px;display:flex;align-items:center;justify-content:space-between;}
+.logo{font-family:'Manrope';font-weight:800;font-size:22px;}
+.logo span{color:var(--accent);}
+.ava{width:36px;height:36px;border-radius:50%;background:linear-gradient(135deg,var(--accent),var(--accent2));}
+.hero{padding:6px 20px 18px;}
+.hero h1{font-size:26px;line-height:1.2;font-weight:800;margin-bottom:6px;}
+.hero p{color:var(--hint);font-size:14px;line-height:1.5;}
+/* две главные карточки-действия */
+.actions{display:flex;flex-direction:column;gap:14px;padding:6px 20px 20px;}
+.act{border-radius:22px;padding:22px;color:#fff;position:relative;overflow:hidden;
+  box-shadow:var(--shadow);cursor:pointer;transition:transform .15s var(--spring);min-height:132px;
+  display:flex;flex-direction:column;justify-content:flex-end;}
+.act:active{transform:scale(0.98);}
+.act.scan{background:linear-gradient(135deg,#FF4D6A,#FF8FA3);}
+.act.feed{background:linear-gradient(135deg,#1A1A1E,#3A2E36);}
+.act .emoji{position:absolute;top:16px;right:18px;font-size:40px;opacity:.9;}
+.act h3{font-size:20px;font-weight:700;margin-bottom:4px;}
+.act p{font-size:13px;opacity:.85;}
+.act .badge{display:inline-block;background:rgba(255,255,255,.22);border-radius:20px;
+  padding:4px 10px;font-size:11px;font-weight:600;margin-bottom:10px;width:fit-content;}
+/* лента-превью «образ дня» */
+.section-h{padding:4px 20px 10px;display:flex;justify-content:space-between;align-items:baseline;}
+.section-h h2{font-size:18px;font-weight:700;}
+.section-h a{color:var(--accent);font-size:13px;text-decoration:none;font-weight:600;}
+.rail{display:flex;gap:12px;overflow-x:auto;padding:0 20px 8px;scrollbar-width:none;}
+.rail::-webkit-scrollbar{display:none;}
+.look{flex:0 0 150px;border-radius:18px;overflow:hidden;background:#eee;position:relative;
+  box-shadow:var(--shadow);}
+.look img{width:150px;height:210px;object-fit:cover;display:block;}
+.look .cap{position:absolute;left:0;right:0;bottom:0;padding:22px 12px 10px;color:#fff;
+  background:linear-gradient(transparent,rgba(0,0,0,.6));font-size:13px;font-weight:600;}
+/* нижняя навигация */
+.nav{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:390px;
+  background:rgba(255,248,246,.92);backdrop-filter:blur(16px);border-top:1px solid var(--border);
+  display:flex;justify-content:space-around;padding:10px 0 14px;}
+.nav a{display:flex;flex-direction:column;align-items:center;gap:3px;color:var(--hint);
+  font-size:11px;text-decoration:none;}
+.nav a.on{color:var(--accent);}
+.nav .ic{font-size:20px;}
+</style>
+</head>
+<body>
+  <div class="top"><div class="logo">Ob<span>raz</span></div><div class="ava"></div></div>
+  <div class="hero">
+    <h1>Привет, Ника 👋</h1>
+    <p>Кинь фото лука - соберу его из реальных вещей. Или листай готовые образы.</p>
+  </div>
+  <div class="actions">
+    <div class="act scan">
+      <span class="emoji">📸</span>
+      <span class="badge">Наша фишка</span>
+      <h3>Разобрать лук по фото</h3>
+      <p>Скрин с Pinterest → вещи с ценами и «купить» за минуту</p>
+    </div>
+    <div class="act feed">
+      <span class="emoji">✨</span>
+      <h3>Готовые образы</h3>
+      <p>Подборки под твой стиль, размер и бюджет</p>
+    </div>
+  </div>
+  <div class="section-h"><h2>Образ дня</h2><a href="#">все →</a></div>
+  <div class="rail">
+    <div class="look"><img src="https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?w=300&q=80" alt=""><div class="cap">Городской шик · от 6 730 ₽</div></div>
+    <div class="look"><img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?w=300&q=80" alt=""><div class="cap">Свидание · от 8 900 ₽</div></div>
+    <div class="look"><img src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=300&q=80" alt=""><div class="cap">Офис · от 12 400 ₽</div></div>
+  </div>
+  <div class="nav">
+    <a class="on"><span class="ic">🏠</span>Главная</a>
+    <a><span class="ic">📸</span>Разбор</a>
+    <a><span class="ic">✨</span>Образы</a>
+    <a><span class="ic">❤️</span>Избранное</a>
+    <a><span class="ic">👤</span>Профиль</a>
+  </div>
+</body>
+</html>

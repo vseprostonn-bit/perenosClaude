@@ -1,0 +1,296 @@
+{
+  "gender": "men",
+  "note": "",
+  "vibe": "Лёгкий городской стиль.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        60859
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [
+        57512
+      ],
+      "acceptable": [
+        58025
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка с коротким рукавом",
+      "color": "коричневый",
+      "search_query": "рубашка короткий рукав коричневый",
+      "type": "рубашка",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": "короткий",
+      "fit": null,
+      "pattern": "полоска"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "шорты",
+      "color": "бежевый",
+      "search_query": "шорты бежевые",
+      "type": "шорты",
+      "silhouette": "приталенный",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "туфли",
+      "color": "бежевый",
+      "search_query": "туфли бежевые",
+      "type": "туфли",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 5113,
+        "title": "Рубашка из модала с коротким рукавом и вышивкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633117012/BF2633117012_20_1.jpg"
+      },
+      {
+        "id": 6627,
+        "title": "Рубашка верхняя с меховой фактурой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633117027/BF2633117027_20_100.jpg"
+      },
+      {
+        "id": 60859,
+        "title": "Хлопковая рубашка Sonrisa",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 5270,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c15c409f00d2f60ba7acf2b8344501d5/height/808/i/98/e1/11/77/b759f1b4-7d2c-4d1e-90cd-5c0607055147.jpg"
+      },
+      {
+        "id": 61276,
+        "title": "Льняная рубашка Sonrisa",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 19950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/071a970e2750d2d8f5763024bc73b90b/height/808/i/68/f6/9b/1c/deed9617-81e4-483e-b662-bdf351dce021.jpg"
+      },
+      {
+        "id": 64757,
+        "title": "Рубашка домашняя",
+        "store": "kanzler",
+        "color": "коричневый",
+        "price": 5990,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/c76/ajmoxfzoyfd29n8o04paispeq5px9vmi.jpg"
+      },
+      {
+        "id": 1766,
+        "title": "Рубашка с коротким рукавом и змеиным принтом вискозная",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 0.9021,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633117002/BF2633117002_29_1.jpg"
+      },
+      {
+        "id": 2341,
+        "title": "Рубашка с коротким рукавом из вискозы со льном и хлопком",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2623117004/BF2623117004_62_1.jpg"
+      },
+      {
+        "id": 61165,
+        "title": "Хлопковая рубашка A-COLD-WALL",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 19250,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/eda96279dc063954b214f4acd7e6d34d/height/808/i/25/ea/3c/7e/40462a3b-82b4-4200-82c9-1ab8b85050ee.jpg"
+      }
+    ],
+    [
+      {
+        "id": 56454,
+        "title": "Хлопковые шорты Paade Mode",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 4375,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/1bb67c79d80b4c732c30f4737dfea822/height/808/i/40/72/46/3c/4072463c-5f46-33fe-917c-b67e3d0047fb.jpg"
+      },
+      {
+        "id": 57512,
+        "title": "Хлопковые шорты Aspesi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 7745,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9a305c59761409a320d7e6380e851aae/height/808/i/dc/7a/fd/41/3d0b5e33-722e-4bec-ba70-9e26d1811daa.jpg"
+      },
+      {
+        "id": 58025,
+        "title": "Хлопковые шорты Roberto Cavalli",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 4970,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/5430d1ff27ce79c3b7e6c60f8ead21bf/height/808/i/f7/b4/e1/c5/f7b4e1c5-543d-31a4-bab4-266c558b2134.jpg"
+      },
+      {
+        "id": 58184,
+        "title": "Хлопковые шорты Paade Mode",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 4660,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/567d9568050786d4a73a8406ec937526/height/808/i/e8/67/57/b1/d308bbf6-b77e-4d2b-9015-c1c33b063f0a.jpg"
+      },
+      {
+        "id": 61066,
+        "title": "Шорты изо льна и вискозы Dondup",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 16400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/953792547a8d1980d30c10e798ea8c9e/height/808/i/e6/f1/64/22/b4e5d99a-b03a-440a-a6f3-ea318d22f3a0.jpg"
+      },
+      {
+        "id": 61219,
+        "title": "Шорты Tee Library",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 7400,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/36d99541cf2845d511561ba92a5744cd/height/808/i/42/67/35/14/f2ea60b2-6ef6-40c6-a45a-9dfca3cacf1d.jpg"
+      },
+      {
+        "id": 61481,
+        "title": "Шорты GmbH",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 16000,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/51865f410c54344c3e500ab094577644/height/808/i/59/78/91/f8/597891f8-812b-3cd5-8213-b06d7256f87e.jpg"
+      },
+      {
+        "id": 61525,
+        "title": "Хлопковые шорты 7 For All Mankind",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12100,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/acfe7277ecaf5876b12703597893899b/height/808/i/3b/d7/db/78/efee5388-5f5a-45b1-8ab1-b0396872c1a2.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55013,
+        "title": "Кожаные туфли Moschino",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14850,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/71898f8f7ce5612f7a4874f40114c40b/height/808/i/78/f2/91/3b/519dc7c8-a7b5-427c-b844-47c6cd42cca6.jpg"
+      },
+      {
+        "id": 58559,
+        "title": "Домашние туфли из кожи Babbi",
+        "store": "tsum",
+        "color": "золотой",
+        "price": 6395,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/478182453a1cd86f6218032eee3f1620/height/808/i/5a/a1/fe/79/5aa1fe79-78a0-3b0c-9589-773e293ef924.jpg"
+      },
+      {
+        "id": 60691,
+        "title": "Кожаные домашние туфли Aldo Brue",
+        "store": "tsum",
+        "color": "черный",
+        "price": 22500,
+        "score": 0.6364,
+        "photo_url": "https://st-cdn.tsum.com/sig/f149953381ad089e34d3d535e812a1e6/height/808/i/a1/26/2b/83/3f5fd197-80de-425a-8de8-8aa462ceeb57.jpg"
+      },
+      {
+        "id": 5683,
+        "title": "Кеды из натуральной замши с контрастными вставками",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 5599,
+        "score": 0.3636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633680003/BF2633680003_62_11.jpg"
+      },
+      {
+        "id": 7137,
+        "title": "Кроссовки низкие из натуральной замши",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 5999,
+        "score": 0.3636,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2633681001/BF2633681001_62_12.jpg"
+      },
+      {
+        "id": 57094,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12350,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/3a55d23f85225ee7b46d24e3b0502874/height/808/i/ed/bf/32/65/2c740ed0-2266-4c5d-93eb-b6976d3d6e2f.jpg"
+      },
+      {
+        "id": 57137,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11500,
+        "score": 0.3636,
+        "photo_url": "https://st-cdn.tsum.com/sig/efacc2704416cb044508768565318f91/height/808/i/3b/71/b0/bf/d351f14d-2497-402c-9dff-76789890dabb.jpg"
+      },
+      {
+        "id": 78860,
+        "title": "Сандалии из натуральной кожи",
+        "store": "kanzler",
+        "color": "бежевый",
+        "price": 5990,
+        "score": 0.3636,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/e60/v7inl7zb7cob1rt4o8zxi4frghyffwjs.JPG"
+      }
+    ]
+  ]
+}

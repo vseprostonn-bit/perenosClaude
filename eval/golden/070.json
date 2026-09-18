@@ -1,0 +1,478 @@
+{
+  "gender": "men",
+  "note": "",
+  "vibe": "Городской стиль",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "absent"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "absent"
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "куртка джинс",
+      "color": "светло-голубой",
+      "search_query": "куртка джинс светло-голубой",
+      "type": "куртка",
+      "silhouette": "оверсайз",
+      "length": "укороченный",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "футболка",
+      "color": "серый",
+      "search_query": "футболка серой",
+      "type": "футболка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки чинос",
+      "color": "бежевый",
+      "search_query": "брюки чинос бежевые",
+      "type": "брюки",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": null,
+      "fit": "низкая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "ботинки челси",
+      "color": "коричневый",
+      "search_query": "ботинки челси коричневые",
+      "type": "ботинки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "шляпа федора",
+      "color": "бежевый",
+      "search_query": "шляпа федора бежевая",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 63048,
+        "title": "Куртка Ten C",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 47950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f9ba51a457d1ad0455e71e7112c720e0/height/808/i/d3/55/5c/89/bdb9bb42-a65a-415a-8d72-60370e0cff35.jpg"
+      },
+      {
+        "id": 63607,
+        "title": "Куртка K-Way",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 13900,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/964475d6be693faad9c3b3be8e45e4f8/height/808/i/7a/73/68/f5/291dbe28-28af-4bb2-9fca-6398ba206e16.jpg"
+      },
+      {
+        "id": 63654,
+        "title": "Утепленная куртка K-Way",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 23750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/6abd209470a26e2886fbc98c06df0adb/height/808/i/af/b5/a0/42/1fceb6e0-a97f-4917-91bb-8db1ddf57d92.jpg"
+      },
+      {
+        "id": 63686,
+        "title": "Утепленная куртка K-Way",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 21800,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/60e01c3d230fd2d74229d116f2160eef/height/808/i/d5/f4/9e/78/d315834b-fc91-45f5-8485-a3a1c03b424b.jpg"
+      },
+      {
+        "id": 63151,
+        "title": "Бомбер Bluemarble",
+        "store": "tsum",
+        "color": "голубой",
+        "price": 41400,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/ae37afaf5d3e0356ea43404a416746a9/height/808/i/e5/a5/15/06/e5a51506-57ce-3857-8baa-eae71a46a825.jpg"
+      },
+      {
+        "id": 58629,
+        "title": "Куртка из экокожи Trussardi junior",
+        "store": "tsum",
+        "color": "синий",
+        "price": 14850,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/e5b97dc91ec1e28eda270210297ce58a/height/808/i/c1/43/f1/e1/fa14ac14-24a1-4873-ac37-9df448c5c942.jpg"
+      },
+      {
+        "id": 59504,
+        "title": "Утепленная куртка с капюшоном",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 21999,
+        "score": 0.8,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/101/FWF21020_101_20.jpg"
+      },
+      {
+        "id": 59513,
+        "title": "Утепленная куртка с капюшоном",
+        "store": "finnflare",
+        "color": "синий",
+        "price": 21999,
+        "score": 0.8,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/101/FWF21002_101_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 57620,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "серый",
+        "price": 5225,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/bb394308d34a3d63934e9d3f7367f5be/height/808/i/f2/a0/3e/11/f1d2c370-1d93-40fb-8d71-af05402f14a2.jpg"
+      },
+      {
+        "id": 57621,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "серый",
+        "price": 5545,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/b04114ad538626d5be751c7d0fba7311/height/808/i/f2/aa/d0/28/e7f30fb9-357b-4b01-b0fd-94a84e55010c.jpg"
+      },
+      {
+        "id": 58332,
+        "title": "Хлопковая футболка Aspesi",
+        "store": "tsum",
+        "color": "серый",
+        "price": 5850,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/addbdb268e4d3417d89af2f35b16d8c8/height/808/i/96/49/50/01/e96a70c0-6850-45bc-b6f6-e02836a76cb6.jpg"
+      },
+      {
+        "id": 59686,
+        "title": "Футболка прямого кроя из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "серый",
+        "price": 3499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/208/BAS-200166_208_20.jpg"
+      },
+      {
+        "id": 59878,
+        "title": "Футболка прямого кроя из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "серый",
+        "price": 3499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/159/BAS-200166_159_20.jpg"
+      },
+      {
+        "id": 59879,
+        "title": "Футболка прямого кроя из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "серый",
+        "price": 3499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/727/BAS-200166_727_20.jpg"
+      },
+      {
+        "id": 60556,
+        "title": "Футболка прямого кроя из мерсеризованного хлопка",
+        "store": "finnflare",
+        "color": "серый",
+        "price": 3499,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/BAS/633/BAS-200166_633_20.jpg"
+      },
+      {
+        "id": 60811,
+        "title": "Хлопковая футболка RRL",
+        "store": "tsum",
+        "color": "серый",
+        "price": 4195,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f8edac5d6e94c2cf4704b7c9fdf21a27/height/808/i/7a/2f/12/a4/7a2f12a4-7328-343e-8cd9-d20d58628825.jpg"
+      }
+    ],
+    [
+      {
+        "id": 68505,
+        "title": "Брюки чинос светло-бежевые из хлопка",
+        "store": "kanzler",
+        "color": "бежевый",
+        "price": 2990,
+        "score": 0.9545,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/e8d/4sbzk7n6lykh03h1uzjgcw2s2wloxxgo.jpg"
+      },
+      {
+        "id": 60681,
+        "title": "Брюки Fradi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/5fa7bc834a2a0ef0a361465168372dec/height/808/i/03/ef/5d/4c/c0927af4-16f9-4910-9e61-d1aa145fdafd.jpg"
+      },
+      {
+        "id": 60743,
+        "title": "Брюки BOSS Green",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14650,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/091de6681b71d2f3fc141f92ee2a3911/height/808/i/6d/d7/b1/95/77c5e27f-6c7f-44cd-9d31-e1c41d42f9e9.jpg"
+      },
+      {
+        "id": 60842,
+        "title": "Хлопковые брюки-карго Fradi",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 13250,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/d518973532ebd242e470f51d8c1102c1/height/808/i/b5/44/2e/10/718b2a70-556e-4fae-a9a1-e7ddaa9cf1ae.jpg"
+      },
+      {
+        "id": 60932,
+        "title": "Хлопковые брюки Notsonormal",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 16550,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/c7cbb58904ca9ec8f9a03ecc1bedc797/height/808/i/90/4b/36/a2/904b36a2-ebec-31dd-aff2-db252f24d0cb.jpg"
+      },
+      {
+        "id": 60992,
+        "title": "Хлопковые брюки Richard J. Brown",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20600,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/9f7162946c1776804d8d9d1246025add/height/808/i/e9/de/73/9d/54b8131a-dcd1-4faa-9338-2cbf4c6d8a78.jpg"
+      },
+      {
+        "id": 61526,
+        "title": "Хлопковые брюки 7 For All Mankind",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 14750,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/8191c413886727d6375157759613ff20/height/808/i/48/49/fa/a8/c802044e-01e5-4845-bc36-8a820764d815.jpg"
+      },
+      {
+        "id": 61548,
+        "title": "Хлопковые брюки Richard J. Brown",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 20600,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/bdfe0258b92b88f55406c4f55815b3ac/height/808/i/d6/52/f3/34/acdbe418-cd00-469f-bf4f-27984e894942.jpg"
+      }
+    ],
+    [
+      {
+        "id": 60615,
+        "title": "Кожаные челси Seboy`s",
+        "store": "tsum",
+        "color": "коричневый",
+        "price": 23950,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/388cccf1e2e7ffa355ff5ce225168965/height/808/i/8b/74/5b/a4/8b745ba4-9414-336d-9dda-59b3e68af577.jpg"
+      },
+      {
+        "id": 69276,
+        "title": "Ботинки из натуральной кожи",
+        "store": "kanzler",
+        "color": "коричневый",
+        "price": 9990,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/11b/4seosoykeb4ytpq34seryc83p16i08sx.jpg"
+      },
+      {
+        "id": 75573,
+        "title": "Челси из натуральной кожи",
+        "store": "kanzler",
+        "color": "коричневый",
+        "price": 18990,
+        "score": 0.9091,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/ed2/zfe01q798adlbivnyx2zoqsdkxkvgj66.jpg"
+      },
+      {
+        "id": 88404,
+        "title": "Мужские ботинки Quest Rove Gore-Tex",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 24999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/1d8/me8sfyzv2evik6l2tw3u37aiaoz2xlgv.jpg"
+      },
+      {
+        "id": 88447,
+        "title": "Ботинки Jasper",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 12999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/cad/fdfeq5rzdv6gdju70g0mixtjy94buce1.jpg"
+      },
+      {
+        "id": 88459,
+        "title": "Мужские ботинки Back-To-Berkeley IV Textile Waterproof",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 16399,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c28/763h7wazvj7rm004tmgfk8na6krwso9q.jpg"
+      },
+      {
+        "id": 90312,
+        "title": "Мужские ботинки PUMA X-Ray Lite Pro Mid",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/5d6/6ni8ri31cd8ykw0s8jzqtmmqh7y8e054.jpeg"
+      },
+      {
+        "id": 91908,
+        "title": "Мужские ботинки Sk8-Hi Insulated",
+        "store": "street-beat",
+        "color": "коричневый",
+        "price": 8799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/316/4z0em31pbwx32u7a676a5z5694hl02im.jpg"
+      }
+    ],
+    [
+      {
+        "id": 73398,
+        "title": "Носки из хлопка",
+        "store": "kanzler",
+        "color": "бежевый",
+        "price": 549,
+        "score": 0.6667,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/178/jgjtm2zhynthrs2pbwnoedptw0c7sdi9.jpg"
+      },
+      {
+        "id": 80641,
+        "title": "Носки из бамбука",
+        "store": "kanzler",
+        "color": "бежевый",
+        "price": 549,
+        "score": 0.6667,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/91b/o43588m49s35ameets1iali3jz15cf44.JPG"
+      },
+      {
+        "id": 61151,
+        "title": "Хлопковые носки Notsonormal",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 1570,
+        "score": 0.5833,
+        "photo_url": "https://st-cdn.tsum.com/sig/4c5544b9885234c549cf6dcee69fb26c/height/808/i/3a/fe/db/b9/3afedbb9-89e5-39f1-9f91-05b275ccb78f.jpg"
+      },
+      {
+        "id": 55363,
+        "title": "Пуховые варежки с отделкой из песца Yves Salomon Enfant",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 13100,
+        "score": 0.5,
+        "photo_url": "https://st-cdn.tsum.com/sig/42abd023132700ebeaaa48b1f4aca2ea/height/808/i/0e/0e/f3/1f/0e0ef31f-803b-341d-b362-6d5fdbf511ba.jpg"
+      },
+      {
+        "id": 58968,
+        "title": "Шапка со съемными ушками Yves Salomon Enfant",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 16600,
+        "score": 0.5,
+        "photo_url": "https://st-cdn.tsum.com/sig/6af55c0439618eb97a66ef60b43ae803/height/808/i/11/21/2a/22/11212a22-9bad-3c7a-b7e5-9bb09c97507a.jpg"
+      },
+      {
+        "id": 62930,
+        "title": "Шарф CHMPS PARISSE",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11800,
+        "score": 0.5,
+        "photo_url": "https://st-cdn.tsum.com/sig/87e9211814eb8973bd57d77930c2c894/height/808/i/3a/af/f9/1d/a1f75d1f-a266-4036-92fd-09bb70f501bb.jpg"
+      },
+      {
+        "id": 63050,
+        "title": "Шерстяные перчатки Kired",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 15950,
+        "score": 0.5,
+        "photo_url": "https://st-cdn.tsum.com/sig/db49b6a821ea0996e6105ed5ff7ba268/height/808/i/d4/d0/bd/bb/61cb378b-9a12-4ec2-ae49-4c99dec4cf81.jpg"
+      },
+      {
+        "id": 75611,
+        "title": "Кепка с логотипом",
+        "store": "kanzler",
+        "color": "бежевый",
+        "price": 2490,
+        "score": 0.5,
+        "photo_url": "https://kanzler-style.ru/upload/iblock/06d/4zbv05b0qqibo80qzqbbaxm0uqc1eenk.jpg"
+      }
+    ]
+  ]
+}

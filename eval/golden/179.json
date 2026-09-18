@@ -1,0 +1,287 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Минималистичный городской стиль.",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ без рукавов",
+      "color": "коричневый",
+      "search_query": "топ без рукавов коричневый",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "коричневый",
+      "search_query": "брюки широкие коричневые",
+      "type": "брюки",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": "высокая посадка",
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "белый",
+      "search_query": "босоножки белые",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 5755,
+        "title": "Бюстгальтер-топ без косточек",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2644830005/BF2644830005_22_1.jpg"
+      },
+      {
+        "id": 1632,
+        "title": "Майка-топ в рубчик на пуговицах",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121008/BF2622121008_20_1.jpg"
+      },
+      {
+        "id": 1916,
+        "title": "Топ приталенный на тонких бретелях",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 899,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121028/BF2631121028_27_1.jpg"
+      },
+      {
+        "id": 3046,
+        "title": "Топ-халтер облегающий на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121011/BF2622121011_66_1.jpg"
+      },
+      {
+        "id": 4392,
+        "title": "Майка-топ в рубчик с вискозой на пуговицах",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121022/BF2621121022_20_1.jpg"
+      },
+      {
+        "id": 4807,
+        "title": "Бюстгальтер-топ на тонких бретелях с сеточкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830020/BF2634830020_22_1.jpg"
+      },
+      {
+        "id": 4831,
+        "title": "Топ облегающий на тонких бретелях",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121023/BF2631121023_22_1.jpg"
+      },
+      {
+        "id": 5078,
+        "title": "Топ вязаный облегающий в рубчик",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631521001/BF2631521001_22_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3707,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034/BF2631308034_20_1.jpg"
+      },
+      {
+        "id": 3710,
+        "title": "Брюки широкие со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308034PL/BF2631308034PL_20_1.jpg"
+      },
+      {
+        "id": 4991,
+        "title": "Брюки широкие костюмные с низкой посадкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 4599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641308002/BF2641308002_22_1.jpg"
+      },
+      {
+        "id": 5640,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008/BF2631108008_22_1.jpg"
+      },
+      {
+        "id": 5690,
+        "title": "Брюки широкие утепленные с вышивкой и лампасами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632108006/BF2632108006_27_1.jpg"
+      },
+      {
+        "id": 6354,
+        "title": "Брюки широкие вельветовые на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631108008pl/BF2631108008pl_22_1.jpg"
+      },
+      {
+        "id": 6460,
+        "title": "Брюки широкие костюмные со средней посадкой и разрезами",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 2799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631308041/BF2631308041_20_100.jpg"
+      },
+      {
+        "id": 7380,
+        "title": "Брюки широкие на завязках из хлопка, модала и вискозы",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308008/BF2632308008_20_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55439,
+        "title": "Кожаные босоножки Slinky Paul Andrew",
+        "store": "tsum",
+        "color": "белый",
+        "price": 35950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/c2c3583d256ac60582f9f80c4472b2dd/height/808/i/73/1d/3e/77/731d3e77-d6a3-3d5b-865b-526e1051dfe3.jpg"
+      },
+      {
+        "id": 6751,
+        "title": "Босоножки с квадратным мысом на низком каблуке",
+        "store": "befree",
+        "color": "белый",
+        "price": 1999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688015/BF2626688015_1_1.jpg"
+      },
+      {
+        "id": 7642,
+        "title": "Босоножки с перемычкой между пальцами и декором",
+        "store": "befree",
+        "color": "белый",
+        "price": 1799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2636688001/BF2636688001_1_1.jpg"
+      },
+      {
+        "id": 55504,
+        "title": "Кожаные босоножки Lily 100 Gedebe",
+        "store": "tsum",
+        "color": "белый",
+        "price": 46400,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/fad48b55efd819c1df5af7f28d34660f/height/808/i/cb/42/c3/35/96e0348c-4577-4484-8142-e6962ba7d700.jpg"
+      },
+      {
+        "id": 125658,
+        "title": "Женские сандалии Emma",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 12999,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e5c/cjql61w3msso3q11s10ph7x6ov7trl2e.jpg"
+      },
+      {
+        "id": 55546,
+        "title": "Замшевые босоножки Alexandre Birman",
+        "store": "tsum",
+        "color": "кремовый",
+        "price": 19950,
+        "score": 0.8,
+        "photo_url": "https://st-cdn.tsum.com/sig/45a630767271c124b3e8a7ca02cb6333/height/808/i/60/f7/72/f0/60f772f0-dcab-34a3-8dd6-e200afc7284b.jpg"
+      },
+      {
+        "id": 55670,
+        "title": "Сандалии Cube Paul Andrew",
+        "store": "tsum",
+        "color": "белый",
+        "price": 27700,
+        "score": 0.7727,
+        "photo_url": "https://st-cdn.tsum.com/sig/b2cecc766cae5acca5052df5d8da8339/height/808/i/ef/dd/38/37/efdd3837-4b44-388a-8eb8-d272a28d04fb.jpg"
+      },
+      {
+        "id": 55687,
+        "title": "Кожаные босоножки SW Signature 35 Stuart Weitzman",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 29950,
+        "score": 0.7545,
+        "photo_url": "https://st-cdn.tsum.com/sig/42892fc7fff0705388224c32ec9122a8/height/808/i/45/4d/7f/8d/b7ce299a-ec93-4f73-85e8-edbd6a0dc517.jpg"
+      }
+    ]
+  ]
+}

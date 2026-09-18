@@ -1,0 +1,386 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городская прогулка",
+  "items": [
+    {
+      "slot": "outerwear",
+      "exact": [],
+      "acceptable": [
+        1970
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog"
+    }
+  ],
+  "look": [
+    {
+      "slot": "outerwear",
+      "category": "outerwear",
+      "name": "кардиган вязаный",
+      "color": "серый",
+      "search_query": "кардиган вязаный серый",
+      "type": "кардиган",
+      "silhouette": "оверсайз",
+      "length": "удлинённый",
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ облегающий",
+      "color": "белый",
+      "search_query": "топ облегающий белый",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "балетки",
+      "color": "черный",
+      "search_query": "балетки черные",
+      "type": "балетки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "черный",
+      "search_query": "сумка черная",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1910,
+        "title": "Кардиган вязаный с декором из пуговиц",
+        "store": "befree",
+        "color": "серый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527032/BF2631527032_33_1.jpg"
+      },
+      {
+        "id": 1946,
+        "title": "Кардиган вязаный на молнии с шерстью и имитацией второго слоя",
+        "store": "befree",
+        "color": "серый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527048/BF2631527048_38_1.jpg"
+      },
+      {
+        "id": 1970,
+        "title": "Кардиган оверсайз вязаный на пуговицах",
+        "store": "befree",
+        "color": "серый",
+        "price": 3599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527038/BF2631527038_33_1.jpg"
+      },
+      {
+        "id": 2421,
+        "title": "Кардиган вязаный на молнии с капюшоном и помпонами",
+        "store": "befree",
+        "color": "серый",
+        "price": 3299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642527001/BF2642527001_33_1.jpg"
+      },
+      {
+        "id": 2578,
+        "title": "Кардиган вязаный на молнии с воротником-стойкой",
+        "store": "befree",
+        "color": "серый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527026/BF2641527026_33_1.jpg"
+      },
+      {
+        "id": 3284,
+        "title": "Кардиган вязаный с шерстью и кейпом",
+        "store": "befree",
+        "color": "серый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631527045/BF2631527045_38_1.jpg"
+      },
+      {
+        "id": 3758,
+        "title": "Кардиган вязаный с азиатскими застежками и шерстью",
+        "store": "befree",
+        "color": "серый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641527014pl/BF2641527014pl_33_1.jpg"
+      },
+      {
+        "id": 4357,
+        "title": "Кардиган вязаный с косой молнией",
+        "store": "befree",
+        "color": "серый",
+        "price": 3299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642527006/BF2642527006_33_100.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4417,
+        "title": "Топ-халтер облегающий на завязках",
+        "store": "befree",
+        "color": "белый",
+        "price": 599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121006/BF2631121006_1_1.jpg"
+      },
+      {
+        "id": 5494,
+        "title": "Топ облегающий в рубчик из вискозы и хлопка",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121022/BF2631121022_1_1.jpg"
+      },
+      {
+        "id": 6819,
+        "title": "Топ облегающий из вискозы и лиоцелла с кружевом",
+        "store": "befree",
+        "color": "белый",
+        "price": 999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121037/BF2631121037_1_1.jpg"
+      },
+      {
+        "id": 6896,
+        "title": "Топ-халтер облегающий на завязках",
+        "store": "befree",
+        "color": "белый",
+        "price": 599,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121011/BF2622121011_1_1.jpg"
+      },
+      {
+        "id": 1607,
+        "title": "Топ-халтер хлопковый облегающий в рубчик",
+        "store": "befree",
+        "color": "белый",
+        "price": 499,
+        "score": 0.9545,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121024/BF2621121024_1_1.jpg"
+      },
+      {
+        "id": 5126,
+        "title": "Топ облегающий со рваными разрезами и принтом",
+        "store": "befree",
+        "color": "белый",
+        "price": 799,
+        "score": 0.9513,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632121009/BF2632121009_4_1.jpg"
+      },
+      {
+        "id": 6240,
+        "title": "Топ облегающий с принтом",
+        "store": "befree",
+        "color": "белый",
+        "price": 599,
+        "score": 0.9513,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121013/BF2631121013_5_11.jpg"
+      },
+      {
+        "id": 1335,
+        "title": "Топ из хлопка с открытым плечом и фигурным узлом",
+        "store": "finnflare",
+        "color": "белый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FSE/201/FSE110162_201_20.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55896,
+        "title": "Балетки Montelpare Tradition",
+        "store": "tsum",
+        "color": "черный",
+        "price": 14650,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/324ba647f6152ee5ede511ae0a18b041/height/808/i/6d/53/c1/43/21934b60-5f1f-4a09-9584-a1e3397f6d41.jpg"
+      },
+      {
+        "id": 89201,
+        "title": "Женские балетки PUMA Speedcat Ballet SD Wns",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 11499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/98f/atwyfxj34m2582d6fbn43noot4vmnnfc.jpg"
+      },
+      {
+        "id": 89675,
+        "title": "Женские балетки Mostro Fey Lace",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 10499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/ec9/1000_1000_0/26pbkzv38uauj5l13xuqlonfqoerbn4f.jpg"
+      },
+      {
+        "id": 94464,
+        "title": "Женские балетки Samba Jane",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 8999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/bcb/7kcjlbna80tciuozg29accanz1u026wn.jpg"
+      },
+      {
+        "id": 95156,
+        "title": "Женские балетки Vans Mary Jane",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/a49/1vt5ktzmxr2nm40hog5kpw6hf6voi2te.jpg"
+      },
+      {
+        "id": 107670,
+        "title": "Женские балетки PUMA Tacklette L",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7799,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/f0d/s0m7vqj66g9if62ezk8dirk0dtd4x4uy.jpg"
+      },
+      {
+        "id": 107682,
+        "title": "Женские балетки PUMA Tacklette",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/df8/1hw6j6cm3eocmvqbc2n9mgwd6iwnlsq6.jpg"
+      },
+      {
+        "id": 107758,
+        "title": "Женские балетки PUMA Catch Soleil Ballerina",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7499,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/88e/r3deqt78zvte0bxejsp3oetfx3bqibpw.jpg"
+      }
+    ],
+    [
+      {
+        "id": 4489,
+        "title": "Сумка на плечо с заклепками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457075/BF2635457075_50_11.jpg"
+      },
+      {
+        "id": 5976,
+        "title": "Сумка-багет на плечо со значками",
+        "store": "befree",
+        "color": "черный",
+        "price": 2299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457050/BF2635457050_50_11.jpg"
+      },
+      {
+        "id": 6841,
+        "title": "Сумка-тоут через плечо спортивная",
+        "store": "befree",
+        "color": "черный",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457052/BF2635457052_50_1.jpg"
+      },
+      {
+        "id": 87487,
+        "title": "Сумка через плечо Clyffe Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9c6/1000_1000_0/isb8aibvkgrjkknhgz1zkjxbm2mpqbtp.jpg"
+      },
+      {
+        "id": 87488,
+        "title": "Сумка через плечо Glen Canyon Pocket Cross Body",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 5299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/8a4/1000_1000_0/16gn8p01n28uufs09fwaow929yjxt13d.jpg"
+      },
+      {
+        "id": 87567,
+        "title": "Сумка через плечо Bail Shoulder Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 3499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/2dd/p3d01jtovbkvtxbxtr7imfpwc41yxhm4.jpg"
+      },
+      {
+        "id": 87868,
+        "title": "Сумка через плечо Never Stop Utility Sling Bag",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 7999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/9cb/1000_1000_0/r4g20yagotuqpo2kahnnqtzvs0ey2hqj.jpg"
+      },
+      {
+        "id": 87990,
+        "title": "Сумка через плечо PUMA FUTURE.ARCHIVE Crossbody",
+        "store": "street-beat",
+        "color": "черный",
+        "price": 2499,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/ec4/v2hub7vo3gpbrj5z71ozppxbt6zsnpfw.jpg"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Городской casual",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bag",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "свитер",
+      "color": "бордовый",
+      "search_query": "свитер бордовая",
+      "type": "свитер",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "джинсы",
+      "color": "синие",
+      "search_query": "джинсы синие",
+      "type": "джинсы",
+      "silhouette": "прямой",
+      "length": null,
+      "sleeve": null,
+      "fit": "высокая посадка",
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки",
+      "color": "бордовый",
+      "search_query": "кроссовки бордовые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    },
+    {
+      "slot": "bag",
+      "category": "bag",
+      "name": "сумка через плечо",
+      "color": "бежевый",
+      "search_query": "сумка через плечо бежевая",
+      "type": "сумка",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "однотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 2474,
+        "title": "Свитер вязаный с горлом",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 3299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526026/BF2631526026_76_1.jpg"
+      },
+      {
+        "id": 1878,
+        "title": "Лонгслив вязаный вискозный с вырезом-лодочкой",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 1799,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526016/BF2631526016_79_1.jpg"
+      },
+      {
+        "id": 2437,
+        "title": "Джемпер вязаный пушистый в шерстью",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 3599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641526002/BF2641526002_71_100.jpg"
+      },
+      {
+        "id": 7938,
+        "title": "Толстовка оверсайз спортивная с воротником-стойкой на молнии",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 3599,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631723001/BF2631723001_71_1.jpg"
+      },
+      {
+        "id": 7983,
+        "title": "Джемпер оверсайз вязаный в рубчик",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 2999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632526020/BF2632526020_71_100.jpg"
+      },
+      {
+        "id": 8210,
+        "title": "Джемпер вязаный с имитацией второго слоя",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 2999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526004/BF2631526004_76_1.jpg"
+      },
+      {
+        "id": 8416,
+        "title": "Джемпер вязаный на молнии с воротником-стойкой",
+        "store": "befree",
+        "color": "бордовый",
+        "price": 2999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632526008/BF2632526008_76_1.jpg"
+      },
+      {
+        "id": 2472,
+        "title": "Свитер вязаный с горлом",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 3299,
+        "score": 0.8,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631526026/BF2631526026_22_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1726,
+        "title": "Джинсы клеш со средней посадкой и лампасами",
+        "store": "befree",
+        "color": "синий",
+        "price": 1599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622209013/BF2622209013_110_1.jpg"
+      },
+      {
+        "id": 2418,
+        "title": "Джинсы багги со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621209080/BF2621209080_106_1.jpg"
+      },
+      {
+        "id": 2427,
+        "title": "Джинсы багги с низкой посадкой и баской",
+        "store": "befree",
+        "color": "синий",
+        "price": 3599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632209012/BF2632209012_105_1.jpg"
+      },
+      {
+        "id": 2435,
+        "title": "Джинсы клеш со штанинами на пуговицах",
+        "store": "befree",
+        "color": "синий",
+        "price": 4999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209043/BF2641209043_105_100.jpg"
+      },
+      {
+        "id": 2459,
+        "title": "Джинсы зауженные со средней посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209042col106/BF2641209042col106_106_1.jpg"
+      },
+      {
+        "id": 2462,
+        "title": "Джинсы клеш со средней посадкой и узором",
+        "store": "befree",
+        "color": "синий",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209028/BF2641209028_110_1.jpg"
+      },
+      {
+        "id": 2537,
+        "title": "Джинсы прямые с низкой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 4299,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2641209045col106/BF2641209045col106_106_1.jpg"
+      },
+      {
+        "id": 2555,
+        "title": "Джинсы багги с низкой посадкой",
+        "store": "befree",
+        "color": "синий",
+        "price": 3999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2642209004/BF2642209004_106_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 87573,
+        "title": "Женские кроссовки Club C 85",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/6d3/hnuf1gwpj29gimlep4wvn1y15d2k1vmr.jpg"
+      },
+      {
+        "id": 88112,
+        "title": "Женские кроссовки Samba OG",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 15599,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c5d/hm0bft06evixg15y590dp86t3qgopdoj.jpg"
+      },
+      {
+        "id": 88183,
+        "title": "Женские кроссовки Bubble",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 5199,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/d23/elffio4qn6oq3tqlewc0iqlsp6n5ph6x.jpg"
+      },
+      {
+        "id": 89465,
+        "title": "Женские кроссовки Handball Spezial",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 10099,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/bdf/do20gezmetw13u698ibgngkk6oaubxqi.jpg"
+      },
+      {
+        "id": 90870,
+        "title": "Женские кроссовки Palermo Moda Tongue",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 8999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/555/34woxz6zdceagdtvrt7xfdgiskmd2lhi.jpg"
+      },
+      {
+        "id": 89287,
+        "title": "Женские кроссовки Solid",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 2899,
+        "score": 0.8636,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/323/v65jot60cloqj6qt3bplulvwweoluxu3.jpg"
+      },
+      {
+        "id": 88058,
+        "title": "Кеды PUMA Park Lifestyle Easy SD",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 9499,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/fb3/oaxgmcfknwojc0rx4fclvf7u6pnrrrki.jpg"
+      },
+      {
+        "id": 92064,
+        "title": "Подростковые кроссовки Crosspath XC",
+        "store": "street-beat",
+        "color": "бордовый",
+        "price": 0,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/156/1000_1000_0/3h9t055a9s2jyye6lxa83rwx2d7pb6cu.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1967,
+        "title": "Сумка-багет через плечо замшевая",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635457027/BF2635457027_62_1.jpeg"
+      },
+      {
+        "id": 91745,
+        "title": "Сумка через плечо Hot Shot Crossbody Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4299,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/957/1000_1000_0/bz4rndmxci2fv7lrxflz4g0fls8hxknh.jpg"
+      },
+      {
+        "id": 93912,
+        "title": "Сумка через плечо PUMA HER Half Moon Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3199,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/4a6/ekolveyxg20x5sthw5l6zmu6p7wku9cb.jpg"
+      },
+      {
+        "id": 111927,
+        "title": "Сумка через плечо Terra Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 3699,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/838/8bpimo151vm5p5apnntfv415mfqlsa6q.jpg"
+      },
+      {
+        "id": 114418,
+        "title": "Сумка через плечо Mini Canvas Shoulder Bag",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 2399,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/e6b/idg4rai5j9bui8rujtzesuelu43ove43.jpg"
+      },
+      {
+        "id": 133170,
+        "title": "Сумка через плечо Alva Medium",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 4999,
+        "score": 1.0,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/9ff/3fur64te2cmyk4isxt8y82pbkzvgfsa6.jpg"
+      },
+      {
+        "id": 148175,
+        "title": "Сумка через плечо Reebok Arlo, Бежевый",
+        "store": "sportmaster",
+        "color": "бежевый",
+        "price": 1699,
+        "score": 1.0,
+        "photo_url": "https://cdn.sportmaster.ru/upload/mdm/media_content/a0a/195097800299.jpg"
+      },
+      {
+        "id": 159218,
+        "title": "Сумка через плечо, Бежевый",
+        "store": "ostin",
+        "color": "бежевый",
+        "price": 2999,
+        "score": 1.0,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/1eb/500_600_ce2e/185536570299.jpg"
+      }
+    ]
+  ]
+}

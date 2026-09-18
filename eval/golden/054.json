@@ -1,0 +1,392 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Розовое расслабление",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": [
+        155926,
+        7917
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": [
+        58111,
+        7486
+      ],
+      "verdict": "match"
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": [],
+      "verdict": "not_in_catalog",
+      "recheck": "new_candidates"
+    },
+    {
+      "slot": "accessory",
+      "exact": [],
+      "acceptable": [
+        7504
+      ],
+      "verdict": "match"
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "рубашка oversize",
+      "color": "розовый",
+      "search_query": "рубашка oversize розовый",
+      "type": "рубашка",
+      "silhouette": "оверсайз",
+      "length": null,
+      "sleeve": "длинный",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "брюки широкие",
+      "color": "розовый",
+      "search_query": "брюки широкие розовый",
+      "type": "брюки",
+      "silhouette": "трапеция",
+      "length": "макси",
+      "sleeve": null,
+      "fit": "низкая посадка",
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "кроссовки белые",
+      "color": "белый",
+      "search_query": "кроссовки белые",
+      "type": "кроссовки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "accessory",
+      "category": "accessory",
+      "name": "очки черные",
+      "color": "черный",
+      "search_query": "очки черные",
+      "type": null,
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": null
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 4462,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042/BF2631418042_95_1.jpg"
+      },
+      {
+        "id": 7917,
+        "title": "Рубашка прямая хлопковая",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418042pl/BF2631418042pl_95_1.jpg"
+      },
+      {
+        "id": 155926,
+        "title": "Пижамная рубашка в полоску, Розовый",
+        "store": "ostin",
+        "color": "розовый",
+        "price": 1599,
+        "score": 0.8864,
+        "photo_url": "https://img.ostin.com/upload/mdm/media_content/resize/8ea/500_600_aed5/172044850299.jpg"
+      },
+      {
+        "id": 55054,
+        "title": "Хлопковая рубашка Forte Dei Marmi Couture",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 13150,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/1e66608f4e58583a4636d506b73a7d4d/height/808/i/4b/63/be/1a/905f83dd-dc87-4299-bbe9-e6578d60e248.jpg"
+      },
+      {
+        "id": 56420,
+        "title": "Рубашка из вискозы и шелка BOSS Orange",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 11900,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/7d74ad10730abe5841c6bfdd933e10d5/height/808/i/dd/7c/13/66/28fd50cb-e7dd-46ae-a90c-cd7f522dd011.jpg"
+      },
+      {
+        "id": 56447,
+        "title": "Атласная рубашка Filles A Papa",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 13150,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/d37512d4cb078857e68821659e401cfd/height/808/i/f8/ff/76/3c/f8ff763c-9fbc-37c2-9989-5f3bf1df174f.jpg"
+      },
+      {
+        "id": 58689,
+        "title": "Рубашка из лиоцелла BOSS Orange",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 12200,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/e5d85510822bc09553f7e6faaa8f5012/height/808/i/7b/ea/bf/6f/a5ac9c98-6bc2-4db0-99b4-49209f1c955a.jpg"
+      },
+      {
+        "id": 1908,
+        "title": "Рубашка прямая из жатого хлопка в полоску",
+        "store": "befree",
+        "color": "розовый",
+        "price": 2799,
+        "score": 0.8409,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631418087/BF2631418087_95_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 7486,
+        "title": "Брюки широкие со средней посадкой",
+        "store": "befree",
+        "color": "розовый",
+        "price": 3999,
+        "score": 1.0,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308007/BF2632308007_90_1.jpg"
+      },
+      {
+        "id": 7254,
+        "title": "Брюки клеш домашние с кружевом",
+        "store": "befree",
+        "color": "розовый",
+        "price": 1799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631808005/BF2631808005_90_1.jpg"
+      },
+      {
+        "id": 8430,
+        "title": "Брюки-баллоны со средней посадкой на завязках",
+        "store": "befree",
+        "color": "розовый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2632308002/BF2632308002_90_1.jpg"
+      },
+      {
+        "id": 55059,
+        "title": "Хлопковые брюки Moschino",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 4795,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/655c527cd4400c8be6f1b090cfcf6e05/height/808/i/70/10/9a/7a/8b43b414-24a8-41af-bd56-bb69fa392e21.jpg"
+      },
+      {
+        "id": 56432,
+        "title": "Брюки Leonard Paris",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 5365,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/ad521531ebd2e02427acc2750ddfcf84/height/808/i/44/07/aa/40/4407aa40-6d87-3f53-ba70-26da57848462.jpg"
+      },
+      {
+        "id": 56441,
+        "title": "Хлопковые брюки Pietro Brunelli",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 4475,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/f72f68e6abbc593b3dba756e62d40b52/height/808/i/6a/ef/a8/1d/6aefa81d-f81b-3aee-9757-3973ac686eb2.jpg"
+      },
+      {
+        "id": 58111,
+        "title": "Брюки Plan C",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 6995,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/3893e2c2b01f7995539fb7fd4d13094d/height/808/i/b1/31/5e/7f/838c7def-8f6a-44b1-b03f-ee4fdebefa8f.jpg"
+      },
+      {
+        "id": 58159,
+        "title": "Хлопковые брюки Roberto Cavalli",
+        "store": "tsum",
+        "color": "розовый",
+        "price": 6370,
+        "score": 0.9091,
+        "photo_url": "https://st-cdn.tsum.com/sig/e1d822e43745bb0abcbc8df35a16ecd7/height/808/i/6b/c7/86/d9/33afff54-be7a-408c-a620-278f542765fc.jpg"
+      }
+    ],
+    [
+      {
+        "id": 87339,
+        "title": "Женские кроссовки Shox R4",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/829/1kdn0ph71sdpvb4dxllxk7u8xuhwwj12.jpg"
+      },
+      {
+        "id": 87450,
+        "title": "Кроссовки Velophasis Technisch",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 11899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/b74/nptcgdwftgvcoimzj7csae4pv0dgiiei.jpg"
+      },
+      {
+        "id": 87512,
+        "title": "Женские кроссовки PWR Hybrid Training",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 7699,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/996/82zgkob37ioopsj6cyqsxoj0gt0bazbg.jpg"
+      },
+      {
+        "id": 87651,
+        "title": "Подростковые кроссовки 530",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 13299,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/resize_cache/iblock/371/1000_1000_0/24iaipw2yww2w1cfst82na9pepu5nqsw.jpg"
+      },
+      {
+        "id": 87701,
+        "title": "Женские кроссовки Air Zoom Pegasus 41",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 15999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/0e1/xe3i1v8p3s9i603bjsn1bblc9vmx99nx.jpg"
+      },
+      {
+        "id": 87707,
+        "title": "Подростковые кроссовки Air Force 1",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 14899,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/527/4zd0x20byhmb3rukdfgcr0jftdz68wps.jpg"
+      },
+      {
+        "id": 87736,
+        "title": "Женские кроссовки PUMA CA Flyz",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 6999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/715/aon4e1ewoyestvns3llqbx40untua3mq.jpg"
+      },
+      {
+        "id": 87964,
+        "title": "Женские кроссовки Cali Dream",
+        "store": "street-beat",
+        "color": "белый",
+        "price": 5999,
+        "score": 0.9091,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/546/0q64eb1fu7q9tpvyba3jjczd6jouecyl.jpg"
+      }
+    ],
+    [
+      {
+        "id": 7504,
+        "title": "Очки имиджевые в круглой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 799,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2635360006/BF2635360006_50_1.jpg"
+      },
+      {
+        "id": 82373,
+        "title": "Очки солнцезащитные в широкой оправе",
+        "store": "befree",
+        "color": "черный",
+        "price": 599,
+        "score": 0.75,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2525360040/BF2525360040_50_1.jpg"
+      },
+      {
+        "id": 56,
+        "title": "Шапка женская",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11155_200_20.jpg"
+      },
+      {
+        "id": 66,
+        "title": "Снуд",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF91406_200_20.jpg"
+      },
+      {
+        "id": 70,
+        "title": "Шапка из хлопка",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 2499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF111146_200_20.jpg"
+      },
+      {
+        "id": 76,
+        "title": "Варежки из ангоры и шерсти",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 3499,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FWF/200/FWF11150_200_20.jpg"
+      },
+      {
+        "id": 129,
+        "title": "Лонгслив-термобелье с хлопком",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1990,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAE/200/FAE110197_200_20.jpg"
+      },
+      {
+        "id": 159,
+        "title": "Трикотажные перчатки",
+        "store": "finnflare",
+        "color": "черный",
+        "price": 1999,
+        "score": 0.6667,
+        "photo_url": "https://cdn.finnflare.com/upload/full_size/FAF/200/FAF11307_200_30.jpg"
+      }
+    ]
+  ]
+}

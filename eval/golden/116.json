@@ -1,0 +1,287 @@
+{
+  "gender": "women",
+  "note": "",
+  "vibe": "Вечерний городской шик",
+  "items": [
+    {
+      "slot": "top",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "bottom",
+      "exact": [],
+      "acceptable": []
+    },
+    {
+      "slot": "shoes",
+      "exact": [],
+      "acceptable": []
+    }
+  ],
+  "look": [
+    {
+      "slot": "top",
+      "category": "top",
+      "name": "топ с открытыми плечами",
+      "color": "коричневый",
+      "search_query": "топ с открытыми плечами коричневый",
+      "type": "топ",
+      "silhouette": "приталенный",
+      "length": null,
+      "sleeve": "без рукавов",
+      "fit": null,
+      "pattern": "монотонный"
+    },
+    {
+      "slot": "bottom",
+      "category": "bottom",
+      "name": "юбка миди с пайетками",
+      "color": "серебряный",
+      "search_query": "юбка миди с пайетками серебристый",
+      "type": "юбка",
+      "silhouette": "трапеция",
+      "length": "мини",
+      "sleeve": null,
+      "fit": null,
+      "pattern": "пайетки"
+    },
+    {
+      "slot": "shoes",
+      "category": "shoes",
+      "name": "босоножки",
+      "color": "бежевый",
+      "search_query": "босоножки бежевые",
+      "type": "босоножки",
+      "silhouette": null,
+      "length": null,
+      "sleeve": null,
+      "fit": null,
+      "pattern": "монотонный"
+    }
+  ],
+  "suggestions_by_item": [
+    [
+      {
+        "id": 1632,
+        "title": "Майка-топ в рубчик на пуговицах",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121008/BF2622121008_20_1.jpg"
+      },
+      {
+        "id": 1916,
+        "title": "Топ приталенный на тонких бретелях",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 899,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121028/BF2631121028_27_1.jpg"
+      },
+      {
+        "id": 3046,
+        "title": "Топ-халтер облегающий на завязках",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 599,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2622121011/BF2622121011_66_1.jpg"
+      },
+      {
+        "id": 4392,
+        "title": "Майка-топ в рубчик с вискозой на пуговицах",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2621121022/BF2621121022_20_1.jpg"
+      },
+      {
+        "id": 4807,
+        "title": "Бюстгальтер-топ на тонких бретелях с сеточкой",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 1999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2634830020/BF2634830020_22_1.jpg"
+      },
+      {
+        "id": 4831,
+        "title": "Топ облегающий на тонких бретелях",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121023/BF2631121023_22_1.jpg"
+      },
+      {
+        "id": 5078,
+        "title": "Топ вязаный облегающий в рубчик",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 999,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631521001/BF2631521001_22_1.jpg"
+      },
+      {
+        "id": 5219,
+        "title": "Топ облегающий на тонких бретелях",
+        "store": "befree",
+        "color": "коричневый",
+        "price": 699,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631121027/BF2631121027_22_1.jpg"
+      }
+    ],
+    [
+      {
+        "id": 3280,
+        "title": "Юбка-шорты мини костюмная",
+        "store": "befree",
+        "color": "серый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312013/BF2631312013_38_1.jpg"
+      },
+      {
+        "id": 4824,
+        "title": "Юбка-шорты мини костюмная в складку",
+        "store": "befree",
+        "color": "серый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312028/BF2631312028_38_1.jpg"
+      },
+      {
+        "id": 7473,
+        "title": "Юбка-шорты мини с меховой отделкой",
+        "store": "befree",
+        "color": "серый",
+        "price": 2799,
+        "score": 0.9091,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2631312023/BF2631312023_32_1.jpg"
+      },
+      {
+        "id": 9204,
+        "title": "Юбка INCANTO ID1250",
+        "store": "incantoeu",
+        "color": "серый",
+        "price": 5699,
+        "score": 0.9091,
+        "photo_url": "https://incanto.eu/upload/iblock/679/mghreqlzpwcv6gp9v0s4du2f6zdke4ov.jpg"
+      },
+      {
+        "id": 55401,
+        "title": "Шерстяная юбка Plan C",
+        "store": "tsum",
+        "color": "серый",
+        "price": 13400,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/91b8221f74effeb08b6fb7019dc4e962/height/808/i/2a/7d/b5/4a/8df714b7-e396-4715-849e-d4d0cc0b1e36.jpg"
+      },
+      {
+        "id": 55414,
+        "title": "Юбка Alanui",
+        "store": "tsum",
+        "color": "серый",
+        "price": 14350,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/4e170eebeb655be5dd5c7db75e2f9a63/height/808/i/79/cc/ac/53/32dd267f-949b-4c1d-ab86-70c70981ad62.jpg"
+      },
+      {
+        "id": 55463,
+        "title": "Юбка Alberta Ferretti",
+        "store": "tsum",
+        "color": "серый",
+        "price": 12450,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/1b2a02dcd656cc264b129d9889e217f0/height/808/i/d8/93/c1/96/d893c196-6bf2-37a5-983d-bf2aef38fe30.jpg"
+      },
+      {
+        "id": 55537,
+        "title": "Шерстяная юбка Olympia Le-Tan",
+        "store": "tsum",
+        "color": "серый",
+        "price": 11500,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/2c986a74a29e05953e67cbf9df287b6d/height/808/i/4f/a5/c5/62/08a61608-c6df-41f5-b0b3-e0f6c473d700.jpg"
+      }
+    ],
+    [
+      {
+        "id": 55687,
+        "title": "Кожаные босоножки SW Signature 35 Stuart Weitzman",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 29950,
+        "score": 0.8636,
+        "photo_url": "https://st-cdn.tsum.com/sig/42892fc7fff0705388224c32ec9122a8/height/808/i/45/4d/7f/8d/b7ce299a-ec93-4f73-85e8-edbd6a0dc517.jpg"
+      },
+      {
+        "id": 1530,
+        "title": "Босоножки с ремешками на квадратном каблуке",
+        "store": "befree",
+        "color": "бежевый",
+        "price": 999,
+        "score": 0.8182,
+        "photo_url": "https://imgcdn.befree.ru/rest/V1/images/400/product/images/BF2626688017/BF2626688017_68_2.jpg"
+      },
+      {
+        "id": 55451,
+        "title": "Кожаные босоножки Lily 100 Gedebe",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 49500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/699e825c888111cbc9a55a0a7981f4df/height/808/i/60/f4/64/04/46cecffb-a5f3-4446-992a-a72c335eb40c.jpg"
+      },
+      {
+        "id": 57094,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 12350,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/3a55d23f85225ee7b46d24e3b0502874/height/808/i/ed/bf/32/65/2c740ed0-2266-4c5d-93eb-b6976d3d6e2f.jpg"
+      },
+      {
+        "id": 57137,
+        "title": "Кожаные сандалии Montelpare Tradition",
+        "store": "tsum",
+        "color": "бежевый",
+        "price": 11500,
+        "score": 0.8182,
+        "photo_url": "https://st-cdn.tsum.com/sig/efacc2704416cb044508768565318f91/height/808/i/3b/71/b0/bf/d351f14d-2497-402c-9dff-76789890dabb.jpg"
+      },
+      {
+        "id": 133429,
+        "title": "Женские сандалии Nike Calm Mule",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 8399,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/7b3/jox0o31u86ik461yizlv17i4w4s345rw.JPG"
+      },
+      {
+        "id": 133437,
+        "title": "Женские сандалии Explore Camp Sandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 10499,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/c09/3h4wzx1u4asod1m66pu31cbmof9uuo0x.JPG"
+      },
+      {
+        "id": 133441,
+        "title": "Женские сандалии Explore Camp Shandal",
+        "store": "street-beat",
+        "color": "бежевый",
+        "price": 11999,
+        "score": 0.8182,
+        "photo_url": "https://static.street-beat.ru/upload/iblock/22a/po5xwha6xu9kwjr4t72azt0zvypc36dd.JPG"
+      }
+    ]
+  ]
+}
